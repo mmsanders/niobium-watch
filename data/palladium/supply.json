@@ -1,1 +1,135 @@
-PLACEHOLDER_LOAD_FROM_DISK
+{
+  "commodity": "palladium",
+  "as_of_utc": "2026-09-12T21:31:05.083214+00:00",
+  "dashboard_as_of": "2026-09-12",
+  "unit": "kilograms (palladium content)",
+  "unit_label": "kg",
+  "y_label": "kg Pd",
+  "value_key": "kg",
+  "world_total_key": "world_kg",
+  "chart_kind": "country_bars",
+  "pulse_title": "Supply pulse — USGS world mine production (kg Pd, annual)",
+  "concentration": {
+    "label": "Russia + South Africa",
+    "countries": ["Russia", "South Africa"],
+    "watch_note": "two-country mine choke"
+  },
+  "product": {
+    "hs": "7110.21",
+    "hts": "7110.21.00.00",
+    "description": "Palladium, unwrought or in powder form (also 7110.29 semi-manufactured; 7112 scrap/autocat)"
+  },
+  "coverage_note": "Annual country mine production from USGS Mineral Commodity Summaries platinum-group metals chapter. No free official monthly world palladium mine series. Recycling (autocatalysts) is material but not in the mine table — see recycling note.",
+  "sources": [
+    {
+      "name": "USGS MCS 2026 platinum-group metals",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-platinum-group.pdf",
+      "covers": "2024 and 2025e world mine production; US salient; import sources 2021–24; recycling note"
+    },
+    {
+      "name": "USGS MCS 2025 platinum-group metals",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-platinum-group.pdf",
+      "covers": "2023 finalized + 2024e (later revised in MCS 2026)"
+    }
+  ],
+  "world_by_year": [
+    {
+      "year": 2023,
+      "world_kg": 208000,
+      "estimated": false,
+      "source": "USGS MCS 2025",
+      "note": "MCS 2025 finalized 2023. MCS 2026 revised later years upward for Russia/SA.",
+      "countries": [
+        {"country": "Russia", "kg": 87000, "share_pct": 41.8},
+        {"country": "South Africa", "kg": 74900, "share_pct": 36.0},
+        {"country": "Canada", "kg": 16100, "share_pct": 7.7},
+        {"country": "Zimbabwe", "kg": 15900, "share_pct": 7.6},
+        {"country": "United States", "kg": 10300, "share_pct": 5.0},
+        {"country": "Other countries", "kg": 4200, "share_pct": 2.0}
+      ]
+    },
+    {
+      "year": 2024,
+      "world_kg": 217000,
+      "estimated": false,
+      "source": "USGS MCS 2026",
+      "note": "MCS 2026 significantly revised 2024 Russia (89,000) and South Africa (82,600) vs MCS 2025 2024e.",
+      "countries": [
+        {"country": "Russia", "kg": 89000, "share_pct": 41.0},
+        {"country": "South Africa", "kg": 82600, "share_pct": 38.1},
+        {"country": "Canada", "kg": 17000, "share_pct": 7.8},
+        {"country": "Zimbabwe", "kg": 15200, "share_pct": 7.0},
+        {"country": "United States", "kg": 10200, "share_pct": 4.7},
+        {"country": "Other countries", "kg": 2870, "share_pct": 1.3}
+      ]
+    },
+    {
+      "year": 2025,
+      "world_kg": 190000,
+      "estimated": true,
+      "source": "USGS MCS 2026 (2025e)",
+      "note": "Published Feb 2026. Russia + SA ~81% of world mine output. US down sharply on Stillwater restructuring.",
+      "countries": [
+        {"country": "Russia", "kg": 84000, "share_pct": 44.2},
+        {"country": "South Africa", "kg": 70000, "share_pct": 36.8},
+        {"country": "Canada", "kg": 16000, "share_pct": 8.4},
+        {"country": "Zimbabwe", "kg": 15000, "share_pct": 7.9},
+        {"country": "United States", "kg": 6200, "share_pct": 3.3},
+        {"country": "Other countries", "kg": 2900, "share_pct": 1.5}
+      ]
+    }
+  ],
+  "us_salient": {
+    "unit": "kilograms",
+    "source": "USGS MCS 2026",
+    "rows": [
+      {"year": 2021, "mine_production": 13700, "imports": 72600, "exports": 43900, "apparent_consumption": 81400},
+      {"year": 2022, "mine_production": 10100, "imports": 65200, "exports": 42200, "apparent_consumption": 74100},
+      {"year": 2023, "mine_production": 10300, "imports": 66900, "exports": 33600, "apparent_consumption": 88500},
+      {"year": 2024, "mine_production": 10200, "imports": 68300, "exports": 39900, "apparent_consumption": 83600},
+      {"year": 2025, "mine_production": 6200, "imports": 92000, "exports": 18000, "apparent_consumption": 130000, "estimated": true}
+    ],
+    "import_sources_2021_24": [
+      {"country": "South Africa", "share_pct": 37},
+      {"country": "Russia", "share_pct": 36},
+      {"country": "Belgium", "share_pct": 6},
+      {"country": "Canada", "share_pct": 6},
+      {"country": "Other", "share_pct": 15}
+    ],
+    "end_use_note": "Leading US use is automotive catalytic converters; also chemical/petroleum catalysts, electronics, dental/medical, glass, investment, jewelry (USGS MCS 2026).",
+    "recycling_2025_usgs": {
+      "global_pd_pt_from_scrap_kg": 140000,
+      "us_autocat_pd_kg": 50000,
+      "us_autocat_pt_kg": 8600,
+      "note": "USGS: ~140,000 kg of palladium and platinum recovered globally from new and old scrap in 2025, including ~50,000 kg Pd and 8,600 kg Pt from US autocatalysts."
+    }
+  },
+  "destinations": {
+    "us_imports_2021_24": {
+      "period": "2021–24 (USGS MCS 2026 import sources)",
+      "note": "Share of US palladium imports, not of world mine production. Post-July 2025 AD/CVD petition froze new Russian imports into the US (JM PGM Market Report 2026).",
+      "countries": [
+        {"country": "South Africa", "share_kg_pct": 37, "tonnes": null, "fob_usd": null},
+        {"country": "Russia", "share_kg_pct": 36, "tonnes": null, "fob_usd": null},
+        {"country": "Belgium", "share_kg_pct": 6, "tonnes": null, "fob_usd": null},
+        {"country": "Canada", "share_kg_pct": 6, "tonnes": null, "fob_usd": null},
+        {"country": "Other", "share_kg_pct": 15, "tonnes": null, "fob_usd": null}
+      ]
+    },
+    "end_markets": [
+      {"use": "Automotive catalytic converters (gasoline-dominant)", "share_note": "primary global demand sink"},
+      {"use": "Chemical / petroleum refining catalysts", "share_note": "industrial"},
+      {"use": "Electronics (MLCC, HDD, circuits)", "share_note": "smaller but strategic"},
+      {"use": "Dental / medical / jewelry / investment", "share_note": "residual"}
+    ]
+  },
+  "gaps": [
+    "No official monthly world palladium mine production series (USGS MCS is annual, published each January/February).",
+    "USGS does not publish company-level splits (Nornickel vs Amplats vs Impala vs Sibanye) in the world table.",
+    "Recycling tonnes are lumped Pd+Pt globally in MCS text; not a clean monthly secondary-supply series.",
+    "Russian export destination mix after US AD/CVD (2025) is trade-press / company reporting, not a free official monthly pipe.",
+    "SA company quarterly reports are 6E/4E basket ounces — convert carefully to Pd-only kg."
+  ],
+  "series_monthly": [],
+  "status": "ok"
+}
