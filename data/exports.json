@@ -1,1 +1,744 @@
-PLACEHOLDER
+{
+  "as_of_utc": "2026-09-12T02:16:04.773727+00:00",
+  "source": "api-comexstat.mdic.gov.br/general",
+  "series_monthly": [
+    {
+      "year": 2024,
+      "month": 1,
+      "period": "2024-01",
+      "kg": 5977170.0,
+      "tonnes": 5977.17,
+      "fob_usd": 154953676.0,
+      "unit_value_usd_per_kg": 25.92,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2024,
+      "month": 2,
+      "period": "2024-02",
+      "kg": 7453769.0,
+      "tonnes": 7453.769,
+      "fob_usd": 193868280.0,
+      "unit_value_usd_per_kg": 26.01,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2024,
+      "month": 3,
+      "period": "2024-03",
+      "kg": 6774174.0,
+      "tonnes": 6774.174,
+      "fob_usd": 170268507.0,
+      "unit_value_usd_per_kg": 25.13,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2024,
+      "month": 4,
+      "period": "2024-04",
+      "kg": 8841810.0,
+      "tonnes": 8841.81,
+      "fob_usd": 223852219.0,
+      "unit_value_usd_per_kg": 25.32,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2024,
+      "month": 5,
+      "period": "2024-05",
+      "kg": 9747214.0,
+      "tonnes": 9747.214,
+      "fob_usd": 249091357.0,
+      "unit_value_usd_per_kg": 25.56,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2024,
+      "month": 6,
+      "period": "2024-06",
+      "kg": 6167067.0,
+      "tonnes": 6167.067,
+      "fob_usd": 157832603.0,
+      "unit_value_usd_per_kg": 25.59,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2024,
+      "month": 7,
+      "period": "2024-07",
+      "kg": 7699565.0,
+      "tonnes": 7699.565,
+      "fob_usd": 201295276.0,
+      "unit_value_usd_per_kg": 26.14,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2024,
+      "month": 8,
+      "period": "2024-08",
+      "kg": 6774291.0,
+      "tonnes": 6774.291,
+      "fob_usd": 178050021.0,
+      "unit_value_usd_per_kg": 26.28,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2024,
+      "month": 9,
+      "period": "2024-09",
+      "kg": 6140948.0,
+      "tonnes": 6140.948,
+      "fob_usd": 160666522.0,
+      "unit_value_usd_per_kg": 26.16,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2024,
+      "month": 10,
+      "period": "2024-10",
+      "kg": 9439464.0,
+      "tonnes": 9439.464,
+      "fob_usd": 248481672.0,
+      "unit_value_usd_per_kg": 26.32,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2024,
+      "month": 11,
+      "period": "2024-11",
+      "kg": 7660325.0,
+      "tonnes": 7660.325,
+      "fob_usd": 196345278.0,
+      "unit_value_usd_per_kg": 25.63,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2024,
+      "month": 12,
+      "period": "2024-12",
+      "kg": 9312758.0,
+      "tonnes": 9312.758,
+      "fob_usd": 245206621.0,
+      "unit_value_usd_per_kg": 26.33,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2025,
+      "month": 1,
+      "period": "2025-01",
+      "kg": 5120024.0,
+      "tonnes": 5120.024,
+      "fob_usd": 129797495.0,
+      "unit_value_usd_per_kg": 25.35,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2025,
+      "month": 2,
+      "period": "2025-02",
+      "kg": 5730364.0,
+      "tonnes": 5730.364,
+      "fob_usd": 153502139.0,
+      "unit_value_usd_per_kg": 26.79,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2025,
+      "month": 3,
+      "period": "2025-03",
+      "kg": 9233460.0,
+      "tonnes": 9233.46,
+      "fob_usd": 248844399.0,
+      "unit_value_usd_per_kg": 26.95,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2025,
+      "month": 4,
+      "period": "2025-04",
+      "kg": 7488324.0,
+      "tonnes": 7488.324,
+      "fob_usd": 200775437.0,
+      "unit_value_usd_per_kg": 26.81,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2025,
+      "month": 5,
+      "period": "2025-05",
+      "kg": 10515212.0,
+      "tonnes": 10515.212,
+      "fob_usd": 283647165.0,
+      "unit_value_usd_per_kg": 26.97,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2025,
+      "month": 6,
+      "period": "2025-06",
+      "kg": 8074488.0,
+      "tonnes": 8074.488,
+      "fob_usd": 217778054.0,
+      "unit_value_usd_per_kg": 26.97,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2025,
+      "month": 7,
+      "period": "2025-07",
+      "kg": 9338905.0,
+      "tonnes": 9338.905,
+      "fob_usd": 247969242.0,
+      "unit_value_usd_per_kg": 26.55,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2025,
+      "month": 8,
+      "period": "2025-08",
+      "kg": 7693510.0,
+      "tonnes": 7693.51,
+      "fob_usd": 209552865.0,
+      "unit_value_usd_per_kg": 27.24,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2025,
+      "month": 9,
+      "period": "2025-09",
+      "kg": 8421229.0,
+      "tonnes": 8421.229,
+      "fob_usd": 233725304.0,
+      "unit_value_usd_per_kg": 27.75,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2025,
+      "month": 10,
+      "period": "2025-10",
+      "kg": 8531811.0,
+      "tonnes": 8531.811,
+      "fob_usd": 225361089.0,
+      "unit_value_usd_per_kg": 26.41,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2025,
+      "month": 11,
+      "period": "2025-11",
+      "kg": 9707526.0,
+      "tonnes": 9707.526,
+      "fob_usd": 267663254.0,
+      "unit_value_usd_per_kg": 27.57,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2025,
+      "month": 12,
+      "period": "2025-12",
+      "kg": 8772695.0,
+      "tonnes": 8772.695,
+      "fob_usd": 239767489.0,
+      "unit_value_usd_per_kg": 27.33,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2026,
+      "month": 1,
+      "period": "2026-01",
+      "kg": 4516201.0,
+      "tonnes": 4516.201,
+      "fob_usd": 123848293.0,
+      "unit_value_usd_per_kg": 27.42,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2026,
+      "month": 2,
+      "period": "2026-02",
+      "kg": 9553322.0,
+      "tonnes": 9553.322,
+      "fob_usd": 266632745.0,
+      "unit_value_usd_per_kg": 27.91,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2026,
+      "month": 3,
+      "period": "2026-03",
+      "kg": 7891172.0,
+      "tonnes": 7891.172,
+      "fob_usd": 217923737.0,
+      "unit_value_usd_per_kg": 27.62,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2026,
+      "month": 4,
+      "period": "2026-04",
+      "kg": 7623804.0,
+      "tonnes": 7623.804,
+      "fob_usd": 205718758.0,
+      "unit_value_usd_per_kg": 26.98,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "period": "2026-05",
+      "kg": 10387391.0,
+      "tonnes": 10387.391,
+      "fob_usd": 289927547.0,
+      "unit_value_usd_per_kg": 27.91,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "period": "2026-06",
+      "kg": 10435134.0,
+      "tonnes": 10435.134,
+      "fob_usd": 303445843.0,
+      "unit_value_usd_per_kg": 29.08,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "period": "2026-07",
+      "kg": 9621947.0,
+      "tonnes": 9621.947,
+      "fob_usd": 277542238.0,
+      "unit_value_usd_per_kg": 28.84,
+      "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+      "ncm": "72029300",
+      "queried_utc": "2026-09-12T02:15:30Z"
+    }
+  ],
+  "destinations": {
+    "2025_full": {
+      "period": "2025-01..2025-12",
+      "total_kg": 98627548.0,
+      "total_tonnes": 98627.548,
+      "total_fob_usd": 2658383932.0,
+      "countries": [
+        {
+          "country": "China",
+          "kg": 49036453.0,
+          "tonnes": 49036.453,
+          "fob_usd": 1322857573.0,
+          "share_kg_pct": 49.72
+        },
+        {
+          "country": "Netherlands",
+          "kg": 16652812.0,
+          "tonnes": 16652.812,
+          "fob_usd": 460902178.0,
+          "share_kg_pct": 16.88
+        },
+        {
+          "country": "United States",
+          "kg": 7909834.0,
+          "tonnes": 7909.834,
+          "fob_usd": 214451440.0,
+          "share_kg_pct": 8.02
+        },
+        {
+          "country": "Singapore",
+          "kg": 7608800.0,
+          "tonnes": 7608.8,
+          "fob_usd": 193533172.0,
+          "share_kg_pct": 7.71
+        },
+        {
+          "country": "South Korea",
+          "kg": 7224000.0,
+          "tonnes": 7224.0,
+          "fob_usd": 176102710.0,
+          "share_kg_pct": 7.32
+        },
+        {
+          "country": "Japan",
+          "kg": 5026000.0,
+          "tonnes": 5026.0,
+          "fob_usd": 155233105.0,
+          "share_kg_pct": 5.1
+        },
+        {
+          "country": "India",
+          "kg": 1281000.0,
+          "tonnes": 1281.0,
+          "fob_usd": 30153852.0,
+          "share_kg_pct": 1.3
+        },
+        {
+          "country": "Canada",
+          "kg": 765163.0,
+          "tonnes": 765.163,
+          "fob_usd": 19615696.0,
+          "share_kg_pct": 0.78
+        },
+        {
+          "country": "Saudi Arabia",
+          "kg": 700000.0,
+          "tonnes": 700.0,
+          "fob_usd": 19193622.0,
+          "share_kg_pct": 0.71
+        },
+        {
+          "country": "Turkey",
+          "kg": 495000.0,
+          "tonnes": 495.0,
+          "fob_usd": 13581036.0,
+          "share_kg_pct": 0.5
+        },
+        {
+          "country": "Mexico",
+          "kg": 480608.0,
+          "tonnes": 480.608,
+          "fob_usd": 12373198.0,
+          "share_kg_pct": 0.49
+        },
+        {
+          "country": "Hong Kong",
+          "kg": 415000.0,
+          "tonnes": 415.0,
+          "fob_usd": 11701381.0,
+          "share_kg_pct": 0.42
+        },
+        {
+          "country": "South Africa",
+          "kg": 309000.0,
+          "tonnes": 309.0,
+          "fob_usd": 8348025.0,
+          "share_kg_pct": 0.31
+        },
+        {
+          "country": "Germany",
+          "kg": 200000.0,
+          "tonnes": 200.0,
+          "fob_usd": 5353289.0,
+          "share_kg_pct": 0.2
+        },
+        {
+          "country": "Switzerland",
+          "kg": 177000.0,
+          "tonnes": 177.0,
+          "fob_usd": 4859927.0,
+          "share_kg_pct": 0.18
+        },
+        {
+          "country": "Algeria",
+          "kg": 150000.0,
+          "tonnes": 150.0,
+          "fob_usd": 3718712.0,
+          "share_kg_pct": 0.15
+        },
+        {
+          "country": "Argentina",
+          "kg": 104728.0,
+          "tonnes": 104.728,
+          "fob_usd": 3333135.0,
+          "share_kg_pct": 0.11
+        },
+        {
+          "country": "Bahrein",
+          "kg": 40000.0,
+          "tonnes": 40.0,
+          "fob_usd": 1721290.0,
+          "share_kg_pct": 0.04
+        },
+        {
+          "country": "Taiwan",
+          "kg": 40000.0,
+          "tonnes": 40.0,
+          "fob_usd": 936427.0,
+          "share_kg_pct": 0.04
+        },
+        {
+          "country": "Chile",
+          "kg": 10000.0,
+          "tonnes": 10.0,
+          "fob_usd": 345663.0,
+          "share_kg_pct": 0.01
+        },
+        {
+          "country": "Peru",
+          "kg": 2000.0,
+          "tonnes": 2.0,
+          "fob_usd": 63487.0,
+          "share_kg_pct": 0.0
+        },
+        {
+          "country": "Bolivia",
+          "kg": 150.0,
+          "tonnes": 0.15,
+          "fob_usd": 5014.0,
+          "share_kg_pct": 0.0
+        }
+      ]
+    },
+    "2026_ytd": {
+      "period": "2026-01..2026-07",
+      "total_kg": 60028971.0,
+      "total_tonnes": 60028.971,
+      "total_fob_usd": 1685039161.0,
+      "countries": [
+        {
+          "country": "China",
+          "kg": 29342980.0,
+          "tonnes": 29342.98,
+          "fob_usd": 815621764.0,
+          "share_kg_pct": 48.88
+        },
+        {
+          "country": "Netherlands",
+          "kg": 9395000.0,
+          "tonnes": 9395.0,
+          "fob_usd": 256738214.0,
+          "share_kg_pct": 15.65
+        },
+        {
+          "country": "United States",
+          "kg": 5678327.0,
+          "tonnes": 5678.327,
+          "fob_usd": 162460949.0,
+          "share_kg_pct": 9.46
+        },
+        {
+          "country": "South Korea",
+          "kg": 4530000.0,
+          "tonnes": 4530.0,
+          "fob_usd": 134336193.0,
+          "share_kg_pct": 7.55
+        },
+        {
+          "country": "Singapore",
+          "kg": 4179100.0,
+          "tonnes": 4179.1,
+          "fob_usd": 117622250.0,
+          "share_kg_pct": 6.96
+        },
+        {
+          "country": "Japan",
+          "kg": 3133000.0,
+          "tonnes": 3133.0,
+          "fob_usd": 95456659.0,
+          "share_kg_pct": 5.22
+        },
+        {
+          "country": "India",
+          "kg": 1149500.0,
+          "tonnes": 1149.5,
+          "fob_usd": 32220488.0,
+          "share_kg_pct": 1.91
+        },
+        {
+          "country": "Canada",
+          "kg": 566475.0,
+          "tonnes": 566.475,
+          "fob_usd": 13889054.0,
+          "share_kg_pct": 0.94
+        },
+        {
+          "country": "Italy",
+          "kg": 560000.0,
+          "tonnes": 560.0,
+          "fob_usd": 15705857.0,
+          "share_kg_pct": 0.93
+        },
+        {
+          "country": "Mexico",
+          "kg": 358154.0,
+          "tonnes": 358.154,
+          "fob_usd": 8890743.0,
+          "share_kg_pct": 0.6
+        },
+        {
+          "country": "Turkey",
+          "kg": 350000.0,
+          "tonnes": 350.0,
+          "fob_usd": 9691916.0,
+          "share_kg_pct": 0.58
+        },
+        {
+          "country": "South Africa",
+          "kg": 312000.0,
+          "tonnes": 312.0,
+          "fob_usd": 8793369.0,
+          "share_kg_pct": 0.52
+        },
+        {
+          "country": "Germany",
+          "kg": 150000.0,
+          "tonnes": 150.0,
+          "fob_usd": 4066738.0,
+          "share_kg_pct": 0.25
+        },
+        {
+          "country": "Argentina",
+          "kg": 89435.0,
+          "tonnes": 89.435,
+          "fob_usd": 2864393.0,
+          "share_kg_pct": 0.15
+        },
+        {
+          "country": "Bahrein",
+          "kg": 60000.0,
+          "tonnes": 60.0,
+          "fob_usd": 1939944.0,
+          "share_kg_pct": 0.1
+        },
+        {
+          "country": "Algeria",
+          "kg": 50000.0,
+          "tonnes": 50.0,
+          "fob_usd": 1386234.0,
+          "share_kg_pct": 0.08
+        },
+        {
+          "country": "Taiwan",
+          "kg": 40000.0,
+          "tonnes": 40.0,
+          "fob_usd": 1085002.0,
+          "share_kg_pct": 0.07
+        },
+        {
+          "country": "Vietnam",
+          "kg": 40000.0,
+          "tonnes": 40.0,
+          "fob_usd": 936783.0,
+          "share_kg_pct": 0.07
+        },
+        {
+          "country": "Saudi Arabia",
+          "kg": 20000.0,
+          "tonnes": 20.0,
+          "fob_usd": 595348.0,
+          "share_kg_pct": 0.03
+        },
+        {
+          "country": "Switzerland",
+          "kg": 20000.0,
+          "tonnes": 20.0,
+          "fob_usd": 561334.0,
+          "share_kg_pct": 0.03
+        },
+        {
+          "country": "Chile",
+          "kg": 4000.0,
+          "tonnes": 4.0,
+          "fob_usd": 138159.0,
+          "share_kg_pct": 0.01
+        },
+        {
+          "country": "Peru",
+          "kg": 1000.0,
+          "tonnes": 1.0,
+          "fob_usd": 37770.0,
+          "share_kg_pct": 0.0
+        }
+      ]
+    }
+  },
+  "notes": [
+    "Baseline series_monthly + destinations seeded 2026-09-12 from Comex Stat NCM 72029300.",
+    "Comex Stat API responded; raw saved to exports_comexstat_raw.json",
+    "Monthly series may still need shaping — monthly AI brief parses if needed"
+  ],
+  "status": "fetched_raw",
+  "raw_available": true,
+  "errors": [],
+  "annual_summaries": [
+    {
+      "year": 2024,
+      "months": 12,
+      "kg": 91988555.0,
+      "tonnes": 91988.555,
+      "fob_usd": 2379912032.0,
+      "unit_value_usd_per_kg": 25.87
+    },
+    {
+      "year": 2025,
+      "months": 12,
+      "kg": 98627548.0,
+      "tonnes": 98627.548,
+      "fob_usd": 2658383932.0,
+      "unit_value_usd_per_kg": 26.95
+    },
+    {
+      "year": 2026,
+      "months": 7,
+      "kg": 60028971.0,
+      "tonnes": 60028.971,
+      "fob_usd": 1685039161.0,
+      "unit_value_usd_per_kg": 28.07
+    }
+  ],
+  "product": {
+    "hs": "7202.93",
+    "ncm": "72029300",
+    "description": "Ferro-niobium / ferroniobium"
+  },
+  "coverage_note": "Official monthly Brazil export stats; seed through July 2026. Cron may refresh raw; series_monthly preserved from baseline until reshaped."
+}
