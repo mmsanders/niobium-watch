@@ -1,0 +1,134 @@
+name: Refresh data and Pages
+
+on:
+  schedule:
+    # 08:00 and 18:00 America/Los_Angeles ≈ 15:00 and 01:00 UTC (PST/PDT varies; close enough)
+    - cron: "0 15 * * *"
+    - cron: "0 1 * * *"
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch headlines (Google News RSS)
+        run: |
+          python3 << 'PY'
+          import json, re, urllib.parse, urllib.request, xml.etree.ElementTree as ET
+          from datetime import datetime, timezone
+          from email.utils import parsedate_to_datetime
+          from pathlib import Path
+
+          QUERIES = [
+              "CBMM nióbio OR ferronióbio OR niobium",
+              "Araxá CBMM OR nióbio",
+              "CMOC Catalão nióbio OR niobium",
+              "Niobec niobium OR niobium Quebec",
+              "Brazil ferroniobium OR ferronióbio export",
+          ]
+          UA = "NiobiumWatchPages/1.0"
+
+          def fetch_rss(query):
+              url = "https://news.google.com/rss/search?q=" + urllib.parse.quote(query) + "&hl=en-US&gl=US&ceid=US:en"
+              req = urllib.request.Request(url, headers={"User-Agent": UA})
+              with urllib.request.urlopen(req, timeout=45) as resp:
+                  root = ET.fromstring(resp.read())
+              items = []
+              for item in root.findall("./channel/item")[:12]:
+                  title = (item.findtext("title") or "").strip()
+                  link = (item.findtext("link") or "").strip()
+                  pub = (item.findtext("pubDate") or "").strip()
+                  source_el = item.find("source")
+                  source = (source_el.text or "").strip() if source_el is not None else ""
+                  published_utc = None
+                  try:
+                      if pub:
+                          published_utc = parsedate_to_datetime(pub).astimezone(timezone.utc).isoformat()
+                  except Exception:
+                      published_utc = pub or None
+                  if title:
+                      items.append({"title": title, "url": link, "source": source, "published_utc": published_utc, "query": query})
+              return items
+
+          def risk_flag(title):
+              t = title.lower()
+              red = ["strike","greve","shutdown","parada","interdit","outage","explosion","fire","incêndio","sanction","export ban","proibição"]
+              yellow = ["delay","atraso","investigation","investig","fine","multa","lawsuit","protest","protesto","capacity","expans","cut","corte"]
+              if any(k in t for k in red): return "red"
+              if any(k in t for k in yellow): return "yellow"
+              return "green"
+
+          all_items, errors = [], []
+          for q in QUERIES:
+              try:
+                  all_items.extend(fetch_rss(q))
+              except Exception as e:
+                  errors.append(f"{q}: {e}")
+
+          seen, deduped = set(), []
+          for it in all_items:
+              key = re.sub(r"\W+", " ", it["title"].lower()).strip()
+              if key in seen: continue
+              seen.add(key)
+              it["flag"] = risk_flag(it["title"])
+              it["title_en"] = it["title"]
+              it["title_en_source"] = "passthrough"
+              deduped.append(it)
+          deduped.sort(key=lambda x: x.get("published_utc") or "", reverse=True)
+
+          Path("data").mkdir(exist_ok=True)
+          payload = {
+              "as_of_utc": datetime.now(timezone.utc).isoformat(),
+              "source": "google_news_rss",
+              "queries": QUERIES,
+              "item_count": len(deduped),
+              "items": deduped[:40],
+              "errors": errors,
+              "status": "ok" if deduped else "empty",
+          }
+          Path("data/headlines.json").write_text(json.dumps(payload, indent=2, ensure_ascii=False))
+
+          meta_path = Path("data/meta.json")
+          meta = json.loads(meta_path.read_text()) if meta_path.exists() else {}
+          meta["last_headline_fetch_utc"] = payload["as_of_utc"]
+          meta["last_cron_run_utc"] = payload["as_of_utc"]
+          meta["cron"] = "GitHub Actions twice daily (01:00 & 15:00 UTC)"
+          meta_path.write_text(json.dumps(meta, indent=2))
+          print("wrote", len(deduped), "headlines", "errors", errors)
+          PY
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/headlines.json data/meta.json
+          git diff --staged --quiet || git commit -m "chore: refresh niobium headlines"
+          git push
+
+  deploy:
+    needs: [refresh]
+    if: always() && (github.event_name == 'push' || needs.refresh.result == 'success' || needs.refresh.result == 'skipped')
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4
