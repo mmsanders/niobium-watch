@@ -1,0 +1,61 @@
+{
+  "as_of_utc": "2026-09-12T21:34:47.570582+00:00",
+  "fetched_utc": "2026-09-12T21:34:47.570582+00:00",
+  "source": "seeded_public_sources",
+  "commodity": "palladium",
+  "queries": [
+    "Norilsk Nickel palladium OR Nornickel palladium",
+    "Amplats OR Anglo American Platinum palladium",
+    "Impala Platinum PGM OR Impala palladium",
+    "Sibanye Stillwater palladium OR East Boulder",
+    "palladium supply OR palladium shortage",
+    "palladium sanctions OR Russia palladium antidumping",
+    "Zimplats palladium OR South Africa load shedding PGM"
+  ],
+  "item_count": 4,
+  "items": [
+    {
+      "title": "Johnson Matthey: US AD/CVD on Russian palladium halted US imports after July 2025 petition",
+      "url": "https://matthey.com/documents/161599/509428/pgm-market-report-26.pdf",
+      "source": "Johnson Matthey",
+      "published_utc": "2026-05-01T00:00:00+00:00",
+      "query": "seed",
+      "flag": "red",
+      "risk": "red"
+    },
+    {
+      "title": "USGS MCS 2026: world palladium mine production 190,000 kg (2025e); Russia 84,000, South Africa 70,000",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-platinum-group.pdf",
+      "source": "USGS",
+      "published_utc": "2026-02-06T00:00:00+00:00",
+      "query": "seed",
+      "flag": "yellow",
+      "risk": "yellow"
+    },
+    {
+      "title": "Norilsk Nickel sees 2026 global palladium surplus of 300,000 oz",
+      "url": "https://www.mining.com/web/norilsk-nickel-sees-2026-global-palladium-surplus-of-300000-oz/",
+      "source": "MINING.COM",
+      "published_utc": "2026-01-01T00:00:00+00:00",
+      "query": "seed",
+      "flag": "green",
+      "risk": "green"
+    },
+    {
+      "title": "Sibanye-Stillwater restructures Montana PGM operations; Stillwater West on care-and-maintenance",
+      "url": "https://www.mining.com/",
+      "source": "MINING.COM / company notices",
+      "published_utc": "2024-09-12T00:00:00+00:00",
+      "query": "seed",
+      "flag": "yellow",
+      "risk": "yellow"
+    }
+  ],
+  "errors": [
+    "palladium Norilsk: HTTP Error 503: Service Unavailable",
+    "Sibanye Stillwater: HTTP Error 503: Service Unavailable",
+    "Anglo American Platinum: HTTP Error 503: Service Unavailable"
+  ],
+  "status": "ok",
+  "note": "Google News RSS returned 503 during first fetch; file includes verified public-source seeds plus any live RSS hits."
+}
