@@ -1,1 +1,479 @@
-PLACEHOLDER
+{
+  "project": "niobium-watch",
+  "timezone": "America/Los_Angeles",
+  "dashboard_as_of": "2026-09-12",
+  "update_cadence": {
+    "headlines": "twice daily via cron (no AI)",
+    "exports": "twice daily attempt + monthly AI synthesis"
+  },
+  "created_utc": "2026-09-12T02:14:31.466375+00:00",
+  "last_headline_fetch_utc": "2026-09-12T02:16:04.706370+00:00",
+  "last_export_fetch_utc": "2026-09-12T02:16:04.773727+00:00",
+  "last_error": null,
+  "overall_status": "Watch",
+  "overall_rationale": "Export volumes and producer output are healthy/record, with CBMM spare capacity (~150 kt vs ~100 kt sales). Posture is Watch—not Normal—because of extreme Araxá concentration plus yellow logistics/contractor labor signals on the truck corridor and Catalão contractors; no confirmed mine/plant interdiction.",
+  "choke_sites": [
+    {
+      "id": "cbmm-araxa",
+      "name": "CBMM Araxá (MG)",
+      "share_approx": "70–80%+ of global Nb products (often cited ~90% of industrialized Nb products)",
+      "capacity_feNb_eq_tpy": 150000,
+      "sales_or_production_2025_t": 100000,
+      "metric": "FeNb-equivalent sales ~100 kt (2025); capacity 150 kt/y",
+      "watch": "Plant ops, truck Araxá→Contagem/rail→Santos, Codemig PPP, labor on logistics chain",
+      "sources": [
+        "Diário do Comércio 2026-03-27",
+        "CBMM sustainability materials (150 kt capacity)"
+      ]
+    },
+    {
+      "id": "cmoc-catalao",
+      "name": "CMOC Boa Vista / Catalão–Ouvidor (GO)",
+      "share_approx": "~9–10% global (second producer)",
+      "production_2025_nb_t": 10348,
+      "metric": "10,348 t Nb metal content in 2025 (record)",
+      "watch": "Boa Vista recovery rates, contractor labor (Manserv/Metabase), phosphate co-ops interactions",
+      "sources": [
+        "CMOC Group 2025 annual materials / en.cmoc.com BRA Nb-P page"
+      ]
+    },
+    {
+      "id": "niobec-quebec",
+      "name": "Niobec (Saint-Honoré, Québec) — Magris",
+      "share_approx": "~5% global (Canada USGS ~6 kt Nb content 2025e)",
+      "production_note": "Public exact 2025 FeNb tonnes not verified in this pack; USGS Canada mine ~6,000 t Nb content (2025e).",
+      "watch": "Canadian underground ops, Magris disclosures, US import share from Canada",
+      "sources": [
+        "USGS MCS 2026 niobium",
+        "Magris / miningdataonline (secondary)"
+      ]
+    }
+  ],
+  "producers": {
+    "usgs_mcs_2026": {
+      "brazil_mine_2025e_nb_t": 104000,
+      "canada_mine_2025e_nb_t": 6000,
+      "world_mine_2025e_nb_t": 112000,
+      "brazil_share_approx_pct": 93,
+      "source": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-niobium.pdf",
+      "published": "February 2026"
+    },
+    "cbmm": {
+      "capacity_feNb_eq_tpy": 150000,
+      "sales_2025_feNb_eq_t": 100000,
+      "global_demand_cited_2025_t": 133000,
+      "source": "Diário do Comércio / CBMM disclosures Mar 2026"
+    },
+    "cmoc_brazil": {
+      "production_2025_nb_t": 10348,
+      "production_2024_nb_t": 10024,
+      "h1_2025_nb_t": 5231,
+      "source": "CMOC Group filings / company site"
+    }
+  },
+  "logistics_baseline": {
+    "route": "Truck from Araxá → Contagem area → rail → ports (often Santos/Guarujá)",
+    "form": "Containerized pallets/big-bags — not bulk AIS vessel tracking",
+    "hs_ncm": "7202.93 / 7202.93.00"
+  },
+  "legend": {
+    "Normal": "Volumes stable/rising; no material disruption signals",
+    "Watch": "Healthy flow but elevated concentration or yellow labor/logistics/policy signals",
+    "Stress": "Confirmed production halt, port/rail blockade hitting FeNb, or sharp unexplained export collapse",
+    "green": "Supply-supportive or continuity news",
+    "yellow": "Monitor — labor, ESG, policy, or soft disruption risk",
+    "red": "Hard supply interruption or imminent choke"
+  },
+  "sources_footer": [
+    "Comex Stat API (MDIC) — NCM 72029300 exports",
+    "USGS Mineral Commodity Summaries 2026 — Niobium",
+    "CBMM / Diário do Comércio production & capacity",
+    "CMOC Group Brazil niobium disclosures",
+    "Repórter Brasil, Badiinho, Valor Econômico, IBRAM (news)"
+  ],
+  "last_cron_run_utc": "2026-09-12T02:16:05.278532+00:00",
+  "cron": "twice daily America/Los_Angeles 08:00 and 18:00",
+  "baseline_signals": [
+    {
+      "id": "rb-2026-04-03-mte-logistics",
+      "date": "2026-04-03",
+      "title": "MTE flags slave-like conditions in CBMM FeNb trucking (Araxá→Santos)",
+      "summary": "Inspection (Feb–May 2025) rescued 21 Expresso Nepomuceno drivers. CBMM says it no longer uses that carrier. Logistics ESG risk; no plant stoppage confirmed.",
+      "url": "https://reporterbrasil.org.br/2026/04/mte-escravidao-niobio-moreira-salles/",
+      "risk": "yellow",
+      "tags": [
+        "CBMM",
+        "logistics",
+        "labor"
+      ]
+    },
+    {
+      "id": "badiinho-2026-08-03-manserv",
+      "date": "2026-08-03",
+      "title": "Metabase assembly at CMOC Boa Vista considers strike state vs Manserv",
+      "summary": "Contractor health-plan dispute; 72h strike notice if approved. Not a confirmed production halt.",
+      "url": "https://www.badiinho.com.br/metabase-estado-de-greve-manserv-cmoc-catalao/",
+      "risk": "yellow",
+      "tags": [
+        "CMOC",
+        "Catalão",
+        "labor"
+      ]
+    },
+    {
+      "id": "dc-2026-03-27-cbmm-100kt",
+      "date": "2026-03-27",
+      "title": "CBMM record >100 kt FeNb-equivalent sales in 2025",
+      "summary": "Sales ~100 kt (+4.7% YoY); capacity 150 kt/y vs global demand ~133 kt.",
+      "url": "https://diariodocomercio.com.br/negocios/cbmm-bate-recorde-supera-100-mil-toneladas-vendas/",
+      "risk": "green",
+      "tags": [
+        "CBMM",
+        "production"
+      ]
+    },
+    {
+      "id": "valor-2025-10-30-codemig",
+      "date": "2025-10-30",
+      "title": "Codemig–CBMM renew Araxá partnership up to 45 years",
+      "summary": "PPP extended 30+15 years (potentially to 2070). Continuity for dominant supply node.",
+      "url": "https://valor.globo.com/empresas/noticia/2025/10/30/codemig-e-cbmm-renovam-contrato-para-explorao-de-nibio-em-minas-gerais-por-at-45-anos.ghtml",
+      "risk": "green",
+      "tags": [
+        "CBMM",
+        "Araxá",
+        "policy"
+      ]
+    },
+    {
+      "id": "cmoc-2025-10348",
+      "date": "2026-03-27",
+      "title": "CMOC Brazil record niobium 10,348 t in 2025",
+      "summary": "+3.23% vs 10,024 t in 2024; H1 2025 record 5,231 t.",
+      "url": "https://en.cmoc.com/html/Business/BRA-Nb-P/",
+      "risk": "green",
+      "tags": [
+        "CMOC",
+        "production"
+      ]
+    },
+    {
+      "id": "usgs-mcs-2026",
+      "date": "2026-02-01",
+      "title": "USGS MCS 2026: Brazil ~93% of world Nb mine output",
+      "summary": "Brazil ~104 kt Nb content (2025e); world ~112 kt. Extreme geographic concentration.",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-niobium.pdf",
+      "risk": "green",
+      "tags": [
+        "USGS",
+        "concentration"
+      ]
+    },
+    {
+      "id": "mais1-araxa-2025",
+      "date": "2026-01-15",
+      "title": "Araxá #2 MG municipal exporter 2025 (~US$2.53B) on FeNb",
+      "summary": "Ferroniobium (CBMM) drove Araxá to second place among Minas Gerais exporting cities.",
+      "url": "https://mais1online.com.br/araxa-se-consolida-como-a-segunda-maior-exportadora-de-minas-gerais-em-2025/",
+      "risk": "green",
+      "tags": [
+        "Araxá",
+        "exports"
+      ]
+    },
+    {
+      "id": "ibram-cmoc-1h25",
+      "date": "2025-09-01",
+      "title": "CMOC H1 2025 record niobium production 5,231 t",
+      "summary": "+3% vs H1 2024; sales 5,462 t.",
+      "url": "https://ibram.org.br/en/noticia/cmoc-celebra-o-primeiro-semestre-de-2025-com-crescimento-consistente-na-producao-e-vendas/",
+      "risk": "green",
+      "tags": [
+        "CMOC"
+      ]
+    }
+  ],
+  "data_schema": {
+    "exports": "series_monthly[{period,year,month,tonnes,kg,fob_usd}], destinations{YYYY_full|YYYY_ytd:{period,countries[]}}, annual_summaries optional",
+    "headlines": "cron RSS items use flag/published_utc; curated meta.baseline_signals use risk/date/summary",
+    "meta": "overall_status, choke_sites, producers, baseline_signals, legend"
+  },
+  "watch_kit": {
+    "sites": [
+      {
+        "priority": "P0",
+        "id": "cbmm-araxa",
+        "name": "CBMM Araxá MG (Córrego da Mata)",
+        "share_approx": "70–80%+ of global Nb products (often cited ~90% of industrialized Nb products)",
+        "capacity_feNb_eq_tpy": 150000,
+        "sales_or_production_2025_t": 100000,
+        "metric": "FeNb-equivalent sales ~100 kt (2025); capacity 150 kt/y",
+        "watch": [
+          "labor",
+          "power",
+          "water",
+          "fire/stoppage",
+          "env suits",
+          "battery-oxide ramp"
+        ],
+        "notes": "Dominant single-site choke. Spare capacity (~150 kt vs ~100 kt sales) means soft steel demand / logistics often explain soft months before 'mine empty'."
+      },
+      {
+        "priority": "P1",
+        "id": "cmoc-catalao",
+        "name": "CMOC Catalão / Ouvidor GO (Boa Vista)",
+        "share_approx": "~9–10% global (second producer)",
+        "production_2025_nb_t": 10348,
+        "metric": "10,348 t Nb metal content in 2025 (record)",
+        "watch": [
+          "production guidance",
+          "logistics corridor",
+          "contractor labor (Manserv/Metabase)"
+        ],
+        "notes": "Second Brazilian node; phosphate co-ops interactions can create local noise."
+      },
+      {
+        "priority": "P2",
+        "id": "niobec-quebec",
+        "name": "Niobec Saint-Honoré QC (Magris)",
+        "share_approx": "~5% global (Canada USGS ~6 kt Nb content 2025e)",
+        "metric": "Public exact 2025 FeNb tonnes not verified; USGS Canada mine ~6,000 t Nb content (2025e)",
+        "watch": [
+          "strikes",
+          "underground ops",
+          "CA export quirks",
+          "Magris disclosures"
+        ],
+        "notes": "Main non-Brazil swing producer for Western buyers."
+      },
+      {
+        "priority": "P3",
+        "id": "taboca-amazon",
+        "name": "Taboca Amazon by-product",
+        "share_approx": "small / by-product",
+        "metric": "By-product Nb — can add noise in monthly Brazil splits",
+        "watch": [
+          "noise in monthly export splits",
+          "Amazon logistics headlines"
+        ],
+        "notes": "Not a primary FeNb choke; watch mainly to avoid misreading monthly mix."
+      },
+      {
+        "priority": "Horizon",
+        "id": "st-george-araxa",
+        "name": "St. George Araxá REE+Nb",
+        "share_approx": "development / not current supply",
+        "metric": "Project timeline often cited toward 2028–29",
+        "watch": [
+          "local politics",
+          "feasibility / flotation testwork",
+          "permitting near CBMM district"
+        ],
+        "notes": "Horizon risk to local politics and narrative, not near-term tonnes."
+      }
+    ],
+    "logistics": {
+      "pipe": "truck Araxá → Contagem → rail → ports (often Santos/Guarujá)",
+      "form": "containerized pallets/big-bags — not bulk AIS vessel tracking",
+      "destinations": [
+        "China",
+        "Netherlands / Rotterdam",
+        "United States",
+        "Korea",
+        "Singapore",
+        "Japan"
+      ],
+      "distributors": [
+        "CITIC",
+        "Sojitz"
+      ],
+      "offices": "CBMM Europe / Asia / NA commercial offices",
+      "hs_ncm": "7202.93 / 7202.93.00"
+    },
+    "codes": {
+      "hs": "7202.93",
+      "ncm": "7202.93.00",
+      "ncm_digits": "72029300",
+      "specialty": "8112.99 (niobium metal / specialty forms — secondary)",
+      "product": "Ferro-niobium / ferroniobium (FeNb)"
+    },
+    "data_pipes": [
+      {
+        "name": "Comex Stat — Dados Gerais",
+        "how": "Query NCM 72029300, flow export; monthly kg + FOB USD",
+        "url": "https://comexstat.mdic.gov.br/",
+        "api": "https://api-comexstat.mdic.gov.br/general"
+      },
+      {
+        "name": "Comex Stat — Municípios",
+        "how": "Araxá + SH4 7202 (all ferro-alloys — not FeNb-only; use as corroboration)",
+        "url": "https://comexstat.mdic.gov.br/"
+      },
+      {
+        "name": "Canada exports",
+        "how": "Statistics Canada / customs extracts for Canadian FeNb / Nb shipments (Niobec corridor)",
+        "url": "https://www.statcan.gc.ca/"
+      },
+      {
+        "name": "USGS MCS",
+        "how": "Annual niobium mine production & country shares",
+        "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-niobium.pdf"
+      },
+      {
+        "name": "Company disclosures",
+        "how": "CBMM / CMOC / Niobec (Magris) production, capacity, guidance",
+        "url": null
+      },
+      {
+        "name": "Trade press",
+        "how": "SteelOrbis and peers for FeNb price / steel-demand color",
+        "url": "https://www.steelorbis.com/"
+      }
+    ],
+    "language_layer": {
+      "languages": [
+        "PT",
+        "FR",
+        "EN"
+      ],
+      "search_seeds": [
+        "CBMM nióbio OR ferronióbio OR niobium",
+        "Araxá CBMM OR nióbio",
+        "CMOC Catalão nióbio OR niobium",
+        "Niobec niobium OR niobium Quebec",
+        "Brazil ferroniobium OR ferronióbio export",
+        "greve CBMM OR greve Catalão nióbio",
+        "Santos ferroalloy OR Contagem ferrovia nióbio"
+      ],
+      "outlets": [
+        {
+          "name": "G1 Triângulo",
+          "type": "local PT",
+          "region": "MG / Triângulo Mineiro"
+        },
+        {
+          "name": "Diário do Comércio",
+          "type": "business PT",
+          "region": "MG"
+        },
+        {
+          "name": "Valor Econômico",
+          "type": "national business PT",
+          "region": "BR"
+        },
+        {
+          "name": "Estado de Minas",
+          "type": "regional PT",
+          "region": "MG"
+        },
+        {
+          "name": "IBRAM",
+          "type": "industry association",
+          "region": "BR"
+        },
+        {
+          "name": "Badiinho / local Catalão",
+          "type": "local labor PT",
+          "region": "GO"
+        },
+        {
+          "name": "Repórter Brasil",
+          "type": "investigative PT",
+          "region": "BR"
+        }
+      ]
+    },
+    "cadence": [
+      {
+        "freq": "Daily",
+        "covers": "Local PT/FR headlines (strikes, ANM, fire, rail/port incidents); quick scan of G1 Triângulo, Catalão labor, Santos congestion notes"
+      },
+      {
+        "freq": "Weekly",
+        "covers": "Roll-up of yellow flags; logistics corridor (Contagem–rail–Santos); CMOC/Niobec chatter; trade-press FeNb/steel color"
+      },
+      {
+        "freq": "Monthly",
+        "covers": "Comex Stat NCM 72029300 tonnes, MoM %, unit value; destination mix; Araxá municipal corroboration (SH4)"
+      },
+      {
+        "freq": "Quarterly",
+        "covers": "Producer disclosures (CBMM/CMOC/Niobec), USGS revisions, capacity/guidance vs demand"
+      },
+      {
+        "freq": "As needed",
+        "covers": "Confirmed stoppage, export-tax/restriction shock, multi-week port/rail blockade, simultaneous Brazil+Niobec stress"
+      }
+    ],
+    "automation_note": "Already automated: twice-daily RSS headline fetch (no AI scoring on ingest); monthly AI brief for export synthesis / status rationale. Dashboard reloads live JSON without HTML rebuild.",
+    "temperature": {
+      "normal": [
+        "~7–9 kt/mo Brazil FeNb",
+        "CBMM majority of flow",
+        "China / NL / US among top destinations",
+        "Quiet local news",
+        "CBMM capacity overhang means soft steel demand / logistics more likely than 'mine empty'"
+      ],
+      "yellow": [
+        "MoM tonnes drop >~20–25% without a steel-demand story",
+        "Unit value up + tonnes down",
+        "Short strike / ANM inspect / Contagem–rail / Santos ferroalloy congestion",
+        "CMOC or Niobec outage"
+      ],
+      "red": [
+        "Multi-week CBMM stoppage",
+        "Sustained Araxá export collapse with fine steel demand",
+        "Brazil + Niobec simultaneous disruption",
+        "Brazilian export restriction / tax shock"
+      ],
+      "false_alarms": [
+        "AIS Santos without FeNb ID (containers ≠ bulk ore AIS)",
+        "Single soft month after front-load",
+        "Battery-anode / Nb-oxide hype without plant impact"
+      ]
+    },
+    "legend_detailed": {
+      "Looks normal": "Stable ~7–9 kt/mo Brazil FeNb, CBMM majority, familiar destinations, quiet locals; capacity overhang favors demand/logistics explanations over mine failure.",
+      "Yellow flags": "Sharp MoM volume drop without steel story; rising unit value with falling tonnes; short labor/ANM/rail/port events; CMOC or Niobec outages.",
+      "Red flags": "Multi-week CBMM halt; sustained Araxá collapse despite healthy steel demand; Brazil+Niobec together; export restriction/tax shock."
+    },
+    "not_provided": [
+      "No minute-by-minute trading edge or FeNb price feed",
+      "No reliable FeNb-specific AIS vessel tracking (containerized)",
+      "No CBMM daily plant tonnes",
+      "No guaranteed real-time municipal FeNb split (city endpoint is SH4 7202)",
+      "News risk flags are monitoring judgments, not investment advice"
+    ]
+  },
+  "temperature": {
+    "normal": [
+      "~7–9 kt/mo Brazil FeNb",
+      "CBMM majority of flow",
+      "China / NL / US among top destinations",
+      "Quiet local news",
+      "CBMM capacity overhang means soft steel demand / logistics more likely than 'mine empty'"
+    ],
+    "yellow": [
+      "MoM tonnes drop >~20–25% without a steel-demand story",
+      "Unit value up + tonnes down",
+      "Short strike / ANM inspect / Contagem–rail / Santos ferroalloy congestion",
+      "CMOC or Niobec outage"
+    ],
+    "red": [
+      "Multi-week CBMM stoppage",
+      "Sustained Araxá export collapse with fine steel demand",
+      "Brazil + Niobec simultaneous disruption",
+      "Brazilian export restriction / tax shock"
+    ],
+    "false_alarms": [
+      "AIS Santos without FeNb ID (containers ≠ bulk ore AIS)",
+      "Single soft month after front-load",
+      "Battery-anode / Nb-oxide hype without plant impact"
+    ]
+  },
+  "legend_detailed": {
+    "Looks normal": "Stable ~7–9 kt/mo Brazil FeNb, CBMM majority, familiar destinations, quiet locals; capacity overhang favors demand/logistics explanations over mine failure.",
+    "Yellow flags": "Sharp MoM volume drop without steel story; rising unit value with falling tonnes; short labor/ANM/rail/port events; CMOC or Niobec outages.",
+    "Red flags": "Multi-week CBMM halt; sustained Araxá collapse despite healthy steel demand; Brazil+Niobec together; export restriction/tax shock."
+  }
+}
