@@ -1,1 +1,196 @@
-PLACEHOLDER_WILL_REPLACE
+{
+  "as_of_utc": "2026-09-12T02:16:04.706370+00:00",
+  "source": "google_news_rss",
+  "queries": [
+    "CBMM nióbio OR ferronióbio OR niobium",
+    "Araxá CBMM OR nióbio",
+    "CMOC Catalão nióbio OR niobium",
+    "Niobec niobium OR niobium Quebec",
+    "Brazil ferroniobium OR ferronióbio export"
+  ],
+  "item_count": 15,
+  "items": [
+    {
+      "title": "St George steps up Araxá testing - The Australian",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRFhJZnk2bEREbWJVR1EtUG8zRlZWMUVFSnAxWUFTVlg5b1F0dmdRQkdhcmY2X2s0ZTZ3ZHVTS2Q0SW5oYW8xeWo3RXZrbmR1YnFYMkIzU0ZmdGZ0ZEZPYWE2OFJYclNWQmFubWtzYndDQmtpS0U4ZFViX0JJTGhFRjB6TUNBZWpKN0hUWm5oRlZLZ0lybXo2bmY3U3FmemtoZmxGbDBpWEJBX09FdE8tYXduY1lHTTJRQndzUVJsbG95QjB3d2I2Uzd4cnNQSWVHV2JCQklCd1FZd1RIdGh0SkxCMXZ0d1puV2d1OUVvOVpVbkE1SDZ5SUg3Rk4xM1dlY3VtSDkyRnBxQnJV0gGSAkFVX3lxTE53dVJPYXdxT0dZMWJwalIwMnJRcHVPSm9nMUZ5R0IyZTIza3dndmNMYXZyUkxmVTNFcVYwZzB5TUt5ZHJqOEUxb3pVVG9UNXZHTFNKYmhXdWUtUEdIUy0zWFl1WGtDR01jellCc1JiWWpJZDdqSktRSDE0aFdDYk5pNWJWbEl0djMzREJsUEZmOHJ2WmtydmJjZENQenVsYW8zNV9jMVhWTTF6THVjV1dXRG9yT0p6MndZU0xWUVF3NnpGVUZVV0l6LUpDRHNleHpDRl9NSXRwQnZNVG1NN3FBck92M2RKVmQzRFIza2tfRDZSR0FOMklSZ0JpMG5seVdHS21UOGdZdG1hSFQ5bThybVE?oc=5",
+      "source": "The Australian",
+      "published_utc": "2026-09-02T21:18:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "St George steps up Araxá testing - The Australian",
+      "title_lang_guess": "non-en",
+      "title_en_source": "google_deep_translator",
+      "translated_utc": "2026-09-12T02:21:58.718879+00:00"
+    },
+    {
+      "title": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFp0OWk4LXFCYWNuMnVIZVN4LVFfbC1JZmdSRUVzUnZicDRVZ0FtTmh0UzBVQUh0a0w0cm55YWFuWk1VN04yNVlqTnlYbXFMc0w1Mno3VlYyUHRRanNJNjhOZzNJUGx1REZiM19xZE01YlRzTkRvRG4xcUlwRWtyYTczMXdWcDRTaWNB?oc=5",
+      "source": "Geopolitical Monitor",
+      "published_utc": "2026-07-10T07:00:00+00:00",
+      "query": "Brazil ferroniobium OR ferronióbio export",
+      "flag": "green",
+      "title_en": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
+      "title_lang_guess": "en-or-unknown",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "NIOB Adds to Critical Minerals Portfolio - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMFphX21OWWktRWZHaFhDZ0R1WmFJaTBqTTV6MUxPcUNhRm1lM3RUZ0hrUzVfWlFhbnFSWEtFODNCMWhmYV9OTlRtanlCVHFaMlJabFE4SUdPcjNwNk0wU2x3dnV3SXdWYTU3V29zUmcyUHZJUHJiSHhpRkxGVktjNzJMRHBQamY0WjhNbWhJQ216T3hkSWk0M2FlMnpvRjVuTmtZcHQ5SGF2UEdiVzF5TWxMQ3J3NkxMNjM5Q2dtRktjSGhm?oc=5",
+      "source": "theglobeandmail.com",
+      "published_utc": "2026-07-08T07:00:00+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "NIOB Adds to Critical Minerals Portfolio - theglobeandmail.com",
+      "title_lang_guess": "en-or-unknown",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQczJON05BR3h4aXBLT2pnWGVzMF95NXhEdVE4QlpGc0NRV2VWdHcxSnZjSTYxc1lyY2ZSNGNCQ0VmcHhxLWlPamx5QVRoeVp4anJacUduN1d5WnlnV05xVlYzakJmNW5wWHFKdzNzclc1TU9ienh4QWs2VVdOUG8ybXgwTlY2NjBkZE1fT2ZNdnBHblh6VnIxeTVmSUZKNzJ5Q0Q5TWRsT3JBUVhUcTVucVFlT3ZWa3RCeVZRS2pnN2Zkd1RTLVNsMlNfTlJHYVhn?oc=5",
+      "source": "Next Investors",
+      "published_utc": "2026-06-11T07:00:00+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "flag": "green",
+      "title_en": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
+      "title_lang_guess": "en-or-unknown",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "St George appoints Worley to advance Araxá feasibility work - Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZlhGZUJENnB6OERQc05nZ0NoQlVIRGZqYk5qZkV1eXBoT0wta2RQM1FIYk5zR3RkVWdaMENVUTQzYmFGT2FNTFZTdjFldmg5dF9Ta2NsVmY5RndzY0RtT3kxZ3UxN2VoUTBRbUlBWGVPaVNtTXpuYllIYk5Jd0ktbEQ0a1BTZG0tMjE5blRrZTZDWjhaaFJPMDFrc0M1NUVLQTA3UDRIbDlBTHoxTXcwQ25CdGtabE53OG5DTUlVVUlWYlE2ZG1MaUFB?oc=5",
+      "source": "Proactive financial news",
+      "published_utc": "2026-05-05T07:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "St George appoints Worley to advance Araxá feasibility work - Proactive financial news",
+      "title_lang_guess": "non-en",
+      "title_en_source": "google_deep_translator",
+      "translated_utc": "2026-09-12T02:21:59.054311+00:00"
+    },
+    {
+      "title": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hc3g0Tks2NVY5UTRKRkt4Y0JmMUpwR1EwUmFPVGJCUy1RYTZ3TjlxWWo2SFJzWWJPM3AyMGdwZ0FZZTE4Y0V1MXhwQjdLdy03TXZIRVZYd0V4WkY0ZE96QVpoTQ?oc=5",
+      "source": "Uchumi360",
+      "published_utc": "2026-03-27T07:00:00+00:00",
+      "query": "Brazil ferroniobium OR ferronióbio export",
+      "flag": "green",
+      "title_en": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
+      "title_lang_guess": "en-or-unknown",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Sh700bn niobium deal puts Tanzania in US supply chain - thecitizen.co.tz",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaFhuRzZTVDFoa3NfMnhDT0tzanNpS01GZjhDNWlVUVBHbHhGYTRrWnBqWkdZWlhXNktjamE5djJDRzJfYXlVRXgycDZOWFYxMXEtR0szMW8tZWVnWDNVUDFfdjFxLVFqTXRIVFlIbWNxeHA0WnBteVZ6cWxHanBmUEJWTW1uUU9ESkNwb0pyNHo0NVNXM1p5cl9HNE5ZbEhlcmhjNHpvY29oOHp4?oc=5",
+      "source": "thecitizen.co.tz",
+      "published_utc": "2026-03-25T07:00:00+00:00",
+      "query": "Brazil ferroniobium OR ferronióbio export",
+      "flag": "green",
+      "title_en": "Sh700bn niobium deal puts Tanzania in US supply chain - thecitizen.co.tz",
+      "title_lang_guess": "en-or-unknown",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Tanzania seals strategic minerals deal - dailynews.co.tz",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WUlhrQWpuZHdCc0pHaUZfMTVJc0RqWk5KRU94UmNPaHBZc0hTUkprMlNNVHFUSlIxMmVzdzR2SHlGZm16N01zR3pGN3kzdnRfdWJuWlV2OThvYnpEdHZEVVJhVzA2QmlUQTJlZW82azQ?oc=5",
+      "source": "dailynews.co.tz",
+      "published_utc": "2026-03-25T07:00:00+00:00",
+      "query": "Brazil ferroniobium OR ferronióbio export",
+      "flag": "green",
+      "title_en": "Tanzania seals strategic minerals deal - dailynews.co.tz",
+      "title_lang_guess": "en-or-unknown",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Niobium partnership in Brazil gains governance boost - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVdrZktMV2RjTVlyVUo5Rl81N3c5UWdTMnBIeHZTX240TVdkdFdFSXk0dVZlcFVVbEJOcWw4RU9aWVVhdzlINVl4a2Vpbm03czBwemsyVDNURVlGUGFkb0JkRzBfdFBJc1V3OGVJZE1VaHBXSHJ3ZmtjQW9NNkxYOXdXOUV0UW4yc1gtNTlGNEM?oc=5",
+      "source": "BNamericas",
+      "published_utc": "2026-03-04T08:00:00+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "flag": "green",
+      "title_en": "Niobium partnership in Brazil gains governance boost - BNamericas",
+      "title_lang_guess": "en-or-unknown",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "JFE Steel, Nippon Steel, Sojitz, JOGMEC, POSCO and NPS Form Japan-Korea PartnershipGroup to Invest in Brazilian Producer of Niobium, Critical Alloying Element for High-Grade Steel Products : 2010 News Releases | Japan Organization for Metals and En - jogmec.go.jp",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53aUszOV9Jc2I0QlF6dUREMk4zTEUwMEFxQ3UtSnBXS29LYzZzM3AtcGk0T05lT0RjcWRxN2JqWWRyMXpQaXlzXzVsUW5JWjc1SWZsRmdoRDNwN1gwV2FiaTYzXzNISnBrcC1TNkRrdUlxdw?oc=5",
+      "source": "jogmec.go.jp",
+      "published_utc": "2026-03-02T18:44:26+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "flag": "green",
+      "title_en": "JFE Steel, Nippon Steel, Sojitz, JOGMEC, POSCO and NPS Form Japan-Korea PartnershipGroup to Invest in Brazilian Producer of Niobium, Critical Alloying Element for High-Grade Steel Products : 2010 News Releases | Japan Organization for Metals and En - jogmec.go.jp",
+      "title_lang_guess": "en-or-unknown",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "CMOC Brasil's record-breaking niobium production confirms its leading global position. - IBRAM - Mineração do Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUjh3TnVPQVZrZ0ZEZWxSai1naE9RMEQ2bVM3RnhBTHVtMDhFVU9WY0VPcVBaaGFzOGVaZG9tZHluOE5PV2NCS190SWw5SXhyYVJFRjFpaVVxbS1iNUtITWZSalBWSF9GTTAxUUp1NGZXM2J5QU9rS1RwU0JHWjBIWGRHeTVjQkF3aktZNUQzRkFSZmRVeWNXWFpHdW03d1ZncHhfMFRqWUhLUzhkM3lJT2d6aW91WmVQYlhkLWFGUVRsTDVRU3c?oc=5",
+      "source": "IBRAM - Mineração do Brasil",
+      "published_utc": "2026-02-26T15:29:25+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "CMOC Brasil's record-breaking niobium production confirms its leading global position. - IBRAM - Mineração do Brasil",
+      "title_lang_guess": "non-en",
+      "title_en_source": "google_deep_translator",
+      "translated_utc": "2026-09-12T02:21:59.669775+00:00"
+    },
+    {
+      "title": "St George Mining 'poised to redefine Araxá' - Mining Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanV0alpGcmlZX1Q2QnhGLV9Xcm1JWkJNb1I5ek5zOW43U0R2VERCX1ZodUZtVTd1c2p6S0NIRzRWNEVzOGRxOERPZWZFRzcyNzlyUnlHR3FLdWgzTkkxSlpGT3NxMmtVRnhKQ3ZZRGI4Xzh3bm5saUZzUmk0SjdsWEJpU2VlV0ZVRzVGMEJ5dWZqcVBucW85VTZNV3Vxa0xtZUE?oc=5",
+      "source": "Mining Magazine",
+      "published_utc": "2026-02-11T08:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "yellow",
+      "title_en": "St George Mining 'poised to redefine Araxá' - Mining Magazine",
+      "title_lang_guess": "non-en",
+      "title_en_source": "google_deep_translator",
+      "translated_utc": "2026-09-12T02:22:00.016656+00:00"
+    },
+    {
+      "title": "Ameerex Confirms Major Heavy Rare Earth Mineralization in Brazil JV Across the Goiás-Araxá-Catalão Belt - Brazil Ranking Second to China by Estimated REE Resources - ACCESS Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcnBpTDdXTHBOOGJERTNnNVRMQkkyRDdreS1INVlUVzZxZ1VXT1ppcUI4VGpnYUNEcm52LTEtS2ZFN0E1S3F5Vy1QUUtuTEk2a3M1MmpJRjE4QkVmX2RuVjdJS1lkcW11bno4QUpTbjhDbkkxbVo4ZGxzZWpRRzFrVVV1Zk9tM1pQZEtIdEdDOEoxM2pTTXFBMjlFelB5MElGTXp0ZFY2ajF1ZElOMjNNWFRDbjhXWk5ObnA3LU92dUVSNFNWeDJqRklVRHhSN1lPMgc4YmxmR25MVTRsNTBtekxwQ3g?oc=5",
+      "source": "ACCESS Newswire",
+      "published_utc": "2026-02-06T08:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "Ameerex Confirms Major Heavy Rare Earth Mineralization in Brazil JV Across the Goiás-Araxá-Catalão Belt - Brazil Ranking Second to China by Estimated REE Resources - ACCESS Newswire",
+      "title_lang_guess": "non-en",
+      "title_en_source": "google_deep_translator",
+      "translated_utc": "2026-09-12T02:22:00.354782+00:00"
+    },
+    {
+      "title": "How a Chinese mining giant learned to win in Brazil - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVlkwODB4WnhNVHo2Ukc3NmZsT2lyVGRoUWVjUjVXajliXzNRS1c3YXRKWWVtRGhjTjVLOEIxaDhsU2ZGZldjQWFtVmtqb0dISHFmRHhLWmxTVjFIblFkQ3pJNmxIeTBNMEtVRGt5RVlqdHJMdzlkUUZZOHNGZWtVbjJfaVJEblhlTDdnTFo0TGtKMl84TnlV?oc=5",
+      "source": "Nikkei Asia",
+      "published_utc": "2026-01-04T08:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "How a Chinese mining giant learned to win in Brazil - Nikkei Asia",
+      "title_lang_guess": "en-or-unknown",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "In Depth: How a Chinese Mining Giant Learned to Win in Brazil - Caixin Global",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHp5R3hiT1NOV1RvQXhDMHN0aXFmMWZCYXl4YzVYOTZSMnN3OHVsNjd2RzZWV1VTU3JpWjZBWENoczlqd1JGOU5KeVJ4ZXNpcU1FZGZxTC1naEF4WklMamRldWdyNW9DdThiNFdvNkRSZnd3T3hrMXYzak5tdlpSLUpzcE5BcUFldjdsNldnLTFUN3dmUHNyd2pUTDFlRDJzVy1xQU1QNlF0ZjdYek8yVk16N0VsQQ?oc=5",
+      "source": "Caixin Global",
+      "published_utc": "2025-12-18T08:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "In Depth: How a Chinese Mining Giant Learned to Win in Brazil - Caixin Global",
+      "title_lang_guess": "en-or-unknown",
+      "title_en_source": "passthrough"
+    }
+  ],
+  "errors": [],
+  "status": "ok",
+  "translation": {
+    "as_of_utc": "2026-09-12T02:22:00.684028+00:00",
+    "engine": "deep_translator.GoogleTranslator",
+    "translated": 6,
+    "skipped_or_passthrough": 34,
+    "errors": []
+  },
+  "notes": [
+    "Trimmed to 15 items for initial Pages publish; Actions refresh expands."
+  ]
+}
