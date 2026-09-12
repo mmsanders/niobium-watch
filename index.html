@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Niobium Supply Watch</title>
+<title>Resource Choke Watch</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
 <style>
   :root {
@@ -16,12 +16,19 @@
   * { box-sizing: border-box; }
   body { margin: 0; font-family: var(--font); background: var(--bg); color: var(--text); line-height: 1.45; }
   header {
-    padding: 1.25rem 1.75rem; border-bottom: 1px solid var(--border);
-    display: flex; flex-wrap: wrap; align-items: baseline; gap: .75rem 1.5rem;
+    padding: 1.15rem 1.75rem; border-bottom: 1px solid var(--border);
+    display: flex; flex-wrap: wrap; align-items: center; gap: .65rem 1.25rem;
     background: linear-gradient(180deg, #151c25, var(--bg));
   }
-  header h1 { margin: 0; font-size: 1.45rem; font-weight: 650; letter-spacing: .02em; }
-  header .sub { color: var(--muted); font-size: .9rem; }
+  header h1 { margin: 0; font-size: 1.35rem; font-weight: 650; letter-spacing: .02em; }
+  header .sub { color: var(--muted); font-size: .88rem; }
+  .tabs { display: flex; gap: .35rem; }
+  .tab {
+    background: var(--panel2); border: 1px solid var(--border); color: var(--muted);
+    padding: .38rem .95rem; border-radius: 8px; cursor: pointer;
+    font-weight: 650; font-size: .92rem;
+  }
+  .tab.active { color: var(--text); border-color: var(--accent); background: #1c2a38; }
   main { max-width: 1180px; margin: 0 auto; padding: 1.25rem 1.5rem 3rem; display: grid; gap: 1.35rem; }
   .card {
     background: var(--panel); border: 1px solid var(--border); border-radius: var(--radius);
@@ -31,20 +38,14 @@
     margin: 0 0 .85rem; font-size: .78rem; text-transform: uppercase;
     letter-spacing: .08em; color: var(--muted); font-weight: 600;
   }
-  .card h3 { margin: 0 0 .35rem; font-size: 1.05rem; }
-  .section-title {
-    margin: 0 0 .15rem; font-size: 1.15rem; font-weight: 650;
-  }
+  .section-title { margin: 0 0 .15rem; font-size: 1.15rem; font-weight: 650; }
   .section-kicker {
     font-size: .72rem; text-transform: uppercase; letter-spacing: .08em;
     color: var(--accent); margin-bottom: .65rem; font-weight: 600;
   }
   .muted { color: var(--muted); font-size: .88rem; }
-  .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
   .grid-2 { display: grid; grid-template-columns: 1.15fr 1fr; gap: 1rem; }
-  @media (max-width: 900px) { .grid-3, .grid-2 { grid-template-columns: 1fr; } }
-
-  /* Temperature banner — status wall */
+  @media (max-width: 900px) { .grid-2 { grid-template-columns: 1fr; } }
   .temp-banner {
     border-radius: var(--radius); border: 1px solid var(--border);
     padding: 1.5rem 1.6rem 1.35rem; position: relative; overflow: hidden;
@@ -63,35 +64,19 @@
   .temp-banner.Normal .status-huge { color: var(--normal); }
   .temp-banner.Watch .status-huge { color: var(--watch); }
   .temp-banner.Stress .status-huge { color: var(--stress); }
-  .temp-banner .rationale {
-    position: relative; font-size: 1.02rem; color: var(--text); max-width: 920px;
-    margin: 0 0 1.15rem; opacity: .92;
-  }
+  .temp-banner .rationale { position: relative; font-size: 1.02rem; max-width: 920px; margin: 0 0 1.15rem; opacity: .92; }
   .temp-cols { position: relative; display: grid; grid-template-columns: repeat(3, 1fr); gap: .85rem; }
   @media (max-width: 800px) { .temp-cols { grid-template-columns: 1fr; } }
-  .temp-panel {
-    background: rgba(0,0,0,.28); border: 1px solid var(--border); border-radius: 10px;
-    padding: .85rem 1rem;
-  }
-  .temp-panel h4 {
-    margin: 0 0 .55rem; font-size: .78rem; text-transform: uppercase; letter-spacing: .06em;
-  }
+  .temp-panel { background: rgba(0,0,0,.28); border: 1px solid var(--border); border-radius: 10px; padding: .85rem 1rem; }
+  .temp-panel h4 { margin: 0 0 .55rem; font-size: .78rem; text-transform: uppercase; letter-spacing: .06em; }
   .temp-panel.green h4 { color: var(--green); }
   .temp-panel.yellow h4 { color: var(--yellow); }
   .temp-panel.red h4 { color: var(--red); }
   .temp-panel ul { margin: 0; padding-left: 1.1rem; font-size: .86rem; color: var(--muted); }
   .temp-panel li { margin: .28rem 0; }
-  .false-alarms {
-    position: relative; margin-top: .9rem; font-size: .8rem; color: var(--muted);
-    border-top: 1px solid rgba(46,58,74,.8); padding-top: .65rem;
-  }
-  .pulse-strip {
-    position: relative; margin-top: 1rem; display: flex; flex-wrap: wrap; gap: .65rem;
-  }
-  .pulse-chip {
-    background: var(--panel2); border: 1px solid var(--border); border-radius: 8px;
-    padding: .55rem .85rem; min-width: 130px;
-  }
+  .false-alarms { position: relative; margin-top: .9rem; font-size: .8rem; color: var(--muted); border-top: 1px solid rgba(46,58,74,.8); padding-top: .65rem; }
+  .pulse-strip { position: relative; margin-top: 1rem; display: flex; flex-wrap: wrap; gap: .65rem; }
+  .pulse-chip { background: var(--panel2); border: 1px solid var(--border); border-radius: 8px; padding: .55rem .85rem; min-width: 130px; }
   .pulse-chip .label { font-size: .68rem; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
   .pulse-chip .val { font-size: 1.1rem; font-weight: 700; }
   .pulse-chip.hint-green { border-color: rgba(61,186,122,.45); }
@@ -100,7 +85,6 @@
   .pulse-chip.hint-yellow .val { color: var(--yellow); }
   .pulse-chip.hint-red { border-color: rgba(224,92,92,.45); }
   .pulse-chip.hint-red .val { color: var(--red); }
-
   .kpi-row { display: flex; flex-wrap: wrap; gap: .75rem 1.25rem; margin-bottom: .75rem; }
   .kpi { background: var(--panel2); border-radius: 8px; padding: .55rem .85rem; min-width: 120px; }
   .kpi .label { font-size: .72rem; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
@@ -110,23 +94,14 @@
   th, td { text-align: left; padding: .5rem .55rem; border-bottom: 1px solid var(--border); vertical-align: top; }
   th { color: var(--muted); font-weight: 600; font-size: .72rem; text-transform: uppercase; letter-spacing: .05em; }
   td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
-  .prio {
-    display: inline-block; font-size: .72rem; font-weight: 700; letter-spacing: .04em;
-    padding: .15rem .45rem; border-radius: 4px; background: var(--panel2); color: var(--accent);
-  }
+  .prio { display: inline-block; font-size: .72rem; font-weight: 700; letter-spacing: .04em; padding: .15rem .45rem; border-radius: 4px; background: var(--panel2); color: var(--accent); }
   .prio.P0 { background: rgba(224,92,92,.18); color: var(--red); }
   .prio.P1 { background: rgba(212,160,23,.18); color: var(--yellow); }
   .prio.P2 { background: rgba(91,159,212,.18); color: var(--accent); }
   .prio.P3 { background: rgba(139,154,171,.18); color: var(--muted); }
   .prio.Horizon { background: rgba(91,159,212,.12); color: var(--muted); }
-  .tag {
-    display: inline-block; font-size: .72rem; padding: .12rem .4rem; border-radius: 4px;
-    background: var(--panel2); color: var(--muted); margin: .1rem .2rem .1rem 0;
-  }
-  .signal {
-    display: grid; grid-template-columns: auto 1fr auto; gap: .65rem .9rem; align-items: start;
-    padding: .75rem 0; border-bottom: 1px solid var(--border);
-  }
+  .tag { display: inline-block; font-size: .72rem; padding: .12rem .4rem; border-radius: 4px; background: var(--panel2); color: var(--muted); margin: .1rem .2rem .1rem 0; }
+  .signal { display: grid; grid-template-columns: auto 1fr auto; gap: .65rem .9rem; align-items: start; padding: .75rem 0; border-bottom: 1px solid var(--border); }
   .signal:last-child { border-bottom: none; }
   .dot { width: 10px; height: 10px; border-radius: 50%; margin-top: .35rem; }
   .dot.green { background: var(--green); }
@@ -139,25 +114,13 @@
   .bar-track { flex: 1; height: 8px; background: var(--panel2); border-radius: 4px; overflow: hidden; }
   .bar-fill { height: 100%; background: var(--accent); border-radius: 4px; }
   .bar-pct { width: 48px; text-align: right; font-variant-numeric: tabular-nums; }
-  .gap-note {
-    background: rgba(212,160,23,.08); border: 1px solid rgba(212,160,23,.25);
-    border-radius: 8px; padding: .65rem .85rem; font-size: .85rem; color: var(--muted); margin-top: .5rem;
-  }
+  .gap-note { background: rgba(212,160,23,.08); border: 1px solid rgba(212,160,23,.25); border-radius: 8px; padding: .65rem .85rem; font-size: .85rem; color: var(--muted); margin-top: .5rem; }
   .section-label { font-size: .72rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 1rem 0 .35rem; }
   .chip-row { display: flex; flex-wrap: wrap; gap: .4rem; margin: .4rem 0 .6rem; }
-  .chip {
-    font-size: .78rem; padding: .25rem .55rem; border-radius: 999px;
-    background: var(--panel2); border: 1px solid var(--border); color: var(--text);
-  }
-  .logistics-card {
-    background: var(--panel2); border: 1px solid var(--border); border-radius: 10px;
-    padding: 1rem 1.1rem; margin-top: 1rem;
-  }
+  .chip { font-size: .78rem; padding: .25rem .55rem; border-radius: 999px; background: var(--panel2); border: 1px solid var(--border); }
+  .logistics-card { background: var(--panel2); border: 1px solid var(--border); border-radius: 10px; padding: 1rem 1.1rem; margin-top: 1rem; }
   .pipe { font-size: 1.02rem; font-weight: 600; color: var(--accent); margin: .25rem 0 .5rem; }
-  footer {
-    margin-top: .25rem; padding-top: 1rem; border-top: 1px solid var(--border);
-    color: var(--muted); font-size: .8rem;
-  }
+  footer { margin-top: .25rem; padding-top: 1rem; border-top: 1px solid var(--border); color: var(--muted); font-size: .8rem; }
   .data-mode { font-size: .75rem; color: var(--muted); margin-left: auto; }
   .data-mode.live { color: var(--green); }
   .data-mode.fallback { color: var(--yellow); }
@@ -170,12 +133,15 @@
 </head>
 <body>
 <header>
-  <h1>Niobium Supply Watch</h1>
-  <span class="sub">FeNb choke-point monitor</span>
+  <h1>Resource Choke Watch</h1>
+  <nav class="tabs" aria-label="Commodity">
+    <button type="button" class="tab" id="tab-niobium" data-tab="niobium">Niobium</button>
+    <button type="button" class="tab" id="tab-helium" data-tab="helium">Helium</button>
+  </nav>
+  <span class="sub" id="hdrSub">FeNb choke-point monitor</span>
   <span id="dataMode" class="data-mode">loading…</span>
 </header>
 <main>
-  <!-- 1. BIG TEMPERATURE BANNER (section 5) -->
   <section class="temp-banner Watch" id="tempBanner">
     <div class="section-kicker" style="color:inherit;opacity:.7">Section 5 · Temperature check</div>
     <div class="status-huge" id="statusHuge">…</div>
@@ -184,26 +150,18 @@
     <div class="false-alarms" id="falseAlarms"></div>
     <div class="pulse-strip" id="livePulse"></div>
   </section>
-
-  <!-- 2. SECTION 1 — Sites -->
   <section class="card">
     <div class="section-kicker">Section 1</div>
     <div class="section-title">Sites (priority choke map)</div>
     <p class="muted" style="margin-top:0">P0–P3 + Horizon. Shares/capacity from baseline meta where known.</p>
     <div style="overflow-x:auto; margin-top:.75rem">
       <table id="sitesTable">
-        <thead>
-          <tr>
-            <th>Pri</th><th>Site</th><th>Share / capacity</th><th>Watch</th><th>Notes</th>
-          </tr>
-        </thead>
+        <thead><tr><th>Pri</th><th>Site</th><th>Share / capacity</th><th>Watch</th><th>Notes</th></tr></thead>
         <tbody></tbody>
       </table>
     </div>
     <div class="logistics-card" id="logisticsCard"></div>
   </section>
-
-  <!-- 3. SECTION 2 — Codes & data pipes + export pulse -->
   <section class="card">
     <div class="section-kicker">Section 2</div>
     <div class="section-title">Codes &amp; free data pipes</div>
@@ -215,51 +173,44 @@
         <div id="pipesBox"></div>
       </div>
       <div>
-        <h2 style="margin-top:0">Producer baseline</h2>
+        <h2 style="margin-top:0" id="producerTitle">Producer baseline</h2>
         <div id="producerBox"></div>
       </div>
     </div>
   </section>
-
   <section class="card">
-    <h2>Export pulse — Brazil FeNb (NCM 72029300)</h2>
+    <h2 id="pulseTitle">Export pulse</h2>
     <div class="kpi-row" id="exportKpis"></div>
     <div class="chart-wrap"><canvas id="exportChart"></canvas></div>
     <div id="exportGap" class="gap-note" hidden></div>
   </section>
-
   <section class="grid-2">
     <div class="card">
-      <h2>Destinations</h2>
+      <h2 id="destTitle">Destinations</h2>
       <p class="muted" id="destPeriod" style="margin-top:0"></p>
       <div id="destBars"></div>
       <div style="overflow-x:auto; margin-top:.75rem">
         <table id="destTable">
-          <thead><tr><th>Country</th><th class="num">kt</th><th class="num">Share</th><th class="num">FOB $M</th></tr></thead>
+          <thead id="destHead"></thead>
           <tbody></tbody>
         </table>
       </div>
     </div>
     <div class="card">
-      <h2>How destinations fit the kit</h2>
+      <h2 id="destKitTitle">How destinations fit the kit</h2>
       <p class="muted" id="destKitNote" style="margin-top:0"></p>
       <div id="destKitList"></div>
     </div>
   </section>
-
-  <!-- 4. SECTION 3 — Local / language layer + signal board -->
   <section class="card">
     <div class="section-kicker">Section 3</div>
     <div class="section-title">Local / language layer</div>
     <div id="langLayer"></div>
   </section>
-
   <section class="card">
     <h2>Signal board</h2>
     <div id="signalBoard"></div>
   </section>
-
-  <!-- 5. SECTION 4 — Cadence -->
   <section class="card">
     <div class="section-kicker">Section 4</div>
     <div class="section-title">Cadence</div>
@@ -271,416 +222,8 @@
     </div>
     <p class="muted" id="automationNote" style="margin-top:.85rem"></p>
   </section>
-
-  <!-- 6. FOOTER -->
   <footer id="footer"></footer>
 </main>
-
-<script>
-const FALLBACK = {"meta":{"overall_status":"Watch","overall_rationale":"Loading live JSON…","watch_kit":{}},"exports":{"series_monthly":[]},"headlines":{"items":[]}};
-
-function fmtTonnes(t) {
-  if (t == null || isNaN(t)) return "—";
-  return Number(t).toLocaleString("en-US", { maximumFractionDigits: 0 });
-}
-function fmtUsdB(v) {
-  if (v == null) return "—";
-  return "$" + (v / 1e9).toFixed(2) + "B";
-}
-function fmtUsdM(v) {
-  if (v == null) return "—";
-  return "$" + (v / 1e6).toFixed(0) + "M";
-}
-function esc(s) {
-  return String(s == null ? "" : s)
-    .replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")
-    .replace(/"/g,"&quot;");
-}
-
-function annualFromSeries(series) {
-  const map = {};
-  for (const s of series || []) {
-    const y = s.year;
-    if (!map[y]) map[y] = { year: y, months: 0, kg: 0, fob_usd: 0 };
-    map[y].months += 1;
-    map[y].kg += Number(s.kg || 0);
-    map[y].fob_usd += Number(s.fob_usd || 0);
-  }
-  return Object.values(map).sort((a,b) => a.year - b.year).map(a => ({
-    ...a,
-    tonnes: a.kg / 1000,
-    unit_value_usd_per_kg: a.kg ? +(a.fob_usd / a.kg).toFixed(2) : null,
-  }));
-}
-
-async function loadJson(path) {
-  const res = await fetch(path, { cache: "no-store" });
-  if (!res.ok) throw new Error(path + " " + res.status);
-  return res.json();
-}
-
-async function loadAll() {
-  try {
-    const [meta, exports, headlines] = await Promise.all([
-      loadJson("data/meta.json"),
-      loadJson("data/exports.json"),
-      loadJson("data/headlines.json"),
-    ]);
-    const series = exports.series_monthly || [];
-    if (exports.status === "awaiting_first_fetch" && !series.length) throw new Error("empty stub");
-    return { meta, exports, headlines, mode: "live" };
-  } catch (e) {
-    console.warn("Live fetch failed, using embedded fallback:", e);
-    return { ...FALLBACK, mode: "fallback" };
-  }
-}
-
-function itemRisk(it) { return it.risk || it.flag || "yellow"; }
-function itemDate(it) {
-  const d = it.date || it.published_utc || "";
-  return String(d).slice(0, 10);
-}
-function itemTitle(it) {
-  return it.title_en || it.title || "(untitled)";
-}
-
-function signalRow(it) {
-  const risk = itemRisk(it);
-  const date = itemDate(it);
-  const summary = it.summary
-    ? `<div class="muted">${esc(it.summary)}</div>`
-    : (it.source ? `<div class="muted">${esc(it.source)}</div>` : "");
-  return `<div class="signal">
-    <span class="dot ${esc(risk)}" title="${esc(risk)}"></span>
-    <div>
-      <a href="${esc(it.url || "#")}" target="_blank" rel="noopener">${esc(itemTitle(it))}</a>
-      ${summary}
-    </div>
-    <div class="muted" style="white-space:nowrap">${esc(date)}</div>
-  </div>`;
-}
-
-function renderSignals(baseline, rss) {
-  const parts = [];
-  if (baseline && baseline.length) {
-    parts.push(`<div class="section-label">Curated baseline</div>`);
-    parts.push(baseline.slice().sort((a,b) => itemDate(b).localeCompare(itemDate(a))).map(it => signalRow(it)).join(""));
-  }
-  if (rss && rss.length) {
-    parts.push(`<div class="section-label">Live headlines (RSS cron)</div>`);
-    parts.push(rss.slice(0, 24).map(it => signalRow(it)).join(""));
-  }
-  if (!parts.length) return `<p class="muted">No headlines yet — awaiting cron RSS fetch.</p>`;
-  return parts.join("");
-}
-
-function wk(meta) {
-  return meta.watch_kit || {};
-}
-
-function renderTempBanner(meta, exports) {
-  const status = meta.overall_status || "Watch";
-  const banner = document.getElementById("tempBanner");
-  banner.className = "temp-banner " + status;
-  document.getElementById("statusHuge").textContent = status;
-  document.getElementById("statusRationale").textContent = meta.overall_rationale || "";
-
-  const temp = (meta.temperature || (wk(meta).temperature) || {});
-  const cols = [
-    { cls: "green", title: "Looks normal", items: temp.normal || [] },
-    { cls: "yellow", title: "Yellow flags", items: temp.yellow || [] },
-    { cls: "red", title: "Red flags", items: temp.red || [] },
-  ];
-  document.getElementById("tempCols").innerHTML = cols.map(c => `
-    <div class="temp-panel ${c.cls}">
-      <h4>${c.title}</h4>
-      <ul>${(c.items || []).map(i => `<li>${esc(i)}</li>`).join("")}</ul>
-    </div>`).join("");
-
-  const fa = temp.false_alarms || [];
-  document.getElementById("falseAlarms").innerHTML = fa.length
-    ? `<strong>False alarms:</strong> ${fa.map(esc).join(" · ")}`
-    : "";
-
-  // Live pulse from exports
-  const series = (exports.series_monthly || []).slice().sort((a,b) => String(a.period).localeCompare(String(b.period)));
-  const pulse = document.getElementById("livePulse");
-  if (series.length < 1) {
-    pulse.innerHTML = `<div class="pulse-chip"><div class="label">Live pulse</div><div class="val muted">no series</div></div>`;
-    return;
-  }
-  const last = series[series.length - 1];
-  const prev = series.length > 1 ? series[series.length - 2] : null;
-  const tonnes = Number(last.tonnes || 0);
-  const uv = last.unit_value_usd_per_kg;
-  let mom = null;
-  if (prev && prev.tonnes) mom = ((tonnes - Number(prev.tonnes)) / Number(prev.tonnes)) * 100;
-
-  let bandHint = "hint-green";
-  if (tonnes < 7000 || tonnes > 9000) bandHint = "hint-yellow";
-  if (tonnes < 5500 || tonnes > 11000) bandHint = "hint-yellow";
-  if (mom != null && Math.abs(mom) > 25) bandHint = "hint-yellow";
-  if (mom != null && mom < -25 && uv && prev && prev.unit_value_usd_per_kg && uv > prev.unit_value_usd_per_kg) {
-    bandHint = "hint-yellow";
-  }
-
-  let momHint = "hint-green";
-  if (mom != null && Math.abs(mom) > 20) momHint = "hint-yellow";
-  if (mom != null && Math.abs(mom) > 30) momHint = "hint-red";
-
-  const inBand = tonnes >= 7000 && tonnes <= 9000;
-  pulse.innerHTML = `
-    <div class="pulse-chip ${bandHint}">
-      <div class="label">Last month · ${esc(last.period)}</div>
-      <div class="val">${fmtTonnes(tonnes)} t</div>
-      <div class="muted">${inBand ? "in ~7–9 kt band" : "outside ~7–9 kt band"}</div>
-    </div>
-    <div class="pulse-chip ${momHint}">
-      <div class="label">MoM change</div>
-      <div class="val">${mom == null ? "—" : ((mom >= 0 ? "+" : "") + mom.toFixed(1) + "%")}</div>
-      <div class="muted">vs prior month</div>
-    </div>
-    <div class="pulse-chip">
-      <div class="label">Unit value</div>
-      <div class="val">${uv != null ? "$" + Number(uv).toFixed(2) + "/kg" : "—"}</div>
-      <div class="muted">FOB</div>
-    </div>
-  `;
-}
-
-function renderSites(meta) {
-  const sites = wk(meta).sites || [];
-  const tbody = document.querySelector("#sitesTable tbody");
-  tbody.innerHTML = sites.map(s => {
-    const shareParts = [];
-    if (s.share_approx) shareParts.push(esc(s.share_approx));
-    if (s.capacity_feNb_eq_tpy) shareParts.push("cap " + fmtTonnes(s.capacity_feNb_eq_tpy) + " t/y FeNb-eq");
-    if (s.sales_or_production_2025_t) shareParts.push("sales/prod 2025 ~" + fmtTonnes(s.sales_or_production_2025_t) + " t");
-    if (s.production_2025_nb_t) shareParts.push("2025 " + fmtTonnes(s.production_2025_nb_t) + " t Nb");
-    if (s.metric && !shareParts.length) shareParts.push(esc(s.metric));
-    const watch = Array.isArray(s.watch) ? s.watch : (s.watch ? [s.watch] : []);
-    return `<tr>
-      <td><span class="prio ${esc(s.priority)}">${esc(s.priority)}</span></td>
-      <td><strong>${esc(s.name)}</strong></td>
-      <td class="muted">${shareParts.join("<br>")}</td>
-      <td>${watch.map(w => `<span class="tag">${esc(w)}</span>`).join("")}</td>
-      <td class="muted">${esc(s.notes || "")}</td>
-    </tr>`;
-  }).join("");
-
-  const L = wk(meta).logistics || meta.logistics_baseline || {};
-  document.getElementById("logisticsCard").innerHTML = `
-    <h2 style="margin:0 0 .35rem">Logistics pipe</h2>
-    <div class="pipe">${esc(L.pipe || L.route || "—")}</div>
-    <p class="muted" style="margin:.25rem 0">${esc(L.form || "")}</p>
-    <p class="muted" style="margin:.25rem 0"><strong style="color:var(--text)">Destinations:</strong> ${(L.destinations || []).map(esc).join(" · ") || "China, NL/Rotterdam, US, Korea"}</p>
-    <p class="muted" style="margin:.25rem 0"><strong style="color:var(--text)">Distributors:</strong> ${(L.distributors || []).map(esc).join(" / ") || "CITIC / Sojitz"}
-      · <strong style="color:var(--text)">Offices:</strong> ${esc(L.offices || "CBMM Europe/Asia/NA")}</p>
-    <p class="muted" style="margin:.25rem 0 0"><strong style="color:var(--text)">Codes:</strong> ${esc(L.hs_ncm || "7202.93 / 7202.93.00")}</p>
-  `;
-}
-
-function renderCodesPipes(meta) {
-  const codes = wk(meta).codes || {};
-  document.getElementById("codesBox").innerHTML = `
-    <div class="kpi-row">
-      <div class="kpi"><div class="label">HS</div><div class="val">${esc(codes.hs || "7202.93")}</div></div>
-      <div class="kpi"><div class="label">NCM</div><div class="val">${esc(codes.ncm || "7202.93.00")}</div></div>
-      <div class="kpi"><div class="label">Specialty</div><div class="val" style="font-size:.95rem">${esc(codes.specialty || "8112.99")}</div></div>
-    </div>
-    <p class="muted" style="margin:0">${esc(codes.product || "Ferro-niobium / FeNb")}</p>
-  `;
-
-  const pipes = wk(meta).data_pipes || [];
-  document.getElementById("pipesBox").innerHTML = pipes.map(p => {
-    const link = p.url ? ` · <a class="ext" href="${esc(p.url)}" target="_blank" rel="noopener">open</a>` : "";
-    const api = p.api ? `<div class="muted" style="font-size:.8rem">API: <code>${esc(p.api)}</code></div>` : "";
-    return `<div style="padding:.45rem 0;border-bottom:1px solid var(--border)">
-      <strong>${esc(p.name)}</strong>${link}
-      <div class="muted">${esc(p.how || "")}</div>
-      ${api}
-    </div>`;
-  }).join("") || `<p class="muted">No data pipes listed.</p>`;
-
-  const L = wk(meta).logistics || {};
-  document.getElementById("destKitNote").textContent =
-    "Expected destination mix for a Normal temperature read.";
-  document.getElementById("destKitList").innerHTML =
-    `<ul class="compact">${(L.destinations || ["China","Netherlands / Rotterdam","United States","Korea"]).map(d => `<li>${esc(d)}</li>`).join("")}</ul>
-     <p class="muted" style="margin-top:.65rem">Distributors: ${(L.distributors || ["CITIC","Sojitz"]).map(esc).join(" / ")}</p>`;
-}
-
-function renderLang(meta) {
-  const ll = wk(meta).language_layer || {};
-  const langs = (ll.languages || ["PT","FR","EN"]).map(l => `<span class="chip">${esc(l)}</span>`).join("");
-  const seeds = (ll.search_seeds || []).map(s => `<li><code>${esc(s)}</code></li>`).join("");
-  const outlets = (ll.outlets || []).map(o =>
-    `<tr><td>${esc(o.name)}</td><td class="muted">${esc(o.type || "")}</td><td class="muted">${esc(o.region || "")}</td></tr>`
-  ).join("");
-  document.getElementById("langLayer").innerHTML = `
-    <div class="chip-row">${langs}</div>
-    <div class="grid-2">
-      <div>
-        <h2 style="margin-top:.25rem">Search seeds</h2>
-        <ul class="compact">${seeds || "<li class='muted'>—</li>"}</ul>
-      </div>
-      <div>
-        <h2 style="margin-top:.25rem">Outlet types</h2>
-        <table>
-          <thead><tr><th>Outlet</th><th>Type</th><th>Region</th></tr></thead>
-          <tbody>${outlets}</tbody>
-        </table>
-      </div>
-    </div>
-  `;
-}
-
-function renderCadence(meta) {
-  const rows = wk(meta).cadence || [];
-  document.querySelector("#cadenceTable tbody").innerHTML = rows.map(r => `
-    <tr><td><strong>${esc(r.freq)}</strong></td><td class="muted">${esc(r.covers || "")}</td></tr>
-  `).join("");
-  document.getElementById("automationNote").textContent =
-    wk(meta).automation_note ||
-    "Automation: twice-daily RSS (no AI); monthly AI brief for exports/status.";
-}
-
-function render(data) {
-  const { meta, exports, headlines, mode } = data;
-  const modeEl = document.getElementById("dataMode");
-  modeEl.textContent = mode === "live"
-    ? "live data · " + (meta.last_export_fetch_utc || meta.dashboard_as_of || "").toString().slice(0, 19)
-    : "embedded fallback snapshot";
-  modeEl.className = "data-mode " + mode;
-
-  renderTempBanner(meta, exports);
-  renderSites(meta);
-  renderCodesPipes(meta);
-  renderLang(meta);
-  renderCadence(meta);
-
-  const series = (exports.series_monthly || []).slice().sort((a,b) => String(a.period).localeCompare(String(b.period)));
-  let annual = exports.annual_summaries;
-  if (!annual || !annual.length) annual = annualFromSeries(series);
-  const byYear = Object.fromEntries((annual || []).map(a => [a.year, a]));
-  const a24 = byYear[2024], a25 = byYear[2025], a26 = byYear[2026];
-  document.getElementById("exportKpis").innerHTML = `
-    <div class="kpi"><div class="label">2024</div><div class="val">${a24 ? fmtTonnes(a24.tonnes) + " t" : "—"}</div><div class="muted">${a24 ? fmtUsdB(a24.fob_usd) : ""}</div></div>
-    <div class="kpi"><div class="label">2025</div><div class="val">${a25 ? fmtTonnes(a25.tonnes) + " t" : "—"}</div><div class="muted">${a25 ? fmtUsdB(a25.fob_usd) : ""}</div></div>
-    <div class="kpi"><div class="label">2026 YTD</div><div class="val">${a26 ? fmtTonnes(a26.tonnes) + " t" : "—"}</div><div class="muted">${a26 ? (a26.months || "") + " mo · " + fmtUsdB(a26.fob_usd) : ""}</div></div>
-    <div class="kpi"><div class="label">Unit value 2026</div><div class="val">${a26 && a26.unit_value_usd_per_kg ? "$" + a26.unit_value_usd_per_kg + "/kg" : "—"}</div><div class="muted">FOB</div></div>
-  `;
-
-  const gap = document.getElementById("exportGap");
-  if (!series.length) {
-    gap.hidden = false;
-    gap.textContent = "No monthly export series available yet. Cron fetch or baseline seed pending.";
-    if (window._exportChart) { window._exportChart.destroy(); window._exportChart = null; }
-  } else {
-    gap.hidden = true;
-    const ctx = document.getElementById("exportChart");
-    if (window._exportChart) window._exportChart.destroy();
-    window._exportChart = new Chart(ctx, {
-      type: "line",
-      data: {
-        labels: series.map(s => s.period),
-        datasets: [{
-          label: "FeNb exports (tonnes)",
-          data: series.map(s => s.tonnes),
-          borderColor: "#5b9fd4",
-          backgroundColor: "rgba(91,159,212,.15)",
-          fill: true, tension: 0.25, pointRadius: 2, pointHoverRadius: 5,
-        }]
-      },
-      options: {
-        responsive: true, maintainAspectRatio: false,
-        plugins: {
-          legend: { display: false },
-          tooltip: {
-            callbacks: {
-              afterLabel: (c) => {
-                const s = series[c.dataIndex];
-                return s ? "FOB " + fmtUsdM(s.fob_usd) + " · $" + (s.unit_value_usd_per_kg || "—") + "/kg" : "";
-              }
-            }
-          }
-        },
-        scales: {
-          x: { ticks: { color: "#8b9aab", maxRotation: 45, autoSkip: true, maxTicksLimit: 16 }, grid: { color: "rgba(46,58,74,.5)" } },
-          y: { ticks: { color: "#8b9aab" }, grid: { color: "rgba(46,58,74,.5)" }, title: { display: true, text: "tonnes", color: "#8b9aab" } }
-        }
-      }
-    });
-  }
-
-  let dest = null;
-  const D = exports.destinations;
-  if (D && !Array.isArray(D)) {
-    dest = D["2026_ytd"] || D["2025_full"] || Object.values(D)[0];
-  } else if (Array.isArray(D) && D.length) {
-    dest = { period: "destinations", countries: D, total_tonnes: null };
-  }
-  const destPeriod = document.getElementById("destPeriod");
-  const destBars = document.getElementById("destBars");
-  const tbody = document.querySelector("#destTable tbody");
-  if (dest && dest.countries && dest.countries.length) {
-    destPeriod.textContent = "Top importers · " + (dest.period || "") +
-      (dest.total_tonnes != null ? " · " + fmtTonnes(dest.total_tonnes) + " t total" : "");
-    const top = dest.countries.slice(0, 8);
-    destBars.innerHTML = top.map(c => `
-      <div class="bar-row">
-        <span class="bar-label" title="${esc(c.country)}">${esc(c.country)}</span>
-        <div class="bar-track"><div class="bar-fill" style="width:${Math.min(100, c.share_kg_pct || 0)}%"></div></div>
-        <span class="bar-pct">${(c.share_kg_pct || 0).toFixed(1)}%</span>
-      </div>`).join("");
-    tbody.innerHTML = top.map(c => `
-      <tr>
-        <td>${esc(c.country)}</td>
-        <td class="num">${((c.tonnes || 0) / 1000).toFixed(1)}</td>
-        <td class="num">${(c.share_kg_pct || 0).toFixed(1)}%</td>
-        <td class="num">${((c.fob_usd || 0) / 1e6).toFixed(0)}</td>
-      </tr>`).join("");
-  } else {
-    destPeriod.textContent = "Destination mix not yet available.";
-    destBars.innerHTML = "";
-    tbody.innerHTML = "";
-  }
-
-  const p = meta.producers || {};
-  const usgs = p.usgs_mcs_2026 || {};
-  const cbmm = p.cbmm || {};
-  const cmoc = p.cmoc_brazil || {};
-  document.getElementById("producerBox").innerHTML = `
-    <div class="kpi-row">
-      <div class="kpi"><div class="label">Brazil mine (USGS 2025e)</div><div class="val">${fmtTonnes(usgs.brazil_mine_2025e_nb_t)} t Nb</div><div class="muted">~${usgs.brazil_share_approx_pct || 93}% world</div></div>
-      <div class="kpi"><div class="label">CBMM capacity</div><div class="val">${fmtTonnes(cbmm.capacity_feNb_eq_tpy)} t/y</div><div class="muted">sales 2025 ~${fmtTonnes(cbmm.sales_2025_feNb_eq_t)}</div></div>
-      <div class="kpi"><div class="label">CMOC Brazil 2025</div><div class="val">${fmtTonnes(cmoc.production_2025_nb_t)} t Nb</div><div class="muted">vs ${fmtTonnes(cmoc.production_2024_nb_t)} in 2024</div></div>
-    </div>
-    <p class="muted" style="margin:0">Canada (Niobec/others) USGS 2025e ~${fmtTonnes(usgs.canada_mine_2025e_nb_t)} t Nb content.</p>
-  `;
-
-  document.getElementById("signalBoard").innerHTML = renderSignals(
-    meta.baseline_signals || [],
-    (headlines && headlines.items) || []
-  );
-
-  const notProv = (wk(meta).not_provided || meta.not_provided || []);
-  const sources = (meta.sources_footer || []).join(" · ");
-  document.getElementById("footer").innerHTML = `
-    <div class="section-kicker" style="margin-bottom:.35rem">What this will NOT give you</div>
-    <ul class="compact">${notProv.map(x => `<li>${esc(x)}</li>`).join("")}</ul>
-    <div style="margin-top:.85rem"><strong>As-of:</strong> ${esc(meta.dashboard_as_of || "—")}
-      · Headlines: ${esc((meta.last_headline_fetch_utc || "—").toString().slice(0,19))}
-      · Exports: ${esc((meta.last_export_fetch_utc || "—").toString().slice(0,19))}</div>
-    <div style="margin-top:.35rem"><strong>Sources:</strong> ${esc(sources)}</div>
-    <div style="margin-top:.35rem">Live: <code>data/meta.json</code> · <code>data/exports.json</code> · <code>data/headlines.json</code>
-      · Pages: <a class="ext" href="https://mmsanders.github.io/niobium-watch/" target="_blank" rel="noopener">mmsanders.github.io/niobium-watch</a></div>
-  `;
-}
-
-loadAll().then(render).catch(err => {
-  document.getElementById("statusRationale").textContent = "Failed to render: " + err;
-});
-</script>
+<script src="app.js"></script>
 </body>
 </html>
