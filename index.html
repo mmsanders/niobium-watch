@@ -1,1 +1,319 @@
-PLACEHOLDER_LOAD_FROM_DISK
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#0f1419" />
+<title>Resource Choke Watch</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg: #0f1419; --panel: #1a222d; --panel2: #222b38; --border: #2e3a4a;
+    --text: #e8eef4; --muted: #8b9aab; --accent: #5b9fd4;
+    --green: #3dba7a; --yellow: #d4a017; --red: #e05c5c;
+    --watch: #d4a017; --normal: #3dba7a; --stress: #e05c5c;
+    --radius: 12px; --font: "Segoe UI", system-ui, -apple-system, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: var(--font); background: var(--bg); color: var(--text); line-height: 1.45; }
+  header {
+    padding: 1.15rem 1.75rem; border-bottom: 1px solid var(--border);
+    display: flex; flex-wrap: wrap; align-items: center; gap: .65rem 1.25rem;
+    background: linear-gradient(180deg, #151c25, var(--bg));
+  }
+  header h1 { margin: 0; font-size: 1.35rem; font-weight: 650; letter-spacing: .02em; }
+  header .sub { color: var(--muted); font-size: .88rem; }
+  .tabs { display: flex; gap: .35rem; }
+  .tab {
+    background: var(--panel2); border: 1px solid var(--border); color: var(--muted);
+    padding: .38rem .95rem; border-radius: 8px; cursor: pointer;
+    font-weight: 650; font-size: .92rem;
+    transition: background .15s ease, border-color .15s ease, color .15s ease, box-shadow .15s ease;
+  }
+  /* Temperature-tinted tab backgrounds (match banner Normal / Watch / Stress) */
+  .tab.Normal {
+    background: linear-gradient(135deg, #1a3a2a 0%, #163028 100%);
+    border-color: rgba(61,186,122,.4);
+    color: #b8e0c8;
+  }
+  .tab.Watch {
+    background: linear-gradient(135deg, #3a2e12 0%, #2a2414 100%);
+    border-color: rgba(212,160,23,.45);
+    color: #e8d4a0;
+  }
+  .tab.Stress {
+    background: linear-gradient(135deg, #3a1a1a 0%, #2a1618 100%);
+    border-color: rgba(224,92,92,.45);
+    color: #f0b8b8;
+  }
+  .tab.active {
+    color: var(--text);
+    box-shadow: 0 0 0 2px var(--tab-ring, var(--accent));
+  }
+  .tab.active.Normal {
+    border-color: var(--normal);
+    --tab-ring: rgba(61,186,122,.65);
+    color: #e8fef0;
+  }
+  .tab.active.Watch {
+    border-color: var(--watch);
+    --tab-ring: rgba(212,160,23,.7);
+    color: #fff6d6;
+  }
+  .tab.active.Stress {
+    border-color: var(--stress);
+    --tab-ring: rgba(224,92,92,.7);
+    color: #ffe8e8;
+  }
+  main { max-width: 1180px; margin: 0 auto; padding: 1.25rem 1.5rem 3rem; display: grid; gap: 1.35rem; }
+  .card {
+    background: var(--panel); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 1.1rem 1.25rem;
+  }
+  .card h2 {
+    margin: 0 0 .85rem; font-size: .78rem; text-transform: uppercase;
+    letter-spacing: .08em; color: var(--muted); font-weight: 600;
+  }
+  .section-title { margin: 0 0 .15rem; font-size: 1.15rem; font-weight: 650; }
+  .section-kicker {
+    font-size: .72rem; text-transform: uppercase; letter-spacing: .08em;
+    color: var(--accent); margin-bottom: .65rem; font-weight: 600;
+  }
+  .muted { color: var(--muted); font-size: .88rem; }
+  .grid-2 { display: grid; grid-template-columns: 1.15fr 1fr; gap: 1rem; }
+  @media (max-width: 900px) { .grid-2 { grid-template-columns: 1fr; } }
+  .temp-banner {
+    border-radius: var(--radius); border: 1px solid var(--border);
+    padding: 1.5rem 1.6rem 1.35rem; position: relative; overflow: hidden;
+  }
+  .temp-banner::before {
+    content: ""; position: absolute; inset: 0; opacity: .22; pointer-events: none;
+    background: radial-gradient(ellipse at 20% 0%, var(--wash, #d4a017) 0%, transparent 55%);
+  }
+  .temp-banner.Normal { --wash: var(--normal); border-color: rgba(61,186,122,.45); background: linear-gradient(135deg, #13241c 0%, var(--panel) 55%); }
+  .temp-banner.Watch { --wash: var(--watch); border-color: rgba(212,160,23,.5); background: linear-gradient(135deg, #2a2210 0%, var(--panel) 55%); }
+  .temp-banner.Stress { --wash: var(--stress); border-color: rgba(224,92,92,.5); background: linear-gradient(135deg, #2a1414 0%, var(--panel) 55%); }
+  .temp-banner .status-huge {
+    position: relative; font-size: clamp(2.4rem, 6vw, 3.6rem); font-weight: 800;
+    letter-spacing: .04em; text-transform: uppercase; line-height: 1; margin: 0 0 .5rem;
+  }
+  .temp-banner.Normal .status-huge { color: var(--normal); }
+  .temp-banner.Watch .status-huge { color: var(--watch); }
+  .temp-banner.Stress .status-huge { color: var(--stress); }
+  .temp-banner .rationale { position: relative; font-size: 1.02rem; max-width: 920px; margin: 0 0 1.15rem; opacity: .92; }
+  .temp-cols { position: relative; display: grid; grid-template-columns: repeat(3, 1fr); gap: .85rem; }
+  @media (max-width: 800px) { .temp-cols { grid-template-columns: 1fr; } }
+  .temp-panel { background: rgba(0,0,0,.28); border: 1px solid var(--border); border-radius: 10px; padding: .85rem 1rem; }
+  .temp-panel h4 { margin: 0 0 .55rem; font-size: .78rem; text-transform: uppercase; letter-spacing: .06em; }
+  .temp-panel.green h4 { color: var(--green); }
+  .temp-panel.yellow h4 { color: var(--yellow); }
+  .temp-panel.red h4 { color: var(--red); }
+  .temp-panel ul { margin: 0; padding-left: 1.1rem; font-size: .86rem; color: var(--muted); }
+  .temp-panel li { margin: .28rem 0; }
+  .false-alarms { position: relative; margin-top: .9rem; font-size: .8rem; color: var(--muted); border-top: 1px solid rgba(46,58,74,.8); padding-top: .65rem; }
+  .pulse-strip { position: relative; margin-top: 1rem; display: flex; flex-wrap: wrap; gap: .65rem; }
+  .pulse-chip { background: var(--panel2); border: 1px solid var(--border); border-radius: 8px; padding: .55rem .85rem; min-width: 130px; }
+  .pulse-chip .label { font-size: .68rem; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
+  .pulse-chip .val { font-size: 1.1rem; font-weight: 700; }
+  .pulse-chip.hint-green { border-color: rgba(61,186,122,.45); }
+  .pulse-chip.hint-green .val { color: var(--green); }
+  .pulse-chip.hint-yellow { border-color: rgba(212,160,23,.45); }
+  .pulse-chip.hint-yellow .val { color: var(--yellow); }
+  .pulse-chip.hint-red { border-color: rgba(224,92,92,.45); }
+  .pulse-chip.hint-red .val { color: var(--red); }
+  .kpi-row { display: flex; flex-wrap: wrap; gap: .75rem 1.25rem; margin-bottom: .75rem; }
+  .kpi { background: var(--panel2); border-radius: 8px; padding: .55rem .85rem; min-width: 120px; }
+  .kpi .label { font-size: .72rem; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
+  .kpi .val { font-size: 1.15rem; font-weight: 650; }
+  .chart-wrap { position: relative; height: 280px; margin-top: .5rem; }
+  table { width: 100%; border-collapse: collapse; font-size: .88rem; }
+  th, td { text-align: left; padding: .5rem .55rem; border-bottom: 1px solid var(--border); vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; font-size: .72rem; text-transform: uppercase; letter-spacing: .05em; }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  .prio { display: inline-block; font-size: .72rem; font-weight: 700; letter-spacing: .04em; padding: .15rem .45rem; border-radius: 4px; background: var(--panel2); color: var(--accent); }
+  .prio.P0 { background: rgba(224,92,92,.18); color: var(--red); }
+  .prio.P1 { background: rgba(212,160,23,.18); color: var(--yellow); }
+  .prio.P2 { background: rgba(91,159,212,.18); color: var(--accent); }
+  .prio.P3 { background: rgba(139,154,171,.18); color: var(--muted); }
+  .prio.Horizon { background: rgba(91,159,212,.12); color: var(--muted); }
+  .tag { display: inline-block; font-size: .72rem; padding: .12rem .4rem; border-radius: 4px; background: var(--panel2); color: var(--muted); margin: .1rem .2rem .1rem 0; }
+  .signal { display: grid; grid-template-columns: auto 1fr auto; gap: .65rem .9rem; align-items: start; padding: .75rem 0; border-bottom: 1px solid var(--border); }
+  .signal:last-child { border-bottom: none; }
+  .dot { width: 10px; height: 10px; border-radius: 50%; margin-top: .35rem; }
+  .dot.green { background: var(--green); }
+  .dot.yellow { background: var(--yellow); }
+  .dot.red { background: var(--red); }
+  .signal a { color: var(--text); text-decoration: none; font-weight: 600; }
+  .signal a:hover { color: var(--accent); }
+  .bar-row { display: flex; align-items: center; gap: .6rem; margin: .35rem 0; font-size: .85rem; }
+  .bar-label { width: 110px; flex-shrink: 0; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .bar-track { flex: 1; height: 8px; background: var(--panel2); border-radius: 4px; overflow: hidden; }
+  .bar-fill { height: 100%; background: var(--accent); border-radius: 4px; }
+  .bar-pct { width: 48px; text-align: right; font-variant-numeric: tabular-nums; }
+  .gap-note { background: rgba(212,160,23,.08); border: 1px solid rgba(212,160,23,.25); border-radius: 8px; padding: .65rem .85rem; font-size: .85rem; color: var(--muted); margin-top: .5rem; }
+  .section-label { font-size: .72rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 1rem 0 .35rem; }
+  .chip-row { display: flex; flex-wrap: wrap; gap: .4rem; margin: .4rem 0 .6rem; }
+  .chip { font-size: .78rem; padding: .25rem .55rem; border-radius: 999px; background: var(--panel2); border: 1px solid var(--border); }
+  .logistics-card { background: var(--panel2); border: 1px solid var(--border); border-radius: 10px; padding: 1rem 1.1rem; margin-top: 1rem; }
+  .pipe { font-size: 1.02rem; font-weight: 600; color: var(--accent); margin: .25rem 0 .5rem; }
+  footer { margin-top: .25rem; padding-top: 1rem; border-top: 1px solid var(--border); color: var(--muted); font-size: .8rem; }
+  .data-mode { font-size: .75rem; color: var(--muted); margin-left: auto; }
+  .data-mode.live { color: var(--green); }
+  .data-mode.fallback { color: var(--yellow); }
+  code { font-size: .85em; background: var(--panel2); padding: .05rem .3rem; border-radius: 3px; }
+  ul.compact { margin: .35rem 0 0; padding-left: 1.15rem; color: var(--muted); font-size: .88rem; }
+  ul.compact li { margin: .2rem 0; }
+  a.ext { color: var(--accent); text-decoration: none; }
+  a.ext:hover { text-decoration: underline; }
+
+  /* —— Mobile / adaptive —— */
+  html { -webkit-text-size-adjust: 100%; }
+  body { overflow-x: hidden; }
+  .scroll-x { overflow-x: auto; -webkit-overflow-scrolling: touch; margin-top: .75rem; max-width: 100%; }
+  .sig-meta { display: none; }
+  .sites-cards { display: none; gap: .75rem; margin-top: .75rem; }
+  .site-card {
+    background: var(--panel2); border: 1px solid var(--border); border-radius: 10px;
+    padding: .85rem 1rem;
+  }
+  .site-card .site-card-top { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem .65rem; margin-bottom: .45rem; }
+  .site-card .site-name { font-weight: 650; font-size: 1rem; }
+  .site-card .site-share { color: var(--muted); font-size: .86rem; margin: .35rem 0; }
+  .site-card .site-notes { color: var(--muted); font-size: .84rem; margin-top: .45rem; }
+  .site-card .field-label {
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .06em;
+    color: var(--muted); margin: .45rem 0 .2rem;
+  }
+  @media (max-width: 720px) {
+    header {
+      padding: .85rem 1rem; flex-direction: column; align-items: stretch; gap: .55rem;
+      position: sticky; top: 0; z-index: 20; background: #151c25;
+      box-shadow: 0 1px 0 var(--border);
+    }
+    header h1 { font-size: 1.15rem; }
+    header .sub { font-size: .8rem; }
+    .tabs { width: 100%; display: grid; grid-template-columns: 1fr 1fr; gap: .4rem; }
+    .tab { width: 100%; padding: .65rem .5rem; font-size: .95rem; min-height: 44px; }
+    .data-mode { margin-left: 0; align-self: flex-start; }
+    main { padding: .85rem .85rem 2.5rem; gap: 1rem; }
+    .card { padding: .9rem .95rem; border-radius: 10px; }
+    .temp-banner { padding: 1.1rem 1rem 1rem; }
+    .temp-banner .status-huge { font-size: clamp(1.85rem, 11vw, 2.6rem); }
+    .temp-banner .rationale { font-size: .95rem; margin-bottom: .9rem; }
+    .chart-wrap { height: 220px; }
+    .kpi { min-width: calc(50% - .4rem); flex: 1 1 calc(50% - .4rem); }
+    .pulse-chip { min-width: calc(50% - .4rem); flex: 1 1 calc(50% - .4rem); }
+    .bar-label { width: 72px; font-size: .78rem; }
+    .bar-pct { width: 40px; font-size: .78rem; }
+    .signal { grid-template-columns: auto 1fr; gap: .5rem .65rem; }
+    .sig-meta { display: block; margin-top: .25rem; font-size: .75rem; }
+    .signal .sig-meta { grid-column: 2; }
+    .pipe { font-size: .95rem; word-break: break-word; }
+    .desk-only { display: none !important; }
+    .sites-cards { display: grid; }
+    table.responsive { font-size: .82rem; }
+    .section-title { font-size: 1.05rem; }
+  }
+  @media (max-width: 420px) {
+    .kpi, .pulse-chip { min-width: 100%; flex-basis: 100%; }
+    header h1 { font-size: 1.05rem; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Resource Choke Watch</h1>
+  <nav class="tabs" aria-label="Commodity">
+    <button type="button" class="tab" id="tab-niobium" data-tab="niobium">Niobium</button>
+    <button type="button" class="tab" id="tab-helium" data-tab="helium">Helium</button>
+  </nav>
+  <span class="sub" id="hdrSub">FeNb choke-point monitor</span>
+  <span id="dataMode" class="data-mode">loading…</span>
+</header>
+<main>
+  <section class="temp-banner Watch" id="tempBanner">
+    <div class="section-kicker" style="color:inherit;opacity:.7">Section 5 · Temperature check</div>
+    <div class="status-huge" id="statusHuge">…</div>
+    <p class="rationale" id="statusRationale"></p>
+    <div class="temp-cols" id="tempCols"></div>
+    <div class="false-alarms" id="falseAlarms"></div>
+    <div class="pulse-strip" id="livePulse"></div>
+  </section>
+  <section class="card">
+    <div class="section-kicker">Section 1</div>
+    <div class="section-title">Sites (priority choke map)</div>
+    <p class="muted" style="margin-top:0">P0–P3 + Horizon. Shares/capacity from baseline meta where known.</p>
+    <div class="sites-cards" id="sitesCards"></div>
+    <div class="scroll-x desk-only">
+      <table id="sitesTable" class="responsive">
+        <thead><tr><th>Pri</th><th>Site</th><th>Share / capacity</th><th>Watch</th><th>Notes</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <div class="logistics-card" id="logisticsCard"></div>
+  </section>
+  <section class="card">
+    <div class="section-kicker">Section 2</div>
+    <div class="section-title">Codes &amp; free data pipes</div>
+    <div class="grid-2" style="margin-top:.75rem">
+      <div>
+        <h2 style="margin-top:0">Trade codes</h2>
+        <div id="codesBox"></div>
+        <h2 style="margin-top:1.1rem">Data pipes</h2>
+        <div id="pipesBox"></div>
+      </div>
+      <div>
+        <h2 style="margin-top:0" id="producerTitle">Producer baseline</h2>
+        <div id="producerBox"></div>
+      </div>
+    </div>
+  </section>
+  <section class="card">
+    <h2 id="pulseTitle">Export pulse</h2>
+    <div class="kpi-row" id="exportKpis"></div>
+    <div class="chart-wrap"><canvas id="exportChart"></canvas></div>
+    <div id="exportGap" class="gap-note" hidden></div>
+  </section>
+  <section class="grid-2">
+    <div class="card">
+      <h2 id="destTitle">Destinations</h2>
+      <p class="muted" id="destPeriod" style="margin-top:0"></p>
+      <div id="destBars"></div>
+      <div class="scroll-x">
+        <table id="destTable">
+          <thead id="destHead"></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+    <div class="card">
+      <h2 id="destKitTitle">How destinations fit the kit</h2>
+      <p class="muted" id="destKitNote" style="margin-top:0"></p>
+      <div id="destKitList"></div>
+    </div>
+  </section>
+  <section class="card">
+    <div class="section-kicker">Section 3</div>
+    <div class="section-title">Local / language layer</div>
+    <div id="langLayer"></div>
+  </section>
+  <section class="card">
+    <h2>Signal board</h2>
+    <div id="signalBoard"></div>
+  </section>
+  <section class="card">
+    <div class="section-kicker">Section 4</div>
+    <div class="section-title">Cadence</div>
+    <div class="scroll-x">
+      <table id="cadenceTable">
+        <thead><tr><th>Freq</th><th>What it covers</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <p class="muted" id="automationNote" style="margin-top:.85rem"></p>
+  </section>
+  <footer id="footer"></footer>
+</main>
+<script src="app.js"></script>
+</body>
+</html>
