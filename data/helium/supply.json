@@ -1,0 +1,129 @@
+{
+  "commodity": "helium",
+  "as_of_utc": "2026-09-12T16:56:16.563241+00:00",
+  "dashboard_as_of": "2026-09-12",
+  "unit": "million cubic meters (helium gas content)",
+  "chart_kind": "country_bars",
+  "pulse_title": "Supply pulse — USGS world production (annual)",
+  "product": {
+    "hs": "2804.29",
+    "hts": "2804.29.00.10",
+    "description": "Helium (rare gases, other than argon)"
+  },
+  "coverage_note": "Annual country production from USGS Mineral Commodity Summaries. No free official monthly world helium production series. US monthly Census HTS 2804.29.00.10 exists but is thin and USGS MCS 2025 already flagged possible 2024 export misclassification — not seeded as a live pulse here.",
+  "sources": [
+    {
+      "name": "USGS MCS 2026 helium",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-helium.pdf",
+      "covers": "2024 and 2025e world production; US salient 2021–2025e"
+    },
+    {
+      "name": "USGS MCS 2025 helium",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-helium.pdf",
+      "covers": "2023 finalized + 2024e; US extracted vs Cliffside split; Federal Helium System disposal"
+    }
+  ],
+  "world_by_year": [
+    {
+      "year": 2023,
+      "world_mcm": 176,
+      "estimated": false,
+      "source": "USGS MCS 2025",
+      "note": "US = extracted from NG (64) + Cliffside (18) as published in MCS 2025.",
+      "countries": [
+        {"country": "United States", "mcm": 82, "share_pct": 46.6},
+        {"country": "Qatar", "mcm": 66, "share_pct": 37.5},
+        {"country": "Algeria", "mcm": 9, "share_pct": 5.1},
+        {"country": "Russia", "mcm": 8, "share_pct": 4.5},
+        {"country": "Canada", "mcm": 5, "share_pct": 2.8},
+        {"country": "Poland", "mcm": 3, "share_pct": 1.7},
+        {"country": "China", "mcm": 2, "share_pct": 1.1}
+      ]
+    },
+    {
+      "year": 2024,
+      "world_mcm": 183,
+      "estimated": false,
+      "source": "USGS MCS 2026",
+      "note": "MCS 2026 world table lists United States as 80 (no Cliffside split). MCS 2025 had 2024e US 68 extracted + 13 Cliffside = 81; later revision to 80.",
+      "countries": [
+        {"country": "United States", "mcm": 80, "share_pct": 43.7},
+        {"country": "Qatar", "mcm": 64, "share_pct": 35.0},
+        {"country": "Russia", "mcm": 17, "share_pct": 9.3},
+        {"country": "Algeria", "mcm": 11, "share_pct": 6.0},
+        {"country": "Canada", "mcm": 6, "share_pct": 3.3},
+        {"country": "China", "mcm": 3, "share_pct": 1.6},
+        {"country": "Poland", "mcm": 3, "share_pct": 1.6}
+      ]
+    },
+    {
+      "year": 2025,
+      "world_mcm": 190,
+      "estimated": true,
+      "source": "USGS MCS 2026 (2025e)",
+      "note": "Published February 2026 — before the March 2026 Ras Laffan disruption. 2025e Qatar 63 does not reflect 2026 operating rates.",
+      "countries": [
+        {"country": "United States", "mcm": 81, "share_pct": 42.6},
+        {"country": "Qatar", "mcm": 63, "share_pct": 33.2},
+        {"country": "Russia", "mcm": 18, "share_pct": 9.5},
+        {"country": "Algeria", "mcm": 11, "share_pct": 5.8},
+        {"country": "Canada", "mcm": 6, "share_pct": 3.2},
+        {"country": "China", "mcm": 3, "share_pct": 1.6},
+        {"country": "Poland", "mcm": 3, "share_pct": 1.6},
+        {"country": "South Africa", "mcm": null, "mcm_note": "<0.5", "share_pct": null}
+      ]
+    }
+  ],
+  "us_salient": {
+    "unit": "million cubic meters",
+    "source": "USGS MCS 2026",
+    "rows": [
+      {"year": 2021, "sales": 76, "imports": 8, "exports": 33, "apparent_consumption": 51},
+      {"year": 2022, "sales": 77, "imports": 6, "exports": 34, "apparent_consumption": 50},
+      {"year": 2023, "sales": 81, "imports": 8, "exports": 34, "apparent_consumption": 56},
+      {"year": 2024, "sales": 80, "imports": 12, "exports": 41, "apparent_consumption": 51},
+      {"year": 2025, "sales": 81, "imports": 8, "exports": 38, "apparent_consumption": 51, "estimated": true}
+    ],
+    "import_sources_2021_24": [
+      {"country": "Canada", "share_pct": 47},
+      {"country": "Qatar", "share_pct": 28},
+      {"country": "Algeria", "share_pct": 10},
+      {"country": "China", "share_pct": 5},
+      {"country": "Other", "share_pct": 10}
+    ],
+    "end_use_2025_usgs": [
+      {"use": "Analytical, engineering, lab, science, specialty gases", "share_pct": 22},
+      {"use": "Controlled atmospheres, fiber optics, semiconductors", "share_pct": 17},
+      {"use": "Lifting gas", "share_pct": 17},
+      {"use": "MRI", "share_pct": 15},
+      {"use": "Aerospace", "share_pct": 9},
+      {"use": "Welding", "share_pct": 8},
+      {"use": "Diving", "share_pct": 5},
+      {"use": "Leak detection", "share_pct": 5},
+      {"use": "Other", "share_pct": 2}
+    ]
+  },
+  "destinations": {
+    "us_imports_2021_24": {
+      "period": "2021–24 (USGS MCS 2026 import sources)",
+      "note": "Share of US helium imports, not of world production.",
+      "countries": [
+        {"country": "Canada", "share_kg_pct": 47, "tonnes": null, "fob_usd": null},
+        {"country": "Qatar", "share_kg_pct": 28, "tonnes": null, "fob_usd": null},
+        {"country": "Algeria", "share_kg_pct": 10, "tonnes": null, "fob_usd": null},
+        {"country": "China", "share_kg_pct": 5, "tonnes": null, "fob_usd": null},
+        {"country": "Other", "share_kg_pct": 10, "tonnes": null, "fob_usd": null}
+      ]
+    }
+  },
+  "gaps": [
+    "No official monthly world helium production series (USGS MCS is annual, published each February).",
+    "USGS does not publish plant-level output (Shute Creek vs Hugoton vs new US wells).",
+    "QatarEnergy does not publish Helium 1/2/3 utilization; 2026 Ras Laffan operating rate is trade-press only.",
+    "US Census HTS 2804.29.00.10 monthly trade is not seeded: thin line items and USGS MCS 2025 warned 2024 export data may include misclassified goods.",
+    "EIA does not publish a dedicated helium production time series comparable to USGS MCS.",
+    "2025e figures pre-date the March 2026 Ras Laffan disruption and must not be read as 2026 run-rate."
+  ],
+  "series_monthly": [],
+  "status": "ok"
+}
