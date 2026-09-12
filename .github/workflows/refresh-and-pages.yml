@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch headlines (Google News RSS)
+      - name: Fetch niobium and helium headlines (Google News RSS)
         run: |
           python3 << 'PY'
           import json, re, urllib.parse, urllib.request, xml.etree.ElementTree as ET
@@ -32,14 +32,36 @@ jobs:
           from email.utils import parsedate_to_datetime
           from pathlib import Path
 
-          QUERIES = [
-              "CBMM nióbio OR ferronióbio OR niobium",
-              "Araxá CBMM OR nióbio",
-              "CMOC Catalão nióbio OR niobium",
-              "Niobec niobium OR niobium Quebec",
-              "Brazil ferroniobium OR ferronióbio export",
-          ]
-          UA = "NiobiumWatchPages/1.0"
+          UA = "ResourceChokeWatchPages/1.0"
+
+          COMMODITIES = {
+              "niobium": {
+                  "dir": Path("data"),
+                  "queries": [
+                      "CBMM nióbio OR ferronióbio OR niobium",
+                      "Araxá CBMM OR nióbio",
+                      "CMOC Catalão nióbio OR niobium",
+                      "Niobec niobium OR niobium Quebec",
+                      "Brazil ferroniobium OR ferronióbio export",
+                  ],
+                  "red": ["strike","greve","shutdown","parada","interdit","outage","explosion","fire","incêndio","sanction","export ban","proibição"],
+                  "yellow": ["delay","atraso","investigation","investig","fine","multa","lawsuit","protest","protesto","capacity","expans","cut","corte"],
+              },
+              "helium": {
+                  "dir": Path("data/helium"),
+                  "queries": [
+                      "helium Ras Laffan",
+                      "helium plant outage OR helium force majeure",
+                      "Qatar helium OR QatarEnergy helium",
+                      "BLM helium OR Cliffside helium",
+                      "Amur helium",
+                      "MRI helium shortage",
+                      "Shute Creek helium OR LaBarge helium",
+                  ],
+                  "red": ["strike","shutdown","outage","explosion","fire","sanction","export ban","force majeure","offline","halt","missile","drone","shortage"],
+                  "yellow": ["delay","investigation","lawsuit","protest","capacity","expans","cut","maintenance","restart","partial","allocation","surcharge","hormuz"],
+              },
+          }
 
           def fetch_rss(query):
               url = "https://news.google.com/rss/search?q=" + urllib.parse.quote(query) + "&hl=en-US&gl=US&ceid=US:en"
@@ -63,58 +85,56 @@ jobs:
                       items.append({"title": title, "url": link, "source": source, "published_utc": published_utc, "query": query})
               return items
 
-          def risk_flag(title):
+          def risk_flag(title, red, yellow):
               t = title.lower()
-              red = ["strike","greve","shutdown","parada","interdit","outage","explosion","fire","incêndio","sanction","export ban","proibição"]
-              yellow = ["delay","atraso","investigation","investig","fine","multa","lawsuit","protest","protesto","capacity","expans","cut","corte"]
               if any(k in t for k in red): return "red"
               if any(k in t for k in yellow): return "yellow"
               return "green"
 
-          all_items, errors = [], []
-          for q in QUERIES:
-              try:
-                  all_items.extend(fetch_rss(q))
-              except Exception as e:
-                  errors.append(f"{q}: {e}")
-
-          seen, deduped = set(), []
-          for it in all_items:
-              key = re.sub(r"\W+", " ", it["title"].lower()).strip()
-              if key in seen: continue
-              seen.add(key)
-              it["flag"] = risk_flag(it["title"])
-              it["title_en"] = it["title"]
-              it["title_en_source"] = "passthrough"
-              deduped.append(it)
-          deduped.sort(key=lambda x: x.get("published_utc") or "", reverse=True)
-
-          Path("data").mkdir(exist_ok=True)
-          payload = {
-              "as_of_utc": datetime.now(timezone.utc).isoformat(),
-              "source": "google_news_rss",
-              "queries": QUERIES,
-              "item_count": len(deduped),
-              "items": deduped[:40],
-              "errors": errors,
-              "status": "ok" if deduped else "empty",
-          }
-          Path("data/headlines.json").write_text(json.dumps(payload, indent=2, ensure_ascii=False))
-
-          meta_path = Path("data/meta.json")
-          meta = json.loads(meta_path.read_text()) if meta_path.exists() else {}
-          meta["last_headline_fetch_utc"] = payload["as_of_utc"]
-          meta["last_cron_run_utc"] = payload["as_of_utc"]
-          meta["cron"] = "GitHub Actions twice daily (01:00 & 15:00 UTC)"
-          meta_path.write_text(json.dumps(meta, indent=2))
-          print("wrote", len(deduped), "headlines", "errors", errors)
+          stamp = datetime.now(timezone.utc).isoformat()
+          for name, cfg in COMMODITIES.items():
+              all_items, errors = [], []
+              for q in cfg["queries"]:
+                  try:
+                      all_items.extend(fetch_rss(q))
+                  except Exception as e:
+                      errors.append(f"{q}: {e}")
+              seen, deduped = set(), []
+              for it in all_items:
+                  key = re.sub(r"\W+", " ", it["title"].lower()).strip()
+                  if key in seen: continue
+                  seen.add(key)
+                  it["flag"] = risk_flag(it["title"], cfg["red"], cfg["yellow"])
+                  it["title_en"] = it["title"]
+                  it["title_en_source"] = "passthrough"
+                  deduped.append(it)
+              deduped.sort(key=lambda x: x.get("published_utc") or "", reverse=True)
+              cfg["dir"].mkdir(parents=True, exist_ok=True)
+              payload = {
+                  "as_of_utc": stamp,
+                  "source": "google_news_rss",
+                  "commodity": name,
+                  "queries": cfg["queries"],
+                  "item_count": len(deduped),
+                  "items": deduped[:40],
+                  "errors": errors,
+                  "status": "ok" if deduped else "empty",
+              }
+              (cfg["dir"] / "headlines.json").write_text(json.dumps(payload, indent=2, ensure_ascii=False))
+              meta_path = cfg["dir"] / "meta.json"
+              meta = json.loads(meta_path.read_text()) if meta_path.exists() else {}
+              meta["last_headline_fetch_utc"] = stamp
+              meta["last_cron_run_utc"] = stamp
+              meta["cron"] = "GitHub Actions twice daily (01:00 & 15:00 UTC)"
+              meta_path.write_text(json.dumps(meta, indent=2, ensure_ascii=False))
+              print(name, "wrote", len(deduped), "headlines", "errors", errors)
           PY
       - name: Commit refreshed data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/headlines.json data/meta.json
-          git diff --staged --quiet || git commit -m "chore: refresh niobium headlines"
+          git add data/headlines.json data/meta.json data/helium/headlines.json data/helium/meta.json
+          git diff --staged --quiet || git commit -m "chore: refresh niobium and helium headlines"
           git push
 
   deploy:
