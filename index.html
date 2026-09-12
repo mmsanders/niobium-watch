@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#0f1419" />
 <title>Resource Choke Watch</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
 <style>
@@ -129,6 +130,59 @@
   ul.compact li { margin: .2rem 0; }
   a.ext { color: var(--accent); text-decoration: none; }
   a.ext:hover { text-decoration: underline; }
+
+  /* —— Mobile / adaptive —— */
+  html { -webkit-text-size-adjust: 100%; }
+  body { overflow-x: hidden; }
+  .scroll-x { overflow-x: auto; -webkit-overflow-scrolling: touch; margin-top: .75rem; max-width: 100%; }
+  .sig-meta { display: none; }
+  .sites-cards { display: none; gap: .75rem; margin-top: .75rem; }
+  .site-card {
+    background: var(--panel2); border: 1px solid var(--border); border-radius: 10px;
+    padding: .85rem 1rem;
+  }
+  .site-card .site-card-top { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem .65rem; margin-bottom: .45rem; }
+  .site-card .site-name { font-weight: 650; font-size: 1rem; }
+  .site-card .site-share { color: var(--muted); font-size: .86rem; margin: .35rem 0; }
+  .site-card .site-notes { color: var(--muted); font-size: .84rem; margin-top: .45rem; }
+  .site-card .field-label {
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .06em;
+    color: var(--muted); margin: .45rem 0 .2rem;
+  }
+  @media (max-width: 720px) {
+    header {
+      padding: .85rem 1rem; flex-direction: column; align-items: stretch; gap: .55rem;
+      position: sticky; top: 0; z-index: 20; background: #151c25;
+      box-shadow: 0 1px 0 var(--border);
+    }
+    header h1 { font-size: 1.15rem; }
+    header .sub { font-size: .8rem; }
+    .tabs { width: 100%; display: grid; grid-template-columns: 1fr 1fr; gap: .4rem; }
+    .tab { width: 100%; padding: .65rem .5rem; font-size: .95rem; min-height: 44px; }
+    .data-mode { margin-left: 0; align-self: flex-start; }
+    main { padding: .85rem .85rem 2.5rem; gap: 1rem; }
+    .card { padding: .9rem .95rem; border-radius: 10px; }
+    .temp-banner { padding: 1.1rem 1rem 1rem; }
+    .temp-banner .status-huge { font-size: clamp(1.85rem, 11vw, 2.6rem); }
+    .temp-banner .rationale { font-size: .95rem; margin-bottom: .9rem; }
+    .chart-wrap { height: 220px; }
+    .kpi { min-width: calc(50% - .4rem); flex: 1 1 calc(50% - .4rem); }
+    .pulse-chip { min-width: calc(50% - .4rem); flex: 1 1 calc(50% - .4rem); }
+    .bar-label { width: 72px; font-size: .78rem; }
+    .bar-pct { width: 40px; font-size: .78rem; }
+    .signal { grid-template-columns: auto 1fr; gap: .5rem .65rem; }
+    .sig-meta { display: block; margin-top: .25rem; font-size: .75rem; }
+    .signal .sig-meta { grid-column: 2; }
+    .pipe { font-size: .95rem; word-break: break-word; }
+    .desk-only { display: none !important; }
+    .sites-cards { display: grid; }
+    table.responsive { font-size: .82rem; }
+    .section-title { font-size: 1.05rem; }
+  }
+  @media (max-width: 420px) {
+    .kpi, .pulse-chip { min-width: 100%; flex-basis: 100%; }
+    header h1 { font-size: 1.05rem; }
+  }
 </style>
 </head>
 <body>
@@ -154,8 +208,9 @@
     <div class="section-kicker">Section 1</div>
     <div class="section-title">Sites (priority choke map)</div>
     <p class="muted" style="margin-top:0">P0–P3 + Horizon. Shares/capacity from baseline meta where known.</p>
-    <div style="overflow-x:auto; margin-top:.75rem">
-      <table id="sitesTable">
+    <div class="sites-cards" id="sitesCards"></div>
+    <div class="scroll-x desk-only">
+      <table id="sitesTable" class="responsive">
         <thead><tr><th>Pri</th><th>Site</th><th>Share / capacity</th><th>Watch</th><th>Notes</th></tr></thead>
         <tbody></tbody>
       </table>
@@ -189,7 +244,7 @@
       <h2 id="destTitle">Destinations</h2>
       <p class="muted" id="destPeriod" style="margin-top:0"></p>
       <div id="destBars"></div>
-      <div style="overflow-x:auto; margin-top:.75rem">
+      <div class="scroll-x">
         <table id="destTable">
           <thead id="destHead"></thead>
           <tbody></tbody>
@@ -214,7 +269,7 @@
   <section class="card">
     <div class="section-kicker">Section 4</div>
     <div class="section-title">Cadence</div>
-    <div style="overflow-x:auto; margin-top:.5rem">
+    <div class="scroll-x">
       <table id="cadenceTable">
         <thead><tr><th>Freq</th><th>What it covers</th></tr></thead>
         <tbody></tbody>
