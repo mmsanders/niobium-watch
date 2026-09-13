@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-09-12T17:32:03.273574+00:00",
+  "as_of_utc": "2026-09-13T05:43:24.899525+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -15,10 +15,20 @@
       "title": "St George steps up Araxá testing - The Australian",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRFhJZnk2bEREbWJVR1EtUG8zRlZWMUVFSnAxWUFTVlg5b1F0dmdRQkdhcmY2X2s0ZTZ3ZHVTS2Q0SW5oYW8xeWo3RXZrbmR1YnFYMkIzU0ZmdGZ0ZEZPYWE2OFJYclNWQmFubWtzYndDQmtpS0U4ZFViX0JJTGhFRjB6TUNBZWpKN0hUWm5oRlZLZ0lybXo2bmY3U3FmemtoZmxGbDBpWEJBX09FdE8tYXduY1lHTTJRQndzUVJsbG95QjB3d2I2Uzd4cnNQSWVHV2JCQklCd1FZd1RIdGh0SkxCMXZ0d1puV2d1OUVvOVpVbkE1SDZ5SUg3Rk4xM1dlY3VtSDkyRnBxQnJV0gGSAkFVX3lxTE53dVJPYXdxT0dZMWJwalIwMnJRcHVPSm9nMUZ5R0IyZTIza3dndmNMYXZyUkxmVTNFcVYwZzB5TUt5ZHJqOEUxb3pVVG9UNXZHTFNKYmhXdWUtUEdIUy0zWFl1WGtDR01jellCc1JiWWpJZDdqSktRSDE0aFdDYk5pNWJWbEl0djMzREJsUEZmOHJ2WmtydmJjZENQenVsYW8zNV9jMVhWTTF6THVjV1dXRG9yT0p6MndZU0xWUVF3NnpGVUZVV0l6LUpDRHNleHpDRl9NSXRwQnZNVG1NN3FBck92M2RKVmQzRFIza2tfRDZSR0FOMklSZ0JpMG5seVdHS21UOGdZdG1hSFQ5bThybVE?oc=5",
       "source": "The Australian",
-      "published_utc": "2026-09-02T21:18:00+00:00",
+      "published_utc": "2026-09-03T07:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "St George steps up Araxá testing - The Australian",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "NiobiumX Mining Inc. Commences Trading on the Canadian Securities Exchange Under the Symbol \"NIOX\", Completing Its Transition to a Niobium and Rare Earth Exploration Company Focused on Quebec's Saguenay Region - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNV2ZJeFQzSWp0X3QzaV9XbWtyVS14Tmh3SHdUclkzOUFUWThrbWVvLW8zaFJwLWNIa05Kem9VcFBldU1NV1A2MnlXV1FQY2xHRnRwekxBaHpCbnZDaTRUZWJENHgyNlp5RnJxNUxuU0RaZnl6QW13cHNvdDdnZ0JhMy10V0dUWXBocFppOWFsOFJINjdCSm5NTlhzLWVSb3g3aTVsSEk5dHUzbmQ4ZW5DUHhMMmhJRmRuTERoREt5enItbDc0dVBNcWU4SDlNUUoySmNKNjAwaTByN3NQS2UxMDlQZzVxeEhGZ2V6WXF6NnJwbFlXUERXdkczMTY4MllZaXZUb2xkOTJHbGw2eXdpOUlWOTVyVF9xWmpxWU1lR1pCcjVfallpY2VqbDRvZnR0Z0M3clJiRmo0enJFajBWZUl0d2wtZzhmbFozSjdNRm1YZktYUC1ld3NuSjlua2NmbHI4N3ZuY2RBMHNKaldpY3k3aTZMbHE0NFlyLUYxYTJZSXB2ZjFjdlFtbDVOT3RBNC1mMjVkcw?oc=5",
+      "source": "The Globe and Mail",
+      "published_utc": "2026-07-29T07:00:00+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "NiobiumX Mining Inc. Commences Trading on the Canadian Securities Exchange Under the Symbol \"NIOX\", Completing Its Transition to a Niobium and Rare Earth Exploration Company Focused on Quebec's Saguenay Region - The Globe and Mail",
       "title_en_source": "passthrough"
     },
     {
@@ -142,13 +152,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "How a Chinese mining giant learned to win in Brazil - asia.nikkei.com",
+      "title": "How a Chinese mining giant learned to win in Brazil - Nikkei Asia",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVlkwODB4WnhNVHo2Ukc3NmZsT2lyVGRoUWVjUjVXajliXzNRS1c3YXRKWWVtRGhjTjVLOEIxaDhsU2ZGZldjQWFtVmtqb0dISHFmRHhLWmxTVjFIblFkQ3pJNmxIeTBNMEtVRGt5RVlqdHJMdzlkUUZZOHNGZWtVbjJfaVJEblhlTDdnTFo0TGtKMl84TnlV?oc=5",
-      "source": "asia.nikkei.com",
+      "source": "Nikkei Asia",
       "published_utc": "2026-01-04T08:00:00+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
-      "title_en": "How a Chinese mining giant learned to win in Brazil - asia.nikkei.com",
+      "title_en": "How a Chinese mining giant learned to win in Brazil - Nikkei Asia",
       "title_en_source": "passthrough"
     },
     {
@@ -162,23 +172,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Codemig, CBMM renew niobium deal until 2070 - Valor International",
+      "title": "Codemig, CBMM renew niobium deal until 2070 - valorinternational.globo.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUEtzdDB3Tmtpc09yLXE5a1Z6ZUt2cVo0SUZDd2dEX2YwdUEyb0pTRW5fS3JlVkpZNldtUF8teGp0M3BJRVQ0aGJZSGY5eG9Hc3I2d3FhdE82SUd4VWNBazJiVGpDQXI4T2x2azVnYkRUUlRGZmdaMDRsUTJpSHZpOGtOSUxfYzFVdWliZmFrMGpXX3ItMlVJMy1GdXNYTm0wblNKZUFFT2Z0U1Qxbi1R0gG-AUFVX3lxTE40b0JEZXc5MnRPOFQxblFyTzEtZDZXcGRpZDBXUEpTZlZZb1ZuMnZGMWNERlZSWTNTWVZUTHNSOVAwakd4U2xVc2Z2c0h2X1lVSTNzNUZBSGJFSVdtblcyMHd6VlI5MnVXV3NlNjZDeTlqVGJ5VzY3a2lSWVQ3cWNQSFFiWkpnNHlGRUNTVHpLZXpuNWdXUXlfaE9GVVdISUhWS3NFSk1CMlF1U19kR2tQYTJKc25EdEJVNEIwZnc?oc=5",
-      "source": "Valor International",
+      "source": "valorinternational.globo.com",
       "published_utc": "2025-10-31T07:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "Codemig, CBMM renew niobium deal until 2070 - Valor International",
+      "title_en": "Codemig, CBMM renew niobium deal until 2070 - valorinternational.globo.com",
       "title_en_source": "passthrough"
     },
     {
-      "title": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - graphene-info.com",
+      "title": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - Graphene-Info",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzlFLUlsUm9IekZrdXAyN2R1ekx4RHRMeDNCUk9mcHNNdDdocllKTzRBNEM1R0R2ZFBvcnhMMU0zVm1BZGdhQkhnUVV0Y1BlT3piRGhCYWQwS1FFX1pZQU1UM185LWgzOEJBNkk4dHpkTDUxMm1xNkgyZFVJQnNVcE5HTGFzUXE4c2hvb0lXa3R3V09yMndOUHRseF8tT2NDYjl0bU1R?oc=5",
-      "source": "graphene-info.com",
+      "source": "Graphene-Info",
       "published_utc": "2025-10-16T07:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - graphene-info.com",
+      "title_en": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - Graphene-Info",
       "title_en_source": "passthrough"
     },
     {
@@ -262,6 +272,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Summit eyes rich REE and niobium potential at Mundo Novo in Brazil - Stockhead",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMUpyaWNIUTZjQXhHMHh6VUdQcUpWQmhzTlRNQTZSYU5jRVVoWS1PZVF5OWhQRVZMSlZsQUJ2Z0pna3MtcHI2Si1WbHk3cnpSQ1dOOGtSREE5ZW1VTmt0WmlJaTRnbHhMODZTMkFick0wT2NHRkZHVlBScnRGQVZBbDlvYld1SVljeWVkRHpkQXoySVNrVHNiWXhWa0p4UXNsRU5wcw?oc=5",
+      "source": "Stockhead",
+      "published_utc": "2025-01-06T08:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "Summit eyes rich REE and niobium potential at Mundo Novo in Brazil - Stockhead",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Are Chinese investments in Brazilian mining the start of a new wave? - BNamericas",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHl0RE9uVXBJakE0SmRXeWZvZTZqS29WNnRPY3JvNW94Y19ZaVhIMFBzWkZVX2x1Rmp3UnFVQXdHck51RnZiNHFnOWpfRnlDajU2MVZvVkxmblR3UEFDRlhzMVRQWU53NVVvUU5iMDhaSVp2dm1LZ2hpSE1IUEpoajhYSFVLXzZPcTNqZlNYSUVRbGhoTUlKWmstOWdPR3cycDRjZjlfa2ZGUQ?oc=5",
       "source": "BNamericas",
@@ -302,6 +322,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "QuesTek Launches Partnership with CBMM to Advance Material Capabilities with Niobium - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdDE4X1ZYSjlPQXg0WGZjb0I1UXdHOElMY29LUGV0NWlLZXpmYjZQQ2xPTmNoZ2RGV3NBTTg3YmJsZmNWLXg2MkNTQW04MlB5OUt1blk4eUpobElyQmVpOGhBa041WnlzRGFycVo1YjNSS18zQ1JONC02eTFnZk5faks1dVVscS1mUTdyaGhzM1pTRjU2OVF6b3BYZVgwN2N0Vzl4X1gtT3Z3djhNVUtTcUk4U0NBQ01CdXlTVVVvVzE1MmV1MDJDdDZGczd5Tnl3SWMzaFNLQQ?oc=5",
+      "source": "PR Newswire",
+      "published_utc": "2024-07-02T07:00:00+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "flag": "green",
+      "title_en": "QuesTek Launches Partnership with CBMM to Advance Material Capabilities with Niobium - PR Newswire",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Toshiba, Sojitz and CBMM Unveil an Ultra-Fast Charging Electric Bus Prototype Powered by Next-Generation Lithium-ion Batteries with Niobium Titanium Oxide Anodes - global.toshiba",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YM0kyVzdpWDlMcWFYaFZ0SUlWMldzb0J5WnE3SEpJaE5mOXFyWlFRdGF1ZWhISzdVWU1NdTB4eXpHVmpVdGRPVW9paWhHU1A3S0w1Y0pfRkV4UUd5WGR2c3FnblY4dmZKaUVFeElnZUFZZ2tJbDRrT2NSMFhsdFU?oc=5",
       "source": "global.toshiba",
@@ -322,13 +352,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "International trade in critical raw materials - European Commission",
+      "title": "International trade in critical raw materials - ec.europa.eu",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTRYTkZNQ09CYWhnczNsS2tBQ2Q0MzBhbFVxamxRVUpZT3A3eEFDUkpORmN1alhjOWV1M0ZmTndObnVucXJ5OTVRWDlVbUlaaURLMjhYbEZPbzhZa2xvUlBhYUk0dkU1bVhTb2dKSWFvbF9Db1lxakQ3Q3Jyc1M5eElmT3ZOTk1tVGZsUzNwbzgyb3pkWDhCNXJFd3NGS0NNTDJTRVRnclFMc2lTNkswUnl3?oc=5",
-      "source": "European Commission",
+      "source": "ec.europa.eu",
       "published_utc": "2023-11-06T11:53:15+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "International trade in critical raw materials - European Commission",
+      "title_en": "International trade in critical raw materials - ec.europa.eu",
       "title_en_source": "passthrough"
     },
     {
@@ -352,16 +382,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Noble Completes Acquisition of Nagagami Claims near Hearst, Ontario - Investing News Network",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNemlPQ2hFc2Z2Szg2SGMtdk1SUUQxR05PbmIxeUdENGdTYjRScnRhdi1GWkNXZ3Z3WTMxU096dEc5SUQ3RWl3OVR3TDdxQ1hMOGE4dUtZeUYxMHdpN3VITjcxbVN0WmJsNmdOZHlWMVdVOHpTelE5YkhON0QxeTZpNkV6V0M4eElUSmpZN3gwZ20xcENYVHBQRg?oc=5",
-      "source": "Investing News Network",
-      "published_utc": "2022-04-06T07:00:00+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "Noble Completes Acquisition of Nagagami Claims near Hearst, Ontario - Investing News Network",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR181N2xrZ1N4Wkh1OUdzWHgxamw4NWR3dnZQclNITXBLTUNNTlBkbzJPek1QdHRtc21PemhXUEo3RzJFYWtyMHFCcmdtc1N5OVhzY3ZaSGp5bjV3ZWRCemM3V0tXbENaaGgyQnFQMlBySE5LelFjT2FwYWZpQkdwZ1Njc2ZMTURQeFlQQUZZVC1jbUtmOHN3WXludF9raTJ0ZjhBSmpuamNtelVIdmtocHVrMll1QWsxajFFY0tRTEpEZTN6NHRuOG90M3k2WUFjWnhDTU5EeUtWRGdSeVBOVnRpSmJmV2J0SUdseUdVYw?oc=5",
       "source": "Investing News Network",
@@ -382,16 +402,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - 3ds.com",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMU5iMGYzYzNYM0NlVWtCU28xbVpsX2VlcjNoazAyeGY2WnByLWF4ZFVGSGg3SjVyTHp6VkNDSFFzS2phM0h1VFl4NEV6VDNnN2JKSVlyVTIwRl91MUNUa0QyX1Z1dm56SV95dFpEMzUxTTEtTFpQUGlxNWlWNHZYWDJhOEZLTVZNVG1CbnZmR0Nqem82NXdYVmVkMDhIUzVRZWFCOFI2OUd1UHc0bHo0VF9rSkVla3BsUWJucGNPWjhjcnBHT2xwbVVYc2hpR3F0TlBqVURxUVZ0T29iWWx2d2owSVk1cmFPTUFTUjdlaGxZSGV0THhRanRuOThWeXFrb081R3dfS0ZJSjRt?oc=5",
-      "source": "3ds.com",
-      "published_utc": "2021-02-10T08:00:00+00:00",
-      "query": "CBMM nióbio OR ferronióbio OR niobium",
-      "flag": "green",
-      "title_en": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - 3ds.com",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "The niobium controversy - Revista Pesquisa Fapesp",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FVWl0RHdLelZZdWhwREJmejhqdjdBblVFVXZlVlZWaXJyenBLSDVEMmpEb3RRZnYxc2xaR2kzdXZnSmwwMkk1S3FSZFRvNmhucVJyZEpBQURmemFSOFNBdktDbm9WNDNIaG1LcHYwQUI?oc=5",
       "source": "Revista Pesquisa Fapesp",
@@ -399,16 +409,6 @@
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
       "title_en": "The niobium controversy - Revista Pesquisa Fapesp",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Boston Metal to trial molten oxide electrolysis on CBMM ore - International Mining",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2lLT1NJVXdmV2VpRnRKTThfRmdmVWlPSDQ3OEVZWjB5d01JRVJSVWcwTmgxUmlCb095dzBZTnRqRnZGb2tVS2wzZ25DNWtfZUtrWUhOS0pzeGFuRWpoVUtxdmNTZTF4aG1fT1oxdENhYW1mY2RoaThzbDFYbmtodUp1MHY1YW1Ea3UxX0dCNk1JRTZJOHpRZg?oc=5",
-      "source": "International Mining",
-      "published_utc": "2020-05-04T07:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "Boston Metal to trial molten oxide electrolysis on CBMM ore - International Mining",
       "title_en_source": "passthrough"
     }
   ],
