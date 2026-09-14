@@ -1,7 +1,7 @@
 {
   "commodity": "palladium",
   "as_of_utc": "2026-09-12T21:31:05.083214+00:00",
-  "dashboard_as_of": "2026-09-12",
+  "dashboard_as_of": "2026-09-14",
   "unit": "kilograms (palladium content)",
   "unit_label": "kg",
   "y_label": "kg Pd",
@@ -11,7 +11,10 @@
   "pulse_title": "Supply pulse — USGS world mine production (kg Pd, annual)",
   "concentration": {
     "label": "Russia + South Africa",
-    "countries": ["Russia", "South Africa"],
+    "countries": [
+      "Russia",
+      "South Africa"
+    ],
     "watch_note": "two-country mine choke"
   },
   "product": {
@@ -107,7 +110,7 @@
   "destinations": {
     "us_imports_2021_24": {
       "period": "2021–24 (USGS MCS 2026 import sources)",
-      "note": "Share of US palladium imports, not of world mine production. Post-July 2025 AD/CVD petition froze new Russian imports into the US (JM PGM Market Report 2026).",
+      "note": "Share of US palladium imports, not of world mine production. Jul 2025 AD/CVD petition froze RU flows temporarily; USITC 29 May 2026 negative injury determination means Commerce will not issue AD/CVD orders (USITC Pub. 5749).",
       "countries": [
         {"country": "South Africa", "share_kg_pct": 37, "tonnes": null, "fob_usd": null},
         {"country": "Russia", "share_kg_pct": 36, "tonnes": null, "fob_usd": null},
