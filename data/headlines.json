@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-09-15T18:35:06.399965+00:00",
+  "as_of_utc": "2026-09-16T05:41:46.783324+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -32,13 +32,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
+      "title": "Critical Minerals: Global Niobium Supply & Demand - geopoliticalmonitor.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFp0OWk4LXFCYWNuMnVIZVN4LVFfbC1JZmdSRUVzUnZicDRVZ0FtTmh0UzBVQUh0a0w0cm55YWFuWk1VN04yNVlqTnlYbXFMc0w1Mno3VlYyUHRRanNJNjhOZzNJUGx1REZiM19xZE01YlRzTkRvRG4xcUlwRWtyYTczMXdWcDRTaWNB?oc=5",
-      "source": "Geopolitical Monitor",
+      "source": "geopoliticalmonitor.com",
       "published_utc": "2026-07-10T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
+      "title_en": "Critical Minerals: Global Niobium Supply & Demand - geopoliticalmonitor.com",
       "title_en_source": "passthrough"
     },
     {
@@ -59,16 +59,6 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "St George appoints Worley to advance Araxá feasibility work - Proactive financial news",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZlhGZUJENnB6OERQc05nZ0NoQlVIRGZqYk5qZkV1eXBoT0wta2RQM1FIYk5zR3RkVWdaMENVUTQzYmFGT2FNTFZTdjFldmg5dF9Ta2NsVmY5RndzY0RtT3kxZ3UxN2VoUTBRbUlBWGVPaVNtTXpuYllIYk5Jd0ktbEQ0a1BTZG0tMjE5blRrZTZDWjhaaFJPMDFrc0M1NUVLQTA3UDRIbDlBTHoxTXcwQ25CdGtabE53OG5DTUlVVUlWYlE2ZG1MaUFB?oc=5",
-      "source": "Proactive financial news",
-      "published_utc": "2026-05-05T07:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "St George appoints Worley to advance Araxá feasibility work - Proactive financial news",
       "title_en_source": "passthrough"
     },
     {
@@ -132,6 +122,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "St George Mining 'poised to redefine Araxá' - Mining Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanV0alpGcmlZX1Q2QnhGLV9Xcm1JWkJNb1I5ek5zOW43U0R2VERCX1ZodUZtVTd1c2p6S0NIRzRWNEVzOGRxOERPZWZFRzcyNzlyUnlHR3FLdWgzTkkxSlpGT3NxMmtVRnhKQ3ZZRGI4Xzh3bm5saUZzUmk0SjdsWEJpU2VlV0ZVRzVGMEJ5dWZqcVBucW85VTZNV3Vxa0xtZUE?oc=5",
+      "source": "Mining Magazine",
+      "published_utc": "2026-02-11T08:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "yellow",
+      "title_en": "St George Mining 'poised to redefine Araxá' - Mining Magazine",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "How a Chinese mining giant learned to win in Brazil - Nikkei Asia",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVlkwODB4WnhNVHo2Ukc3NmZsT2lyVGRoUWVjUjVXajliXzNRS1c3YXRKWWVtRGhjTjVLOEIxaDhsU2ZGZldjQWFtVmtqb0dISHFmRHhLWmxTVjFIblFkQ3pJNmxIeTBNMEtVRGt5RVlqdHJMdzlkUUZZOHNGZWtVbjJfaVJEblhlTDdnTFo0TGtKMl84TnlV?oc=5",
       "source": "Nikkei Asia",
@@ -162,13 +162,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - Graphene-Info",
+      "title": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - graphene-info.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzlFLUlsUm9IekZrdXAyN2R1ekx4RHRMeDNCUk9mcHNNdDdocllKTzRBNEM1R0R2ZFBvcnhMMU0zVm1BZGdhQkhnUVV0Y1BlT3piRGhCYWQwS1FFX1pZQU1UM185LWgzOEJBNkk4dHpkTDUxMm1xNkgyZFVJQnNVcE5HTGFzUXE4c2hvb0lXa3R3V09yMndOUHRseF8tT2NDYjl0bU1R?oc=5",
-      "source": "Graphene-Info",
+      "source": "graphene-info.com",
       "published_utc": "2025-10-16T07:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - Graphene-Info",
+      "title_en": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - graphene-info.com",
       "title_en_source": "passthrough"
     },
     {
@@ -272,13 +272,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - electrichybridvehicletechnology.com",
+      "title": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - Electric & Hybrid Vehicle Technology International",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVHZDR1d4MFJDTnFHb2RFMnFEZGxoUGpmbmhpVm1Yem1Sb2NhQzl6SmtzM2hFM1FvVTVtcjlXbHNQYnNUR2tMcnBITW9SMUg3NGMtcDRsTlU5eERpVEFicUFQMU5CbUNlUkJmUGxBS29OSGZZcXpUc2RTR0wtT2dGYXR4bXJ6bmYwVElvMVRwWnVNamxEMVRwVzFITUVwOXd6ZXc2RHB0LTVKLVNZckR3Q3BKa0tXeWtiNEpGYVp6dDE2WHVvcnFmYS13V09Sc2hySmVuTmZLbVVRdw?oc=5",
-      "source": "electrichybridvehicletechnology.com",
+      "source": "Electric & Hybrid Vehicle Technology International",
       "published_utc": "2024-11-21T08:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - electrichybridvehicletechnology.com",
+      "title_en": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - Electric & Hybrid Vehicle Technology International",
       "title_en_source": "passthrough"
     },
     {
@@ -352,13 +352,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "SLAM Exploration Acquires New Niobium Critical Mineral Project - Junior Mining Network",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWmlCR0JzWUdHdW03US1aeGhhNHBHdWpwemhtM2JHZ0dLNHhpb2RnOWRDVEJWWlVzU1JjaVdGSVN4dEdmZjQ0dzhkLW05VFdsOXVzSGJJU01KQW85MnlXRlk4N19zSjVHVWhUYkp3dlo5ZDRXN21YazJTV29ZSVpOUDVhT3ROMEtkMG1EcWp6eVdRMzkwOTBwVjJrUDBsMmlqSm9iUGItdk9fNmMyWTh0UmhrbHFvY0t6YUZ4b1I4V04xT013bjBsWlFEb2FjVEFzeS03Z04yZkYxMk1BZmZSY3hkd25HRzNLdkxHWFcySnlFalVhTGc?oc=5",
-      "source": "Junior Mining Network",
-      "published_utc": "2023-10-25T07:00:00+00:00",
+      "title": "Noble Completes Acquisition of Nagagami Claims near Hearst, Ontario - Investing News Network",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNemlPQ2hFc2Z2Szg2SGMtdk1SUUQxR05PbmIxeUdENGdTYjRScnRhdi1GWkNXZ3Z3WTMxU096dEc5SUQ3RWl3OVR3TDdxQ1hMOGE4dUtZeUYxMHdpN3VITjcxbVN0WmJsNmdOZHlWMVdVOHpTelE5YkhON0QxeTZpNkV6V0M4eElUSmpZN3gwZ20xcENYVHBQRg?oc=5",
+      "source": "Investing News Network",
+      "published_utc": "2022-04-06T07:00:00+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "SLAM Exploration Acquires New Niobium Critical Mineral Project - Junior Mining Network",
+      "title_en": "Noble Completes Acquisition of Nagagami Claims near Hearst, Ontario - Investing News Network",
       "title_en_source": "passthrough"
     },
     {
