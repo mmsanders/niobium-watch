@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-09-16T18:33:18.726679+00:00",
+  "as_of_utc": "2026-09-17T05:51:13.102379+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -52,13 +52,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - nextinvestors.com",
+      "title": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQczJON05BR3h4aXBLT2pnWGVzMF95NXhEdVE4QlpGc0NRV2VWdHcxSnZjSTYxc1lyY2ZSNGNCQ0VmcHhxLWlPamx5QVRoeVp4anJacUduN1d5WnlnV05xVlYzakJmNW5wWHFKdzNzclc1TU9ienh4QWs2VVdOUG8ybXgwTlY2NjBkZE1fT2ZNdnBHblh6VnIxeTVmSUZKNzJ5Q0Q5TWRsT3JBUVhUcTVucVFlT3ZWa3RCeVZRS2pnN2Zkd1RTLVNsMlNfTlJHYVhn?oc=5",
-      "source": "nextinvestors.com",
+      "source": "Next Investors",
       "published_utc": "2026-06-11T07:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - nextinvestors.com",
+      "title_en": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
       "title_en_source": "passthrough"
     },
     {
@@ -132,16 +132,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Empresa dos EUA negocia offtake de até 40% em projeto de terras raras em MG - CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaWlXSzlTUFE5Y1dKMG8wUldoOEUzdDBnaHpXQWQ4QzdBMzlzbDFlMnZIUWF6aWxWUDE4RUwwOTAzWUVFSHRMVGo4WkM3dEhBNFE1SWFhaHE2eF9Ndk8wWDRjOUo3YzZzUmpoT2MyY1hKbEJhM1BMRUtaZ2MtV2dEWE5iRkdJcXYwSExOWVhxTTFqc21MTmtpcExORmQyaXZ2M1Z6RmtIQzFDZEJZbGdiakhJdGxfRlBidUxzcVA0cE5aaHhDV2R3?oc=5",
-      "source": "CNN Brasil",
-      "published_utc": "2026-01-22T08:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "Empresa dos EUA negocia offtake de até 40% em projeto de terras raras em MG - CNN Brasil",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "How a Chinese mining giant learned to win in Brazil - Nikkei Asia",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVlkwODB4WnhNVHo2Ukc3NmZsT2lyVGRoUWVjUjVXajliXzNRS1c3YXRKWWVtRGhjTjVLOEIxaDhsU2ZGZldjQWFtVmtqb0dISHFmRHhLWmxTVjFIblFkQ3pJNmxIeTBNMEtVRGt5RVlqdHJMdzlkUUZZOHNGZWtVbjJfaVJEblhlTDdnTFo0TGtKMl84TnlV?oc=5",
       "source": "Nikkei Asia",
@@ -172,13 +162,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - Graphene-Info",
+      "title": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - graphene-info.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzlFLUlsUm9IekZrdXAyN2R1ekx4RHRMeDNCUk9mcHNNdDdocllKTzRBNEM1R0R2ZFBvcnhMMU0zVm1BZGdhQkhnUVV0Y1BlT3piRGhCYWQwS1FFX1pZQU1UM185LWgzOEJBNkk4dHpkTDUxMm1xNkgyZFVJQnNVcE5HTGFzUXE4c2hvb0lXa3R3V09yMndOUHRseF8tT2NDYjl0bU1R?oc=5",
-      "source": "Graphene-Info",
+      "source": "graphene-info.com",
       "published_utc": "2025-10-16T07:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - Graphene-Info",
+      "title_en": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - graphene-info.com",
       "title_en_source": "passthrough"
     },
     {
@@ -232,13 +222,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "In 2016, A $1.7 Billion Deal For Brazilian Niobium And Phosphate Mines Sealed The Battle Between Chinese CMOC's Expansion And Anglo American's Contraction - CPG Click Oil and Gas",
+      "title": "In 2016, A $1.7 Billion Deal For Brazilian Niobium And Phosphate Mines Sealed The Battle Between Chinese CMOC's Expansion And Anglo American's Contraction - en.clickpetroleoegas.com.br",
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPS3RCNlFUcXZQaWdibFBvbVdnOEhLdnpHVHBTcFFpbGExMFgzUERnV1cwb3ZCMkNIWTZtNnJYRUhuc09kZ1k0RXlKLWg2N0F1RWRnZkdFWVplRkw1YmNrcENUcHA1YjhFcmhIazlPMGJ5bUxtRHVFV29wRm1aako5STVGTnBLQlZJSUhwTUF0cm9BMHVZMHJpQlJpczNiX01ZN0VjaUhjQzYyQTRzdzduaWtZTjZSZlV2WloyYWZPNGkybHg4NnNiU2Y1QzR3cmdwWC1XcmtsMXZyQzZGZ2d2VFU3T0xsN3NFUmZZN2FCcmduMndsZVg0WWNuTGVfbENqeWU0ZGxFTjU3dnA5WEhRbHAtVlREVjJfemhEZHE5NjJ4MUYzTVJHaU1B?oc=5",
-      "source": "CPG Click Oil and Gas",
+      "source": "en.clickpetroleoegas.com.br",
       "published_utc": "2025-06-26T07:00:00+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "yellow",
-      "title_en": "In 2016, A $1.7 Billion Deal For Brazilian Niobium And Phosphate Mines Sealed The Battle Between Chinese CMOC's Expansion And Anglo American's Contraction - CPG Click Oil and Gas",
+      "title_en": "In 2016, A $1.7 Billion Deal For Brazilian Niobium And Phosphate Mines Sealed The Battle Between Chinese CMOC's Expansion And Anglo American's Contraction - en.clickpetroleoegas.com.br",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "The Discovery of Niobium in Araxá That Revealed Brazil Has Reserves for Up to 200 Years of Global Demand and Generates Over $2 Billion Annually in Exports - en.clickpetroleoegas.com.br",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOeUV0QjFfb3huS2lZNFdneGdKWVZidF9xX3hLZFhKcUFDcm1vdDBUYlBQdDFlbzdWQTl1dlRPNDlXX0dZdmc3dW1RLUNvUGthZG1Eb0V0T2xZTXJoU0xFWVZOVTh6ak1vVFJwcFAxQ0dvM1ZSdnRNTjJHNFF3OHpDUGdXLVYxbnhVZ3oybjB0THAybXJMOEV0NVBVTGtrbFBYSnRLSV9JdF9EVy1MdlFLNFhBUUY4MWVrczNfbEtxaVBfd3Yya0kzc0R5ZEJCaTk2Tk1Wcm8xNmhlQTRYX0hfdm9TRE5yVWxSQmgxaFFqNEtNZ3hZVld0OFFnM0ZScjcwX0tNYk41SkRYZU4ycTdzbG1yOVAxeUxZUzhyZw?oc=5",
+      "source": "en.clickpetroleoegas.com.br",
+      "published_utc": "2025-05-31T07:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "The Discovery of Niobium in Araxá That Revealed Brazil Has Reserves for Up to 200 Years of Global Demand and Generates Over $2 Billion Annually in Exports - en.clickpetroleoegas.com.br",
       "title_en_source": "passthrough"
     },
     {
@@ -252,13 +252,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Ex-CBMM Niobium Boss Ricardo Maximo Nardi Joins SGQ - nextinvestors.com",
+      "title": "Ex-CBMM Niobium Boss Ricardo Maximo Nardi Joins SGQ - Next Investors",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGJ5Q1lPUkxvd01NaVVZQTVSY1ZUanJRbDJpYS00WWpwVDEyZWFEQjZGRGh6d2NaNl9CVmxuR096a2xsUkpPVTRqRWtXVTN4SWFzMlBMTGtzSGVFT1JyanJYQjlUdmc2anNvVXA3TVgzbFM3X3VFS2ZzZHF3OUN1MnhMeEFTbzJBMEVjUksyamZkaWZT?oc=5",
-      "source": "nextinvestors.com",
+      "source": "Next Investors",
       "published_utc": "2025-02-03T08:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
-      "title_en": "Ex-CBMM Niobium Boss Ricardo Maximo Nardi Joins SGQ - nextinvestors.com",
+      "title_en": "Ex-CBMM Niobium Boss Ricardo Maximo Nardi Joins SGQ - Next Investors",
       "title_en_source": "passthrough"
     },
     {
@@ -312,16 +312,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "QuesTek Launches Partnership with CBMM to Advance Material Capabilities with Niobium - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdDE4X1ZYSjlPQXg0WGZjb0I1UXdHOElMY29LUGV0NWlLZXpmYjZQQ2xPTmNoZ2RGV3NBTTg3YmJsZmNWLXg2MkNTQW04MlB5OUt1blk4eUpobElyQmVpOGhBa041WnlzRGFycVo1YjNSS18zQ1JONC02eTFnZk5faks1dVVscS1mUTdyaGhzM1pTRjU2OVF6b3BYZVgwN2N0Vzl4X1gtT3Z3djhNVUtTcUk4U0NBQ01CdXlTVVVvVzE1MmV1MDJDdDZGczd5Tnl3SWMzaFNLQQ?oc=5",
-      "source": "PR Newswire",
-      "published_utc": "2024-07-02T07:00:00+00:00",
-      "query": "CBMM nióbio OR ferronióbio OR niobium",
-      "flag": "green",
-      "title_en": "QuesTek Launches Partnership with CBMM to Advance Material Capabilities with Niobium - PR Newswire",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Toshiba, Sojitz and CBMM Unveil an Ultra-Fast Charging Electric Bus Prototype Powered by Next-Generation Lithium-ion Batteries with Niobium Titanium Oxide Anodes - global.toshiba",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YM0kyVzdpWDlMcWFYaFZ0SUlWMldzb0J5WnE3SEpJaE5mOXFyWlFRdGF1ZWhISzdVWU1NdTB4eXpHVmpVdGRPVW9paWhHU1A3S0w1Y0pfRkV4UUd5WGR2c3FnblY4dmZKaUVFeElnZUFZZ2tJbDRrT2NSMFhsdFU?oc=5",
       "source": "global.toshiba",
@@ -359,6 +349,16 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - 3ds.com",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMU5iMGYzYzNYM0NlVWtCU28xbVpsX2VlcjNoazAyeGY2WnByLWF4ZFVGSGg3SjVyTHp6VkNDSFFzS2phM0h1VFl4NEV6VDNnN2JKSVlyVTIwRl91MUNUa0QyX1Z1dm56SV95dFpEMzUxTTEtTFpQUGlxNWlWNHZYWDJhOEZLTVZNVG1CbnZmR0Nqem82NXdYVmVkMDhIUzVRZWFCOFI2OUd1UHc0bHo0VF9rSkVla3BsUWJucGNPWjhjcnBHT2xwbVVYc2hpR3F0TlBqVURxUVZ0T29iWWx2d2owSVk1cmFPTUFTUjdlaGxZSGV0THhRanRuOThWeXFrb081R3dfS0ZJSjRt?oc=5",
+      "source": "3ds.com",
+      "published_utc": "2021-02-10T08:00:00+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "flag": "green",
+      "title_en": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - 3ds.com",
       "title_en_source": "passthrough"
     },
     {
