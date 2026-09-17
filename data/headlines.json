@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-09-17T05:51:13.102379+00:00",
+  "as_of_utc": "2026-09-17T18:41:29.498979+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 45,
+  "item_count": 46,
   "items": [
     {
       "title": "St George steps up Araxá testing - The Australian",
@@ -19,6 +19,16 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "St George steps up Araxá testing - The Australian",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "CBMM, St. George clash over mining rights and dam safety in Brazil - Valor International",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaDVORGpTUW5pSXpKbENMOFU1ZUZseThGX3B3YjFVOEJaaGxKeHk3MkxVLWRvRXZNNnM3NmRCb2tpWjBJbVgzSWVYdldZdFJLNXkyek9oSHQ5WHZSdUJlck5obzRBakwxRWk3YXlhQ1hKU0ZFR25rQ0RlRG5qcFQxNFdBY1RJTXhZQ3B5YUtURUpFYkZJbVI0QzNEc1hwSmpONUR0ZzZDTFR3NnBSaGFmanJjVGxUbnkxdnc2UXJDZlEwYXNxN005bkd4MkPSAdsBQVVfeXFMTkNjTWJsZDg4aW9IWFRsTmFQT2h1V25feklSS2hYaS04VUtZVzRIcU9OMFVsMzdWNWRPanJrNVVyZVpySVFfTExNQWJmcUtoa2RNNzVCemd1TzdxbDBWdjdrNHZPenNXeEhveXVyUDlNaVR5aG1EV1RhUV9wbExvTWJtOXFiVTlPMGZoOGdMVlpMS2ZiY2JoMFQwcHhOR0xBQTJZYWM4R3JDV0k4N1VFbE5hWF9yQzlxd3Ffempxb2RGZDdIY1JDOUktTEJIQUFDYzBsUS1jaFlEVDJr?oc=5",
+      "source": "Valor International",
+      "published_utc": "2026-08-11T07:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "CBMM, St. George clash over mining rights and dam safety in Brazil - Valor International",
       "title_en_source": "passthrough"
     },
     {
@@ -122,13 +132,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "St George Mining 'poised to redefine Araxá' - Mining Magazine",
+      "title": "St George Mining 'poised to redefine Araxá' - miningmagazine.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanV0alpGcmlZX1Q2QnhGLV9Xcm1JWkJNb1I5ek5zOW43U0R2VERCX1ZodUZtVTd1c2p6S0NIRzRWNEVzOGRxOERPZWZFRzcyNzlyUnlHR3FLdWgzTkkxSlpGT3NxMmtVRnhKQ3ZZRGI4Xzh3bm5saUZzUmk0SjdsWEJpU2VlV0ZVRzVGMEJ5dWZqcVBucW85VTZNV3Vxa0xtZUE?oc=5",
-      "source": "Mining Magazine",
+      "source": "miningmagazine.com",
       "published_utc": "2026-02-11T08:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "yellow",
-      "title_en": "St George Mining 'poised to redefine Araxá' - Mining Magazine",
+      "title_en": "St George Mining 'poised to redefine Araxá' - miningmagazine.com",
       "title_en_source": "passthrough"
     },
     {
@@ -162,13 +172,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - graphene-info.com",
+      "title": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - Graphene-Info",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzlFLUlsUm9IekZrdXAyN2R1ekx4RHRMeDNCUk9mcHNNdDdocllKTzRBNEM1R0R2ZFBvcnhMMU0zVm1BZGdhQkhnUVV0Y1BlT3piRGhCYWQwS1FFX1pZQU1UM185LWgzOEJBNkk4dHpkTDUxMm1xNkgyZFVJQnNVcE5HTGFzUXE4c2hvb0lXa3R3V09yMndOUHRseF8tT2NDYjl0bU1R?oc=5",
-      "source": "graphene-info.com",
+      "source": "Graphene-Info",
       "published_utc": "2025-10-16T07:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - graphene-info.com",
+      "title_en": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - Graphene-Info",
       "title_en_source": "passthrough"
     },
     {
@@ -202,13 +212,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Research centers and companies in Brazil finding new applications for niobium - Revista Pesquisa Fapesp",
+      "title": "Research centers and companies in Brazil finding new applications for niobium - revistapesquisa.fapesp.br",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSkpJZGZuUEE3aDlMakNMdEM5NVJaaWpTZzhlNVNsTVRyXzBEekdTOFY0TlBMeU9aVzdobkN6dFhNQ1RSWm9DbE9DYnJSMU1XSDZWZzRUWl9tR2FWT2tST1BHQUtYeE9LekRJZnVkYy1mU1FmTHp1YkVWck9ydjJWOVE5blRoX2VEOUg5M3pLUVpTSVN3MFpaYThOWE1YV2c5QUVXRnN0NUp4UG9VVHVNY0tNc1FyUQ?oc=5",
-      "source": "Revista Pesquisa Fapesp",
+      "source": "revistapesquisa.fapesp.br",
       "published_utc": "2025-08-26T00:20:55+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
-      "title_en": "Research centers and companies in Brazil finding new applications for niobium - Revista Pesquisa Fapesp",
+      "title_en": "Research centers and companies in Brazil finding new applications for niobium - revistapesquisa.fapesp.br",
       "title_en_source": "passthrough"
     },
     {
@@ -222,23 +232,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "In 2016, A $1.7 Billion Deal For Brazilian Niobium And Phosphate Mines Sealed The Battle Between Chinese CMOC's Expansion And Anglo American's Contraction - en.clickpetroleoegas.com.br",
+      "title": "In 2016, A $1.7 Billion Deal For Brazilian Niobium And Phosphate Mines Sealed The Battle Between Chinese CMOC's Expansion And Anglo American's Contraction - CPG Click Oil and Gas",
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPS3RCNlFUcXZQaWdibFBvbVdnOEhLdnpHVHBTcFFpbGExMFgzUERnV1cwb3ZCMkNIWTZtNnJYRUhuc09kZ1k0RXlKLWg2N0F1RWRnZkdFWVplRkw1YmNrcENUcHA1YjhFcmhIazlPMGJ5bUxtRHVFV29wRm1aako5STVGTnBLQlZJSUhwTUF0cm9BMHVZMHJpQlJpczNiX01ZN0VjaUhjQzYyQTRzdzduaWtZTjZSZlV2WloyYWZPNGkybHg4NnNiU2Y1QzR3cmdwWC1XcmtsMXZyQzZGZ2d2VFU3T0xsN3NFUmZZN2FCcmduMndsZVg0WWNuTGVfbENqeWU0ZGxFTjU3dnA5WEhRbHAtVlREVjJfemhEZHE5NjJ4MUYzTVJHaU1B?oc=5",
-      "source": "en.clickpetroleoegas.com.br",
+      "source": "CPG Click Oil and Gas",
       "published_utc": "2025-06-26T07:00:00+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "yellow",
-      "title_en": "In 2016, A $1.7 Billion Deal For Brazilian Niobium And Phosphate Mines Sealed The Battle Between Chinese CMOC's Expansion And Anglo American's Contraction - en.clickpetroleoegas.com.br",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "The Discovery of Niobium in Araxá That Revealed Brazil Has Reserves for Up to 200 Years of Global Demand and Generates Over $2 Billion Annually in Exports - en.clickpetroleoegas.com.br",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOeUV0QjFfb3huS2lZNFdneGdKWVZidF9xX3hLZFhKcUFDcm1vdDBUYlBQdDFlbzdWQTl1dlRPNDlXX0dZdmc3dW1RLUNvUGthZG1Eb0V0T2xZTXJoU0xFWVZOVTh6ak1vVFJwcFAxQ0dvM1ZSdnRNTjJHNFF3OHpDUGdXLVYxbnhVZ3oybjB0THAybXJMOEV0NVBVTGtrbFBYSnRLSV9JdF9EVy1MdlFLNFhBUUY4MWVrczNfbEtxaVBfd3Yya0kzc0R5ZEJCaTk2Tk1Wcm8xNmhlQTRYX0hfdm9TRE5yVWxSQmgxaFFqNEtNZ3hZVld0OFFnM0ZScjcwX0tNYk41SkRYZU4ycTdzbG1yOVAxeUxZUzhyZw?oc=5",
-      "source": "en.clickpetroleoegas.com.br",
-      "published_utc": "2025-05-31T07:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "The Discovery of Niobium in Araxá That Revealed Brazil Has Reserves for Up to 200 Years of Global Demand and Generates Over $2 Billion Annually in Exports - en.clickpetroleoegas.com.br",
+      "title_en": "In 2016, A $1.7 Billion Deal For Brazilian Niobium And Phosphate Mines Sealed The Battle Between Chinese CMOC's Expansion And Anglo American's Contraction - CPG Click Oil and Gas",
       "title_en_source": "passthrough"
     },
     {
@@ -352,23 +352,33 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - 3ds.com",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMU5iMGYzYzNYM0NlVWtCU28xbVpsX2VlcjNoazAyeGY2WnByLWF4ZFVGSGg3SjVyTHp6VkNDSFFzS2phM0h1VFl4NEV6VDNnN2JKSVlyVTIwRl91MUNUa0QyX1Z1dm56SV95dFpEMzUxTTEtTFpQUGlxNWlWNHZYWDJhOEZLTVZNVG1CbnZmR0Nqem82NXdYVmVkMDhIUzVRZWFCOFI2OUd1UHc0bHo0VF9rSkVla3BsUWJucGNPWjhjcnBHT2xwbVVYc2hpR3F0TlBqVURxUVZ0T29iWWx2d2owSVk1cmFPTUFTUjdlaGxZSGV0THhRanRuOThWeXFrb081R3dfS0ZJSjRt?oc=5",
-      "source": "3ds.com",
-      "published_utc": "2021-02-10T08:00:00+00:00",
-      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "title": "Redpath completes largest raisebore by volume in the Americas at Niobec niobium mine in Quebec - International Mining",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVp6VTlOa0ZLMmo2amVzVjYxMm9zWXA3eU45UlpDSWtsREFsZWJKamdsZXRyQVRtaW9zUW11WC1DYlFUTS0zV0hyNFZMT25QRjdfMGtkSDdhRWJTdUE4U25aYlU4ZE1kTmtnOG5pempQREhidVZsRTVZazVHcGplTDljbXJMRFNyQ1ZDMVR3TldJdENfenVJNnBMMTJ4dFVRbXl3ZUkyLUVKVklfc3BvSWtR?oc=5",
+      "source": "International Mining",
+      "published_utc": "2021-02-11T08:00:00+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - 3ds.com",
+      "title_en": "Redpath completes largest raisebore by volume in the Americas at Niobec niobium mine in Quebec - International Mining",
       "title_en_source": "passthrough"
     },
     {
-      "title": "The niobium controversy - Revista Pesquisa Fapesp",
+      "title": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - Dassault Systèmes",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMU5iMGYzYzNYM0NlVWtCU28xbVpsX2VlcjNoazAyeGY2WnByLWF4ZFVGSGg3SjVyTHp6VkNDSFFzS2phM0h1VFl4NEV6VDNnN2JKSVlyVTIwRl91MUNUa0QyX1Z1dm56SV95dFpEMzUxTTEtTFpQUGlxNWlWNHZYWDJhOEZLTVZNVG1CbnZmR0Nqem82NXdYVmVkMDhIUzVRZWFCOFI2OUd1UHc0bHo0VF9rSkVla3BsUWJucGNPWjhjcnBHT2xwbVVYc2hpR3F0TlBqVURxUVZ0T29iWWx2d2owSVk1cmFPTUFTUjdlaGxZSGV0THhRanRuOThWeXFrb081R3dfS0ZJSjRt?oc=5",
+      "source": "Dassault Systèmes",
+      "published_utc": "2021-02-10T08:00:00+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "flag": "green",
+      "title_en": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - Dassault Systèmes",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "The niobium controversy - revistapesquisa.fapesp.br",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FVWl0RHdLelZZdWhwREJmejhqdjdBblVFVXZlVlZWaXJyenBLSDVEMmpEb3RRZnYxc2xaR2kzdXZnSmwwMkk1S3FSZFRvNmhucVJyZEpBQURmemFSOFNBdktDbm9WNDNIaG1LcHYwQUI?oc=5",
-      "source": "Revista Pesquisa Fapesp",
+      "source": "revistapesquisa.fapesp.br",
       "published_utc": "2020-06-02T06:34:46+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
-      "title_en": "The niobium controversy - Revista Pesquisa Fapesp",
+      "title_en": "The niobium controversy - revistapesquisa.fapesp.br",
       "title_en_source": "passthrough"
     },
     {
@@ -399,16 +409,6 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Niobium’s silent impact in Brazil - Dialogue Earth",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmVaQWNsQmlmaXhienBwLXFQRkVpaVJlUWpsdHFGTG9ETWVESzZfWUw0MlZzZWdYRzI5WmJUTmdUd0tNMzRVMXdVZi1HeG0wV2JON0RCeWE1aHBKZnoxY3pxRnpGSVBtUU5rbnFkZTRTbGdVdHc0V3BLdi1GVVd1Zw?oc=5",
-      "source": "Dialogue Earth",
-      "published_utc": "2019-04-05T07:00:00+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "green",
-      "title_en": "Niobium’s silent impact in Brazil - Dialogue Earth",
       "title_en_source": "passthrough"
     }
   ],
