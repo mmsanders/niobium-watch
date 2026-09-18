@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-09-18T05:36:16.933095+00:00",
+  "as_of_utc": "2026-09-18T17:57:40.556689+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 45,
+  "item_count": 46,
   "items": [
     {
       "title": "St George steps up Araxá testing - The Australian",
@@ -32,33 +32,33 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "NiobiumX Mining Inc. Commences Trading on the Canadian Securities Exchange Under the Symbol \"NIOX\", Completing Its Transition to a Niobium and Rare Earth Exploration Company Focused on Quebec's Saguenay Region - The Globe and Mail",
+      "title": "NiobiumX Mining Inc. Commences Trading on the Canadian Securities Exchange Under the Symbol \"NIOX\", Completing Its Transition to a Niobium and Rare Earth Exploration Company Focused on Quebec's Saguenay Region - theglobeandmail.com",
       "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNV2ZJeFQzSWp0X3QzaV9XbWtyVS14Tmh3SHdUclkzOUFUWThrbWVvLW8zaFJwLWNIa05Kem9VcFBldU1NV1A2MnlXV1FQY2xHRnRwekxBaHpCbnZDaTRUZWJENHgyNlp5RnJxNUxuU0RaZnl6QW13cHNvdDdnZ0JhMy10V0dUWXBocFppOWFsOFJINjdCSm5NTlhzLWVSb3g3aTVsSEk5dHUzbmQ4ZW5DUHhMMmhJRmRuTERoREt5enItbDc0dVBNcWU4SDlNUUoySmNKNjAwaTByN3NQS2UxMDlQZzVxeEhGZ2V6WXF6NnJwbFlXUERXdkczMTY4MllZaXZUb2xkOTJHbGw2eXdpOUlWOTVyVF9xWmpxWU1lR1pCcjVfallpY2VqbDRvZnR0Z0M3clJiRmo0enJFajBWZUl0d2wtZzhmbFozSjdNRm1YZktYUC1ld3NuSjlua2NmbHI4N3ZuY2RBMHNKaldpY3k3aTZMbHE0NFlyLUYxYTJZSXB2ZjFjdlFtbDVOT3RBNC1mMjVkcw?oc=5",
-      "source": "The Globe and Mail",
+      "source": "theglobeandmail.com",
       "published_utc": "2026-07-29T07:00:00+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "NiobiumX Mining Inc. Commences Trading on the Canadian Securities Exchange Under the Symbol \"NIOX\", Completing Its Transition to a Niobium and Rare Earth Exploration Company Focused on Quebec's Saguenay Region - The Globe and Mail",
+      "title_en": "NiobiumX Mining Inc. Commences Trading on the Canadian Securities Exchange Under the Symbol \"NIOX\", Completing Its Transition to a Niobium and Rare Earth Exploration Company Focused on Quebec's Saguenay Region - theglobeandmail.com",
       "title_en_source": "passthrough"
     },
     {
-      "title": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
+      "title": "Critical Minerals: Global Niobium Supply & Demand - geopoliticalmonitor.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFp0OWk4LXFCYWNuMnVIZVN4LVFfbC1JZmdSRUVzUnZicDRVZ0FtTmh0UzBVQUh0a0w0cm55YWFuWk1VN04yNVlqTnlYbXFMc0w1Mno3VlYyUHRRanNJNjhOZzNJUGx1REZiM19xZE01YlRzTkRvRG4xcUlwRWtyYTczMXdWcDRTaWNB?oc=5",
-      "source": "Geopolitical Monitor",
+      "source": "geopoliticalmonitor.com",
       "published_utc": "2026-07-10T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
+      "title_en": "Critical Minerals: Global Niobium Supply & Demand - geopoliticalmonitor.com",
       "title_en_source": "passthrough"
     },
     {
-      "title": "NIOB Adds to Critical Minerals Portfolio - The Globe and Mail",
+      "title": "NIOB Adds to Critical Minerals Portfolio - theglobeandmail.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMFphX21OWWktRWZHaFhDZ0R1WmFJaTBqTTV6MUxPcUNhRm1lM3RUZ0hrUzVfWlFhbnFSWEtFODNCMWhmYV9OTlRtanlCVHFaMlJabFE4SUdPcjNwNk0wU2x3dnV3SXdWYTU3V29zUmcyUHZJUHJiSHhpRkxGVktjNzJMRHBQamY0WjhNbWhJQ216T3hkSWk0M2FlMnpvRjVuTmtZcHQ5SGF2UEdiVzF5TWxMQ3J3NkxMNjM5Q2dtRktjSGhm?oc=5",
-      "source": "The Globe and Mail",
+      "source": "theglobeandmail.com",
       "published_utc": "2026-07-08T07:00:00+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "NIOB Adds to Critical Minerals Portfolio - The Globe and Mail",
+      "title_en": "NIOB Adds to Critical Minerals Portfolio - theglobeandmail.com",
       "title_en_source": "passthrough"
     },
     {
@@ -72,23 +72,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
+      "title": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - uchumi360.com",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hc3g0Tks2NVY5UTRKRkt4Y0JmMUpwR1EwUmFPVGJCUy1RYTZ3TjlxWWo2SFJzWWJPM3AyMGdwZ0FZZTE4Y0V1MXhwQjdLdy03TXZIRVZYd0V4WkY0ZE96QVpoTQ?oc=5",
-      "source": "Uchumi360",
+      "source": "uchumi360.com",
       "published_utc": "2026-03-27T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Tanzania seals strategic minerals deal - dailynews.co.tz",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WUlhrQWpuZHdCc0pHaUZfMTVJc0RqWk5KRU94UmNPaHBZc0hTUkprMlNNVHFUSlIxMmVzdzR2SHlGZm16N01zR3pGN3kzdnRfdWJuWlV2OThvYnpEdHZEVVJhVzA2QmlUQTJlZW82azQ?oc=5",
-      "source": "dailynews.co.tz",
-      "published_utc": "2026-03-25T07:00:00+00:00",
-      "query": "Brazil ferroniobium OR ferronióbio export",
-      "flag": "green",
-      "title_en": "Tanzania seals strategic minerals deal - dailynews.co.tz",
+      "title_en": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - uchumi360.com",
       "title_en_source": "passthrough"
     },
     {
@@ -99,6 +89,16 @@
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
       "title_en": "Sh700bn niobium deal puts Tanzania in US supply chain - thecitizen.co.tz",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Tanzania seals strategic minerals deal - dailynews.co.tz",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WUlhrQWpuZHdCc0pHaUZfMTVJc0RqWk5KRU94UmNPaHBZc0hTUkprMlNNVHFUSlIxMmVzdzR2SHlGZm16N01zR3pGN3kzdnRfdWJuWlV2OThvYnpEdHZEVVJhVzA2QmlUQTJlZW82azQ?oc=5",
+      "source": "dailynews.co.tz",
+      "published_utc": "2026-03-25T07:00:00+00:00",
+      "query": "Brazil ferroniobium OR ferronióbio export",
+      "flag": "green",
+      "title_en": "Tanzania seals strategic minerals deal - dailynews.co.tz",
       "title_en_source": "passthrough"
     },
     {
@@ -252,6 +252,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Summit eyes rich REE and niobium potential at Mundo Novo in Brazil - Stockhead",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMUpyaWNIUTZjQXhHMHh6VUdQcUpWQmhzTlRNQTZSYU5jRVVoWS1PZVF5OWhQRVZMSlZsQUJ2Z0pna3MtcHI2Si1WbHk3cnpSQ1dOOGtSREE5ZW1VTmt0WmlJaTRnbHhMODZTMkFick0wT2NHRkZHVlBScnRGQVZBbDlvYld1SVljeWVkRHpkQXoySVNrVHNiWXhWa0p4UXNsRU5wcw?oc=5",
+      "source": "Stockhead",
+      "published_utc": "2025-01-06T08:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "Summit eyes rich REE and niobium potential at Mundo Novo in Brazil - Stockhead",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Are Chinese investments in Brazilian mining the start of a new wave? - bnamericas.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHl0RE9uVXBJakE0SmRXeWZvZTZqS29WNnRPY3JvNW94Y19ZaVhIMFBzWkZVX2x1Rmp3UnFVQXdHck51RnZiNHFnOWpfRnlDajU2MVZvVkxmblR3UEFDRlhzMVRQWU53NVVvUU5iMDhaSVp2dm1LZ2hpSE1IUEpoajhYSFVLXzZPcTNqZlNYSUVRbGhoTUlKWmstOWdPR3cycDRjZjlfa2ZGUQ?oc=5",
       "source": "bnamericas.com",
@@ -262,13 +272,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - electrichybridvehicletechnology.com",
+      "title": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - Electric & Hybrid Vehicle Technology International",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVHZDR1d4MFJDTnFHb2RFMnFEZGxoUGpmbmhpVm1Yem1Sb2NhQzl6SmtzM2hFM1FvVTVtcjlXbHNQYnNUR2tMcnBITW9SMUg3NGMtcDRsTlU5eERpVEFicUFQMU5CbUNlUkJmUGxBS29OSGZZcXpUc2RTR0wtT2dGYXR4bXJ6bmYwVElvMVRwWnVNamxEMVRwVzFITUVwOXd6ZXc2RHB0LTVKLVNZckR3Q3BKa0tXeWtiNEpGYVp6dDE2WHVvcnFmYS13V09Sc2hySmVuTmZLbVVRdw?oc=5",
-      "source": "electrichybridvehicletechnology.com",
+      "source": "Electric & Hybrid Vehicle Technology International",
       "published_utc": "2024-11-21T08:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - electrichybridvehicletechnology.com",
+      "title_en": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - Electric & Hybrid Vehicle Technology International",
       "title_en_source": "passthrough"
     },
     {
@@ -399,16 +409,6 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Niobium’s silent impact in Brazil - Dialogue Earth",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmVaQWNsQmlmaXhienBwLXFQRkVpaVJlUWpsdHFGTG9ETWVESzZfWUw0MlZzZWdYRzI5WmJUTmdUd0tNMzRVMXdVZi1HeG0wV2JON0RCeWE1aHBKZnoxY3pxRnpGSVBtUU5rbnFkZTRTbGdVdHc0V3BLdi1GVVd1Zw?oc=5",
-      "source": "Dialogue Earth",
-      "published_utc": "2019-04-05T07:00:00+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "green",
-      "title_en": "Niobium’s silent impact in Brazil - Dialogue Earth",
       "title_en_source": "passthrough"
     }
   ],
