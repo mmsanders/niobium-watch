@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-09-19T05:32:08.306356+00:00",
+  "as_of_utc": "2026-09-19T17:35:53.196460+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -11,8 +11,18 @@
     "MRI helium shortage",
     "Shute Creek helium OR LaBarge helium"
   ],
-  "item_count": 74,
+  "item_count": 76,
   "items": [
+    {
+      "title": "Helium Regulators Market To 2035: Semiconductor Demand Supports 4-6% CAGR Growth - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRElJV2hWeEJrZjdmaDF1WWotYXdqTkpURVE0VnRSUkl4Qk9ER2dRNjBobXpoOGJtZ1Y5VU50cV9sOExtUzhGT21JN1h5V19JZVdlaXpjTVY1dmRBcFRlTGhOS2VpRzg4d1RGY3BLQWpvLVhtMjZzSW9Vc2htSWV6YXFnZFFITmVaNGR0N2lOMUt4aHNEY08wNDE4Y2NEczN0X0FsaVltZTFxbGRMZEZoSnFBRUExUHlhNkxZ?oc=5",
+      "source": "IndexBox",
+      "published_utc": "2026-09-19T11:51:19+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "Helium Regulators Market To 2035: Semiconductor Demand Supports 4-6% CAGR Growth - News and Statistics - IndexBox",
+      "title_en_source": "passthrough"
+    },
     {
       "title": "Opinion | The Iran war has disrupted oil markets. The fallout goes beyond that. - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSUFTUEJEVTBQQ2VkUDVGcGx4bXUxdzZEZXk2Si05VEFySnpFYU1zZUZpRWtqYTRQdGZqX29QUGNuSFZlQm5UR1MtRW44RmJyaWwtQUhSYVhlMXVPSjBlclY0NW9yVUlzZFlyUHhXRHFhMGhVQ0daSjlKbm1fQUFNRTJ6c0hHT3NTeXRtRWo3bzU5MFlfMWljcDZfc0NrMTZ1WW43T2dyOXdNcC10QURzV3RBdkc1dHN2?oc=5",
@@ -54,13 +64,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "While SpaceX returns Falcon 9, Russia prepares \"Amur\": Gazprom begins work on ultra-pure LNG - www1.ru",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUEhEM1BqcG5DQW9YVVJpSkdoQkJya2JZZmNFbjgyb2VfelVPdlVxTXJjT2tYaHNldkczc1ZkTjV4NU9tc0owZjByd1J5TTJhMmpJeWtKeGk1MHdnNW9TLWVudGxwVS1xcUZkTzlYdE9Cdzc3dDJaYXd4T0MyTHpYV2phMlF3NzNaeTRveWxCR3ZTZG96X3FwbzcyV1A2Skwta1lDUDgtLVFNSFNWQ3VqS1Y5Q3hwaDJqOUpOLXdaTkJLN0x0ellSdF80VHVyTTlXSzdFYVFiODUtUdIB3wFBVV95cUxOaHlvTXoySGFNUUMzc1BKTHRBUTJDd2EwdDBadEpUdDk5TWlieXFxZkJTbWhvNUE4bXRIRW83a1h2NzNMbnVkalJBZ3lMTVlsWE55YXRfMGdTUnFKblp0T19JU2o0REZsZmRMUVBIZFlURWRrb3NkMmg4ZXFYSnVKVlVxZ2c4Sl94NkxsbnVmV2NRdm5jLTFZREtIMXVkZ1VnaDFsYldtUEQ4ZHhUcTYzWFUxQXBsUzJDR25fNHVMb2ZtLUZZZVBoWVRoaVlhVGdxLXEwS05hRGlQQjJwUjc0?oc=5",
-      "source": "www1.ru",
-      "published_utc": "2026-09-17T06:19:54+00:00",
-      "query": "Amur helium",
+      "title": "Poland is the only serious helium supplier in the EU, but not because its subsurface is so special - geoexpro.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQVl5N2ZpVXRDMDZNT1MzMkJieWExNzRndDhQNTh3VXZ6TUp0M2RxNlQ1czFuTE5iOUx5QjFTZmQ4Y2pwNHp0RUFPNV9Gb2J5Ukd1dXZSOGpOYUlDdm8xRE5obzU0UDZHbUtqX2VfVFBuS21jTVlZV1JXSVZoLW9RMGYxU0E5VERJR2VwbUUtbU1ZZm4xM2czVldacWlkM3NfY2ZGUUpwdnlFV3MwY1pWb19QN1JIWExZcDR3?oc=5",
+      "source": "geoexpro.com",
+      "published_utc": "2026-09-14T06:24:14+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
-      "title_en": "While SpaceX returns Falcon 9, Russia prepares \"Amur\": Gazprom begins work on ultra-pure LNG - www1.ru",
+      "title_en": "Poland is the only serious helium supplier in the EU, but not because its subsurface is so special - geoexpro.com",
       "title_en_source": "passthrough"
     },
     {
@@ -71,16 +81,6 @@
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
       "title_en": "The Chip Insider®–The Iran War’s Helium disconnect update - TechInsights",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Panmure Liberum sees Helium One as top pick in helium sector - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTHpfQWF3VERnTnFnbnFxUGFScVBfTUpTUGJIWnFlcUlOcVhOdE9veHZlNHlKM0FWTzB0NF9yUi05VGtYSWhJN1BTNHJBNEVQRzNZMklia0VMblYzdGpjWHIyeDg3UVlSdlNHOUFvQlY2aml5aVh6WkVUWmxTck1tQWNpR1Zzb00?oc=5",
-      "source": "Yahoo Finance UK",
-      "published_utc": "2026-09-08T13:10:00+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "Panmure Liberum sees Helium One as top pick in helium sector - Yahoo Finance UK",
       "title_en_source": "passthrough"
     },
     {
@@ -98,7 +98,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY1VubGpBdWVpZGxJcWRmd3R0bkhKV2FmZEk5MHNFNmpTRDdHX0JUaTM0OWpmZzZPMWJETUV1UkhKcHk4bjk2bHQzb2NnV2hQZVFvZXd6Mkk0WFU5Q2xrNVpnTkxVSF9kaDg4SmVReGRCMVdteVVpUENDdnd1cWxIUThVa3hrMXFxLVYtWGY1cjZjVm1kd2taUGV0X291NTRvdzluS0JuQjFucWVUbHVTZ3RB?oc=5",
       "source": "Environment+Energy Leader",
       "published_utc": "2026-07-24T07:00:00+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
+      "query": "helium Ras Laffan",
       "flag": "green",
       "title_en": "Qatar Helium Shock Keeps Asia's Chip Supply Under Pressure - Environment+Energy Leader",
       "title_en_source": "passthrough"
@@ -114,6 +114,26 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Helium Shortage 5.0: Practical Strategies for Lab Managers - labmanager.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUGRzQVdIVFAxWlQwNUhSa3ZYd1g5Mk9OYU1LMG8zNTltTlN2VHNQdW5VVE1PbXhZVmRTbEZVOUlwVGdzelpPNUVEczRqeVV3UHhPeXBTN3AwaUtiUmVlSEtTaW0tbEZvdWpSbTR4TnhjU0hBYmpfaXpZTnQzTUVMa3dadFd5MjJFd2lQNQ?oc=5",
+      "source": "labmanager.com",
+      "published_utc": "2026-07-23T07:00:00+00:00",
+      "query": "helium Ras Laffan",
+      "flag": "red",
+      "title_en": "Helium Shortage 5.0: Practical Strategies for Lab Managers - labmanager.com",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Helium shortage threatens MRI services at Indian hospital - gasworld",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOVhiclljRS1KRHZzUWdTc3hzQWd5V3BZNHdQeXpMWFYzV3UyMVR5MFJVMWl2OF9LZ0sxa2JhclNGV09ETVB1amdCQkptT3pfXzhmajYwUUtuSVRWMWYyRTVTaDdIZ2cwNkdLemUtRDRqazdEY0N6RUlmSmVidXBjQVpDR2dhZjVTSFVWeXotRHgyZnJmcWJjLXY3NXA2Y1p0WGJGejZzOWk?oc=5",
+      "source": "gasworld",
+      "published_utc": "2026-07-20T07:00:00+00:00",
+      "query": "MRI helium shortage",
+      "flag": "red",
+      "title_en": "Helium shortage threatens MRI services at Indian hospital - gasworld",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Is There a Helium Shortage? - InvestorNews",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeUt4N1lnSGRNUGtydUM2RTd2NHI5S2FpckxUdFd6Wko5cXdhQm5vYzlJR1ZoQkZZYkVidnkzcUtIOThaWTVuc2RCRDVIcTJUSWJmWm1naC1qQ0J0NWxPdnBWZUVaRXBoRGhXLVJJa1hBazViZklLY1BKSS1xMThVVDloSklNXy0xT0E?oc=5",
       "source": "InvestorNews",
@@ -121,6 +141,16 @@
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "red",
       "title_en": "Is There a Helium Shortage? - InvestorNews",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Why the Middle East Helium Supply Shock Didn’t Hit Chip Makers - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX3FvUzN1UkFTY0pzZjgwWDhwcDJCaHBkbXl0VEVWV01kUENOSFMyRjJQb0FsTzRoREdHVlVNY3B4cFdQVGF1eHk1MzE2OUxyd1ZhdjVVRGs5TkFZU2NLczRMVWpYbkJoa1BzOWRsTUhoaUdCMUlLWmpBQ2NGakt1dXJTLTVleVdoV0FQYk1jbHVIUHVLdGVZZTlMOHItSU0?oc=5",
+      "source": "WSJ",
+      "published_utc": "2026-06-25T07:00:00+00:00",
+      "query": "helium Ras Laffan",
+      "flag": "green",
+      "title_en": "Why the Middle East Helium Supply Shock Didn’t Hit Chip Makers - WSJ",
       "title_en_source": "passthrough"
     },
     {
@@ -144,13 +174,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Many factors at play in search for helium - timberjay.com",
+      "title": "Helium shortages caused by the US–Iran war haven’t got UK chemistry departments worried yet - Chemistry World",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOelh4NzN1cEZMYjNocGtXUVF1bWdqRGI1RHRVR1ZMN2NFMkJ5UHA0OXJvVWs5bmVpbG1DcVpxd1dvc052NWNjNkNsQTA5cVFZV2thQTVzcWdrcUd5VVJxaEpBNnZGdTVHV1FYTnBGZkFSQ1JxdnJnS05PYXdTam1BOElhanI1blRUZVZfM2w4WWhUYXphTHREb2dZeG51ZW1fd21PaXJRMXFWWlJMcW81WTdZSnlVLVJlZk5QT2FZTlVNUnNxczFMUGZ6cTZyRlFoVi0yaGxmX21hZw?oc=5",
+      "source": "Chemistry World",
+      "published_utc": "2026-06-16T07:00:00+00:00",
+      "query": "helium Ras Laffan",
+      "flag": "red",
+      "title_en": "Helium shortages caused by the US–Iran war haven’t got UK chemistry departments worried yet - Chemistry World",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Many factors at play in search for helium - The Timberjay",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2R1S2lWcUF6NEpmZXVwYUtRdDZfcU10c2hhcWJidmRVVEdweHBGdU9VNXBTUkJIZTgtd0dMZjZBakR3clptR0Zkbzk2b3BWRTNDZWczNk1IV3gtNW9DTDdPdHUzSDQ1LW9ReGtvU2F6UnhJMzdFcFNEUWFNZ0YxdkxRakMtUXRS?oc=5",
-      "source": "timberjay.com",
+      "source": "The Timberjay",
       "published_utc": "2026-06-11T07:00:00+00:00",
       "query": "BLM helium OR Cliffside helium",
       "flag": "green",
-      "title_en": "Many factors at play in search for helium - timberjay.com",
+      "title_en": "Many factors at play in search for helium - The Timberjay",
       "title_en_source": "passthrough"
     },
     {
@@ -184,13 +224,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "We Are Experiencing a Helium Shortage — What This Could Mean for an \"Irreplaceable\" Element - discovermagazine.com",
+      "title": "We Are Experiencing a Helium Shortage — What This Could Mean for an \"Irreplaceable\" Element - Discover Magazine",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdEphazVSOWlvQTJsZGp5M25Jbmk1ZnhPVXlOSnVqNE9UbkV5U0dvT1JOdnBVLVZWTjlPRWxNS3pvUUx6dmVsbTY1Q3VIRTh5RlRnZk02bzRMMGNha0tNRkZFODdzNWdPNWh1cm1iYkhEUWhzYnRNbWhYTGtlMEQyUzJCbVNNZEplazNRR1NPT3FwbGk2OWgxSzZMUFJCdGFjdnF0RWtKcTVkYnlQa0ZMbGJzX251dThZQXpKdmdMN0Z0aDJ2?oc=5",
-      "source": "discovermagazine.com",
+      "source": "Discover Magazine",
       "published_utc": "2026-05-25T07:00:00+00:00",
       "query": "BLM helium OR Cliffside helium",
       "flag": "red",
-      "title_en": "We Are Experiencing a Helium Shortage — What This Could Mean for an \"Irreplaceable\" Element - discovermagazine.com",
+      "title_en": "We Are Experiencing a Helium Shortage — What This Could Mean for an \"Irreplaceable\" Element - Discover Magazine",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Helium supply shock: Qatar disruptions drive search for new global sources - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNYzEtcks4WnJNb0taaTFKR2xnbmlxTXdlNHlPeFNkRFJCbk1pWXJ5a1p3X3ZNVG42TUVXU1ZhN3R0SjB4MEQwc1hsSzVydWZBWDJZOFNrRzdvcFEtTjNxNkln?oc=5",
+      "source": "Ynetnews",
+      "published_utc": "2026-05-19T07:00:00+00:00",
+      "query": "helium Ras Laffan",
+      "flag": "green",
+      "title_en": "Helium supply shock: Qatar disruptions drive search for new global sources - Ynetnews",
       "title_en_source": "passthrough"
     },
     {
@@ -208,29 +258,19 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcmlfYnpob05nbkhldzlvMDhDekRqUVZXQmNUYTdWMUxRQ244REJWa1hUcHhsSXR5Y2QyV0dhc3RKMDZwZjd6dno0RGp2TVBpaGUtRTVMWnNZdm5aaXhtRGk4T0tLb0RHNEZlalJqNE0wTXZsQjQxZWRoMkQ3WUhyRi1XbXVzekUyelFmNC1DM3hmNjIyemE4?oc=5",
       "source": "C&EN",
       "published_utc": "2026-05-12T07:00:00+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
+      "query": "helium Ras Laffan",
       "flag": "green",
       "title_en": "Helium supplies are tight—and it could get worse - C&EN",
       "title_en_source": "passthrough"
     },
     {
-      "title": "Big drop in Middle East helium production drives alternative projects - Journal of Commerce",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1NtbGZtOHM0WU9FUTNfd1hid3RINjE4MlhIWjRpdUk5bUo4akZTVm9nSVhOS2pWcnZubkh4ZXM2MmFzTW4xOXMtUVRoV0Q5ZmhBeUlSY0otQ2ZfN1doM2NNWFJmdS1ycWhaWE1XYXdZc1llWk9ZblZmbU1kZVNrTWMzTGxaUnJvZ29xZEtidW5UVG1PZVVlUkljX2ZnNzFTSzA5d0I2Rjk?oc=5",
-      "source": "Journal of Commerce",
-      "published_utc": "2026-05-11T07:00:00+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "Big drop in Middle East helium production drives alternative projects - Journal of Commerce",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "The U.S. Leads the World in Helium. It Still Wasn’t Ready for an AI Supply Shock - ebc.com",
+      "title": "The U.S. Leads the World in Helium. It Still Wasn’t Ready for an AI Supply Shock - EBC Financial Group",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQy13N3pfV0NfY1h1ZmdNX0hJTmNpS01oQV9tUDR6dW5RamExbVVGOTRTU3ZwQmQwakRBU0hUYnhBR1dWZEtaUUVyNDJxMEltUmJETjNqX1kzMkZZVnJZbDhXY2FzUFNTdFRGODNZOGNxQUFuYTRnSnY4dDZRa1FyWTlEQU1XR3VGT1JJS0dqRllYV3hsY0xJNFdIVVJjbDFsYVNYeXpn?oc=5",
-      "source": "ebc.com",
+      "source": "EBC Financial Group",
       "published_utc": "2026-05-04T07:00:00+00:00",
       "query": "BLM helium OR Cliffside helium",
       "flag": "green",
-      "title_en": "The U.S. Leads the World in Helium. It Still Wasn’t Ready for an AI Supply Shock - ebc.com",
+      "title_en": "The U.S. Leads the World in Helium. It Still Wasn’t Ready for an AI Supply Shock - EBC Financial Group",
       "title_en_source": "passthrough"
     },
     {
@@ -354,20 +394,10 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "US-Iran war disrupts the global helium supply chain - Al Majalla",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZFZMZkpzX091QUJCTnh5VnNPTWhRUVhtUDBNNGNHVjZySml4bUt6V2RmLUtfWkVxdF9tdE5EbnkteFBmbUpPM3RfYmVzcGhSa2FJRlpuWklfNnFYcWdHV3ZhajB5cmJzTUtsSGk2SENEY2JTSW1PR1JnRHRjeUhmdjVXN0VWVDB3a2hTSDJ3NDFQTGpOdkdqXy1GOTRNUnh3?oc=5",
-      "source": "Al Majalla",
-      "published_utc": "2026-03-31T07:00:00+00:00",
-      "query": "helium plant outage OR helium force majeure",
-      "flag": "green",
-      "title_en": "US-Iran war disrupts the global helium supply chain - Al Majalla",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Iran War Chokes Off Helium Supply Critical for AI - WSJ",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVRIaWE3Z0hibGFNRlpMRjB4anE1VTF3RHpxSlI2TUh3Y09JbjBLbjhtc2s3enZpQ0FGbmpURXR4amx2eVJLRWR2MTh4Z3FhcFJpN200Y2wtRC00WVdpUTM3Y0ticVRpYThfeXdXZlNGLV9oVmFHc0V3cUFWSEpHSGNqeWJETXNpQkVCNQ?oc=5",
       "source": "WSJ",
-      "published_utc": "2026-03-30T07:00:00+00:00",
+      "published_utc": "2026-03-31T07:00:00+00:00",
       "query": "helium plant outage OR helium force majeure",
       "flag": "green",
       "title_en": "Iran War Chokes Off Helium Supply Critical for AI - WSJ",
@@ -381,36 +411,6 @@
       "query": "MRI helium shortage",
       "flag": "green",
       "title_en": "The war in the Middle East is disrupting helium supplies. That's bad news for more than party balloons. - marketplace.org",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Helium “Tsunami” to Hit Chipmakers — The Surprising Winner to Profit From the Coming Shortage - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMlFiNHNLTzNOVDQyNnlDTWR6azhYMjJrZGxqb2I2Y1ZUb09RTFZwX0w2RXZLaEFDYnExYS0ySjFzZW9HWmFEeFVhNGZ0N2Zld2JjckNRbFJ0cm5JaWxNRGh0R2tjelpxQmVRaklxaVVrOEhxYUNZWGYwSWZNRllGaHdDQ3MyX3ZHMFRFc1h3ZUNHSV8weVdSTTdaNVF2R01reHVLVFFhN1Q?oc=5",
-      "source": "Yahoo Finance",
-      "published_utc": "2026-03-30T07:00:00+00:00",
-      "query": "Shute Creek helium OR LaBarge helium",
-      "flag": "red",
-      "title_en": "Helium “Tsunami” to Hit Chipmakers — The Surprising Winner to Profit From the Coming Shortage - Yahoo Finance",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Helium hitch: Why US-Israel war on Iran could cause MRI scan delays - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNklCS0tRenBIa0xPMzlXd1VzMU5kRUcxTjFUWmc2T2NwVTlGa3I3b3d4Q2pkNlZ5eDhLdnVmM3Y5b29EajY4Y1ptd0QtbjlrbWV0UWVyakxrSzR2VkJJeG96b250aHVIT1RGb1k0T3BJWVJKR0VBWHZINGRaSVZVUkU4QmpKcUsxNDBNcFlLd1poUXlqcFZ4aDFvRkFhdG0wOW9ObWxFOFhhNlFHYktR0gG0AUFVX3lxTE4wX2RTUUxEVFltRnFCUHd3OFFLWk92SmhSdEk1VndqNmZXb09BWm9lX19LcWpvMTlPUHhkcDVoT1pIbHd5SjVpNXpUdVdESVRlWXNHMGVkaF83ODU5WlJWczA1ejZwTkVjYjJDdkUtNHdwdzJfdWtIZlFZelRyT3ZsYzNab0htOU1RVGpjbUNkRHlCVzJ1THRRZ05ja2tqOU1jVWRWYnktQ2xJS2pUenQyTnhqZg?oc=5",
-      "source": "Al Jazeera",
-      "published_utc": "2026-03-26T07:00:00+00:00",
-      "query": "helium plant outage OR helium force majeure",
-      "flag": "yellow",
-      "title_en": "Helium hitch: Why US-Israel war on Iran could cause MRI scan delays - Al Jazeera",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Helium prices spike as war rages on—should MRI providers be worried? - Radiology Business",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSVF4YVFrNUpTN3N0dHltSW9lR29IdmM2TE5BMzlzNGZLNTVsUVF5by1pdUtrTnU4bzFaaHc3QjBmTnM4aDZaZGZIWUwwbzh1WFk5V3I3eHd2SzJicUdYY2I3anlWQ3NGQWFIcnlyVDRfWGJOS0ZRM3o3YXRKbTRYT3QtUDhNVlczLWZEXzZielVrWTJ1ai1rNUlFQnNrdDBNWVZFaFpjM1pqS3FQVVBhbjJFaDJ1cUd5djU5bDh1b204YkUyb1hRY2lHYnNkMTl2b2ZqMnhwTDBHX1oydmc?oc=5",
-      "source": "Radiology Business",
-      "published_utc": "2026-03-26T07:00:00+00:00",
-      "query": "MRI helium shortage",
-      "flag": "green",
-      "title_en": "Helium prices spike as war rages on—should MRI providers be worried? - Radiology Business",
       "title_en_source": "passthrough"
     }
   ],
