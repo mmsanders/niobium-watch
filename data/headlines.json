@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-09-18T17:57:40.556689+00:00",
+  "as_of_utc": "2026-09-19T05:32:08.306356+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 46,
+  "item_count": 47,
   "items": [
     {
       "title": "St George steps up Araxá testing - The Australian",
@@ -22,63 +22,63 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "CBMM, St. George clash over mining rights and dam safety in Brazil - Valor International",
+      "title": "CBMM, St. George clash over mining rights and dam safety in Brazil - valorinternational.globo.com",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaDVORGpTUW5pSXpKbENMOFU1ZUZseThGX3B3YjFVOEJaaGxKeHk3MkxVLWRvRXZNNnM3NmRCb2tpWjBJbVgzSWVYdldZdFJLNXkyek9oSHQ5WHZSdUJlck5obzRBakwxRWk3YXlhQ1hKU0ZFR25rQ0RlRG5qcFQxNFdBY1RJTXhZQ3B5YUtURUpFYkZJbVI0QzNEc1hwSmpONUR0ZzZDTFR3NnBSaGFmanJjVGxUbnkxdnc2UXJDZlEwYXNxN005bkd4MkPSAdsBQVVfeXFMTkNjTWJsZDg4aW9IWFRsTmFQT2h1V25feklSS2hYaS04VUtZVzRIcU9OMFVsMzdWNWRPanJrNVVyZVpySVFfTExNQWJmcUtoa2RNNzVCemd1TzdxbDBWdjdrNHZPenNXeEhveXVyUDlNaVR5aG1EV1RhUV9wbExvTWJtOXFiVTlPMGZoOGdMVlpMS2ZiY2JoMFQwcHhOR0xBQTJZYWM4R3JDV0k4N1VFbE5hWF9yQzlxd3Ffempxb2RGZDdIY1JDOUktTEJIQUFDYzBsUS1jaFlEVDJr?oc=5",
-      "source": "Valor International",
+      "source": "valorinternational.globo.com",
       "published_utc": "2026-08-11T07:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
-      "title_en": "CBMM, St. George clash over mining rights and dam safety in Brazil - Valor International",
+      "title_en": "CBMM, St. George clash over mining rights and dam safety in Brazil - valorinternational.globo.com",
       "title_en_source": "passthrough"
     },
     {
-      "title": "NiobiumX Mining Inc. Commences Trading on the Canadian Securities Exchange Under the Symbol \"NIOX\", Completing Its Transition to a Niobium and Rare Earth Exploration Company Focused on Quebec's Saguenay Region - theglobeandmail.com",
+      "title": "NiobiumX Mining Inc. Commences Trading on the Canadian Securities Exchange Under the Symbol \"NIOX\", Completing Its Transition to a Niobium and Rare Earth Exploration Company Focused on Quebec's Saguenay Region - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNV2ZJeFQzSWp0X3QzaV9XbWtyVS14Tmh3SHdUclkzOUFUWThrbWVvLW8zaFJwLWNIa05Kem9VcFBldU1NV1A2MnlXV1FQY2xHRnRwekxBaHpCbnZDaTRUZWJENHgyNlp5RnJxNUxuU0RaZnl6QW13cHNvdDdnZ0JhMy10V0dUWXBocFppOWFsOFJINjdCSm5NTlhzLWVSb3g3aTVsSEk5dHUzbmQ4ZW5DUHhMMmhJRmRuTERoREt5enItbDc0dVBNcWU4SDlNUUoySmNKNjAwaTByN3NQS2UxMDlQZzVxeEhGZ2V6WXF6NnJwbFlXUERXdkczMTY4MllZaXZUb2xkOTJHbGw2eXdpOUlWOTVyVF9xWmpxWU1lR1pCcjVfallpY2VqbDRvZnR0Z0M3clJiRmo0enJFajBWZUl0d2wtZzhmbFozSjdNRm1YZktYUC1ld3NuSjlua2NmbHI4N3ZuY2RBMHNKaldpY3k3aTZMbHE0NFlyLUYxYTJZSXB2ZjFjdlFtbDVOT3RBNC1mMjVkcw?oc=5",
-      "source": "theglobeandmail.com",
+      "source": "The Globe and Mail",
       "published_utc": "2026-07-29T07:00:00+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "NiobiumX Mining Inc. Commences Trading on the Canadian Securities Exchange Under the Symbol \"NIOX\", Completing Its Transition to a Niobium and Rare Earth Exploration Company Focused on Quebec's Saguenay Region - theglobeandmail.com",
+      "title_en": "NiobiumX Mining Inc. Commences Trading on the Canadian Securities Exchange Under the Symbol \"NIOX\", Completing Its Transition to a Niobium and Rare Earth Exploration Company Focused on Quebec's Saguenay Region - The Globe and Mail",
       "title_en_source": "passthrough"
     },
     {
-      "title": "Critical Minerals: Global Niobium Supply & Demand - geopoliticalmonitor.com",
+      "title": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFp0OWk4LXFCYWNuMnVIZVN4LVFfbC1JZmdSRUVzUnZicDRVZ0FtTmh0UzBVQUh0a0w0cm55YWFuWk1VN04yNVlqTnlYbXFMc0w1Mno3VlYyUHRRanNJNjhOZzNJUGx1REZiM19xZE01YlRzTkRvRG4xcUlwRWtyYTczMXdWcDRTaWNB?oc=5",
-      "source": "geopoliticalmonitor.com",
+      "source": "Geopolitical Monitor",
       "published_utc": "2026-07-10T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Critical Minerals: Global Niobium Supply & Demand - geopoliticalmonitor.com",
+      "title_en": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
       "title_en_source": "passthrough"
     },
     {
-      "title": "NIOB Adds to Critical Minerals Portfolio - theglobeandmail.com",
+      "title": "NIOB Adds to Critical Minerals Portfolio - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMFphX21OWWktRWZHaFhDZ0R1WmFJaTBqTTV6MUxPcUNhRm1lM3RUZ0hrUzVfWlFhbnFSWEtFODNCMWhmYV9OTlRtanlCVHFaMlJabFE4SUdPcjNwNk0wU2x3dnV3SXdWYTU3V29zUmcyUHZJUHJiSHhpRkxGVktjNzJMRHBQamY0WjhNbWhJQ216T3hkSWk0M2FlMnpvRjVuTmtZcHQ5SGF2UEdiVzF5TWxMQ3J3NkxMNjM5Q2dtRktjSGhm?oc=5",
-      "source": "theglobeandmail.com",
+      "source": "The Globe and Mail",
       "published_utc": "2026-07-08T07:00:00+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "NIOB Adds to Critical Minerals Portfolio - theglobeandmail.com",
+      "title_en": "NIOB Adds to Critical Minerals Portfolio - The Globe and Mail",
       "title_en_source": "passthrough"
     },
     {
-      "title": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
+      "title": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - nextinvestors.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQczJON05BR3h4aXBLT2pnWGVzMF95NXhEdVE4QlpGc0NRV2VWdHcxSnZjSTYxc1lyY2ZSNGNCQ0VmcHhxLWlPamx5QVRoeVp4anJacUduN1d5WnlnV05xVlYzakJmNW5wWHFKdzNzclc1TU9ienh4QWs2VVdOUG8ybXgwTlY2NjBkZE1fT2ZNdnBHblh6VnIxeTVmSUZKNzJ5Q0Q5TWRsT3JBUVhUcTVucVFlT3ZWa3RCeVZRS2pnN2Zkd1RTLVNsMlNfTlJHYVhn?oc=5",
-      "source": "Next Investors",
+      "source": "nextinvestors.com",
       "published_utc": "2026-06-11T07:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
+      "title_en": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - nextinvestors.com",
       "title_en_source": "passthrough"
     },
     {
-      "title": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - uchumi360.com",
+      "title": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hc3g0Tks2NVY5UTRKRkt4Y0JmMUpwR1EwUmFPVGJCUy1RYTZ3TjlxWWo2SFJzWWJPM3AyMGdwZ0FZZTE4Y0V1MXhwQjdLdy03TXZIRVZYd0V4WkY0ZE96QVpoTQ?oc=5",
-      "source": "uchumi360.com",
+      "source": "Uchumi360",
       "published_utc": "2026-03-27T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - uchumi360.com",
+      "title_en": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
       "title_en_source": "passthrough"
     },
     {
@@ -152,13 +152,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Codemig, CBMM renew niobium deal until 2070 - Valor International",
+      "title": "Codemig, CBMM renew niobium deal until 2070 - valorinternational.globo.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUEtzdDB3Tmtpc09yLXE5a1Z6ZUt2cVo0SUZDd2dEX2YwdUEyb0pTRW5fS3JlVkpZNldtUF8teGp0M3BJRVQ0aGJZSGY5eG9Hc3I2d3FhdE82SUd4VWNBazJiVGpDQXI4T2x2azVnYkRUUlRGZmdaMDRsUTJpSHZpOGtOSUxfYzFVdWliZmFrMGpXX3ItMlVJMy1GdXNYTm0wblNKZUFFT2Z0U1Qxbi1R0gG-AUFVX3lxTE40b0JEZXc5MnRPOFQxblFyTzEtZDZXcGRpZDBXUEpTZlZZb1ZuMnZGMWNERlZSWTNTWVZUTHNSOVAwakd4U2xVc2Z2c0h2X1lVSTNzNUZBSGJFSVdtblcyMHd6VlI5MnVXV3NlNjZDeTlqVGJ5VzY3a2lSWVQ3cWNQSFFiWkpnNHlGRUNTVHpLZXpuNWdXUXlfaE9GVVdISUhWS3NFSk1CMlF1U19kR2tQYTJKc25EdEJVNEIwZnc?oc=5",
-      "source": "Valor International",
+      "source": "valorinternational.globo.com",
       "published_utc": "2025-10-31T07:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "Codemig, CBMM renew niobium deal until 2070 - Valor International",
+      "title_en": "Codemig, CBMM renew niobium deal until 2070 - valorinternational.globo.com",
       "title_en_source": "passthrough"
     },
     {
@@ -212,6 +212,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Niobium: poor recyclability and high dependence on Brazilian supply - PricePedia",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUWJTTDRrSEd5QVg1X3paV0I4Y1B2TTU0NUNyYVBqeUVrak9hNXQtOHFtNk81aFo1T0R1bWN1ckIzSmZvY0tVZktKa2ZTUXhsRlhZWEN0aHJjNm1OMjZEczEwMERlSE5iV1l1cFRuVGNCTDJwV21xNi1ZbkxvV1NONGFPNGNXWTJkOUJrM1I1LW1YNzFKNktMWUQ4cXcxQ1M5ZVpXeVEzdHRGc2ZOcnk0NUc5ZjFETjNvTDZuSk9OaWdfQQ?oc=5",
+      "source": "PricePedia",
+      "published_utc": "2025-08-04T07:00:00+00:00",
+      "query": "Brazil ferroniobium OR ferronióbio export",
+      "flag": "green",
+      "title_en": "Niobium: poor recyclability and high dependence on Brazilian supply - PricePedia",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "In 2016, A $1.7 Billion Deal For Brazilian Niobium And Phosphate Mines Sealed The Battle Between Chinese CMOC's Expansion And Anglo American's Contraction - CPG Click Oil and Gas",
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPS3RCNlFUcXZQaWdibFBvbVdnOEhLdnpHVHBTcFFpbGExMFgzUERnV1cwb3ZCMkNIWTZtNnJYRUhuc09kZ1k0RXlKLWg2N0F1RWRnZkdFWVplRkw1YmNrcENUcHA1YjhFcmhIazlPMGJ5bUxtRHVFV29wRm1aako5STVGTnBLQlZJSUhwTUF0cm9BMHVZMHJpQlJpczNiX01ZN0VjaUhjQzYyQTRzdzduaWtZTjZSZlV2WloyYWZPNGkybHg4NnNiU2Y1QzR3cmdwWC1XcmtsMXZyQzZGZ2d2VFU3T0xsN3NFUmZZN2FCcmduMndsZVg0WWNuTGVfbENqeWU0ZGxFTjU3dnA5WEhRbHAtVlREVjJfemhEZHE5NjJ4MUYzTVJHaU1B?oc=5",
       "source": "CPG Click Oil and Gas",
@@ -242,13 +252,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Ex-CBMM Niobium Boss Ricardo Maximo Nardi Joins SGQ - Next Investors",
+      "title": "Ex-CBMM Niobium Boss Ricardo Maximo Nardi Joins SGQ - nextinvestors.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGJ5Q1lPUkxvd01NaVVZQTVSY1ZUanJRbDJpYS00WWpwVDEyZWFEQjZGRGh6d2NaNl9CVmxuR096a2xsUkpPVTRqRWtXVTN4SWFzMlBMTGtzSGVFT1JyanJYQjlUdmc2anNvVXA3TVgzbFM3X3VFS2ZzZHF3OUN1MnhMeEFTbzJBMEVjUksyamZkaWZT?oc=5",
-      "source": "Next Investors",
+      "source": "nextinvestors.com",
       "published_utc": "2025-02-03T08:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
-      "title_en": "Ex-CBMM Niobium Boss Ricardo Maximo Nardi Joins SGQ - Next Investors",
+      "title_en": "Ex-CBMM Niobium Boss Ricardo Maximo Nardi Joins SGQ - nextinvestors.com",
       "title_en_source": "passthrough"
     },
     {
@@ -399,16 +409,6 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "At a Glance: Niobium powerhouse CBMM - bnamericas.com",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzJvbTdLamF2RExoWTMxbXZRSjUxU29lenJmdjVOWmp4ak5BYUZCWEMwSU9ReTV6bmhZMFl2Z3BwbkgxTDNhMVdka25tOU9saG54cXF0SDRhTHZLemNzTkpEd0ZXSERPU1B6ckEzdy03T09Oa25Zek5pYVJrNVVNTDhjOFJoS3ZDVXFhNXlNNHB2OE1VVUhtajNCNW9vbGo2MjdxZ0ZkUU82S1ZlZFE?oc=5",
-      "source": "Mining.com",
-      "published_utc": "2019-06-13T14:20:20+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
       "title_en_source": "passthrough"
     }
   ],
