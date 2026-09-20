@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-09-19T17:35:53.196460+00:00",
+  "as_of_utc": "2026-09-20T05:49:00.117222+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -11,8 +11,18 @@
     "MRI helium shortage",
     "Shute Creek helium OR LaBarge helium"
   ],
-  "item_count": 76,
+  "item_count": 78,
   "items": [
+    {
+      "title": "A New Helium Measurement Is Testing the Universe’s First Five Minutes - SciTechDaily",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYjZCbEtVdE51SDd0a3BVbTNvcXc4YkpHcm9Ldl9qZGJDcDNMVnFuNS04Z2l5S0syNG11ajU5Y01DQ2ZsNl8yRFZadDU4bUZLRnZ3VVZ2RWJ4ZDZ5SVBzR3AzNzZNN3gxeXlOWlVRUWU3WnVKNW56cEhSZWsySEJ5eEp6cFU3a0Q1aUVtYUN3QWx0bGU5OXJmOE9B?oc=5",
+      "source": "SciTechDaily",
+      "published_utc": "2026-09-20T03:21:31+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "A New Helium Measurement Is Testing the Universe’s First Five Minutes - SciTechDaily",
+      "title_en_source": "passthrough"
+    },
     {
       "title": "Helium Regulators Market To 2035: Semiconductor Demand Supports 4-6% CAGR Growth - News and Statistics - IndexBox",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRElJV2hWeEJrZjdmaDF1WWotYXdqTkpURVE0VnRSUkl4Qk9ER2dRNjBobXpoOGJtZ1Y5VU50cV9sOExtUzhGT21JN1h5V19JZVdlaXpjTVY1dmRBcFRlTGhOS2VpRzg4d1RGY3BLQWpvLVhtMjZzSW9Vc2htSWV6YXFnZFFITmVaNGR0N2lOMUt4aHNEY08wNDE4Y2NEczN0X0FsaVltZTFxbGRMZEZoSnFBRUExUHlhNkxZ?oc=5",
@@ -24,6 +34,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "The Helium Trade Six Months On: Which London-Listed Companies Have Actually Moved Forward? - Share Talk",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMUd0dWQ2YXkxZ1VxLXRET25CX2RSbnU0bnpRY0k0SjBhZWFHMXBMc0V0UzVXdXVEa2I3Q3FlUVlqNDNXSFBoQTVZT2tBa3RqckR5aTk5Tkg1aTNzamg1Ry1hUlJnWDBkWjN1cTgybm9pYnExSWZrZGlrVmdMQTJ2X0ZsdHNmam5CSGhkRzNRSWFtekJ4U21EUWJVME5nUmdZMTRJaVA3RVNNb0xMUXY4Y0RoWjdfRU5pdUE?oc=5",
+      "source": "Share Talk",
+      "published_utc": "2026-09-19T09:32:22+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "The Helium Trade Six Months On: Which London-Listed Companies Have Actually Moved Forward? - Share Talk",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Opinion | The Iran war has disrupted oil markets. The fallout goes beyond that. - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSUFTUEJEVTBQQ2VkUDVGcGx4bXUxdzZEZXk2Si05VEFySnpFYU1zZUZpRWtqYTRQdGZqX29QUGNuSFZlQm5UR1MtRW44RmJyaWwtQUhSYVhlMXVPSjBlclY0NW9yVUlzZFlyUHhXRHFhMGhVQ0daSjlKbm1fQUFNRTJ6c0hHT3NTeXRtRWo3bzU5MFlfMWljcDZfc0NrMTZ1WW43T2dyOXdNcC10QURzV3RBdkc1dHN2?oc=5",
       "source": "The Washington Post",
@@ -31,16 +51,6 @@
       "query": "helium Ras Laffan",
       "flag": "green",
       "title_en": "Opinion | The Iran war has disrupted oil markets. The fallout goes beyond that. - The Washington Post",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "The Helium Trade Six Months On: Which London-Listed Companies Have Actually Moved Forward? - Share Talk",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYVZCeHBzZGcyYnBPbVRfbTF3aHg2X0hmZkV4TWU1dzRUeFd6MzlGVkNuX1E5UVVyUVVLRkxCaGJmSnFibGVLYUlZZjk3ZFU0MXd6SHBxSEIxQ2lXWEJmaDY3RU9FejVsM0dpX2x2OW5PbEE2eG9qZ1REOThNamE4RHlFNnI1X09aMUg3V0ZPMWlDSXZuMEtqbE5UU2JtOFJBeUNPamQxd0pHd0JqVFljWElxaWxWUjQ?oc=5",
-      "source": "Share Talk",
-      "published_utc": "2026-09-18T05:57:11+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "The Helium Trade Six Months On: Which London-Listed Companies Have Actually Moved Forward? - Share Talk",
       "title_en_source": "passthrough"
     },
     {
@@ -64,13 +74,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Poland is the only serious helium supplier in the EU, but not because its subsurface is so special - geoexpro.com",
+      "title": "Poland is the only serious helium supplier in the EU, but not because its subsurface is so special - GeoExpro",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQVl5N2ZpVXRDMDZNT1MzMkJieWExNzRndDhQNTh3VXZ6TUp0M2RxNlQ1czFuTE5iOUx5QjFTZmQ4Y2pwNHp0RUFPNV9Gb2J5Ukd1dXZSOGpOYUlDdm8xRE5obzU0UDZHbUtqX2VfVFBuS21jTVlZV1JXSVZoLW9RMGYxU0E5VERJR2VwbUUtbU1ZZm4xM2czVldacWlkM3NfY2ZGUUpwdnlFV3MwY1pWb19QN1JIWExZcDR3?oc=5",
-      "source": "geoexpro.com",
+      "source": "GeoExpro",
       "published_utc": "2026-09-14T06:24:14+00:00",
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
-      "title_en": "Poland is the only serious helium supplier in the EU, but not because its subsurface is so special - geoexpro.com",
+      "title_en": "Poland is the only serious helium supplier in the EU, but not because its subsurface is so special - GeoExpro",
       "title_en_source": "passthrough"
     },
     {
@@ -81,6 +91,16 @@
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
       "title_en": "The Chip Insider®–The Iran War’s Helium disconnect update - TechInsights",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Panmure Liberum sees Helium One as top pick in helium sector - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTHpfQWF3VERnTnFnbnFxUGFScVBfTUpTUGJIWnFlcUlOcVhOdE9veHZlNHlKM0FWTzB0NF9yUi05VGtYSWhJN1BTNHJBNEVQRzNZMklia0VMblYzdGpjWHIyeDg3UVlSdlNHOUFvQlY2aml5aVh6WkVUWmxTck1tQWNpR1Zzb00?oc=5",
+      "source": "Yahoo Finance UK",
+      "published_utc": "2026-09-08T13:10:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "Panmure Liberum sees Helium One as top pick in helium sector - Yahoo Finance UK",
       "title_en_source": "passthrough"
     },
     {
@@ -114,13 +134,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Helium Shortage 5.0: Practical Strategies for Lab Managers - labmanager.com",
+      "title": "Helium Shortage 5.0: Practical Strategies for Lab Managers - Lab Manager",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUGRzQVdIVFAxWlQwNUhSa3ZYd1g5Mk9OYU1LMG8zNTltTlN2VHNQdW5VVE1PbXhZVmRTbEZVOUlwVGdzelpPNUVEczRqeVV3UHhPeXBTN3AwaUtiUmVlSEtTaW0tbEZvdWpSbTR4TnhjU0hBYmpfaXpZTnQzTUVMa3dadFd5MjJFd2lQNQ?oc=5",
-      "source": "labmanager.com",
+      "source": "Lab Manager",
       "published_utc": "2026-07-23T07:00:00+00:00",
       "query": "helium Ras Laffan",
       "flag": "red",
-      "title_en": "Helium Shortage 5.0: Practical Strategies for Lab Managers - labmanager.com",
+      "title_en": "Helium Shortage 5.0: Practical Strategies for Lab Managers - Lab Manager",
       "title_en_source": "passthrough"
     },
     {
@@ -131,16 +151,6 @@
       "query": "MRI helium shortage",
       "flag": "red",
       "title_en": "Helium shortage threatens MRI services at Indian hospital - gasworld",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Is There a Helium Shortage? - InvestorNews",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeUt4N1lnSGRNUGtydUM2RTd2NHI5S2FpckxUdFd6Wko5cXdhQm5vYzlJR1ZoQkZZYkVidnkzcUtIOThaWTVuc2RCRDVIcTJUSWJmWm1naC1qQ0J0NWxPdnBWZUVaRXBoRGhXLVJJa1hBazViZklLY1BKSS1xMThVVDloSklNXy0xT0E?oc=5",
-      "source": "InvestorNews",
-      "published_utc": "2026-07-13T07:00:00+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "red",
-      "title_en": "Is There a Helium Shortage? - InvestorNews",
       "title_en_source": "passthrough"
     },
     {
@@ -194,13 +204,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Qatari helium shortages - International Union of Marine Insurance",
+      "title": "Qatari helium shortages - iumi.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VaFBnM2tWSjhqZmtLQmwwQnpCSTA1R0Vkam1KbDhfUmNWc3pXVno0NW1qc19oQmVQVk9qV0N0RWpwSFF1Rzd1OU42Qm44clNaTV9rVTdGcWFpUWpDWEFLQzU4aVFxVmp5dnhCX2hhMA?oc=5",
-      "source": "International Union of Marine Insurance",
+      "source": "iumi.com",
       "published_utc": "2026-06-10T07:00:00+00:00",
       "query": "helium Ras Laffan",
       "flag": "red",
-      "title_en": "Qatari helium shortages - International Union of Marine Insurance",
+      "title_en": "Qatari helium shortages - iumi.com",
       "title_en_source": "passthrough"
     },
     {
@@ -274,13 +284,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Helium shortage puts lab vacuum technology under pressure - R&D World",
+      "title": "Helium shortage puts lab vacuum technology under pressure - rdworldonline.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTXFJWUc3S1JvTF92LVNOMURrSjVIaVQ3UTAzQ3plMnhxVHR6ZEk5emFmR0U3QWFBazMzMFEtT0loYUdGOVVRdGZraExCYXk3Qzc1WHotTWsxMTQwWmpkYUxYN0k4VHFnaEx2bTJiZGhUdVZhaTZTNW9oLWo4cXNsUGR3M0JBMGpHU0NFR0RhaFdTQQ?oc=5",
-      "source": "R&D World",
+      "source": "rdworldonline.com",
       "published_utc": "2026-04-30T07:00:00+00:00",
       "query": "helium plant outage OR helium force majeure",
       "flag": "red",
-      "title_en": "Helium shortage puts lab vacuum technology under pressure - R&D World",
+      "title_en": "Helium shortage puts lab vacuum technology under pressure - rdworldonline.com",
       "title_en_source": "passthrough"
     },
     {
@@ -334,13 +344,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Russia Imposes Temporary Export Controls on Helium Until 2027 - Global Banking & Finance Review",
+      "title": "Russia Imposes Temporary Export Controls on Helium Until 2027 - globalbankingandfinance.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRkgwdUplQVh3X1VmRE5Tcmt5V0FYMFpaektoNUZOUHRHVVhDOXdVSE9Xdjc0M2lSR01zS21SbF9KOWtadnZ2NS1MUHNwUG1VZURVRW9rRWZWbFYxZzJ6LVBGX293dmdlUWNuakZMci1kRThoNTJCOUEwRnBkZE1BUDg0QUYxSEdySHVOQ0ZVZDVtdw?oc=5",
-      "source": "Global Banking & Finance Review",
+      "source": "globalbankingandfinance.com",
       "published_utc": "2026-04-14T07:00:00+00:00",
       "query": "Amur helium",
       "flag": "green",
-      "title_en": "Russia Imposes Temporary Export Controls on Helium Until 2027 - Global Banking & Finance Review",
+      "title_en": "Russia Imposes Temporary Export Controls on Helium Until 2027 - globalbankingandfinance.com",
       "title_en_source": "passthrough"
     },
     {
@@ -397,20 +407,10 @@
       "title": "Iran War Chokes Off Helium Supply Critical for AI - WSJ",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVRIaWE3Z0hibGFNRlpMRjB4anE1VTF3RHpxSlI2TUh3Y09JbjBLbjhtc2s3enZpQ0FGbmpURXR4amx2eVJLRWR2MTh4Z3FhcFJpN200Y2wtRC00WVdpUTM3Y0ticVRpYThfeXdXZlNGLV9oVmFHc0V3cUFWSEpHSGNqeWJETXNpQkVCNQ?oc=5",
       "source": "WSJ",
-      "published_utc": "2026-03-31T07:00:00+00:00",
+      "published_utc": "2026-03-30T07:00:00+00:00",
       "query": "helium plant outage OR helium force majeure",
       "flag": "green",
       "title_en": "Iran War Chokes Off Helium Supply Critical for AI - WSJ",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "The war in the Middle East is disrupting helium supplies. That's bad news for more than party balloons. - marketplace.org",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVWxnLWllVkNhNkdLdHpvLWM5RVI2UWg2X08tWWtKeG11c3pTUmNUajUyc2xYekt2cF9wbHJraUdsaW1tUjhIOVkyMDFEX0pjckIzSHoyVmFzM1AwdE9aZi1wZ01MQm5UdnhKT1pEWFZEXzU4LU1UazI0aFZ2VGNRUXVaWVp5QVZNRWZCZmthWWVkdXRic2Rza2hLeHc0cGlEXzhOTWVkMA?oc=5",
-      "source": "marketplace.org",
-      "published_utc": "2026-03-30T07:00:00+00:00",
-      "query": "MRI helium shortage",
-      "flag": "green",
-      "title_en": "The war in the Middle East is disrupting helium supplies. That's bad news for more than party balloons. - marketplace.org",
       "title_en_source": "passthrough"
     }
   ],
