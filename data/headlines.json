@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-09-22T05:54:27.097396+00:00",
+  "as_of_utc": "2026-09-22T18:25:09.130269+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -12,23 +12,23 @@
   "item_count": 44,
   "items": [
     {
-      "title": "NiobiumX's Shipshaw Claims Are Less Than 2 Km From a Producing Niobium Mine - stocktitan.net",
+      "title": "NiobiumX's Shipshaw Claims Are Less Than 2 Km From a Producing Niobium Mine - Stock Titan",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeVpFemV1Q01QWG5MNmhpblp3S2lYVUJpZGJqQ0JTQi11d3FiMVRSSDlEYjhDbXI5MUh4dk1SRXI4OXAyTmhHaDVXNC1EREtzR1ViQjg0bkdrM200N1pteEJzUUhGZzlLOGp5azZodEg3Si1CN2YwSnlYLTNHcndjRUR4SXlFS1dlMzlsbk4xd3JxbTRhZ0FxQ0dkdGQ4TndCTVl4ZDNuVzl1MEUxNUxuZVREOFlBMVpqTVpoLVJB?oc=5",
-      "source": "stocktitan.net",
+      "source": "Stock Titan",
       "published_utc": "2026-07-29T07:00:00+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "NiobiumX's Shipshaw Claims Are Less Than 2 Km From a Producing Niobium Mine - stocktitan.net",
+      "title_en": "NiobiumX's Shipshaw Claims Are Less Than 2 Km From a Producing Niobium Mine - Stock Titan",
       "title_en_source": "passthrough"
     },
     {
-      "title": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
+      "title": "Critical Minerals: Global Niobium Supply & Demand - geopoliticalmonitor.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFp0OWk4LXFCYWNuMnVIZVN4LVFfbC1JZmdSRUVzUnZicDRVZ0FtTmh0UzBVQUh0a0w0cm55YWFuWk1VN04yNVlqTnlYbXFMc0w1Mno3VlYyUHRRanNJNjhOZzNJUGx1REZiM19xZE01YlRzTkRvRG4xcUlwRWtyYTczMXdWcDRTaWNB?oc=5",
-      "source": "Geopolitical Monitor",
+      "source": "geopoliticalmonitor.com",
       "published_utc": "2026-07-10T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
+      "title_en": "Critical Minerals: Global Niobium Supply & Demand - geopoliticalmonitor.com",
       "title_en_source": "passthrough"
     },
     {
@@ -112,6 +112,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "St George Mining 'poised to redefine Araxá' - Mining Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanV0alpGcmlZX1Q2QnhGLV9Xcm1JWkJNb1I5ek5zOW43U0R2VERCX1ZodUZtVTd1c2p6S0NIRzRWNEVzOGRxOERPZWZFRzcyNzlyUnlHR3FLdWgzTkkxSlpGT3NxMmtVRnhKQ3ZZRGI4Xzh3bm5saUZzUmk0SjdsWEJpU2VlV0ZVRzVGMEJ5dWZqcVBucW85VTZNV3Vxa0xtZUE?oc=5",
+      "source": "Mining Magazine",
+      "published_utc": "2026-02-11T08:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "yellow",
+      "title_en": "St George Mining 'poised to redefine Araxá' - Mining Magazine",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "In Depth: How a Chinese Mining Giant Learned to Win in Brazil - Caixin Global",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHp5R3hiT1NOV1RvQXhDMHN0aXFmMWZCYXl4YzVYOTZSMnN3OHVsNjd2RzZWV1VTU3JpWjZBWENoczlqd1JGOU5KeVJ4ZXNpcU1FZGZxTC1naEF4WklMamRldWdyNW9DdThiNFdvNkRSZnd3T3hrMXYzak5tdlpSLUpzcE5BcUFldjdsNldnLTFUN3dmUHNyd2pUTDFlRDJzVy1xQU1QNlF0ZjdYek8yVk16N0VsQQ?oc=5",
       "source": "Caixin Global",
@@ -162,13 +172,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobium: poor recyclability and high dependence on Brazilian supply - PricePedia",
+      "title": "Niobium: poor recyclability and high dependence on Brazilian supply - pricepedia.it",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUWJTTDRrSEd5QVg1X3paV0I4Y1B2TTU0NUNyYVBqeUVrak9hNXQtOHFtNk81aFo1T0R1bWN1ckIzSmZvY0tVZktKa2ZTUXhsRlhZWEN0aHJjNm1OMjZEczEwMERlSE5iV1l1cFRuVGNCTDJwV21xNi1ZbkxvV1NONGFPNGNXWTJkOUJrM1I1LW1YNzFKNktMWUQ4cXcxQ1M5ZVpXeVEzdHRGc2ZOcnk0NUc5ZjFETjNvTDZuSk9OaWdfQQ?oc=5",
-      "source": "PricePedia",
+      "source": "pricepedia.it",
       "published_utc": "2025-08-04T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Niobium: poor recyclability and high dependence on Brazilian supply - PricePedia",
+      "title_en": "Niobium: poor recyclability and high dependence on Brazilian supply - pricepedia.it",
       "title_en_source": "passthrough"
     },
     {
@@ -252,16 +262,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobium pandemonium: ASX explorers are going crazy for the mineral in Brazil - Stockhead",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORG9hclkyeTZyWWFRX1ZnWXo0ZDJoQnl1MU9wZlVzbHYyRXpBVlRTbVBxcVNrbWZLVzVZWDU2MWJ1NUlNNG1lVlFIV1o4QkQxRUtyWEZhMUJjNEVfQmJXVzQ3blJib3huWTFQQzlUeVdveEpCaDlCZ1RDTzE4bTMwZXd0Z0ExM21oWF94NGZ1dmFyeVByaExaY283b05pUTRjamI2YTJId3RhNFlRbS1ESg?oc=5",
-      "source": "Stockhead",
-      "published_utc": "2024-08-22T07:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "Niobium pandemonium: ASX explorers are going crazy for the mineral in Brazil - Stockhead",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "St George recruits CBMM niobium experts for Araxá - The Australian",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOcV9tZTlLblBmLUNPVFBYWkVia09hVThscVZ5ZmtONzNXOFRhdS0tc0NDV0Zya1dVekREcnF1VHZUX3NVOTluVFRqRmVPVTQ4NjRLVGgxSzYyalJwcFgxaV9CZDdiS25qN3RKa01mYXpJZUhiTVFzZkVQNzh2NjJGN0drdkpXMzFLWFI5Nm9NaGswMDAxWmFlaTBGNDgzc3QzN3pzTHNhRWROM25IYXlCV0lPZUxnRF9zczdLOHFma05ZNVpIUDhZSnFyeWpRU1FUcGxBaDR2ZTd2by13U3dOamp3bzl2dEx1NzB3TnJzTE1uN3h2dE9RMk9oOTFWYWExQ0w3Z3ZuTlctMXpEdlFoVXdBZkxucmduZjQ2UXh5dVlKUQ?oc=5",
       "source": "The Australian",
@@ -312,23 +312,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "SLAM Exploration Acquires New Niobium Critical Mineral Project - Junior Mining Network",
+      "title": "SLAM Exploration Acquires New Niobium Critical Mineral Project - juniorminingnetwork.com",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWmlCR0JzWUdHdW03US1aeGhhNHBHdWpwemhtM2JHZ0dLNHhpb2RnOWRDVEJWWlVzU1JjaVdGSVN4dEdmZjQ0dzhkLW05VFdsOXVzSGJJU01KQW85MnlXRlk4N19zSjVHVWhUYkp3dlo5ZDRXN21YazJTV29ZSVpOUDVhT3ROMEtkMG1EcWp6eVdRMzkwOTBwVjJrUDBsMmlqSm9iUGItdk9fNmMyWTh0UmhrbHFvY0t6YUZ4b1I4V04xT013bjBsWlFEb2FjVEFzeS03Z04yZkYxMk1BZmZSY3hkd25HRzNLdkxHWFcySnlFalVhTGc?oc=5",
-      "source": "Junior Mining Network",
+      "source": "juniorminingnetwork.com",
       "published_utc": "2023-10-25T07:00:00+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "SLAM Exploration Acquires New Niobium Critical Mineral Project - Junior Mining Network",
+      "title_en": "SLAM Exploration Acquires New Niobium Critical Mineral Project - juniorminingnetwork.com",
       "title_en_source": "passthrough"
     },
     {
-      "title": "Magris acquisition of Niobec Niobium Mine - Torys LLP",
+      "title": "Magris acquisition of Niobec Niobium Mine - torys.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tc0d2YnNPZDF0N2Vta2ZSSEZ3cm5icDFYZE1VRU1vRnlEWmZSbi1iMDBBMGtZZXJkcmZDNGdoM1BNeXlGY1ZlOFB3UV9tNmc4UEdtV1hBNEtqMmVEVFdrLVZGRDR2Ykt4NmoxSmhlNTNBSm9uUklTNHc1Zw?oc=5",
-      "source": "Torys LLP",
+      "source": "torys.com",
       "published_utc": "2022-05-06T09:58:07+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "Magris acquisition of Niobec Niobium Mine - Torys LLP",
+      "title_en": "Magris acquisition of Niobec Niobium Mine - torys.com",
       "title_en_source": "passthrough"
     },
     {
@@ -392,13 +392,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobium’s silent impact in Brazil - dialogue.earth",
+      "title": "Niobium’s silent impact in Brazil - Dialogue Earth",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmVaQWNsQmlmaXhienBwLXFQRkVpaVJlUWpsdHFGTG9ETWVESzZfWUw0MlZzZWdYRzI5WmJUTmdUd0tNMzRVMXdVZi1HeG0wV2JON0RCeWE1aHBKZnoxY3pxRnpGSVBtUU5rbnFkZTRTbGdVdHc0V3BLdi1GVVd1Zw?oc=5",
-      "source": "dialogue.earth",
+      "source": "Dialogue Earth",
       "published_utc": "2019-04-05T07:00:00+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
-      "title_en": "Niobium’s silent impact in Brazil - dialogue.earth",
+      "title_en": "Niobium’s silent impact in Brazil - Dialogue Earth",
       "title_en_source": "passthrough"
     },
     {
