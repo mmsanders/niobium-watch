@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-09-21T19:49:39.676144+00:00",
+  "as_of_utc": "2026-09-22T05:54:27.097396+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -12,13 +12,13 @@
   "item_count": 44,
   "items": [
     {
-      "title": "NiobiumX's Shipshaw Claims Are Less Than 2 Km From a Producing Niobium Mine - Stock Titan",
+      "title": "NiobiumX's Shipshaw Claims Are Less Than 2 Km From a Producing Niobium Mine - stocktitan.net",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeVpFemV1Q01QWG5MNmhpblp3S2lYVUJpZGJqQ0JTQi11d3FiMVRSSDlEYjhDbXI5MUh4dk1SRXI4OXAyTmhHaDVXNC1EREtzR1ViQjg0bkdrM200N1pteEJzUUhGZzlLOGp5azZodEg3Si1CN2YwSnlYLTNHcndjRUR4SXlFS1dlMzlsbk4xd3JxbTRhZ0FxQ0dkdGQ4TndCTVl4ZDNuVzl1MEUxNUxuZVREOFlBMVpqTVpoLVJB?oc=5",
-      "source": "Stock Titan",
+      "source": "stocktitan.net",
       "published_utc": "2026-07-29T07:00:00+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "NiobiumX's Shipshaw Claims Are Less Than 2 Km From a Producing Niobium Mine - Stock Titan",
+      "title_en": "NiobiumX's Shipshaw Claims Are Less Than 2 Km From a Producing Niobium Mine - stocktitan.net",
       "title_en_source": "passthrough"
     },
     {
@@ -182,13 +182,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Quebec mine strike shows fragility of critical minerals supply chains: Analyst - canadianminingjournal.com",
+      "title": "Quebec mine strike shows fragility of critical minerals supply chains: Analyst - Canadian Mining Journal",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVFNwUkhBR2ZfVDAzV1UtQTdpZ3ZITXJqNE5mRC1Xc25UYnBsU29XQ2Y3Q3g4NU92Y1R1MnVhY01jbXJYQVNMbDI1UTQyanVzVE1CMUVHRkg4dEwyMkNHX3IwcVBoSENZTFB0dmlhS0xBQkJWeW5JdV90T0RpU1hIN09BMEV6Y2ZoMlFhUDc4VEF4YU9uR0FkUUh4MGdRNUhPWEZDdmVfNXJzd1ZQbXhRTlJrQ1c4RjFrTVJnMVdR?oc=5",
-      "source": "canadianminingjournal.com",
+      "source": "Canadian Mining Journal",
       "published_utc": "2025-05-07T07:00:00+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "red",
-      "title_en": "Quebec mine strike shows fragility of critical minerals supply chains: Analyst - canadianminingjournal.com",
+      "title_en": "Quebec mine strike shows fragility of critical minerals supply chains: Analyst - Canadian Mining Journal",
       "title_en_source": "passthrough"
     },
     {
@@ -342,16 +342,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Redpath completes largest raisebore by volume in the Americas at Niobec niobium mine in Quebec - International Mining",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVp6VTlOa0ZLMmo2amVzVjYxMm9zWXA3eU45UlpDSWtsREFsZWJKamdsZXRyQVRtaW9zUW11WC1DYlFUTS0zV0hyNFZMT25QRjdfMGtkSDdhRWJTdUE4U25aYlU4ZE1kTmtnOG5pempQREhidVZsRTVZazVHcGplTDljbXJMRFNyQ1ZDMVR3TldJdENfenVJNnBMMTJ4dFVRbXl3ZUkyLUVKVklfc3BvSWtR?oc=5",
-      "source": "International Mining",
-      "published_utc": "2021-02-11T08:00:00+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "Redpath completes largest raisebore by volume in the Americas at Niobec niobium mine in Quebec - International Mining",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - Dassault Systèmes",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMU5iMGYzYzNYM0NlVWtCU28xbVpsX2VlcjNoazAyeGY2WnByLWF4ZFVGSGg3SjVyTHp6VkNDSFFzS2phM0h1VFl4NEV6VDNnN2JKSVlyVTIwRl91MUNUa0QyX1Z1dm56SV95dFpEMzUxTTEtTFpQUGlxNWlWNHZYWDJhOEZLTVZNVG1CbnZmR0Nqem82NXdYVmVkMDhIUzVRZWFCOFI2OUd1UHc0bHo0VF9rSkVla3BsUWJucGNPWjhjcnBHT2xwbVVYc2hpR3F0TlBqVURxUVZ0T29iWWx2d2owSVk1cmFPTUFTUjdlaGxZSGV0THhRanRuOThWeXFrb081R3dfS0ZJSjRt?oc=5",
       "source": "Dassault Systèmes",
@@ -402,13 +392,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobium’s silent impact in Brazil - Dialogue Earth",
+      "title": "Niobium’s silent impact in Brazil - dialogue.earth",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmVaQWNsQmlmaXhienBwLXFQRkVpaVJlUWpsdHFGTG9ETWVESzZfWUw0MlZzZWdYRzI5WmJUTmdUd0tNMzRVMXdVZi1HeG0wV2JON0RCeWE1aHBKZnoxY3pxRnpGSVBtUU5rbnFkZTRTbGdVdHc0V3BLdi1GVVd1Zw?oc=5",
-      "source": "Dialogue Earth",
+      "source": "dialogue.earth",
       "published_utc": "2019-04-05T07:00:00+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
-      "title_en": "Niobium’s silent impact in Brazil - Dialogue Earth",
+      "title_en": "Niobium’s silent impact in Brazil - dialogue.earth",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Hands off Brazil's niobium: Bolsonaro sees China as threat to utopian vision - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSWxJWjMtLXZnRDFrTklJQlhIR0ltdmNsWVJreTNvczRmZ3BsazlVajdPYmQzZlEtY2FpQ19tR3dnWmRXMV92dzZ0YmpMeko0c2lRVVotQzRwWGVKTWhqX1R1Q2tMT0tJd0JuU3Vja201bkdFTFpsU0FmcExTOHp6d2tQUkQ4QUNvU2oySVFiT1VKaFV1ZFNYalhwMzhLY3NYNHBkanFrZG9VY0VOVkZuckx2VmJyS0JMbjUxQlhNSlJDRUhuRWc?oc=5",
+      "source": "Reuters",
+      "published_utc": "2018-10-25T07:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "Hands off Brazil's niobium: Bolsonaro sees China as threat to utopian vision - Reuters",
       "title_en_source": "passthrough"
     }
   ],
