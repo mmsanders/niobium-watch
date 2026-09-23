@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-09-23T05:34:59.048169+00:00",
+  "as_of_utc": "2026-09-23T18:44:13.481064+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 44,
+  "item_count": 45,
   "items": [
     {
       "title": "NiobiumX's Shipshaw Claims Are Less Than 2 Km From a Producing Niobium Mine - Stock Titan",
@@ -22,13 +22,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Critical Minerals: Global Niobium Supply & Demand - geopoliticalmonitor.com",
+      "title": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFp0OWk4LXFCYWNuMnVIZVN4LVFfbC1JZmdSRUVzUnZicDRVZ0FtTmh0UzBVQUh0a0w0cm55YWFuWk1VN04yNVlqTnlYbXFMc0w1Mno3VlYyUHRRanNJNjhOZzNJUGx1REZiM19xZE01YlRzTkRvRG4xcUlwRWtyYTczMXdWcDRTaWNB?oc=5",
-      "source": "geopoliticalmonitor.com",
+      "source": "Geopolitical Monitor",
       "published_utc": "2026-07-10T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Critical Minerals: Global Niobium Supply & Demand - geopoliticalmonitor.com",
+      "title_en": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
       "title_en_source": "passthrough"
     },
     {
@@ -59,6 +59,16 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hc3g0Tks2NVY5UTRKRkt4Y0JmMUpwR1EwUmFPVGJCUy1RYTZ3TjlxWWo2SFJzWWJPM3AyMGdwZ0FZZTE4Y0V1MXhwQjdLdy03TXZIRVZYd0V4WkY0ZE96QVpoTQ?oc=5",
+      "source": "Uchumi360",
+      "published_utc": "2026-03-27T07:00:00+00:00",
+      "query": "Brazil ferroniobium OR ferronióbio export",
+      "flag": "green",
+      "title_en": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
       "title_en_source": "passthrough"
     },
     {
@@ -112,16 +122,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "St George Mining 'poised to redefine Araxá' - Mining Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanV0alpGcmlZX1Q2QnhGLV9Xcm1JWkJNb1I5ek5zOW43U0R2VERCX1ZodUZtVTd1c2p6S0NIRzRWNEVzOGRxOERPZWZFRzcyNzlyUnlHR3FLdWgzTkkxSlpGT3NxMmtVRnhKQ3ZZRGI4Xzh3bm5saUZzUmk0SjdsWEJpU2VlV0ZVRzVGMEJ5dWZqcVBucW85VTZNV3Vxa0xtZUE?oc=5",
-      "source": "Mining Magazine",
-      "published_utc": "2026-02-11T08:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "yellow",
-      "title_en": "St George Mining 'poised to redefine Araxá' - Mining Magazine",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "In Depth: How a Chinese Mining Giant Learned to Win in Brazil - Caixin Global",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHp5R3hiT1NOV1RvQXhDMHN0aXFmMWZCYXl4YzVYOTZSMnN3OHVsNjd2RzZWV1VTU3JpWjZBWENoczlqd1JGOU5KeVJ4ZXNpcU1FZGZxTC1naEF4WklMamRldWdyNW9DdThiNFdvNkRSZnd3T3hrMXYzak5tdlpSLUpzcE5BcUFldjdsNldnLTFUN3dmUHNyd2pUTDFlRDJzVy1xQU1QNlF0ZjdYek8yVk16N0VsQQ?oc=5",
       "source": "Caixin Global",
@@ -152,13 +152,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobium Market Size - Forecast Report 2026-2035 - researchnester.com",
+      "title": "Niobium Market Size - Forecast Report 2026-2035 - Research Nester",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kSjJDZEs4T25SZ3hJSkVnM1U4NmRrbXJrbk0xSVk4eDhvdGdQOFd5MVA0SmhMX1F1dWtxZ0g4SDJFYmNJZHQ2RmE2dEotYkVWYW8zbmRJTTFVVlRHM0FLLUI2aGZReUk0VUE?oc=5",
-      "source": "researchnester.com",
+      "source": "Research Nester",
       "published_utc": "2025-09-15T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Niobium Market Size - Forecast Report 2026-2035 - researchnester.com",
+      "title_en": "Niobium Market Size - Forecast Report 2026-2035 - Research Nester",
       "title_en_source": "passthrough"
     },
     {
@@ -179,6 +179,16 @@
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
       "title_en": "Niobium: poor recyclability and high dependence on Brazilian supply - PricePedia",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "The Discovery of Niobium in Araxá That Revealed Brazil Has Reserves for Up to 200 Years of Global Demand and Generates Over $2 Billion Annually in Exports - CPG Click Oil and Gas",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOeUV0QjFfb3huS2lZNFdneGdKWVZidF9xX3hLZFhKcUFDcm1vdDBUYlBQdDFlbzdWQTl1dlRPNDlXX0dZdmc3dW1RLUNvUGthZG1Eb0V0T2xZTXJoU0xFWVZOVTh6ak1vVFJwcFAxQ0dvM1ZSdnRNTjJHNFF3OHpDUGdXLVYxbnhVZ3oybjB0THAybXJMOEV0NVBVTGtrbFBYSnRLSV9JdF9EVy1MdlFLNFhBUUY4MWVrczNfbEtxaVBfd3Yya0kzc0R5ZEJCaTk2Tk1Wcm8xNmhlQTRYX0hfdm9TRE5yVWxSQmgxaFFqNEtNZ3hZVld0OFFnM0ZScjcwX0tNYk41SkRYZU4ycTdzbG1yOVAxeUxZUzhyZw?oc=5",
+      "source": "CPG Click Oil and Gas",
+      "published_utc": "2025-05-31T07:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "The Discovery of Niobium in Araxá That Revealed Brazil Has Reserves for Up to 200 Years of Global Demand and Generates Over $2 Billion Annually in Exports - CPG Click Oil and Gas",
       "title_en_source": "passthrough"
     },
     {
@@ -302,13 +312,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "International trade in critical raw materials - European Commission",
+      "title": "International trade in critical raw materials - ec.europa.eu",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTRYTkZNQ09CYWhnczNsS2tBQ2Q0MzBhbFVxamxRVUpZT3A3eEFDUkpORmN1alhjOWV1M0ZmTndObnVucXJ5OTVRWDlVbUlaaURLMjhYbEZPbzhZa2xvUlBhYUk0dkU1bVhTb2dKSWFvbF9Db1lxakQ3Q3Jyc1M5eElmT3ZOTk1tVGZsUzNwbzgyb3pkWDhCNXJFd3NGS0NNTDJTRVRnclFMc2lTNkswUnl3?oc=5",
-      "source": "European Commission",
+      "source": "ec.europa.eu",
       "published_utc": "2023-11-06T11:53:15+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "International trade in critical raw materials - European Commission",
+      "title_en": "International trade in critical raw materials - ec.europa.eu",
       "title_en_source": "passthrough"
     },
     {
@@ -392,23 +402,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobium’s silent impact in Brazil - dialogue.earth",
+      "title": "Niobium’s silent impact in Brazil - Dialogue Earth",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmVaQWNsQmlmaXhienBwLXFQRkVpaVJlUWpsdHFGTG9ETWVESzZfWUw0MlZzZWdYRzI5WmJUTmdUd0tNMzRVMXdVZi1HeG0wV2JON0RCeWE1aHBKZnoxY3pxRnpGSVBtUU5rbnFkZTRTbGdVdHc0V3BLdi1GVVd1Zw?oc=5",
-      "source": "dialogue.earth",
+      "source": "Dialogue Earth",
       "published_utc": "2019-04-05T07:00:00+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
-      "title_en": "Niobium’s silent impact in Brazil - dialogue.earth",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Hands off Brazil's niobium: Bolsonaro sees China as threat to utopian vision - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSWxJWjMtLXZnRDFrTklJQlhIR0ltdmNsWVJreTNvczRmZ3BsazlVajdPYmQzZlEtY2FpQ19tR3dnWmRXMV92dzZ0YmpMeko0c2lRVVotQzRwWGVKTWhqX1R1Q2tMT0tJd0JuU3Vja201bkdFTFpsU0FmcExTOHp6d2tQUkQ4QUNvU2oySVFiT1VKaFV1ZFNYalhwMzhLY3NYNHBkanFrZG9VY0VOVkZuckx2VmJyS0JMbjUxQlhNSlJDRUhuRWc?oc=5",
-      "source": "reuters.com",
-      "published_utc": "2018-10-25T07:00:00+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "green",
-      "title_en": "Hands off Brazil's niobium: Bolsonaro sees China as threat to utopian vision - reuters.com",
+      "title_en": "Niobium’s silent impact in Brazil - Dialogue Earth",
       "title_en_source": "passthrough"
     }
   ],
