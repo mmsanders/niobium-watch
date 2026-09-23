@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-09-22T18:25:09.130269+00:00",
+  "as_of_utc": "2026-09-23T05:34:59.048169+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -152,13 +152,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobium Market Size - Forecast Report 2026-2035 - Research Nester",
+      "title": "Niobium Market Size - Forecast Report 2026-2035 - researchnester.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kSjJDZEs4T25SZ3hJSkVnM1U4NmRrbXJrbk0xSVk4eDhvdGdQOFd5MVA0SmhMX1F1dWtxZ0g4SDJFYmNJZHQ2RmE2dEotYkVWYW8zbmRJTTFVVlRHM0FLLUI2aGZReUk0VUE?oc=5",
-      "source": "Research Nester",
+      "source": "researchnester.com",
       "published_utc": "2025-09-15T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Niobium Market Size - Forecast Report 2026-2035 - Research Nester",
+      "title_en": "Niobium Market Size - Forecast Report 2026-2035 - researchnester.com",
       "title_en_source": "passthrough"
     },
     {
@@ -172,23 +172,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobium: poor recyclability and high dependence on Brazilian supply - pricepedia.it",
+      "title": "Niobium: poor recyclability and high dependence on Brazilian supply - PricePedia",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUWJTTDRrSEd5QVg1X3paV0I4Y1B2TTU0NUNyYVBqeUVrak9hNXQtOHFtNk81aFo1T0R1bWN1ckIzSmZvY0tVZktKa2ZTUXhsRlhZWEN0aHJjNm1OMjZEczEwMERlSE5iV1l1cFRuVGNCTDJwV21xNi1ZbkxvV1NONGFPNGNXWTJkOUJrM1I1LW1YNzFKNktMWUQ4cXcxQ1M5ZVpXeVEzdHRGc2ZOcnk0NUc5ZjFETjNvTDZuSk9OaWdfQQ?oc=5",
-      "source": "pricepedia.it",
+      "source": "PricePedia",
       "published_utc": "2025-08-04T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Niobium: poor recyclability and high dependence on Brazilian supply - pricepedia.it",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "The Discovery of Niobium in Araxá That Revealed Brazil Has Reserves for Up to 200 Years of Global Demand and Generates Over $2 Billion Annually in Exports - CPG Click Oil and Gas",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOeUV0QjFfb3huS2lZNFdneGdKWVZidF9xX3hLZFhKcUFDcm1vdDBUYlBQdDFlbzdWQTl1dlRPNDlXX0dZdmc3dW1RLUNvUGthZG1Eb0V0T2xZTXJoU0xFWVZOVTh6ak1vVFJwcFAxQ0dvM1ZSdnRNTjJHNFF3OHpDUGdXLVYxbnhVZ3oybjB0THAybXJMOEV0NVBVTGtrbFBYSnRLSV9JdF9EVy1MdlFLNFhBUUY4MWVrczNfbEtxaVBfd3Yya0kzc0R5ZEJCaTk2Tk1Wcm8xNmhlQTRYX0hfdm9TRE5yVWxSQmgxaFFqNEtNZ3hZVld0OFFnM0ZScjcwX0tNYk41SkRYZU4ycTdzbG1yOVAxeUxZUzhyZw?oc=5",
-      "source": "CPG Click Oil and Gas",
-      "published_utc": "2025-05-31T07:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "The Discovery of Niobium in Araxá That Revealed Brazil Has Reserves for Up to 200 Years of Global Demand and Generates Over $2 Billion Annually in Exports - CPG Click Oil and Gas",
+      "title_en": "Niobium: poor recyclability and high dependence on Brazilian supply - PricePedia",
       "title_en_source": "passthrough"
     },
     {
@@ -219,6 +209,16 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "Ex-CBMM Niobium Boss Ricardo Maximo Nardi Joins SGQ - Next Investors",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "St George appoints big gun for new Brazilian niobium mine - The West Australian",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjhTVVNST2dwZHZWYWFWd2cyX1RHMVlYdmR4VFRJeWNDcjhhWVNzdGltdnYtSkJnQWZCYmYyUGdhblhPNXZ1S2tHZmFrUTRuOXVYM0tjZkdpY3pVaG1DdmZ2cjc2emdUT2lSX0taa29vcDh2M1BtMlFxckZaRTJtd0ZkUXptZ3dyWUk2WU1aTXFmZGhqN1dsbFZqYTRIM2pJbk80VW04YjdVRXVacEczSWF2aFDSAboBQVVfeXFMUGNybld4NWEzc3lYVjhDU05tX0VJdlpUMEtxc01XNEpiY3p2Tm5oWXRUb0ZyQ1djSm5kLWJnZjFmMkNvWXdXRnVOa2RXMlhHOU1teFNwNUpVUEhTdEF2U3hKOUtaOEJBVi05ZnVZZ0tDVGVVV0ZjMEdNMExiazFKdi1XcmlDNC10SldfS1Y3eXlfNTR6YXFCc3g3NWNTd0k0MXBfSXJGN1lkRW5KZkZNRnZPeFFONDZHNTZ3?oc=5",
+      "source": "The West Australian",
+      "published_utc": "2025-02-03T08:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "St George appoints big gun for new Brazilian niobium mine - The West Australian",
       "title_en_source": "passthrough"
     },
     {
@@ -312,23 +312,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "SLAM Exploration Acquires New Niobium Critical Mineral Project - juniorminingnetwork.com",
+      "title": "SLAM Exploration Acquires New Niobium Critical Mineral Project - Junior Mining Network",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWmlCR0JzWUdHdW03US1aeGhhNHBHdWpwemhtM2JHZ0dLNHhpb2RnOWRDVEJWWlVzU1JjaVdGSVN4dEdmZjQ0dzhkLW05VFdsOXVzSGJJU01KQW85MnlXRlk4N19zSjVHVWhUYkp3dlo5ZDRXN21YazJTV29ZSVpOUDVhT3ROMEtkMG1EcWp6eVdRMzkwOTBwVjJrUDBsMmlqSm9iUGItdk9fNmMyWTh0UmhrbHFvY0t6YUZ4b1I4V04xT013bjBsWlFEb2FjVEFzeS03Z04yZkYxMk1BZmZSY3hkd25HRzNLdkxHWFcySnlFalVhTGc?oc=5",
-      "source": "juniorminingnetwork.com",
+      "source": "Junior Mining Network",
       "published_utc": "2023-10-25T07:00:00+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "SLAM Exploration Acquires New Niobium Critical Mineral Project - juniorminingnetwork.com",
+      "title_en": "SLAM Exploration Acquires New Niobium Critical Mineral Project - Junior Mining Network",
       "title_en_source": "passthrough"
     },
     {
-      "title": "Magris acquisition of Niobec Niobium Mine - torys.com",
+      "title": "Magris acquisition of Niobec Niobium Mine - Torys LLP",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tc0d2YnNPZDF0N2Vta2ZSSEZ3cm5icDFYZE1VRU1vRnlEWmZSbi1iMDBBMGtZZXJkcmZDNGdoM1BNeXlGY1ZlOFB3UV9tNmc4UEdtV1hBNEtqMmVEVFdrLVZGRDR2Ykt4NmoxSmhlNTNBSm9uUklTNHc1Zw?oc=5",
-      "source": "torys.com",
+      "source": "Torys LLP",
       "published_utc": "2022-05-06T09:58:07+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "Magris acquisition of Niobec Niobium Mine - torys.com",
+      "title_en": "Magris acquisition of Niobec Niobium Mine - Torys LLP",
       "title_en_source": "passthrough"
     },
     {
@@ -392,23 +392,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobium’s silent impact in Brazil - Dialogue Earth",
+      "title": "Niobium’s silent impact in Brazil - dialogue.earth",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmVaQWNsQmlmaXhienBwLXFQRkVpaVJlUWpsdHFGTG9ETWVESzZfWUw0MlZzZWdYRzI5WmJUTmdUd0tNMzRVMXdVZi1HeG0wV2JON0RCeWE1aHBKZnoxY3pxRnpGSVBtUU5rbnFkZTRTbGdVdHc0V3BLdi1GVVd1Zw?oc=5",
-      "source": "Dialogue Earth",
+      "source": "dialogue.earth",
       "published_utc": "2019-04-05T07:00:00+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
-      "title_en": "Niobium’s silent impact in Brazil - Dialogue Earth",
+      "title_en": "Niobium’s silent impact in Brazil - dialogue.earth",
       "title_en_source": "passthrough"
     },
     {
-      "title": "Hands off Brazil's niobium: Bolsonaro sees China as threat to utopian vision - Reuters",
+      "title": "Hands off Brazil's niobium: Bolsonaro sees China as threat to utopian vision - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSWxJWjMtLXZnRDFrTklJQlhIR0ltdmNsWVJreTNvczRmZ3BsazlVajdPYmQzZlEtY2FpQ19tR3dnWmRXMV92dzZ0YmpMeko0c2lRVVotQzRwWGVKTWhqX1R1Q2tMT0tJd0JuU3Vja201bkdFTFpsU0FmcExTOHp6d2tQUkQ4QUNvU2oySVFiT1VKaFV1ZFNYalhwMzhLY3NYNHBkanFrZG9VY0VOVkZuckx2VmJyS0JMbjUxQlhNSlJDRUhuRWc?oc=5",
-      "source": "Reuters",
+      "source": "reuters.com",
       "published_utc": "2018-10-25T07:00:00+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
-      "title_en": "Hands off Brazil's niobium: Bolsonaro sees China as threat to utopian vision - Reuters",
+      "title_en": "Hands off Brazil's niobium: Bolsonaro sees China as threat to utopian vision - reuters.com",
       "title_en_source": "passthrough"
     }
   ],
