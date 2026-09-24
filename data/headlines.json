@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-09-24T05:54:31.896322+00:00",
+  "as_of_utc": "2026-09-24T18:44:55.508090+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 45,
+  "item_count": 46,
   "items": [
     {
       "title": "NiobiumX's Shipshaw Claims Are Less Than 2 Km From a Producing Niobium Mine - Stock Titan",
@@ -22,13 +22,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Critical Minerals: Global Niobium Supply & Demand - geopoliticalmonitor.com",
+      "title": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFp0OWk4LXFCYWNuMnVIZVN4LVFfbC1JZmdSRUVzUnZicDRVZ0FtTmh0UzBVQUh0a0w0cm55YWFuWk1VN04yNVlqTnlYbXFMc0w1Mno3VlYyUHRRanNJNjhOZzNJUGx1REZiM19xZE01YlRzTkRvRG4xcUlwRWtyYTczMXdWcDRTaWNB?oc=5",
-      "source": "geopoliticalmonitor.com",
+      "source": "Geopolitical Monitor",
       "published_utc": "2026-07-10T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Critical Minerals: Global Niobium Supply & Demand - geopoliticalmonitor.com",
+      "title_en": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
       "title_en_source": "passthrough"
     },
     {
@@ -62,13 +62,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
+      "title": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - uchumi360.com",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hc3g0Tks2NVY5UTRKRkt4Y0JmMUpwR1EwUmFPVGJCUy1RYTZ3TjlxWWo2SFJzWWJPM3AyMGdwZ0FZZTE4Y0V1MXhwQjdLdy03TXZIRVZYd0V4WkY0ZE96QVpoTQ?oc=5",
-      "source": "Uchumi360",
+      "source": "uchumi360.com",
       "published_utc": "2026-03-27T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
+      "title_en": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - uchumi360.com",
       "title_en_source": "passthrough"
     },
     {
@@ -142,13 +142,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - Graphene-Info",
+      "title": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - graphene-info.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzlFLUlsUm9IekZrdXAyN2R1ekx4RHRMeDNCUk9mcHNNdDdocllKTzRBNEM1R0R2ZFBvcnhMMU0zVm1BZGdhQkhnUVV0Y1BlT3piRGhCYWQwS1FFX1pZQU1UM185LWgzOEJBNkk4dHpkTDUxMm1xNkgyZFVJQnNVcE5HTGFzUXE4c2hvb0lXa3R3V09yMndOUHRseF8tT2NDYjl0bU1R?oc=5",
-      "source": "Graphene-Info",
+      "source": "graphene-info.com",
       "published_utc": "2025-10-16T07:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - Graphene-Info",
+      "title_en": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - graphene-info.com",
       "title_en_source": "passthrough"
     },
     {
@@ -172,6 +172,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "China's CMOC eyes more M&A opportunities in Africa, South America - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeXhLWnNLS1lTMk5ISkJSUXdqaVBsMEdMX1kyVjFxYnVlYXBzaWdFLUpFNVh5UWFLVEVGZWFxc2o3WFVFWHNVSEtzNm0wMGIydmxsWnBDdVpISzE0MU9Id3JMcjAyRHB5LWtkemJvTE40U1lnQi1OdnVKd2dERTEtR3NxOVlLN0dHX1VaTmFEaE05OFQ0d3hrT2ZzNmFQSmRXeXZOYWFoVUV6ZTBaeUR4bFZwaXdFZw?oc=5",
+      "source": "Reuters",
+      "published_utc": "2025-08-25T07:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "China's CMOC eyes more M&A opportunities in Africa, South America - Reuters",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Niobium: poor recyclability and high dependence on Brazilian supply - PricePedia",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUWJTTDRrSEd5QVg1X3paV0I4Y1B2TTU0NUNyYVBqeUVrak9hNXQtOHFtNk81aFo1T0R1bWN1ckIzSmZvY0tVZktKa2ZTUXhsRlhZWEN0aHJjNm1OMjZEczEwMERlSE5iV1l1cFRuVGNCTDJwV21xNi1ZbkxvV1NONGFPNGNXWTJkOUJrM1I1LW1YNzFKNktMWUQ4cXcxQ1M5ZVpXeVEzdHRGc2ZOcnk0NUc5ZjFETjNvTDZuSk9OaWdfQQ?oc=5",
       "source": "PricePedia",
@@ -182,13 +192,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "The Discovery of Niobium in Araxá That Revealed Brazil Has Reserves for Up to 200 Years of Global Demand and Generates Over $2 Billion Annually in Exports - CPG Click Oil and Gas",
+      "title": "The Discovery of Niobium in Araxá That Revealed Brazil Has Reserves for Up to 200 Years of Global Demand and Generates Over $2 Billion Annually in Exports - en.clickpetroleoegas.com.br",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOeUV0QjFfb3huS2lZNFdneGdKWVZidF9xX3hLZFhKcUFDcm1vdDBUYlBQdDFlbzdWQTl1dlRPNDlXX0dZdmc3dW1RLUNvUGthZG1Eb0V0T2xZTXJoU0xFWVZOVTh6ak1vVFJwcFAxQ0dvM1ZSdnRNTjJHNFF3OHpDUGdXLVYxbnhVZ3oybjB0THAybXJMOEV0NVBVTGtrbFBYSnRLSV9JdF9EVy1MdlFLNFhBUUY4MWVrczNfbEtxaVBfd3Yya0kzc0R5ZEJCaTk2Tk1Wcm8xNmhlQTRYX0hfdm9TRE5yVWxSQmgxaFFqNEtNZ3hZVld0OFFnM0ZScjcwX0tNYk41SkRYZU4ycTdzbG1yOVAxeUxZUzhyZw?oc=5",
-      "source": "CPG Click Oil and Gas",
+      "source": "en.clickpetroleoegas.com.br",
       "published_utc": "2025-05-31T07:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
-      "title_en": "The Discovery of Niobium in Araxá That Revealed Brazil Has Reserves for Up to 200 Years of Global Demand and Generates Over $2 Billion Annually in Exports - CPG Click Oil and Gas",
+      "title_en": "The Discovery of Niobium in Araxá That Revealed Brazil Has Reserves for Up to 200 Years of Global Demand and Generates Over $2 Billion Annually in Exports - en.clickpetroleoegas.com.br",
       "title_en_source": "passthrough"
     },
     {
@@ -312,13 +322,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "International trade in critical raw materials - ec.europa.eu",
+      "title": "International trade in critical raw materials - European Commission",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTRYTkZNQ09CYWhnczNsS2tBQ2Q0MzBhbFVxamxRVUpZT3A3eEFDUkpORmN1alhjOWV1M0ZmTndObnVucXJ5OTVRWDlVbUlaaURLMjhYbEZPbzhZa2xvUlBhYUk0dkU1bVhTb2dKSWFvbF9Db1lxakQ3Q3Jyc1M5eElmT3ZOTk1tVGZsUzNwbzgyb3pkWDhCNXJFd3NGS0NNTDJTRVRnclFMc2lTNkswUnl3?oc=5",
-      "source": "ec.europa.eu",
+      "source": "European Commission",
       "published_utc": "2023-11-06T11:53:15+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "International trade in critical raw materials - ec.europa.eu",
+      "title_en": "International trade in critical raw materials - European Commission",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Minas Gerais prosecutors conclude probe into niobium mining - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTVlqMVV1czZxalBmNm5oQlh4dmEtdDY4RE5TdFhrbGQ3OWJ2SWFmdDMxd2s5QjlTRllNb2NjQlp1MXVmWFlDY2QzWU1nN3ItdS1qSU9NcW93dWlEOTBMSFpCT3ZtZFhkN20wZWc1VUkyRGRVRzFNa3M4NVpZRnRrbTlsWVJuc1JpbkVVTFpKTmlSMEpyTjZLV0V3?oc=5",
+      "source": "BNamericas",
+      "published_utc": "2023-03-06T08:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "yellow",
+      "title_en": "Minas Gerais prosecutors conclude probe into niobium mining - BNamericas",
       "title_en_source": "passthrough"
     },
     {
@@ -332,13 +352,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
+      "title": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - investingnews.com",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR181N2xrZ1N4Wkh1OUdzWHgxamw4NWR3dnZQclNITXBLTUNNTlBkbzJPek1QdHRtc21PemhXUEo3RzJFYWtyMHFCcmdtc1N5OVhzY3ZaSGp5bjV3ZWRCemM3V0tXbENaaGgyQnFQMlBySE5LelFjT2FwYWZpQkdwZ1Njc2ZMTURQeFlQQUZZVC1jbUtmOHN3WXludF9raTJ0ZjhBSmpuamNtelVIdmtocHVrMll1QWsxajFFY0tRTEpEZTN6NHRuOG90M3k2WUFjWnhDTU5EeUtWRGdSeVBOVnRpSmJmV2J0SUdseUdVYw?oc=5",
-      "source": "Investing News Network",
+      "source": "investingnews.com",
       "published_utc": "2021-12-16T08:00:00+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
+      "title_en": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - investingnews.com",
       "title_en_source": "passthrough"
     },
     {
@@ -372,23 +392,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Boston Metal to trial molten oxide electrolysis on CBMM ore - International Mining",
+      "title": "Boston Metal to trial molten oxide electrolysis on CBMM ore - im-mining.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2lLT1NJVXdmV2VpRnRKTThfRmdmVWlPSDQ3OEVZWjB5d01JRVJSVWcwTmgxUmlCb095dzBZTnRqRnZGb2tVS2wzZ25DNWtfZUtrWUhOS0pzeGFuRWpoVUtxdmNTZTF4aG1fT1oxdENhYW1mY2RoaThzbDFYbmtodUp1MHY1YW1Ea3UxX0dCNk1JRTZJOHpRZg?oc=5",
-      "source": "International Mining",
+      "source": "im-mining.com",
       "published_utc": "2020-05-04T07:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
-      "title_en": "Boston Metal to trial molten oxide electrolysis on CBMM ore - International Mining",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "At a Glance: Niobium powerhouse CBMM - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01RGYwSE5TOElGb1hxRXNKNVo1THhZbkx6bWt3UFY2eUhWWkpwWHU1Y1ZmbGtIaHFmVVJxb2J6eGdES3FfbmdRRkpjd3l5WERoWkdLQ3VvZzd6ZThPVEg1dGJ3alRUYXhOMkNVVFhTX0FFV0hWVUlSTVJLWlpnbkU?oc=5",
-      "source": "BNamericas",
-      "published_utc": "2019-08-30T07:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "At a Glance: Niobium powerhouse CBMM - BNamericas",
+      "title_en": "Boston Metal to trial molten oxide electrolysis on CBMM ore - im-mining.com",
       "title_en_source": "passthrough"
     },
     {
@@ -399,16 +409,6 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Niobium’s silent impact in Brazil - dialogue.earth",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmVaQWNsQmlmaXhienBwLXFQRkVpaVJlUWpsdHFGTG9ETWVESzZfWUw0MlZzZWdYRzI5WmJUTmdUd0tNMzRVMXdVZi1HeG0wV2JON0RCeWE1aHBKZnoxY3pxRnpGSVBtUU5rbnFkZTRTbGdVdHc0V3BLdi1GVVd1Zw?oc=5",
-      "source": "dialogue.earth",
-      "published_utc": "2019-04-05T07:00:00+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "green",
-      "title_en": "Niobium’s silent impact in Brazil - dialogue.earth",
       "title_en_source": "passthrough"
     }
   ],
