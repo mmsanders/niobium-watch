@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-09-23T18:44:13.481064+00:00",
+  "as_of_utc": "2026-09-24T05:54:31.896322+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -22,13 +22,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
+      "title": "Critical Minerals: Global Niobium Supply & Demand - geopoliticalmonitor.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFp0OWk4LXFCYWNuMnVIZVN4LVFfbC1JZmdSRUVzUnZicDRVZ0FtTmh0UzBVQUh0a0w0cm55YWFuWk1VN04yNVlqTnlYbXFMc0w1Mno3VlYyUHRRanNJNjhOZzNJUGx1REZiM19xZE01YlRzTkRvRG4xcUlwRWtyYTczMXdWcDRTaWNB?oc=5",
-      "source": "Geopolitical Monitor",
+      "source": "geopoliticalmonitor.com",
       "published_utc": "2026-07-10T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
+      "title_en": "Critical Minerals: Global Niobium Supply & Demand - geopoliticalmonitor.com",
       "title_en_source": "passthrough"
     },
     {
@@ -322,16 +322,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "SLAM Exploration Acquires New Niobium Critical Mineral Project - Junior Mining Network",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWmlCR0JzWUdHdW03US1aeGhhNHBHdWpwemhtM2JHZ0dLNHhpb2RnOWRDVEJWWlVzU1JjaVdGSVN4dEdmZjQ0dzhkLW05VFdsOXVzSGJJU01KQW85MnlXRlk4N19zSjVHVWhUYkp3dlo5ZDRXN21YazJTV29ZSVpOUDVhT3ROMEtkMG1EcWp6eVdRMzkwOTBwVjJrUDBsMmlqSm9iUGItdk9fNmMyWTh0UmhrbHFvY0t6YUZ4b1I4V04xT013bjBsWlFEb2FjVEFzeS03Z04yZkYxMk1BZmZSY3hkd25HRzNLdkxHWFcySnlFalVhTGc?oc=5",
-      "source": "Junior Mining Network",
-      "published_utc": "2023-10-25T07:00:00+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "SLAM Exploration Acquires New Niobium Critical Mineral Project - Junior Mining Network",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Magris acquisition of Niobec Niobium Mine - Torys LLP",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tc0d2YnNPZDF0N2Vta2ZSSEZ3cm5icDFYZE1VRU1vRnlEWmZSbi1iMDBBMGtZZXJkcmZDNGdoM1BNeXlGY1ZlOFB3UV9tNmc4UEdtV1hBNEtqMmVEVFdrLVZGRDR2Ykt4NmoxSmhlNTNBSm9uUklTNHc1Zw?oc=5",
       "source": "Torys LLP",
@@ -349,6 +339,16 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Niobec unique in North America - Canadian Mining Journal",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeG5pLXoyTGYzR3BSXzJOWnFPVXUxWkl6MU1GSkY2VDhFT1otUHBJeGQ4Ync4by1RaENtd3BJYmZ4eGZCMmxFT0x6Ym8yN29JcXNZR0ZaTEZaWHlOUEpkSWlyM2czUmZRSUt2YXk3MS04bXZqakFuOGFNU20ySkxFSWdrOUhOVndBX0xDb0x1VQ?oc=5",
+      "source": "Canadian Mining Journal",
+      "published_utc": "2021-06-30T14:31:51+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "Niobec unique in North America - Canadian Mining Journal",
       "title_en_source": "passthrough"
     },
     {
@@ -402,13 +402,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobium’s silent impact in Brazil - Dialogue Earth",
+      "title": "Niobium’s silent impact in Brazil - dialogue.earth",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmVaQWNsQmlmaXhienBwLXFQRkVpaVJlUWpsdHFGTG9ETWVESzZfWUw0MlZzZWdYRzI5WmJUTmdUd0tNMzRVMXdVZi1HeG0wV2JON0RCeWE1aHBKZnoxY3pxRnpGSVBtUU5rbnFkZTRTbGdVdHc0V3BLdi1GVVd1Zw?oc=5",
-      "source": "Dialogue Earth",
+      "source": "dialogue.earth",
       "published_utc": "2019-04-05T07:00:00+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
-      "title_en": "Niobium’s silent impact in Brazil - Dialogue Earth",
+      "title_en": "Niobium’s silent impact in Brazil - dialogue.earth",
       "title_en_source": "passthrough"
     }
   ],
