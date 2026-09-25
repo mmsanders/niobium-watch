@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-09-24T18:44:55.508090+00:00",
+  "as_of_utc": "2026-09-25T05:55:36.426444+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -11,26 +11,26 @@
     "MRI helium shortage",
     "Shute Creek helium OR LaBarge helium"
   ],
-  "item_count": 74,
+  "item_count": 75,
   "items": [
     {
-      "title": "Opinion | The Iran war has disrupted oil markets. The fallout goes beyond that. - The Washington Post",
+      "title": "Opinion | The Iran war has disrupted oil markets. The fallout goes beyond that. - washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSUFTUEJEVTBQQ2VkUDVGcGx4bXUxdzZEZXk2Si05VEFySnpFYU1zZUZpRWtqYTRQdGZqX29QUGNuSFZlQm5UR1MtRW44RmJyaWwtQUhSYVhlMXVPSjBlclY0NW9yVUlzZFlyUHhXRHFhMGhVQ0daSjlKbm1fQUFNRTJ6c0hHT3NTeXRtRWo3bzU5MFlfMWljcDZfc0NrMTZ1WW43T2dyOXdNcC10QURzV3RBdkc1dHN2?oc=5",
-      "source": "The Washington Post",
+      "source": "washingtonpost.com",
       "published_utc": "2026-09-18T17:15:00+00:00",
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
-      "title_en": "Opinion | The Iran war has disrupted oil markets. The fallout goes beyond that. - The Washington Post",
+      "title_en": "Opinion | The Iran war has disrupted oil markets. The fallout goes beyond that. - washingtonpost.com",
       "title_en_source": "passthrough"
     },
     {
-      "title": "The Chip Insider®–The Iran War’s Helium disconnect update - TechInsights",
+      "title": "The Chip Insider®–The Iran War’s Helium disconnect update - techinsights.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWZVeWV3REc3UFNLZXkxaE1NdnRBZU1MWlBOb1lMLWRjcFdKdlJaQ0h1eEV0STNCSnZCeW1vd0FmYXREdDBhRXR6OVFJWGRUODdYaVVzT25FSTFQQkdUc0k3OTdVUlpnUGtTX01RclVwQmQ4Mi1TZU5iM1E3bEFTY2IyeGlNLWJwLUE?oc=5",
-      "source": "TechInsights",
+      "source": "techinsights.com",
       "published_utc": "2026-09-15T15:58:25+00:00",
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
-      "title_en": "The Chip Insider®–The Iran War’s Helium disconnect update - TechInsights",
+      "title_en": "The Chip Insider®–The Iran War’s Helium disconnect update - techinsights.com",
       "title_en_source": "passthrough"
     },
     {
@@ -84,23 +84,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Is There a Helium Shortage? - InvestorNews",
+      "title": "Is There a Helium Shortage? - investornews.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeUt4N1lnSGRNUGtydUM2RTd2NHI5S2FpckxUdFd6Wko5cXdhQm5vYzlJR1ZoQkZZYkVidnkzcUtIOThaWTVuc2RCRDVIcTJUSWJmWm1naC1qQ0J0NWxPdnBWZUVaRXBoRGhXLVJJa1hBazViZklLY1BKSS1xMThVVDloSklNXy0xT0E?oc=5",
-      "source": "InvestorNews",
+      "source": "investornews.com",
       "published_utc": "2026-07-13T07:00:00+00:00",
       "query": "MRI helium shortage",
       "flag": "red",
-      "title_en": "Is There a Helium Shortage? - InvestorNews",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Colorado's forgotten helium fields are suddenly the most valuable patch of dirt in the energy world - Energies Media",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zN0ZkTjRFdDhSVWpUODJXcTk1WlFPSFhxdlF6V0ZKRXIta1h0WkhWNWI3QjhaNEdZakI1ZWpCbThpLXNGQTBIdTR2ZUNWWHdyMzlKU2NpOEpQdjdTTWFjQ1k0TlZ3X3Q0dWo5bjJSZHh6bVNmQlc3cg?oc=5",
-      "source": "Energies Media",
-      "published_utc": "2026-06-29T07:00:00+00:00",
-      "query": "helium plant outage OR helium force majeure",
-      "flag": "green",
-      "title_en": "Colorado's forgotten helium fields are suddenly the most valuable patch of dirt in the energy world - Energies Media",
+      "title_en": "Is There a Helium Shortage? - investornews.com",
       "title_en_source": "passthrough"
     },
     {
@@ -184,13 +174,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "We Are Experiencing a Helium Shortage — What This Could Mean for an \"Irreplaceable\" Element - discovermagazine.com",
+      "title": "We Are Experiencing a Helium Shortage — What This Could Mean for an \"Irreplaceable\" Element - Discover Magazine",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdEphazVSOWlvQTJsZGp5M25Jbmk1ZnhPVXlOSnVqNE9UbkV5U0dvT1JOdnBVLVZWTjlPRWxNS3pvUUx6dmVsbTY1Q3VIRTh5RlRnZk02bzRMMGNha0tNRkZFODdzNWdPNWh1cm1iYkhEUWhzYnRNbWhYTGtlMEQyUzJCbVNNZEplazNRR1NPT3FwbGk2OWgxSzZMUFJCdGFjdnF0RWtKcTVkYnlQa0ZMbGJzX251dThZQXpKdmdMN0Z0aDJ2?oc=5",
-      "source": "discovermagazine.com",
+      "source": "Discover Magazine",
       "published_utc": "2026-05-25T07:00:00+00:00",
       "query": "BLM helium OR Cliffside helium",
       "flag": "red",
-      "title_en": "We Are Experiencing a Helium Shortage — What This Could Mean for an \"Irreplaceable\" Element - discovermagazine.com",
+      "title_en": "We Are Experiencing a Helium Shortage — What This Could Mean for an \"Irreplaceable\" Element - Discover Magazine",
       "title_en_source": "passthrough"
     },
     {
@@ -294,16 +284,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Top 5 issues for helium startups in Middle East crisis - gasworld",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUUJwWEVmODNCczlCb1NUUi02YUQteXBpNTdab3JnYVRkcHZER25iMVdyVTlLaFl5MC1qOEptV0M0RllySHRiQjlsLXRxYWJCb1VuR1lkTEJhREdCZVZmLS1sa0VmMXI0MnFuMkV0NzU4XzQ0Z1dhTW15eTZKNlJVeXRJby1CUi11SWNtYlI0NElINVg2QjhBa3FGZWJnM0d5dWIwZQ?oc=5",
-      "source": "gasworld",
-      "published_utc": "2026-04-14T07:00:00+00:00",
-      "query": "helium plant outage OR helium force majeure",
-      "flag": "green",
-      "title_en": "Top 5 issues for helium startups in Middle East crisis - gasworld",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Russia Imposes Temporary Export Controls on Helium Until 2027 - Global Banking & Finance Review",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRkgwdUplQVh3X1VmRE5Tcmt5V0FYMFpaektoNUZOUHRHVVhDOXdVSE9Xdjc0M2lSR01zS21SbF9KOWtadnZ2NS1MUHNwUG1VZURVRW9rRWZWbFYxZzJ6LVBGX293dmdlUWNuakZMci1kRThoNTJCOUEwRnBkZE1BUDg0QUYxSEdySHVOQ0ZVZDVtdw?oc=5",
       "source": "Global Banking & Finance Review",
@@ -334,13 +314,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "War In Iran Threatens Helium Supplies For The World's MRI Machines - Health Policy Watch",
+      "title": "War In Iran Threatens Helium Supplies For The World's MRI Machines - healthpolicy-watch.news",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFNHUnJZSWpzSUhQZDRyVXhHM1NKTEE0VkFkYXp1cF9fNk9hVnVlOGFKUnhWQ0dzeGVsQXlaYUh5OW0xRnhSNTE5NzJHOHd1ZVNIMGs0UERONnA1RHYxX3ZnNW41Y29SS1M4dDlMOEJuVDVpMmJNbU5CWGFjdGQyQUFLS1FrQ3ZqZTVEQzZhUVJTSk53RjhFTmRIQS10bUk?oc=5",
-      "source": "Health Policy Watch",
+      "source": "healthpolicy-watch.news",
       "published_utc": "2026-04-06T07:00:00+00:00",
       "query": "MRI helium shortage",
       "flag": "green",
-      "title_en": "War In Iran Threatens Helium Supplies For The World's MRI Machines - Health Policy Watch",
+      "title_en": "War In Iran Threatens Helium Supplies For The World's MRI Machines - healthpolicy-watch.news",
       "title_en_source": "passthrough"
     },
     {
@@ -358,7 +338,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QOTMzN0JCRjZ5ZWswcENPblFGNEY1bUxfVjc0eEZOTHdBbDFwQU0wMWRtNEJiY1hxWHk0OG1tclM5WkZWSWlfWHF2My0xYl9TY281R3Vrdzdwb3ZMdEFlRkk1VzNMVWVfNklKZWN2bw?oc=5",
       "source": "Newsweek",
       "published_utc": "2026-04-05T07:00:00+00:00",
-      "query": "helium plant outage OR helium force majeure",
+      "query": "BLM helium OR Cliffside helium",
       "flag": "green",
       "title_en": "America Has a Helium Problem - Newsweek",
       "title_en_source": "passthrough"
@@ -377,20 +357,10 @@
       "title": "Iran War Chokes Off Helium Supply Critical for AI - WSJ",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVRIaWE3Z0hibGFNRlpMRjB4anE1VTF3RHpxSlI2TUh3Y09JbjBLbjhtc2s3enZpQ0FGbmpURXR4amx2eVJLRWR2MTh4Z3FhcFJpN200Y2wtRC00WVdpUTM3Y0ticVRpYThfeXdXZlNGLV9oVmFHc0V3cUFWSEpHSGNqeWJETXNpQkVCNQ?oc=5",
       "source": "WSJ",
-      "published_utc": "2026-03-31T07:00:00+00:00",
+      "published_utc": "2026-03-30T07:00:00+00:00",
       "query": "helium plant outage OR helium force majeure",
       "flag": "green",
       "title_en": "Iran War Chokes Off Helium Supply Critical for AI - WSJ",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "US-Iran war disrupts the global helium supply chain - Al Majalla",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZFZMZkpzX091QUJCTnh5VnNPTWhRUVhtUDBNNGNHVjZySml4bUt6V2RmLUtfWkVxdF9tdE5EbnkteFBmbUpPM3RfYmVzcGhSa2FJRlpuWklfNnFYcWdHV3ZhajB5cmJzTUtsSGk2SENEY2JTSW1PR1JnRHRjeUhmdjVXN0VWVDB3a2hTSDJ3NDFQTGpOdkdqXy1GOTRNUnh3?oc=5",
-      "source": "Al Majalla",
-      "published_utc": "2026-03-31T07:00:00+00:00",
-      "query": "helium plant outage OR helium force majeure",
-      "flag": "green",
-      "title_en": "US-Iran war disrupts the global helium supply chain - Al Majalla",
       "title_en_source": "passthrough"
     },
     {
@@ -411,6 +381,36 @@
       "query": "Shute Creek helium OR LaBarge helium",
       "flag": "red",
       "title_en": "Helium “Tsunami” to Hit Chipmakers — The Surprising Winner to Profit From the Coming Shortage - Yahoo Finance",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Helium \"Tsunami\" to Hit Chipmakers - The Surprising Winner to Profit From the Coming Shortage - 247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb05XRHFLU290U2p0TEIxNFN0cDk5Y015RXpPc0IyR0cwMnBha0xYVGRHWXB1djlSanA0RkI1cmxsTVdDbFdTTzRvRlQ2WlRBMk83aWxiZ21XR2c5WTY2MDl5aEQzYmZteXdFMy1TZ0VlVWlJLVlmOGhyd2ZlZEUwSW9rYU80TlBvN29Wbno0aUlNeHl1MHJmOHJqd2RVbXJfc3JtNy1sWnRucTZ1LVpmNmtVNGQwbGtkaFBLUS1XTmlRek1XaHBvUHdhUm5EQQ?oc=5",
+      "source": "247wallst.com",
+      "published_utc": "2026-03-30T07:00:00+00:00",
+      "query": "Shute Creek helium OR LaBarge helium",
+      "flag": "red",
+      "title_en": "Helium \"Tsunami\" to Hit Chipmakers - The Surprising Winner to Profit From the Coming Shortage - 247wallst.com",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Helium hitch: Why US-Israel war on Iran could cause MRI scan delays - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNklCS0tRenBIa0xPMzlXd1VzMU5kRUcxTjFUWmc2T2NwVTlGa3I3b3d4Q2pkNlZ5eDhLdnVmM3Y5b29EajY4Y1ptd0QtbjlrbWV0UWVyakxrSzR2VkJJeG96b250aHVIT1RGb1k0T3BJWVJKR0VBWHZINGRaSVZVUkU4QmpKcUsxNDBNcFlLd1poUXlqcFZ4aDFvRkFhdG0wOW9ObWxFOFhhNlFHYktR0gG0AUFVX3lxTE4wX2RTUUxEVFltRnFCUHd3OFFLWk92SmhSdEk1VndqNmZXb09BWm9lX19LcWpvMTlPUHhkcDVoT1pIbHd5SjVpNXpUdVdESVRlWXNHMGVkaF83ODU5WlJWczA1ejZwTkVjYjJDdkUtNHdwdzJfdWtIZlFZelRyT3ZsYzNab0htOU1RVGpjbUNkRHlCVzJ1THRRZ05ja2tqOU1jVWRWYnktQ2xJS2pUenQyTnhqZg?oc=5",
+      "source": "Al Jazeera",
+      "published_utc": "2026-03-26T07:00:00+00:00",
+      "query": "helium plant outage OR helium force majeure",
+      "flag": "yellow",
+      "title_en": "Helium hitch: Why US-Israel war on Iran could cause MRI scan delays - Al Jazeera",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "With Iran war, Wyoming’s helium value rises - wyomingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObXFVNldSZ21WbnB1aXpvYjNlZHVDU3NZZnljamduYWxtTmdfRlRXeHhGSVF0NXh6YmJYV1RORlJ5bkhXRUV6cURScktyR0hmMGtiU3hPcUJIWUUzZW1mOXJESjExcGlieFh4SVB1ank3Q0VtZ19JSHV6al9pMk93WnBCdzRjSm81bk9SYlZ1UU5mMjNraUQ5bWxCQ3RNenRhZ1FoZllWby03UFN3c2VyMXJsc2tLOU1aU2NjcVFHN015aFY5OENZamRucFU1R3dSRGc?oc=5",
+      "source": "wyomingnews.com",
+      "published_utc": "2026-03-26T07:00:00+00:00",
+      "query": "Shute Creek helium OR LaBarge helium",
+      "flag": "green",
+      "title_en": "With Iran war, Wyoming’s helium value rises - wyomingnews.com",
       "title_en_source": "passthrough"
     }
   ],
