@@ -7,7 +7,7 @@
     "exports": "twice daily attempt + monthly AI synthesis"
   },
   "created_utc": "2026-09-12T02:14:31.466375+00:00",
-  "last_headline_fetch_utc": "2026-09-26T05:55:48.874914+00:00",
+  "last_headline_fetch_utc": "2026-09-26T18:09:51.588645+00:00",
   "last_export_fetch_utc": "2026-09-12T02:16:04.773727+00:00",
   "last_error": null,
   "overall_status": "Watch",
@@ -91,7 +91,7 @@
     "CMOC Group Brazil niobium disclosures",
     "Repórter Brasil, Badiinho, Valor Econômico, IBRAM (news)"
   ],
-  "last_cron_run_utc": "2026-09-26T05:55:48.874914+00:00",
+  "last_cron_run_utc": "2026-09-26T18:09:51.588645+00:00",
   "cron": "GitHub Actions twice daily (01:00 & 15:00 UTC)",
   "baseline_signals": [
     {
