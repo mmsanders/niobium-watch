@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-09-27T06:21:36.722334+00:00",
+  "as_of_utc": "2026-09-27T18:46:15.613502+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 46,
+  "item_count": 45,
   "items": [
     {
       "title": "CBMM, St. George clash over mining rights and dam safety in Brazil - Valor International",
@@ -52,13 +52,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - nextinvestors.com",
+      "title": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQczJON05BR3h4aXBLT2pnWGVzMF95NXhEdVE4QlpGc0NRV2VWdHcxSnZjSTYxc1lyY2ZSNGNCQ0VmcHhxLWlPamx5QVRoeVp4anJacUduN1d5WnlnV05xVlYzakJmNW5wWHFKdzNzclc1TU9ienh4QWs2VVdOUG8ybXgwTlY2NjBkZE1fT2ZNdnBHblh6VnIxeTVmSUZKNzJ5Q0Q5TWRsT3JBUVhUcTVucVFlT3ZWa3RCeVZRS2pnN2Zkd1RTLVNsMlNfTlJHYVhn?oc=5",
-      "source": "nextinvestors.com",
+      "source": "Next Investors",
       "published_utc": "2026-06-11T07:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - nextinvestors.com",
+      "title_en": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
       "title_en_source": "passthrough"
     },
     {
@@ -132,23 +132,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - graphene-info.com",
+      "title": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - Graphene-Info",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzlFLUlsUm9IekZrdXAyN2R1ekx4RHRMeDNCUk9mcHNNdDdocllKTzRBNEM1R0R2ZFBvcnhMMU0zVm1BZGdhQkhnUVV0Y1BlT3piRGhCYWQwS1FFX1pZQU1UM185LWgzOEJBNkk4dHpkTDUxMm1xNkgyZFVJQnNVcE5HTGFzUXE4c2hvb0lXa3R3V09yMndOUHRseF8tT2NDYjl0bU1R?oc=5",
-      "source": "graphene-info.com",
+      "source": "Graphene-Info",
       "published_utc": "2025-10-16T07:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - graphene-info.com",
+      "title_en": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - Graphene-Info",
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobium Market Size - Forecast Report 2026-2035 - Research Nester",
+      "title": "Niobium Market Size - Forecast Report 2026-2035 - researchnester.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kSjJDZEs4T25SZ3hJSkVnM1U4NmRrbXJrbk0xSVk4eDhvdGdQOFd5MVA0SmhMX1F1dWtxZ0g4SDJFYmNJZHQ2RmE2dEotYkVWYW8zbmRJTTFVVlRHM0FLLUI2aGZReUk0VUE?oc=5",
-      "source": "Research Nester",
+      "source": "researchnester.com",
       "published_utc": "2025-09-15T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Niobium Market Size - Forecast Report 2026-2035 - Research Nester",
+      "title_en": "Niobium Market Size - Forecast Report 2026-2035 - researchnester.com",
       "title_en_source": "passthrough"
     },
     {
@@ -212,13 +212,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Ex-CBMM Niobium Boss Ricardo Maximo Nardi Joins SGQ - nextinvestors.com",
+      "title": "Ex-CBMM Niobium Boss Ricardo Maximo Nardi Joins SGQ - Next Investors",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGJ5Q1lPUkxvd01NaVVZQTVSY1ZUanJRbDJpYS00WWpwVDEyZWFEQjZGRGh6d2NaNl9CVmxuR096a2xsUkpPVTRqRWtXVTN4SWFzMlBMTGtzSGVFT1JyanJYQjlUdmc2anNvVXA3TVgzbFM3X3VFS2ZzZHF3OUN1MnhMeEFTbzJBMEVjUksyamZkaWZT?oc=5",
-      "source": "nextinvestors.com",
+      "source": "Next Investors",
       "published_utc": "2025-02-03T08:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
-      "title_en": "Ex-CBMM Niobium Boss Ricardo Maximo Nardi Joins SGQ - nextinvestors.com",
+      "title_en": "Ex-CBMM Niobium Boss Ricardo Maximo Nardi Joins SGQ - Next Investors",
       "title_en_source": "passthrough"
     },
     {
@@ -312,13 +312,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "SLAM Exploration Acquires New Niobium Critical Mineral Project - juniorminingnetwork.com",
+      "title": "SLAM Exploration Acquires New Niobium Critical Mineral Project - Junior Mining Network",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWmlCR0JzWUdHdW03US1aeGhhNHBHdWpwemhtM2JHZ0dLNHhpb2RnOWRDVEJWWlVzU1JjaVdGSVN4dEdmZjQ0dzhkLW05VFdsOXVzSGJJU01KQW85MnlXRlk4N19zSjVHVWhUYkp3dlo5ZDRXN21YazJTV29ZSVpOUDVhT3ROMEtkMG1EcWp6eVdRMzkwOTBwVjJrUDBsMmlqSm9iUGItdk9fNmMyWTh0UmhrbHFvY0t6YUZ4b1I4V04xT013bjBsWlFEb2FjVEFzeS03Z04yZkYxMk1BZmZSY3hkd25HRzNLdkxHWFcySnlFalVhTGc?oc=5",
-      "source": "juniorminingnetwork.com",
+      "source": "Junior Mining Network",
       "published_utc": "2023-10-25T07:00:00+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "SLAM Exploration Acquires New Niobium Critical Mineral Project - juniorminingnetwork.com",
+      "title_en": "SLAM Exploration Acquires New Niobium Critical Mineral Project - Junior Mining Network",
       "title_en_source": "passthrough"
     },
     {
