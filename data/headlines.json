@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-09-27T18:46:15.613502+00:00",
+  "as_of_utc": "2026-09-28T06:46:27.624151+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -142,13 +142,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobium Market Size - Forecast Report 2026-2035 - researchnester.com",
+      "title": "Niobium Market Size - Forecast Report 2026-2035 - Research Nester",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kSjJDZEs4T25SZ3hJSkVnM1U4NmRrbXJrbk0xSVk4eDhvdGdQOFd5MVA0SmhMX1F1dWtxZ0g4SDJFYmNJZHQ2RmE2dEotYkVWYW8zbmRJTTFVVlRHM0FLLUI2aGZReUk0VUE?oc=5",
-      "source": "researchnester.com",
+      "source": "Research Nester",
       "published_utc": "2025-09-15T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Niobium Market Size - Forecast Report 2026-2035 - researchnester.com",
+      "title_en": "Niobium Market Size - Forecast Report 2026-2035 - Research Nester",
       "title_en_source": "passthrough"
     },
     {
@@ -242,13 +242,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "CBMM, Echion open world’s largest niobium anode production plant in Brazil - Mining.com",
+      "title": "CBMM, Echion open world’s largest niobium anode production plant in Brazil - mining.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQkNXNVV3R052WU5zWHFGcC1TdlhNd0hqeFVtTGh6S05YZ2M2eHhudUxXMWkxc053SUFROTU0YlRtd21VU09LR21EeTMtTG5sQW9LVW93MWNWYmZLa00yUWZkcTI5N2dMcWRxY3pTNkZNWXJXb2poZ01GbFlTb19RRlhTNkZyVkk1Y3A4dEtpOVNaRkktX3BlM3JEU2k?oc=5",
-      "source": "Mining.com",
+      "source": "mining.com",
       "published_utc": "2024-11-18T08:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
-      "title_en": "CBMM, Echion open world’s largest niobium anode production plant in Brazil - Mining.com",
+      "title_en": "CBMM, Echion open world’s largest niobium anode production plant in Brazil - mining.com",
       "title_en_source": "passthrough"
     },
     {
@@ -292,13 +292,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Top critical mineral miner CBMM sees opportunity in EV batteries - Mining.com",
+      "title": "Top critical mineral miner CBMM sees opportunity in EV batteries - mining.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVJvT0tKMUVHdlhiRjFyNkQyY2Z2cVhreDlIVTFJaURUbml3WGladl8zNkFPUUZULTNxeGp0Yzg4SVI2MGtKSkw3OGtMY1QxTzVIU1U5bTRiRXowdU1SY0llWmhFQlVoWXgwYW53cjRmYk5vV2pKT0RHUGxPZDNGa1N2N0syVFBScTRtTS1VOG1SSGE1SWVn?oc=5",
-      "source": "Mining.com",
+      "source": "mining.com",
       "published_utc": "2024-05-13T07:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "Top critical mineral miner CBMM sees opportunity in EV batteries - Mining.com",
+      "title_en": "Top critical mineral miner CBMM sees opportunity in EV batteries - mining.com",
       "title_en_source": "passthrough"
     },
     {
@@ -402,13 +402,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
+      "title": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - mining.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzJvbTdLamF2RExoWTMxbXZRSjUxU29lenJmdjVOWmp4ak5BYUZCWEMwSU9ReTV6bmhZMFl2Z3BwbkgxTDNhMVdka25tOU9saG54cXF0SDRhTHZLemNzTkpEd0ZXSERPU1B6ckEzdy03T09Oa25Zek5pYVJrNVVNTDhjOFJoS3ZDVXFhNXlNNHB2OE1VVUhtajNCNW9vbGo2MjdxZ0ZkUU82S1ZlZFE?oc=5",
-      "source": "Mining.com",
+      "source": "mining.com",
       "published_utc": "2019-06-13T14:20:20+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
+      "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - mining.com",
       "title_en_source": "passthrough"
     }
   ],
