@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-09-29T06:38:26.959804+00:00",
+  "as_of_utc": "2026-09-29T19:42:46.891389+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -42,13 +42,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
+      "title": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - nextinvestors.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQczJON05BR3h4aXBLT2pnWGVzMF95NXhEdVE4QlpGc0NRV2VWdHcxSnZjSTYxc1lyY2ZSNGNCQ0VmcHhxLWlPamx5QVRoeVp4anJacUduN1d5WnlnV05xVlYzakJmNW5wWHFKdzNzclc1TU9ienh4QWs2VVdOUG8ybXgwTlY2NjBkZE1fT2ZNdnBHblh6VnIxeTVmSUZKNzJ5Q0Q5TWRsT3JBUVhUcTVucVFlT3ZWa3RCeVZRS2pnN2Zkd1RTLVNsMlNfTlJHYVhn?oc=5",
-      "source": "Next Investors",
+      "source": "nextinvestors.com",
       "published_utc": "2026-06-11T07:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
+      "title_en": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - nextinvestors.com",
       "title_en_source": "passthrough"
     },
     {
@@ -72,13 +72,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobium partnership in Brazil gains governance boost - bnamericas.com",
+      "title": "Niobium partnership in Brazil gains governance boost - BNamericas",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVdrZktMV2RjTVlyVUo5Rl81N3c5UWdTMnBIeHZTX240TVdkdFdFSXk0dVZlcFVVbEJOcWw4RU9aWVVhdzlINVl4a2Vpbm03czBwemsyVDNURVlGUGFkb0JkRzBfdFBJc1V3OGVJZE1VaHBXSHJ3ZmtjQW9NNkxYOXdXOUV0UW4yc1gtNTlGNEM?oc=5",
-      "source": "bnamericas.com",
+      "source": "BNamericas",
       "published_utc": "2026-03-04T08:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "Niobium partnership in Brazil gains governance boost - bnamericas.com",
+      "title_en": "Niobium partnership in Brazil gains governance boost - BNamericas",
       "title_en_source": "passthrough"
     },
     {
@@ -102,13 +102,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "St George Mining 'poised to redefine Araxá' - miningmagazine.com",
+      "title": "St George Mining 'poised to redefine Araxá' - Mining Magazine",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanV0alpGcmlZX1Q2QnhGLV9Xcm1JWkJNb1I5ek5zOW43U0R2VERCX1ZodUZtVTd1c2p6S0NIRzRWNEVzOGRxOERPZWZFRzcyNzlyUnlHR3FLdWgzTkkxSlpGT3NxMmtVRnhKQ3ZZRGI4Xzh3bm5saUZzUmk0SjdsWEJpU2VlV0ZVRzVGMEJ5dWZqcVBucW85VTZNV3Vxa0xtZUE?oc=5",
-      "source": "miningmagazine.com",
+      "source": "Mining Magazine",
       "published_utc": "2026-02-11T08:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "yellow",
-      "title_en": "St George Mining 'poised to redefine Araxá' - miningmagazine.com",
+      "title_en": "St George Mining 'poised to redefine Araxá' - Mining Magazine",
       "title_en_source": "passthrough"
     },
     {
@@ -202,23 +202,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Ex-CBMM Niobium Boss Ricardo Maximo Nardi Joins SGQ - Next Investors",
+      "title": "Ex-CBMM Niobium Boss Ricardo Maximo Nardi Joins SGQ - nextinvestors.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGJ5Q1lPUkxvd01NaVVZQTVSY1ZUanJRbDJpYS00WWpwVDEyZWFEQjZGRGh6d2NaNl9CVmxuR096a2xsUkpPVTRqRWtXVTN4SWFzMlBMTGtzSGVFT1JyanJYQjlUdmc2anNvVXA3TVgzbFM3X3VFS2ZzZHF3OUN1MnhMeEFTbzJBMEVjUksyamZkaWZT?oc=5",
-      "source": "Next Investors",
+      "source": "nextinvestors.com",
       "published_utc": "2025-02-03T08:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
-      "title_en": "Ex-CBMM Niobium Boss Ricardo Maximo Nardi Joins SGQ - Next Investors",
+      "title_en": "Ex-CBMM Niobium Boss Ricardo Maximo Nardi Joins SGQ - nextinvestors.com",
       "title_en_source": "passthrough"
     },
     {
-      "title": "Are Chinese investments in Brazilian mining the start of a new wave? - bnamericas.com",
+      "title": "Are Chinese investments in Brazilian mining the start of a new wave? - BNamericas",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHl0RE9uVXBJakE0SmRXeWZvZTZqS29WNnRPY3JvNW94Y19ZaVhIMFBzWkZVX2x1Rmp3UnFVQXdHck51RnZiNHFnOWpfRnlDajU2MVZvVkxmblR3UEFDRlhzMVRQWU53NVVvUU5iMDhaSVp2dm1LZ2hpSE1IUEpoajhYSFVLXzZPcTNqZlNYSUVRbGhoTUlKWmstOWdPR3cycDRjZjlfa2ZGUQ?oc=5",
-      "source": "bnamericas.com",
+      "source": "BNamericas",
       "published_utc": "2024-12-10T08:00:00+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
-      "title_en": "Are Chinese investments in Brazilian mining the start of a new wave? - bnamericas.com",
+      "title_en": "Are Chinese investments in Brazilian mining the start of a new wave? - BNamericas",
       "title_en_source": "passthrough"
     },
     {
@@ -232,13 +232,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "CBMM opens niobium anode production facility in Brazil - mining-technology.com",
+      "title": "CBMM opens niobium anode production facility in Brazil - Mining Technology",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnNiTGQ2UW5JRlh0bzh0N1B5elFiNEFrZE5FdW1LV0RuRk1HMlIzQzNKYzVtOXhnZVo2NWtzSmRZNXZlbFhab0RCVExqRGp0TVRMcjhBLWNmOGZBY0JMNUh1Yzc5TExUS2p0QVY4dmtWTHg1TEZwRElwNTNldzgtc1pPRjM?oc=5",
-      "source": "mining-technology.com",
+      "source": "Mining Technology",
       "published_utc": "2024-11-18T08:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "CBMM opens niobium anode production facility in Brazil - mining-technology.com",
+      "title_en": "CBMM opens niobium anode production facility in Brazil - Mining Technology",
       "title_en_source": "passthrough"
     },
     {
@@ -252,13 +252,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "St George recruits CBMM niobium experts for Araxá - theaustralian.com.au",
+      "title": "St George recruits CBMM niobium experts for Araxá - The Australian",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOcV9tZTlLblBmLUNPVFBYWkVia09hVThscVZ5ZmtONzNXOFRhdS0tc0NDV0Zya1dVekREcnF1VHZUX3NVOTluVFRqRmVPVTQ4NjRLVGgxSzYyalJwcFgxaV9CZDdiS25qN3RKa01mYXpJZUhiTVFzZkVQNzh2NjJGN0drdkpXMzFLWFI5Nm9NaGswMDAxWmFlaTBGNDgzc3QzN3pzTHNhRWROM25IYXlCV0lPZUxnRF9zczdLOHFma05ZNVpIUDhZSnFyeWpRU1FUcGxBaDR2ZTd2by13U3dOamp3bzl2dEx1NzB3TnJzTE1uN3h2dE9RMk9oOTFWYWExQ0w3Z3ZuTlctMXpEdlFoVXdBZkxucmduZjQ2UXh5dVlKUQ?oc=5",
-      "source": "theaustralian.com.au",
+      "source": "The Australian",
       "published_utc": "2024-08-20T07:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
-      "title_en": "St George recruits CBMM niobium experts for Araxá - theaustralian.com.au",
+      "title_en": "St George recruits CBMM niobium experts for Araxá - The Australian",
       "title_en_source": "passthrough"
     },
     {
@@ -282,13 +282,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Prosecutors to hold public hearing on impact of mining in Brazil's Goiás state - bnamericas.com",
+      "title": "Prosecutors to hold public hearing on impact of mining in Brazil's Goiás state - BNamericas",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORElxeTdxT3lDdnJWc0FzeDljaXNhaXd3cnBRd0d5THF4NHJaN29nWXAyazZHTEJuTlJFblZZbVlBZ25fQ2x6M0tMbTlkN21IcmJXdTdXOTlPTWhpZllnV3k1NmRPSDJEWF8yT0d4dFYwd2hsV251UXBrSFpiWUlvMFZVM3BIUEFlcmYydFFLZmlPN01Sd0JwM1d0WGVncldTQWdWU2ZhSWZLTm9lUFkxcU1n?oc=5",
-      "source": "bnamericas.com",
+      "source": "BNamericas",
       "published_utc": "2024-05-14T07:00:00+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "yellow",
-      "title_en": "Prosecutors to hold public hearing on impact of mining in Brazil's Goiás state - bnamericas.com",
+      "title_en": "Prosecutors to hold public hearing on impact of mining in Brazil's Goiás state - BNamericas",
       "title_en_source": "passthrough"
     },
     {
@@ -392,13 +392,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "At a Glance: Niobium powerhouse CBMM - bnamericas.com",
+      "title": "At a Glance: Niobium powerhouse CBMM - BNamericas",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01RGYwSE5TOElGb1hxRXNKNVo1THhZbkx6bWt3UFY2eUhWWkpwWHU1Y1ZmbGtIaHFmVVJxb2J6eGdES3FfbmdRRkpjd3l5WERoWkdLQ3VvZzd6ZThPVEg1dGJ3alRUYXhOMkNVVFhTX0FFV0hWVUlSTVJLWlpnbkU?oc=5",
-      "source": "bnamericas.com",
+      "source": "BNamericas",
       "published_utc": "2019-08-30T07:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
-      "title_en": "At a Glance: Niobium powerhouse CBMM - bnamericas.com",
+      "title_en": "At a Glance: Niobium powerhouse CBMM - BNamericas",
       "title_en_source": "passthrough"
     },
     {
