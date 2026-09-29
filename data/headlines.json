@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-09-28T20:55:51.078428+00:00",
+  "as_of_utc": "2026-09-29T06:38:26.959804+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -72,13 +72,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobium partnership in Brazil gains governance boost - BNamericas",
+      "title": "Niobium partnership in Brazil gains governance boost - bnamericas.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVdrZktMV2RjTVlyVUo5Rl81N3c5UWdTMnBIeHZTX240TVdkdFdFSXk0dVZlcFVVbEJOcWw4RU9aWVVhdzlINVl4a2Vpbm03czBwemsyVDNURVlGUGFkb0JkRzBfdFBJc1V3OGVJZE1VaHBXSHJ3ZmtjQW9NNkxYOXdXOUV0UW4yc1gtNTlGNEM?oc=5",
-      "source": "BNamericas",
+      "source": "bnamericas.com",
       "published_utc": "2026-03-04T08:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "Niobium partnership in Brazil gains governance boost - BNamericas",
+      "title_en": "Niobium partnership in Brazil gains governance boost - bnamericas.com",
       "title_en_source": "passthrough"
     },
     {
@@ -102,13 +102,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "St George Mining 'poised to redefine Araxá' - Mining Magazine",
+      "title": "St George Mining 'poised to redefine Araxá' - miningmagazine.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanV0alpGcmlZX1Q2QnhGLV9Xcm1JWkJNb1I5ek5zOW43U0R2VERCX1ZodUZtVTd1c2p6S0NIRzRWNEVzOGRxOERPZWZFRzcyNzlyUnlHR3FLdWgzTkkxSlpGT3NxMmtVRnhKQ3ZZRGI4Xzh3bm5saUZzUmk0SjdsWEJpU2VlV0ZVRzVGMEJ5dWZqcVBucW85VTZNV3Vxa0xtZUE?oc=5",
-      "source": "Mining Magazine",
+      "source": "miningmagazine.com",
       "published_utc": "2026-02-11T08:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "yellow",
-      "title_en": "St George Mining 'poised to redefine Araxá' - Mining Magazine",
+      "title_en": "St George Mining 'poised to redefine Araxá' - miningmagazine.com",
       "title_en_source": "passthrough"
     },
     {
@@ -172,13 +172,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobium: poor recyclability and high dependence on Brazilian supply - pricepedia.it",
+      "title": "Niobium: poor recyclability and high dependence on Brazilian supply - PricePedia",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUWJTTDRrSEd5QVg1X3paV0I4Y1B2TTU0NUNyYVBqeUVrak9hNXQtOHFtNk81aFo1T0R1bWN1ckIzSmZvY0tVZktKa2ZTUXhsRlhZWEN0aHJjNm1OMjZEczEwMERlSE5iV1l1cFRuVGNCTDJwV21xNi1ZbkxvV1NONGFPNGNXWTJkOUJrM1I1LW1YNzFKNktMWUQ4cXcxQ1M5ZVpXeVEzdHRGc2ZOcnk0NUc5ZjFETjNvTDZuSk9OaWdfQQ?oc=5",
-      "source": "pricepedia.it",
+      "source": "PricePedia",
       "published_utc": "2025-08-04T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Niobium: poor recyclability and high dependence on Brazilian supply - pricepedia.it",
+      "title_en": "Niobium: poor recyclability and high dependence on Brazilian supply - PricePedia",
       "title_en_source": "passthrough"
     },
     {
@@ -202,16 +202,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobium's battle of quantity and quality - Mining Magazine",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZEFQQ29Wcld6SFAzVk9qb2hYQ0dKTUpvT2xSdjJMV2lzMDRWR2duNVRESEtqRkY3RjRiSVhOZXVXUEIzS05lSXRwLTRKOE5EaS1weGhLMjN4SnBMaFZrM25NTDJPYTFodlE5SXJ3XzU3NmtpTnJnNEdaekZ1bk9BNkY3U056cW5xZVBscW8tNkQ3SzcyNVBxQ0xfNGs?oc=5",
-      "source": "Mining Magazine",
-      "published_utc": "2025-03-17T07:00:00+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "green",
-      "title_en": "Niobium's battle of quantity and quality - Mining Magazine",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Ex-CBMM Niobium Boss Ricardo Maximo Nardi Joins SGQ - Next Investors",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGJ5Q1lPUkxvd01NaVVZQTVSY1ZUanJRbDJpYS00WWpwVDEyZWFEQjZGRGh6d2NaNl9CVmxuR096a2xsUkpPVTRqRWtXVTN4SWFzMlBMTGtzSGVFT1JyanJYQjlUdmc2anNvVXA3TVgzbFM3X3VFS2ZzZHF3OUN1MnhMeEFTbzJBMEVjUksyamZkaWZT?oc=5",
       "source": "Next Investors",
@@ -222,43 +212,53 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - electrichybridvehicletechnology.com",
+      "title": "Are Chinese investments in Brazilian mining the start of a new wave? - bnamericas.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHl0RE9uVXBJakE0SmRXeWZvZTZqS29WNnRPY3JvNW94Y19ZaVhIMFBzWkZVX2x1Rmp3UnFVQXdHck51RnZiNHFnOWpfRnlDajU2MVZvVkxmblR3UEFDRlhzMVRQWU53NVVvUU5iMDhaSVp2dm1LZ2hpSE1IUEpoajhYSFVLXzZPcTNqZlNYSUVRbGhoTUlKWmstOWdPR3cycDRjZjlfa2ZGUQ?oc=5",
+      "source": "bnamericas.com",
+      "published_utc": "2024-12-10T08:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "Are Chinese investments in Brazilian mining the start of a new wave? - bnamericas.com",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - Electric & Hybrid Vehicle Technology International",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVHZDR1d4MFJDTnFHb2RFMnFEZGxoUGpmbmhpVm1Yem1Sb2NhQzl6SmtzM2hFM1FvVTVtcjlXbHNQYnNUR2tMcnBITW9SMUg3NGMtcDRsTlU5eERpVEFicUFQMU5CbUNlUkJmUGxBS29OSGZZcXpUc2RTR0wtT2dGYXR4bXJ6bmYwVElvMVRwWnVNamxEMVRwVzFITUVwOXd6ZXc2RHB0LTVKLVNZckR3Q3BKa0tXeWtiNEpGYVp6dDE2WHVvcnFmYS13V09Sc2hySmVuTmZLbVVRdw?oc=5",
-      "source": "electrichybridvehicletechnology.com",
+      "source": "Electric & Hybrid Vehicle Technology International",
       "published_utc": "2024-11-21T08:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - electrichybridvehicletechnology.com",
+      "title_en": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - Electric & Hybrid Vehicle Technology International",
       "title_en_source": "passthrough"
     },
     {
-      "title": "CBMM opens niobium anode production facility in Brazil - Mining Technology",
+      "title": "CBMM opens niobium anode production facility in Brazil - mining-technology.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnNiTGQ2UW5JRlh0bzh0N1B5elFiNEFrZE5FdW1LV0RuRk1HMlIzQzNKYzVtOXhnZVo2NWtzSmRZNXZlbFhab0RCVExqRGp0TVRMcjhBLWNmOGZBY0JMNUh1Yzc5TExUS2p0QVY4dmtWTHg1TEZwRElwNTNldzgtc1pPRjM?oc=5",
-      "source": "Mining Technology",
+      "source": "mining-technology.com",
       "published_utc": "2024-11-18T08:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "CBMM opens niobium anode production facility in Brazil - Mining Technology",
+      "title_en": "CBMM opens niobium anode production facility in Brazil - mining-technology.com",
       "title_en_source": "passthrough"
     },
     {
-      "title": "CBMM, Echion open world’s largest niobium anode production plant in Brazil - mining.com",
+      "title": "CBMM, Echion open world’s largest niobium anode production plant in Brazil - Mining.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQkNXNVV3R052WU5zWHFGcC1TdlhNd0hqeFVtTGh6S05YZ2M2eHhudUxXMWkxc053SUFROTU0YlRtd21VU09LR21EeTMtTG5sQW9LVW93MWNWYmZLa00yUWZkcTI5N2dMcWRxY3pTNkZNWXJXb2poZ01GbFlTb19RRlhTNkZyVkk1Y3A4dEtpOVNaRkktX3BlM3JEU2k?oc=5",
-      "source": "mining.com",
+      "source": "Mining.com",
       "published_utc": "2024-11-18T08:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
-      "title_en": "CBMM, Echion open world’s largest niobium anode production plant in Brazil - mining.com",
+      "title_en": "CBMM, Echion open world’s largest niobium anode production plant in Brazil - Mining.com",
       "title_en_source": "passthrough"
     },
     {
-      "title": "St George recruits CBMM niobium experts for Araxá - The Australian",
+      "title": "St George recruits CBMM niobium experts for Araxá - theaustralian.com.au",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOcV9tZTlLblBmLUNPVFBYWkVia09hVThscVZ5ZmtONzNXOFRhdS0tc0NDV0Zya1dVekREcnF1VHZUX3NVOTluVFRqRmVPVTQ4NjRLVGgxSzYyalJwcFgxaV9CZDdiS25qN3RKa01mYXpJZUhiTVFzZkVQNzh2NjJGN0drdkpXMzFLWFI5Nm9NaGswMDAxWmFlaTBGNDgzc3QzN3pzTHNhRWROM25IYXlCV0lPZUxnRF9zczdLOHFma05ZNVpIUDhZSnFyeWpRU1FUcGxBaDR2ZTd2by13U3dOamp3bzl2dEx1NzB3TnJzTE1uN3h2dE9RMk9oOTFWYWExQ0w3Z3ZuTlctMXpEdlFoVXdBZkxucmduZjQ2UXh5dVlKUQ?oc=5",
-      "source": "The Australian",
+      "source": "theaustralian.com.au",
       "published_utc": "2024-08-20T07:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
-      "title_en": "St George recruits CBMM niobium experts for Araxá - The Australian",
+      "title_en": "St George recruits CBMM niobium experts for Araxá - theaustralian.com.au",
       "title_en_source": "passthrough"
     },
     {
@@ -282,23 +282,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Prosecutors to hold public hearing on impact of mining in Brazil's Goiás state - BNamericas",
+      "title": "Prosecutors to hold public hearing on impact of mining in Brazil's Goiás state - bnamericas.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORElxeTdxT3lDdnJWc0FzeDljaXNhaXd3cnBRd0d5THF4NHJaN29nWXAyazZHTEJuTlJFblZZbVlBZ25fQ2x6M0tMbTlkN21IcmJXdTdXOTlPTWhpZllnV3k1NmRPSDJEWF8yT0d4dFYwd2hsV251UXBrSFpiWUlvMFZVM3BIUEFlcmYydFFLZmlPN01Sd0JwM1d0WGVncldTQWdWU2ZhSWZLTm9lUFkxcU1n?oc=5",
-      "source": "BNamericas",
+      "source": "bnamericas.com",
       "published_utc": "2024-05-14T07:00:00+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "yellow",
-      "title_en": "Prosecutors to hold public hearing on impact of mining in Brazil's Goiás state - BNamericas",
+      "title_en": "Prosecutors to hold public hearing on impact of mining in Brazil's Goiás state - bnamericas.com",
       "title_en_source": "passthrough"
     },
     {
-      "title": "Top critical mineral miner CBMM sees opportunity in EV batteries - mining.com",
+      "title": "Top critical mineral miner CBMM sees opportunity in EV batteries - Mining.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVJvT0tKMUVHdlhiRjFyNkQyY2Z2cVhreDlIVTFJaURUbml3WGladl8zNkFPUUZULTNxeGp0Yzg4SVI2MGtKSkw3OGtMY1QxTzVIU1U5bTRiRXowdU1SY0llWmhFQlVoWXgwYW53cjRmYk5vV2pKT0RHUGxPZDNGa1N2N0syVFBScTRtTS1VOG1SSGE1SWVn?oc=5",
-      "source": "mining.com",
+      "source": "Mining.com",
       "published_utc": "2024-05-13T07:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "Top critical mineral miner CBMM sees opportunity in EV batteries - mining.com",
+      "title_en": "Top critical mineral miner CBMM sees opportunity in EV batteries - Mining.com",
       "title_en_source": "passthrough"
     },
     {
@@ -319,16 +319,6 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "SLAM Exploration Acquires New Niobium Critical Mineral Project - Junior Mining Network",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Minas Gerais prosecutors conclude probe into niobium mining - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTVlqMVV1czZxalBmNm5oQlh4dmEtdDY4RE5TdFhrbGQ3OWJ2SWFmdDMxd2s5QjlTRllNb2NjQlp1MXVmWFlDY2QzWU1nN3ItdS1qSU9NcW93dWlEOTBMSFpCT3ZtZFhkN20wZWc1VUkyRGRVRzFNa3M4NVpZRnRrbTlsWVJuc1JpbkVVTFpKTmlSMEpyTjZLV0V3?oc=5",
-      "source": "BNamericas",
-      "published_utc": "2023-03-06T08:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "yellow",
-      "title_en": "Minas Gerais prosecutors conclude probe into niobium mining - BNamericas",
       "title_en_source": "passthrough"
     },
     {
@@ -402,13 +392,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - mining.com",
+      "title": "At a Glance: Niobium powerhouse CBMM - bnamericas.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01RGYwSE5TOElGb1hxRXNKNVo1THhZbkx6bWt3UFY2eUhWWkpwWHU1Y1ZmbGtIaHFmVVJxb2J6eGdES3FfbmdRRkpjd3l5WERoWkdLQ3VvZzd6ZThPVEg1dGJ3alRUYXhOMkNVVFhTX0FFV0hWVUlSTVJLWlpnbkU?oc=5",
+      "source": "bnamericas.com",
+      "published_utc": "2019-08-30T07:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "At a Glance: Niobium powerhouse CBMM - bnamericas.com",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzJvbTdLamF2RExoWTMxbXZRSjUxU29lenJmdjVOWmp4ak5BYUZCWEMwSU9ReTV6bmhZMFl2Z3BwbkgxTDNhMVdka25tOU9saG54cXF0SDRhTHZLemNzTkpEd0ZXSERPU1B6ckEzdy03T09Oa25Zek5pYVJrNVVNTDhjOFJoS3ZDVXFhNXlNNHB2OE1VVUhtajNCNW9vbGo2MjdxZ0ZkUU82S1ZlZFE?oc=5",
-      "source": "mining.com",
+      "source": "Mining.com",
       "published_utc": "2019-06-13T14:20:20+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - mining.com",
+      "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
       "title_en_source": "passthrough"
     }
   ],
