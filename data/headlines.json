@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-09-30T06:20:37.969290+00:00",
+  "as_of_utc": "2026-09-30T19:44:08.230897+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -22,13 +22,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "NIOB Adds to Critical Minerals Portfolio - GlobeNewswire",
+      "title": "NIOB Adds to Critical Minerals Portfolio - globenewswire.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTBjU3ZJRnhYZ2h0MlVKcUxZQ05scjUzUFIxeXM3MklyWGhKdlRsWWVURnR6SWlWY1pDM256Y2Znd3RmWWFQcnhDcFpNRUlpVEFBRWtTWV9fVHNEd3lMeHZrMU1qNzByOFJkUWQ2WVhXTk9DMGNwcmQyRFNfVTE5LUJsdllBYk1OWVFOUi1OTnpWOGpuVVZpSGxBdVBFMTdRQTU4bmlOMW1MTDk0U1psbUpB?oc=5",
-      "source": "GlobeNewswire",
+      "source": "globenewswire.com",
       "published_utc": "2026-07-08T07:00:00+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "NIOB Adds to Critical Minerals Portfolio - GlobeNewswire",
+      "title_en": "NIOB Adds to Critical Minerals Portfolio - globenewswire.com",
       "title_en_source": "passthrough"
     },
     {
@@ -52,13 +52,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
+      "title": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - uchumi360.com",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hc3g0Tks2NVY5UTRKRkt4Y0JmMUpwR1EwUmFPVGJCUy1RYTZ3TjlxWWo2SFJzWWJPM3AyMGdwZ0FZZTE4Y0V1MXhwQjdLdy03TXZIRVZYd0V4WkY0ZE96QVpoTQ?oc=5",
-      "source": "Uchumi360",
+      "source": "uchumi360.com",
       "published_utc": "2026-03-27T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
+      "title_en": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - uchumi360.com",
       "title_en_source": "passthrough"
     },
     {
@@ -92,13 +92,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "CMOC Brasil's record-breaking niobium production confirms its leading global position. - IBRAM - Mineração do Brasil",
+      "title": "CMOC Brasil's record-breaking niobium production confirms its leading global position. - ibram.org.br",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUjh3TnVPQVZrZ0ZEZWxSai1naE9RMEQ2bVM3RnhBTHVtMDhFVU9WY0VPcVBaaGFzOGVaZG9tZHluOE5PV2NCS190SWw5SXhyYVJFRjFpaVVxbS1iNUtITWZSalBWSF9GTTAxUUp1NGZXM2J5QU9rS1RwU0JHWjBIWGRHeTVjQkF3aktZNUQzRkFSZmRVeWNXWFpHdW03d1ZncHhfMFRqWUhLUzhkM3lJT2d6aW91WmVQYlhkLWFGUVRsTDVRU3c?oc=5",
-      "source": "IBRAM - Mineração do Brasil",
+      "source": "ibram.org.br",
       "published_utc": "2026-02-26T15:29:25+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
-      "title_en": "CMOC Brasil's record-breaking niobium production confirms its leading global position. - IBRAM - Mineração do Brasil",
+      "title_en": "CMOC Brasil's record-breaking niobium production confirms its leading global position. - ibram.org.br",
       "title_en_source": "passthrough"
     },
     {
@@ -112,23 +112,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Ameerex Confirms Major Heavy Rare Earth Mineralization in Brazil JV Across the Goiás-Araxá-Catalão Belt - Brazil Ranking Second to China by Estimated REE Resources - ACCESS Newswire",
+      "title": "Ameerex Confirms Major Heavy Rare Earth Mineralization in Brazil JV Across the Goiás-Araxá-Catalão Belt - Brazil Ranking Second to China by Estimated REE Resources - accessnewswire.com",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcnBpTDdXTHBOOGJERTNnNVRMQkkyRDdreS1INVlUVzZxZ1VXT1ppcUI4VGpnYUNEcm52LTEtS2ZFN0E1S3F5Vy1QUUtuTEk2a3M1MmpJRjE4QkVmX2RuVjdJS1lkcW11bno4QUpTbjhDbkkxbVo4ZGxzZWpRRzFrVVV1Zk9tM1pQZEtIdEdDOEoxM2pTTXFBMjlFelB5MElGTXp0ZFY2ajF1ZElOMjNNWFRDbjhXWk5ObnA3LU92dUVSNFNWeDJqRklVRHhSN1lPMmc4YmxmR25MVTRsNTBtekxwQ3g?oc=5",
-      "source": "ACCESS Newswire",
+      "source": "accessnewswire.com",
       "published_utc": "2026-02-06T08:00:00+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
-      "title_en": "Ameerex Confirms Major Heavy Rare Earth Mineralization in Brazil JV Across the Goiás-Araxá-Catalão Belt - Brazil Ranking Second to China by Estimated REE Resources - ACCESS Newswire",
+      "title_en": "Ameerex Confirms Major Heavy Rare Earth Mineralization in Brazil JV Across the Goiás-Araxá-Catalão Belt - Brazil Ranking Second to China by Estimated REE Resources - accessnewswire.com",
       "title_en_source": "passthrough"
     },
     {
-      "title": "In Depth: How a Chinese Mining Giant Learned to Win in Brazil - caixinglobal.com",
+      "title": "In Depth: How a Chinese Mining Giant Learned to Win in Brazil - Caixin Global",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHp5R3hiT1NOV1RvQXhDMHN0aXFmMWZCYXl4YzVYOTZSMnN3OHVsNjd2RzZWV1VTU3JpWjZBWENoczlqd1JGOU5KeVJ4ZXNpcU1FZGZxTC1naEF4WklMamRldWdyNW9DdThiNFdvNkRSZnd3T3hrMXYzak5tdlpSLUpzcE5BcUFldjdsNldnLTFUN3dmUHNyd2pUTDFlRDJzVy1xQU1QNlF0ZjdYek8yVk16N0VsQQ?oc=5",
-      "source": "caixinglobal.com",
+      "source": "Caixin Global",
       "published_utc": "2025-12-18T08:00:00+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
-      "title_en": "In Depth: How a Chinese Mining Giant Learned to Win in Brazil - caixinglobal.com",
+      "title_en": "In Depth: How a Chinese Mining Giant Learned to Win in Brazil - Caixin Global",
       "title_en_source": "passthrough"
     },
     {
@@ -142,13 +142,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - graphene-info.com",
+      "title": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - Graphene-Info",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzlFLUlsUm9IekZrdXAyN2R1ekx4RHRMeDNCUk9mcHNNdDdocllKTzRBNEM1R0R2ZFBvcnhMMU0zVm1BZGdhQkhnUVV0Y1BlT3piRGhCYWQwS1FFX1pZQU1UM185LWgzOEJBNkk4dHpkTDUxMm1xNkgyZFVJQnNVcE5HTGFzUXE4c2hvb0lXa3R3V09yMndOUHRseF8tT2NDYjl0bU1R?oc=5",
-      "source": "graphene-info.com",
+      "source": "Graphene-Info",
       "published_utc": "2025-10-16T07:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - graphene-info.com",
+      "title_en": "Skeleton Technologies and Acbel Polytech unveil BBU Solution for Data Centers - Graphene-Info",
       "title_en_source": "passthrough"
     },
     {
@@ -332,13 +332,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - investingnews.com",
+      "title": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR181N2xrZ1N4Wkh1OUdzWHgxamw4NWR3dnZQclNITXBLTUNNTlBkbzJPek1QdHRtc21PemhXUEo3RzJFYWtyMHFCcmdtc1N5OVhzY3ZaSGp5bjV3ZWRCemM3V0tXbENaaGgyQnFQMlBySE5LelFjT2FwYWZpQkdwZ1Njc2ZMTURQeFlQQUZZVC1jbUtmOHN3WXludF9raTJ0ZjhBSmpuamNtelVIdmtocHVrMll1QWsxajFFY0tRTEpEZTN6NHRuOG90M3k2WUFjWnhDTU5EeUtWRGdSeVBOVnRpSmJmV2J0SUdseUdVYw?oc=5",
-      "source": "investingnews.com",
+      "source": "Investing News Network",
       "published_utc": "2021-12-16T08:00:00+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - investingnews.com",
+      "title_en": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
       "title_en_source": "passthrough"
     },
     {
