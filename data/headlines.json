@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-01T19:58:23.419900+00:00",
+  "as_of_utc": "2026-10-02T06:46:42.457827+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,8 +9,18 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 47,
+  "item_count": 44,
   "items": [
+    {
+      "title": "NIOB Adds to Critical Minerals Portfolio - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRFVwUm1ieTdFYjNjSkZlNDFGdWhqOTlENHZJLU1DRkNuS3hiUlk2U2hlZW1mNHdPNjRNNUNxTUU3SXpFclNfaXc5S0d3U2hXSktzcmxGb3IyWldkUVVrLWlDSzRLdlI1d3NCQmNPLW1rVjRzWnVMV09TWFByZlVDRW4tZ0gxeXVjT2k4am5TRW1nclB3MUFmQzFSYXNNMFBReTY4VGwtclZCQVk2amV3OE1RSVRHSlpkcVZyMmU2QjZ3bjRC?oc=5",
+      "source": "theglobeandmail.com",
+      "published_utc": "2026-10-01T19:38:50+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "NIOB Adds to Critical Minerals Portfolio - theglobeandmail.com",
+      "title_en_source": "passthrough"
+    },
     {
       "title": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFp0OWk4LXFCYWNuMnVIZVN4LVFfbC1JZmdSRUVzUnZicDRVZ0FtTmh0UzBVQUh0a0w0cm55YWFuWk1VN04yNVlqTnlYbXFMc0w1Mno3VlYyUHRRanNJNjhOZzNJUGx1REZiM19xZE01YlRzTkRvRG4xcUlwRWtyYTczMXdWcDRTaWNB?oc=5",
@@ -22,23 +32,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "NIOB Adds to Critical Minerals Portfolio - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTBjU3ZJRnhYZ2h0MlVKcUxZQ05scjUzUFIxeXM3MklyWGhKdlRsWWVURnR6SWlWY1pDM256Y2Znd3RmWWFQcnhDcFpNRUlpVEFBRWtTWV9fVHNEd3lMeHZrMU1qNzByOFJkUWQ2WVhXTk9DMGNwcmQyRFNfVTE5LUJsdllBYk1OWVFOUi1OTnpWOGpuVVZpSGxBdVBFMTdRQTU4bmlOMW1MTDk0U1psbUpB?oc=5",
-      "source": "GlobeNewswire",
-      "published_utc": "2026-07-08T07:00:00+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "NIOB Adds to Critical Minerals Portfolio - GlobeNewswire",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Ferroniobium Market | Global Market Analysis Report - 2036 - Fact.MR",
+      "title": "Ferroniobium Market | Global Market Analysis Report - 2036 - factmr.com",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xWUxSYnFHV1puZHg2WUN2ajhobFNDTWNBa1dLVF82UTNOb2trYmlmS2JTWTdCMWV6b1ZMWmNBVTBCVWJ4SlVrTTJKXzllMG1WeUNEaHpQSkw0ZHRpNFE?oc=5",
-      "source": "Fact.MR",
+      "source": "factmr.com",
       "published_utc": "2026-06-13T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Ferroniobium Market | Global Market Analysis Report - 2036 - Fact.MR",
+      "title_en": "Ferroniobium Market | Global Market Analysis Report - 2036 - factmr.com",
       "title_en_source": "passthrough"
     },
     {
@@ -52,16 +52,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hc3g0Tks2NVY5UTRKRkt4Y0JmMUpwR1EwUmFPVGJCUy1RYTZ3TjlxWWo2SFJzWWJPM3AyMGdwZ0FZZTE4Y0V1MXhwQjdLdy03TXZIRVZYd0V4WkY0ZE96QVpoTQ?oc=5",
-      "source": "Uchumi360",
-      "published_utc": "2026-03-27T07:00:00+00:00",
-      "query": "Brazil ferroniobium OR ferronióbio export",
-      "flag": "green",
-      "title_en": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Tanzania seals strategic minerals deal - dailynews.co.tz",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WUlhrQWpuZHdCc0pHaUZfMTVJc0RqWk5KRU94UmNPaHBZc0hTUkprMlNNVHFUSlIxMmVzdzR2SHlGZm16N01zR3pGN3kzdnRfdWJuWlV2OThvYnpEdHZEVVJhVzA2QmlUQTJlZW82azQ?oc=5",
       "source": "dailynews.co.tz",
@@ -72,13 +62,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobium partnership in Brazil gains governance boost - bnamericas.com",
+      "title": "Niobium partnership in Brazil gains governance boost - BNamericas",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVdrZktMV2RjTVlyVUo5Rl81N3c5UWdTMnBIeHZTX240TVdkdFdFSXk0dVZlcFVVbEJOcWw4RU9aWVVhdzlINVl4a2Vpbm03czBwemsyVDNURVlGUGFkb0JkRzBfdFBJc1V3OGVJZE1VaHBXSHJ3ZmtjQW9NNkxYOXdXOUV0UW4yc1gtNTlGNEM?oc=5",
-      "source": "bnamericas.com",
+      "source": "BNamericas",
       "published_utc": "2026-03-04T08:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "Niobium partnership in Brazil gains governance boost - bnamericas.com",
+      "title_en": "Niobium partnership in Brazil gains governance boost - BNamericas",
       "title_en_source": "passthrough"
     },
     {
@@ -172,13 +162,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "China's CMOC eyes more M&A opportunities in Africa, South America - Reuters",
+      "title": "China's CMOC eyes more M&A opportunities in Africa, South America - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeXhLWnNLS1lTMk5ISkJSUXdqaVBsMEdMX1kyVjFxYnVlYXBzaWdFLUpFNVh5UWFLVEVGZWFxc2o3WFVFWHNVSEtzNm0wMGIydmxsWnBDdVpISzE0MU9Id3JMcjAyRHB5LWtkemJvTE40U1lnQi1OdnVKd2dERTEtR3NxOVlLN0dHX1VaTmFEaE05OFQ0d3hrT2ZzNmFQSmRXeXZOYWFoVUV6ZTBaeUR4bFZwaXdFZw?oc=5",
-      "source": "Reuters",
+      "source": "reuters.com",
       "published_utc": "2025-08-25T07:00:00+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
-      "title_en": "China's CMOC eyes more M&A opportunities in Africa, South America - Reuters",
+      "title_en": "China's CMOC eyes more M&A opportunities in Africa, South America - reuters.com",
       "title_en_source": "passthrough"
     },
     {
@@ -189,16 +179,6 @@
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
       "title_en": "Niobium: poor recyclability and high dependence on Brazilian supply - PricePedia",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "The Discovery of Niobium in Araxá That Revealed Brazil Has Reserves for Up to 200 Years of Global Demand and Generates Over $2 Billion Annually in Exports - CPG Click Oil and Gas",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOeUV0QjFfb3huS2lZNFdneGdKWVZidF9xX3hLZFhKcUFDcm1vdDBUYlBQdDFlbzdWQTl1dlRPNDlXX0dZdmc3dW1RLUNvUGthZG1Eb0V0T2xZTXJoU0xFWVZOVTh6ak1vVFJwcFAxQ0dvM1ZSdnRNTjJHNFF3OHpDUGdXLVYxbnhVZ3oybjB0THAybXJMOEV0NVBVTGtrbFBYSnRLSV9JdF9EVy1MdlFLNFhBUUY4MWVrczNfbEtxaVBfd3Yya0kzc0R5ZEJCaTk2Tk1Wcm8xNmhlQTRYX0hfdm9TRE5yVWxSQmgxaFFqNEtNZ3hZVld0OFFnM0ZScjcwX0tNYk41SkRYZU4ycTdzbG1yOVAxeUxZUzhyZw?oc=5",
-      "source": "CPG Click Oil and Gas",
-      "published_utc": "2025-05-31T07:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "The Discovery of Niobium in Araxá That Revealed Brazil Has Reserves for Up to 200 Years of Global Demand and Generates Over $2 Billion Annually in Exports - CPG Click Oil and Gas",
       "title_en_source": "passthrough"
     },
     {
@@ -222,13 +202,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - electrichybridvehicletechnology.com",
+      "title": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - Electric & Hybrid Vehicle Technology International",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVHZDR1d4MFJDTnFHb2RFMnFEZGxoUGpmbmhpVm1Yem1Sb2NhQzl6SmtzM2hFM1FvVTVtcjlXbHNQYnNUR2tMcnBITW9SMUg3NGMtcDRsTlU5eERpVEFicUFQMU5CbUNlUkJmUGxBS29OSGZZcXpUc2RTR0wtT2dGYXR4bXJ6bmYwVElvMVRwWnVNamxEMVRwVzFITUVwOXd6ZXc2RHB0LTVKLVNZckR3Q3BKa0tXeWtiNEpGYVp6dDE2WHVvcnFmYS13V09Sc2hySmVuTmZLbVVRdw?oc=5",
-      "source": "electrichybridvehicletechnology.com",
+      "source": "Electric & Hybrid Vehicle Technology International",
       "published_utc": "2024-11-21T08:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - electrichybridvehicletechnology.com",
+      "title_en": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - Electric & Hybrid Vehicle Technology International",
       "title_en_source": "passthrough"
     },
     {
@@ -239,6 +219,16 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "CBMM opens niobium anode production facility in Brazil - Mining Technology",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Echion and CBMM Open Niobium Anode Production Plant - battery-news.de",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSTh3OTNiNEFjMm9UcWppazdDVlF4WHRqTWJTRzZLbzlYSkk3V3E1R08xUUxtZ2hqcC0yRnFWdUZmVlJKNDJodVZyNWZSZjNkanNKVnhwUlhIWDZ6Ymd5U3ZLSFc1YUhzOXg4NmV4TTc1OHV6MGN4a19sNkNBYlZuZ0RGbS0tNk5hbFN1S3NSQVNSckph?oc=5",
+      "source": "battery-news.de",
+      "published_utc": "2024-11-18T08:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "Echion and CBMM Open Niobium Anode Production Plant - battery-news.de",
       "title_en_source": "passthrough"
     },
     {
@@ -272,13 +262,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Prosecutors to hold public hearing on impact of mining in Brazil's Goiás state - bnamericas.com",
+      "title": "Prosecutors to hold public hearing on impact of mining in Brazil's Goiás state - BNamericas",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORElxeTdxT3lDdnJWc0FzeDljaXNhaXd3cnBRd0d5THF4NHJaN29nWXAyazZHTEJuTlJFblZZbVlBZ25fQ2x6M0tMbTlkN21IcmJXdTdXOTlPTWhpZllnV3k1NmRPSDJEWF8yT0d4dFYwd2hsV251UXBrSFpiWUlvMFZVM3BIUEFlcmYydFFLZmlPN01Sd0JwM1d0WGVncldTQWdWU2ZhSWZLTm9lUFkxcU1n?oc=5",
-      "source": "bnamericas.com",
+      "source": "BNamericas",
       "published_utc": "2024-05-14T07:00:00+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "yellow",
-      "title_en": "Prosecutors to hold public hearing on impact of mining in Brazil's Goiás state - bnamericas.com",
+      "title_en": "Prosecutors to hold public hearing on impact of mining in Brazil's Goiás state - BNamericas",
       "title_en_source": "passthrough"
     },
     {
@@ -342,16 +332,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobec unique in North America - Canadian Mining Journal",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeG5pLXoyTGYzR3BSXzJOWnFPVXUxWkl6MU1GSkY2VDhFT1otUHBJeGQ4Ync4by1RaENtd3BJYmZ4eGZCMmxFT0x6Ym8yN29JcXNZR0ZaTEZaWHlOUEpkSWlyM2czUmZRSUt2YXk3MS04bXZqakFuOGFNU20ySkxFSWdrOUhOVndBX0xDb0x1VQ?oc=5",
-      "source": "Canadian Mining Journal",
-      "published_utc": "2021-06-30T14:31:51+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "Niobec unique in North America - Canadian Mining Journal",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Redpath completes largest raisebore by volume in the Americas at Niobec niobium mine in Quebec - International Mining",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVp6VTlOa0ZLMmo2amVzVjYxMm9zWXA3eU45UlpDSWtsREFsZWJKamdsZXRyQVRtaW9zUW11WC1DYlFUTS0zV0hyNFZMT25QRjdfMGtkSDdhRWJTdUE4U25aYlU4ZE1kTmtnOG5pempQREhidVZsRTVZazVHcGplTDljbXJMRFNyQ1ZDMVR3TldJdENfenVJNnBMMTJ4dFVRbXl3ZUkyLUVKVklfc3BvSWtR?oc=5",
       "source": "International Mining",
@@ -362,13 +342,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - Dassault Systèmes",
+      "title": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - 3ds.com",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMU5iMGYzYzNYM0NlVWtCU28xbVpsX2VlcjNoazAyeGY2WnByLWF4ZFVGSGg3SjVyTHp6VkNDSFFzS2phM0h1VFl4NEV6VDNnN2JKSVlyVTIwRl91MUNUa0QyX1Z1dm56SV95dFpEMzUxTTEtTFpQUGlxNWlWNHZYWDJhOEZLTVZNVG1CbnZmR0Nqem82NXdYVmVkMDhIUzVRZWFCOFI2OUd1UHc0bHo0VF9rSkVla3BsUWJucGNPWjhjcnBHT2xwbVVYc2hpR3F0TlBqVURxUVZ0T29iWWx2d2owSVk1cmFPTUFTUjdlaGxZSGV0THhRanRuOThWeXFrb081R3dfS0ZJSjRt?oc=5",
-      "source": "Dassault Systèmes",
+      "source": "3ds.com",
       "published_utc": "2021-02-10T08:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - Dassault Systèmes",
+      "title_en": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - 3ds.com",
       "title_en_source": "passthrough"
     },
     {
@@ -392,13 +372,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "At a Glance: Niobium powerhouse CBMM - bnamericas.com",
+      "title": "At a Glance: Niobium powerhouse CBMM - BNamericas",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01RGYwSE5TOElGb1hxRXNKNVo1THhZbkx6bWt3UFY2eUhWWkpwWHU1Y1ZmbGtIaHFmVVJxb2J6eGdES3FfbmdRRkpjd3l5WERoWkdLQ3VvZzd6ZThPVEg1dGJ3alRUYXhOMkNVVFhTX0FFV0hWVUlSTVJLWlpnbkU?oc=5",
-      "source": "bnamericas.com",
+      "source": "BNamericas",
       "published_utc": "2019-08-30T07:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
-      "title_en": "At a Glance: Niobium powerhouse CBMM - bnamericas.com",
+      "title_en": "At a Glance: Niobium powerhouse CBMM - BNamericas",
       "title_en_source": "passthrough"
     },
     {
@@ -409,6 +389,26 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "The complex journey to a simple solution - magazine.cim.org",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcnd5ZjlIS0JfLWZub3B2U1FuUjVHWGl1N2JBc3NSTWdCcjJjYmYtcHhFVXBUWGtLZ0p5STgwdnRwTl9Rb2t0Q2RVaV9DQUhWYzdRa0FtN2g3aVR4UDR5VXZYdUZ2dE8yVkluTFZxU0s3WGl4b1NWZE5wSHJUdVhrTXFRaUdIMHJ3Um00?oc=5",
+      "source": "magazine.cim.org",
+      "published_utc": "2019-04-11T07:00:00+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "The complex journey to a simple solution - magazine.cim.org",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Niobium’s silent impact in Brazil - Dialogue Earth",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmVaQWNsQmlmaXhienBwLXFQRkVpaVJlUWpsdHFGTG9ETWVESzZfWUw0MlZzZWdYRzI5WmJUTmdUd0tNMzRVMXdVZi1HeG0wV2JON0RCeWE1aHBKZnoxY3pxRnpGSVBtUU5rbnFkZTRTbGdVdHc0V3BLdi1GVVd1Zw?oc=5",
+      "source": "Dialogue Earth",
+      "published_utc": "2019-04-05T07:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "Niobium’s silent impact in Brazil - Dialogue Earth",
       "title_en_source": "passthrough"
     }
   ],
