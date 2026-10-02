@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-02T06:46:42.457827+00:00",
+  "as_of_utc": "2026-10-02T19:39:51.389967+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -24,16 +24,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "In July, Helium Heights had a premiere event featuring over 75 booths and food trucks as part of the Route 66 Centennial in Amarillo. The venue, a former Helium Plant that served the war effort, is hosting an Oktoberfest this weekend. - lufkindailynews.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeXg3S3hBSnVNc210X3hHUC1STkFMOFlBMGJTWTlhaDBlb1FGcG5ZckhUNC1YS0NQRFpaYUE1MkdialNyc25FZUs0dWl6S2Nvb3dHOHVJcWVGallRTVFPSS1xbklkVVhSS0VHbExkYVhTVDhqc2ZRN3VoaURMdFRrV1ZZNEdIUGZzeUkyTFN0MW5xQ0M4eklYelNTY2RUbzJ4aU4yZ2ZTWmQxaEhraS0zY29HS3p3Zm9jQXdqMDRtYlBUR1BfNThqZUN2TnBkN2ZsM2VKdmswRjVndHFKdFBKM01OcUF0b25YMEU2REF2VExTbUVmRFhLNUlmb1pLSFlmMW8xLUY1dEN6Y1k?oc=5",
-      "source": "lufkindailynews.com",
-      "published_utc": "2026-10-01T09:45:31+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "In July, Helium Heights had a premiere event featuring over 75 booths and food trucks as part of the Route 66 Centennial in Amarillo. The venue, a former Helium Plant that served the war effort, is hosting an Oktoberfest this weekend. - lufkindailynews.com",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "US Helium Market Remains Supply-Constrained Amid Qatar Disruption and Rising Demand - ChemAnalyst",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeEhnZ2xBZFFLcWxGM1k0Sm9pMW82RjMycU9LUHVjYnZ6RkRRcDUxOGhzSFBXT1dmQTVZMGI2di13ZEVVRkdGVDZmdEtDMFJ6d1RIak1sdGtHVUJMQVhHcjZtcTRRcGdCOFdCNUF4OEUwMmRhVlBONUlEdWRDUzd1NVJhc2NudmV5aEloUS1DZFZyTFBJNENud0tIRGhEOTZDWkJIU2NxeGw1MGpnSU5pMzEtMA?oc=5",
       "source": "ChemAnalyst",
@@ -44,13 +34,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "The Chip Insider®–The Iran War’s Helium disconnect update - TechInsights",
+      "title": "The Chip Insider®–The Iran War’s Helium disconnect update - techinsights.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWZVeWV3REc3UFNLZXkxaE1NdnRBZU1MWlBOb1lMLWRjcFdKdlJaQ0h1eEV0STNCSnZCeW1vd0FmYXREdDBhRXR6OVFJWGRUODdYaVVzT25FSTFQQkdUc0k3OTdVUlpnUGtTX01RclVwQmQ4Mi1TZU5iM1E3bEFTY2IyeGlNLWJwLUE?oc=5",
-      "source": "TechInsights",
+      "source": "techinsights.com",
       "published_utc": "2026-09-22T16:51:40+00:00",
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
-      "title_en": "The Chip Insider®–The Iran War’s Helium disconnect update - TechInsights",
+      "title_en": "The Chip Insider®–The Iran War’s Helium disconnect update - techinsights.com",
       "title_en_source": "passthrough"
     },
     {
@@ -64,13 +54,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Qatar Helium Shock Keeps Asia's Chip Supply Under Pressure - Environment+Energy Leader",
+      "title": "Qatar Helium Shock Keeps Asia's Chip Supply Under Pressure - environmentenergyleader.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY1VubGpBdWVpZGxJcWRmd3R0bkhKV2FmZEk5MHNFNmpTRDdHX0JUaTM0OWpmZzZPMWJETUV1UkhKcHk4bjk2bHQzb2NnV2hQZVFvZXd6Mkk0WFU5Q2xrNVpnTkxVSF9kaDg4SmVReGRCMVdteVVpUENDdnd1cWxIUThVa3hrMXFxLVYtWGY1cjZjVm1kd2taUGV0X291NTRvdzluS0JuQjFucWVUbHVTZ3RB?oc=5",
-      "source": "Environment+Energy Leader",
+      "source": "environmentenergyleader.com",
       "published_utc": "2026-07-24T07:00:00+00:00",
       "query": "helium Ras Laffan",
       "flag": "green",
-      "title_en": "Qatar Helium Shock Keeps Asia's Chip Supply Under Pressure - Environment+Energy Leader",
+      "title_en": "Qatar Helium Shock Keeps Asia's Chip Supply Under Pressure - environmentenergyleader.com",
       "title_en_source": "passthrough"
     },
     {
@@ -104,16 +94,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Colorado's forgotten helium fields are suddenly the most valuable patch of dirt in the energy world - Energies Media",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zN0ZkTjRFdDhSVWpUODJXcTk1WlFPSFhxdlF6V0ZKRXIta1h0WkhWNWI3QjhaNEdZakI1ZWpCbThpLXNGQTBIdTR2ZUNWWHdyMzlKU2NpOEpQdjdTTWFjQ1k0TlZ3X3Q0dWo5bjJSZHh6bVNmQlc3cg?oc=5",
-      "source": "Energies Media",
-      "published_utc": "2026-06-29T07:00:00+00:00",
-      "query": "helium plant outage OR helium force majeure",
-      "flag": "green",
-      "title_en": "Colorado's forgotten helium fields are suddenly the most valuable patch of dirt in the energy world - Energies Media",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Ukraine Drone Strike Hits Key Russian Helium Production Hub - ChemAnalyst",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUTR4RDM1UmNOYngxbDhxUE5jcFQwMFZOLTNzeWJnWXVhdGI5alFPNWJ6MW51aU4tTHlkeFFwQ1ZmSDhobzhkNW1XeE9hZ3JVdHJCb0V2SzIwajNjYVdRcXBHZHd1cUN5dDNpa2tDTFVmT3EtcXdNYmRaT3BzZm1Bb0QzenlFRUtuVHJzMEdhRlFpTGxwNlZEclVZbVRocTV4MzJjd281dEhvVkRMMi1PNlFvbXk?oc=5",
       "source": "ChemAnalyst",
@@ -144,13 +124,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Many factors at play in search for helium - timberjay.com",
+      "title": "Many factors at play in search for helium - The Timberjay",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2R1S2lWcUF6NEpmZXVwYUtRdDZfcU10c2hhcWJidmRVVEdweHBGdU9VNXBTUkJIZTgtd0dMZjZBakR3clptR0Zkbzk2b3BWRTNDZWczNk1IV3gtNW9DTDdPdHUzSDQ1LW9ReGtvU2F6UnhJMzdFcFNEUWFNZ0YxdkxRakMtUXRS?oc=5",
-      "source": "timberjay.com",
+      "source": "The Timberjay",
       "published_utc": "2026-06-11T07:00:00+00:00",
       "query": "BLM helium OR Cliffside helium",
       "flag": "green",
-      "title_en": "Many factors at play in search for helium - timberjay.com",
+      "title_en": "Many factors at play in search for helium - The Timberjay",
       "title_en_source": "passthrough"
     },
     {
@@ -224,23 +204,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Air Liquide says Qatar's Ras Laffan restart would bring quickest helium supply relief - reuters.com",
+      "title": "Air Liquide says Qatar's Ras Laffan restart would bring quickest helium supply relief - Reuters",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcC1zMURvcDRMUEZ6aXlvT00wOVNaNWRzSG9tRmZQQTUzY2g0eDJjdWFXUnhhbGt1SjZjeVotdW1NVlNHVTU4NGZxdkJEbjRubW5oLU05OVktQXdYMVl2Ny1OTUpacUkxUHU2NFNlQnFmaWVMZ1FFWEVaUEo1VVh6bk1lUkpWZmQ4ZVlUM0M1cHE3cEZSVmtj?oc=5",
-      "source": "reuters.com",
+      "source": "Reuters",
       "published_utc": "2026-04-28T07:00:00+00:00",
       "query": "helium Ras Laffan",
       "flag": "yellow",
-      "title_en": "Air Liquide says Qatar's Ras Laffan restart would bring quickest helium supply relief - reuters.com",
+      "title_en": "Air Liquide says Qatar's Ras Laffan restart would bring quickest helium supply relief - Reuters",
       "title_en_source": "passthrough"
     },
     {
-      "title": "Bring back the helium reserve—before the next shock hits - Peterson Institute for International Economics",
+      "title": "Bring back the helium reserve—before the next shock hits - piie.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZzBYTGxNdVFhbG1vZFhkLThGWmM2MkxsSmQtcGdvVG5rWVZNTDNNQlZNTTNTWDhVclF2SmJsWXVybXI3SHNXWVBENFltNHV2Ull1SktTZm5BUUFDTUg0QnZFak90aEowdDNVWmZkTFIyZUVFMzNxR0NOS0JLajhBeFNUV3VnVHYxZTRWYkJfck9FTWo5SWJF?oc=5",
-      "source": "Peterson Institute for International Economics",
+      "source": "piie.com",
       "published_utc": "2026-04-21T07:00:00+00:00",
       "query": "helium Ras Laffan",
       "flag": "green",
-      "title_en": "Bring back the helium reserve—before the next shock hits - Peterson Institute for International Economics",
+      "title_en": "Bring back the helium reserve—before the next shock hits - piie.com",
       "title_en_source": "passthrough"
     },
     {
@@ -254,13 +234,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "The sudden scramble for helium - wpintelligence.washingtonpost.com",
+      "title": "The sudden scramble for helium - WP Intelligence",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQXhHaXdnSW1sNk00NTNwTFZhZXAxbGRnTXRiTU55eTRXdkZJcVFjSjdxVnp4enI5YzlHSTk4OVk0aGxWTW5ySmd2bDFCYUd0dDVvYjJGY2ltRG1tVmtqeGlHNXhMakEwclRnV2hUNWt1LUR2SnFzLS1HNm9BVmYtOWhxOVM3NlNLeVJV?oc=5",
-      "source": "wpintelligence.washingtonpost.com",
+      "source": "WP Intelligence",
       "published_utc": "2026-04-15T07:00:00+00:00",
       "query": "helium Ras Laffan",
       "flag": "green",
-      "title_en": "The sudden scramble for helium - wpintelligence.washingtonpost.com",
+      "title_en": "The sudden scramble for helium - WP Intelligence",
       "title_en_source": "passthrough"
     },
     {
@@ -304,13 +284,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Russia’s Helium Card in the AI Arms Race - The National Interest",
+      "title": "Russia’s Helium Card in the AI Arms Race - nationalinterest.org",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1NuTXdVTU9vM1lmUTF0cjRYb0NHdVc3VnBtalFmbWozZm5kYXpTLXZsei1xZFo0eVc0NnM0S1pQTVBuQkstZzlrZmRZMnJfbjV5SnQ5X0xKRDM3XzZkbEJsS0JCZS0teHU5TjF2aFpMQm0wM1ROSkR6M0RlNXNYY3Z6MGNNUGdkNEE?oc=5",
-      "source": "The National Interest",
+      "source": "nationalinterest.org",
       "published_utc": "2026-04-07T07:00:00+00:00",
       "query": "Amur helium",
       "flag": "green",
-      "title_en": "Russia’s Helium Card in the AI Arms Race - The National Interest",
+      "title_en": "Russia’s Helium Card in the AI Arms Race - nationalinterest.org",
       "title_en_source": "passthrough"
     },
     {
@@ -344,13 +324,33 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Iran War Chokes Off Helium Supply Critical for AI - wsj.com",
+      "title": "The world’s supply of helium is being threatened by the Iran war - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcDU5cjAzdnUwMjlfN0RqUlcyT3VUMTdrNHZ4V2RiVnZfRTkwdTBuTlJQSVVobktsRDA3OG5yX0hHRzdYenhodlpqMTB6eFNsMFhHako2VkhhajA0OHZpcGhRU211eDMzMjJfdTFLN3piZmtYVHREYWFwRklOUzhZS3dXbW9sSGplTjUwQ2JZQ0hGSlVaZkdvZE5SZklRd1k?oc=5",
+      "source": "The Conversation",
+      "published_utc": "2026-04-02T07:00:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "The world’s supply of helium is being threatened by the Iran war - The Conversation",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "US-Iran war disrupts the global helium supply chain - Al Majalla",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZFZMZkpzX091QUJCTnh5VnNPTWhRUVhtUDBNNGNHVjZySml4bUt6V2RmLUtfWkVxdF9tdE5EbnkteFBmbUpPM3RfYmVzcGhSa2FJRlpuWklfNnFYcWdHV3ZhajB5cmJzTUtsSGk2SENEY2JTSW1PR1JnRHRjeUhmdjVXN0VWVDB3a2hTSDJ3NDFQTGpOdkdqXy1GOTRNUnh3?oc=5",
+      "source": "Al Majalla",
+      "published_utc": "2026-03-31T07:00:00+00:00",
+      "query": "helium plant outage OR helium force majeure",
+      "flag": "green",
+      "title_en": "US-Iran war disrupts the global helium supply chain - Al Majalla",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Iran War Chokes Off Helium Supply Critical for AI - WSJ",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVRIaWE3Z0hibGFNRlpMRjB4anE1VTF3RHpxSlI2TUh3Y09JbjBLbjhtc2s3enZpQ0FGbmpURXR4amx2eVJLRWR2MTh4Z3FhcFJpN200Y2wtRC00WVdpUTM3Y0ticVRpYThfeXdXZlNGLV9oVmFHc0V3cUFWSEpHSGNqeWJETXNpQkVCNQ?oc=5",
-      "source": "wsj.com",
+      "source": "WSJ",
       "published_utc": "2026-03-30T07:00:00+00:00",
       "query": "helium plant outage OR helium force majeure",
       "flag": "green",
-      "title_en": "Iran War Chokes Off Helium Supply Critical for AI - wsj.com",
+      "title_en": "Iran War Chokes Off Helium Supply Critical for AI - WSJ",
       "title_en_source": "passthrough"
     },
     {
@@ -404,13 +404,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Airgas Curtails Helium Orders After Qatar LNG Field Damaged - Bloomberg.com",
+      "title": "Airgas Curtails Helium Orders After Qatar LNG Field Damaged - bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWl8wYnBwQjB0N2VqbEdSS1N3NURHYVI2bzZFRnhNM3BzbUkyQTZQdklldi1pY0wyc2N1cHBiZzlMVWpxRHhDRXp0QXdyVGVCWTcwMnZwNUhyTmhUV2tVd0RVMHU2QmtYVGsyLTBzaW05TXlSLVoyaWo5RWlOellmTnZaa3VBcEl3X1FiTzRPQTJla005OWRtek00MFpHRDFBVm9RLTBrTlQwNjg3YlRR?oc=5",
-      "source": "Bloomberg.com",
+      "source": "bloomberg.com",
       "published_utc": "2026-03-24T07:00:00+00:00",
       "query": "helium plant outage OR helium force majeure",
       "flag": "green",
-      "title_en": "Airgas Curtails Helium Orders After Qatar LNG Field Damaged - Bloomberg.com",
+      "title_en": "Airgas Curtails Helium Orders After Qatar LNG Field Damaged - bloomberg.com",
       "title_en_source": "passthrough"
     }
   ],
