@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-03T06:07:22.769719+00:00",
+  "as_of_utc": "2026-10-03T18:26:27.716928+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 45,
+  "item_count": 44,
   "items": [
     {
       "title": "NIOB Adds to Critical Minerals Portfolio - The Globe and Mail",
@@ -272,16 +272,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Prosecutors to hold public hearing on impact of mining in Brazil's Goiás state - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORElxeTdxT3lDdnJWc0FzeDljaXNhaXd3cnBRd0d5THF4NHJaN29nWXAyazZHTEJuTlJFblZZbVlBZ25fQ2x6M0tMbTlkN21IcmJXdTdXOTlPTWhpZllnV3k1NmRPSDJEWF8yT0d4dFYwd2hsV251UXBrSFpiWUlvMFZVM3BIUEFlcmYydFFLZmlPN01Sd0JwM1d0WGVncldTQWdWU2ZhSWZLTm9lUFkxcU1n?oc=5",
-      "source": "BNamericas",
-      "published_utc": "2024-05-14T07:00:00+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "yellow",
-      "title_en": "Prosecutors to hold public hearing on impact of mining in Brazil's Goiás state - BNamericas",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Top critical mineral miner CBMM sees opportunity in EV batteries - Mining.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVJvT0tKMUVHdlhiRjFyNkQyY2Z2cVhreDlIVTFJaURUbml3WGladl8zNkFPUUZULTNxeGp0Yzg4SVI2MGtKSkw3OGtMY1QxTzVIU1U5bTRiRXowdU1SY0llWmhFQlVoWXgwYW53cjRmYk5vV2pKT0RHUGxPZDNGa1N2N0syVFBScTRtTS1VOG1SSGE1SWVn?oc=5",
       "source": "Mining.com",
@@ -322,23 +312,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - investingnews.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR181N2xrZ1N4Wkh1OUdzWHgxamw4NWR3dnZQclNITXBLTUNNTlBkbzJPek1QdHRtc21PemhXUEo3RzJFYWtyMHFCcmdtc1N5OVhzY3ZaSGp5bjV3ZWRCemM3V0tXbENaaGgyQnFQMlBySE5LelFjT2FwYWZpQkdwZ1Njc2ZMTURQeFlQQUZZVC1jbUtmOHN3WXludF9raTJ0ZjhBSmpuamNtelVIdmtocHVrMll1QWsxajFFY0tRTEpEZTN6NHRuOG90M3k2WUFjWnhDTU5EeUtWRGdSeVBOVnRpSmJmV2J0SUdseUdVYw?oc=5",
-      "source": "investingnews.com",
-      "published_utc": "2021-12-16T08:00:00+00:00",
+      "title": "Niobec unique in North America - Canadian Mining Journal",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeG5pLXoyTGYzR3BSXzJOWnFPVXUxWkl6MU1GSkY2VDhFT1otUHBJeGQ4Ync4by1RaENtd3BJYmZ4eGZCMmxFT0x6Ym8yN29JcXNZR0ZaTEZaWHlOUEpkSWlyM2czUmZRSUt2YXk3MS04bXZqakFuOGFNU20ySkxFSWdrOUhOVndBX0xDb0x1VQ?oc=5",
+      "source": "Canadian Mining Journal",
+      "published_utc": "2021-06-30T14:31:51+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - investingnews.com",
+      "title_en": "Niobec unique in North America - Canadian Mining Journal",
       "title_en_source": "passthrough"
     },
     {
-      "title": "Redpath completes largest raisebore by volume in the Americas at Niobec niobium mine in Quebec - im-mining.com",
+      "title": "Redpath completes largest raisebore by volume in the Americas at Niobec niobium mine in Quebec - International Mining",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVp6VTlOa0ZLMmo2amVzVjYxMm9zWXA3eU45UlpDSWtsREFsZWJKamdsZXRyQVRtaW9zUW11WC1DYlFUTS0zV0hyNFZMT25QRjdfMGtkSDdhRWJTdUE4U25aYlU4ZE1kTmtnOG5pempQREhidVZsRTVZazVHcGplTDljbXJMRFNyQ1ZDMVR3TldJdENfenVJNnBMMTJ4dFVRbXl3ZUkyLUVKVklfc3BvSWtR?oc=5",
-      "source": "im-mining.com",
+      "source": "International Mining",
       "published_utc": "2021-02-11T08:00:00+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "Redpath completes largest raisebore by volume in the Americas at Niobec niobium mine in Quebec - im-mining.com",
+      "title_en": "Redpath completes largest raisebore by volume in the Americas at Niobec niobium mine in Quebec - International Mining",
       "title_en_source": "passthrough"
     },
     {
@@ -352,23 +342,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "The niobium controversy - FAPESP",
+      "title": "The niobium controversy - revistapesquisa.fapesp.br",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FVWl0RHdLelZZdWhwREJmejhqdjdBblVFVXZlVlZWaXJyenBLSDVEMmpEb3RRZnYxc2xaR2kzdXZnSmwwMkk1S3FSZFRvNmhucVJyZEpBQURmemFSOFNBdktDbm9WNDNIaG1LcHYwQUI?oc=5",
-      "source": "FAPESP",
+      "source": "revistapesquisa.fapesp.br",
       "published_utc": "2020-06-02T06:34:46+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
-      "title_en": "The niobium controversy - FAPESP",
+      "title_en": "The niobium controversy - revistapesquisa.fapesp.br",
       "title_en_source": "passthrough"
     },
     {
-      "title": "Boston Metal to trial molten oxide electrolysis on CBMM ore - im-mining.com",
+      "title": "Boston Metal to trial molten oxide electrolysis on CBMM ore - International Mining",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2lLT1NJVXdmV2VpRnRKTThfRmdmVWlPSDQ3OEVZWjB5d01JRVJSVWcwTmgxUmlCb095dzBZTnRqRnZGb2tVS2wzZ25DNWtfZUtrWUhOS0pzeGFuRWpoVUtxdmNTZTF4aG1fT1oxdENhYW1mY2RoaThzbDFYbmtodUp1MHY1YW1Ea3UxX0dCNk1JRTZJOHpRZg?oc=5",
-      "source": "im-mining.com",
+      "source": "International Mining",
       "published_utc": "2020-05-04T07:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
-      "title_en": "Boston Metal to trial molten oxide electrolysis on CBMM ore - im-mining.com",
+      "title_en": "Boston Metal to trial molten oxide electrolysis on CBMM ore - International Mining",
       "title_en_source": "passthrough"
     },
     {
@@ -409,6 +399,16 @@
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
       "title_en": "Niobium’s silent impact in Brazil - Dialogue Earth",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Hands off Brazil's niobium: Bolsonaro sees China as threat to utopian vision - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSWxJWjMtLXZnRDFrTklJQlhIR0ltdmNsWVJreTNvczRmZ3BsazlVajdPYmQzZlEtY2FpQ19tR3dnWmRXMV92dzZ0YmpMeko0c2lRVVotQzRwWGVKTWhqX1R1Q2tMT0tJd0JuU3Vja201bkdFTFpsU0FmcExTOHp6d2tQUkQ4QUNvU2oySVFiT1VKaFV1ZFNYalhwMzhLY3NYNHBkanFrZG9VY0VOVkZuckx2VmJyS0JMbjUxQlhNSlJDRUhuRWc?oc=5",
+      "source": "Reuters",
+      "published_utc": "2018-10-25T07:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "Hands off Brazil's niobium: Bolsonaro sees China as threat to utopian vision - Reuters",
       "title_en_source": "passthrough"
     }
   ],
