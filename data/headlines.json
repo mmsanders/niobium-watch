@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-04T18:28:11.404210+00:00",
+  "as_of_utc": "2026-10-05T06:36:23.224431+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -52,13 +52,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - uchumi360.com",
+      "title": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hc3g0Tks2NVY5UTRKRkt4Y0JmMUpwR1EwUmFPVGJCUy1RYTZ3TjlxWWo2SFJzWWJPM3AyMGdwZ0FZZTE4Y0V1MXhwQjdLdy03TXZIRVZYd0V4WkY0ZE96QVpoTQ?oc=5",
-      "source": "uchumi360.com",
+      "source": "Uchumi360",
       "published_utc": "2026-03-27T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - uchumi360.com",
+      "title_en": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
       "title_en_source": "passthrough"
     },
     {
@@ -72,13 +72,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobium partnership in Brazil gains governance boost - BNamericas",
+      "title": "Niobium partnership in Brazil gains governance boost - bnamericas.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVdrZktMV2RjTVlyVUo5Rl81N3c5UWdTMnBIeHZTX240TVdkdFdFSXk0dVZlcFVVbEJOcWw4RU9aWVVhdzlINVl4a2Vpbm03czBwemsyVDNURVlGUGFkb0JkRzBfdFBJc1V3OGVJZE1VaHBXSHJ3ZmtjQW9NNkxYOXdXOUV0UW4yc1gtNTlGNEM?oc=5",
-      "source": "BNamericas",
+      "source": "bnamericas.com",
       "published_utc": "2026-03-04T08:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "Niobium partnership in Brazil gains governance boost - BNamericas",
+      "title_en": "Niobium partnership in Brazil gains governance boost - bnamericas.com",
       "title_en_source": "passthrough"
     },
     {
@@ -102,23 +102,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "St George Mining 'poised to redefine Araxá' - Mining Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanV0alpGcmlZX1Q2QnhGLV9Xcm1JWkJNb1I5ek5zOW43U0R2VERCX1ZodUZtVTd1c2p6S0NIRzRWNEVzOGRxOERPZWZFRzcyNzlyUnlHR3FLdWgzTkkxSlpGT3NxMmtVRnhKQ3ZZRGI4Xzh3bm5saUZzUmk0SjdsWEJpU2VlV0ZVRzVGMEJ5dWZqcVBucW85VTZNV3Vxa0xtZUE?oc=5",
-      "source": "Mining Magazine",
-      "published_utc": "2026-02-11T08:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "yellow",
-      "title_en": "St George Mining 'poised to redefine Araxá' - Mining Magazine",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Ameerex Confirms Major Heavy Rare Earth Mineralization in Brazil JV Across the Goiás-Araxá-Catalão Belt - Brazil Ranking Second to China by Estimated REE Resources - ACCESS Newswire",
+      "title": "Ameerex Confirms Major Heavy Rare Earth Mineralization in Brazil JV Across the Goiás-Araxá-Catalão Belt - Brazil Ranking Second to China by Estimated REE Resources - accessnewswire.com",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcnBpTDdXTHBOOGJERTNnNVRMQkkyRDdreS1INVlUVzZxZ1VXT1ppcUI4VGpnYUNEcm52LTEtS2ZFN0E1S3F5Vy1QUUtuTEk2a3M1MmpJRjE4QkVmX2RuVjdJS1lkcW11bno4QUpTbjhDbkkxbVo4ZGxzZWpRRzFrVVV1Zk9tM1pQZEtIdEdDOEoxM2pTTXFBMjlFelB5MElGTXp0ZFY2ajF1ZElOMjNNWFRDbjhXWk5ObnA3LU92dUVSNFNWeDJqRklVRHhSN1lPMmc4YmxmR25MVTRsNTBtekxwQ3g?oc=5",
-      "source": "ACCESS Newswire",
+      "source": "accessnewswire.com",
       "published_utc": "2026-02-06T08:00:00+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
-      "title_en": "Ameerex Confirms Major Heavy Rare Earth Mineralization in Brazil JV Across the Goiás-Araxá-Catalão Belt - Brazil Ranking Second to China by Estimated REE Resources - ACCESS Newswire",
+      "title_en": "Ameerex Confirms Major Heavy Rare Earth Mineralization in Brazil JV Across the Goiás-Araxá-Catalão Belt - Brazil Ranking Second to China by Estimated REE Resources - accessnewswire.com",
       "title_en_source": "passthrough"
     },
     {
@@ -132,13 +122,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Codemig, CBMM renew niobium deal until 2070 - Valor International",
+      "title": "Codemig, CBMM renew niobium deal until 2070 - valorinternational.globo.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUEtzdDB3Tmtpc09yLXE5a1Z6ZUt2cVo0SUZDd2dEX2YwdUEyb0pTRW5fS3JlVkpZNldtUF8teGp0M3BJRVQ0aGJZSGY5eG9Hc3I2d3FhdE82SUd4VWNBazJiVGpDQXI4T2x2azVnYkRUUlRGZmdaMDRsUTJpSHZpOGtOSUxfYzFVdWliZmFrMGpXX3ItMlVJMy1GdXNYTm0wblNKZUFFT2Z0U1Qxbi1R0gG-AUFVX3lxTE40b0JEZXc5MnRPOFQxblFyTzEtZDZXcGRpZDBXUEpTZlZZb1ZuMnZGMWNERlZSWTNTWVZUTHNSOVAwakd4U2xVc2Z2c0h2X1lVSTNzNUZBSGJFSVdtblcyMHd6VlI5MnVXV3NlNjZDeTlqVGJ5VzY3a2lSWVQ3cWNQSFFiWkpnNHlGRUNTVHpLZXpuNWdXUXlfaE9GVVdISUhWS3NFSk1CMlF1U19kR2tQYTJKc25EdEJVNEIwZnc?oc=5",
-      "source": "Valor International",
+      "source": "valorinternational.globo.com",
       "published_utc": "2025-10-31T07:00:00+00:00",
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "Codemig, CBMM renew niobium deal until 2070 - Valor International",
+      "title_en": "Codemig, CBMM renew niobium deal until 2070 - valorinternational.globo.com",
       "title_en_source": "passthrough"
     },
     {
@@ -212,13 +202,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Are Chinese investments in Brazilian mining the start of a new wave? - BNamericas",
+      "title": "Are Chinese investments in Brazilian mining the start of a new wave? - bnamericas.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHl0RE9uVXBJakE0SmRXeWZvZTZqS29WNnRPY3JvNW94Y19ZaVhIMFBzWkZVX2x1Rmp3UnFVQXdHck51RnZiNHFnOWpfRnlDajU2MVZvVkxmblR3UEFDRlhzMVRQWU53NVVvUU5iMDhaSVp2dm1LZ2hpSE1IUEpoajhYSFVLXzZPcTNqZlNYSUVRbGhoTUlKWmstOWdPR3cycDRjZjlfa2ZGUQ?oc=5",
-      "source": "BNamericas",
+      "source": "bnamericas.com",
       "published_utc": "2024-12-10T08:00:00+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
-      "title_en": "Are Chinese investments in Brazilian mining the start of a new wave? - BNamericas",
+      "title_en": "Are Chinese investments in Brazilian mining the start of a new wave? - bnamericas.com",
       "title_en_source": "passthrough"
     },
     {
@@ -239,6 +229,16 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "CBMM opens niobium anode production facility in Brazil - Mining Technology",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Echion and CBMM Open Niobium Anode Production Plant - Battery-News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSTh3OTNiNEFjMm9UcWppazdDVlF4WHRqTWJTRzZLbzlYSkk3V3E1R08xUUxtZ2hqcC0yRnFWdUZmVlJKNDJodVZyNWZSZjNkanNKVnhwUlhIWDZ6Ymd5U3ZLSFc1YUhzOXg4NmV4TTc1OHV6MGN4a19sNkNBYlZuZ0RGbS0tNk5hbFN1S3NSQVNSckph?oc=5",
+      "source": "Battery-News",
+      "published_utc": "2024-11-18T08:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "Echion and CBMM Open Niobium Anode Production Plant - Battery-News",
       "title_en_source": "passthrough"
     },
     {
@@ -312,13 +312,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Redpath completes largest raisebore by volume in the Americas at Niobec niobium mine in Quebec - International Mining",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVp6VTlOa0ZLMmo2amVzVjYxMm9zWXA3eU45UlpDSWtsREFsZWJKamdsZXRyQVRtaW9zUW11WC1DYlFUTS0zV0hyNFZMT25QRjdfMGtkSDdhRWJTdUE4U25aYlU4ZE1kTmtnOG5pempQREhidVZsRTVZazVHcGplTDljbXJMRFNyQ1ZDMVR3TldJdENfenVJNnBMMTJ4dFVRbXl3ZUkyLUVKVklfc3BvSWtR?oc=5",
-      "source": "International Mining",
-      "published_utc": "2021-02-11T08:00:00+00:00",
+      "title": "Niobec unique in North America - Canadian Mining Journal",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeG5pLXoyTGYzR3BSXzJOWnFPVXUxWkl6MU1GSkY2VDhFT1otUHBJeGQ4Ync4by1RaENtd3BJYmZ4eGZCMmxFT0x6Ym8yN29JcXNZR0ZaTEZaWHlOUEpkSWlyM2czUmZRSUt2YXk3MS04bXZqakFuOGFNU20ySkxFSWdrOUhOVndBX0xDb0x1VQ?oc=5",
+      "source": "Canadian Mining Journal",
+      "published_utc": "2021-06-30T14:31:51+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "Redpath completes largest raisebore by volume in the Americas at Niobec niobium mine in Quebec - International Mining",
+      "title_en": "Niobec unique in North America - Canadian Mining Journal",
       "title_en_source": "passthrough"
     },
     {
@@ -352,13 +352,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "At a Glance: Niobium powerhouse CBMM - BNamericas",
+      "title": "At a Glance: Niobium powerhouse CBMM - bnamericas.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01RGYwSE5TOElGb1hxRXNKNVo1THhZbkx6bWt3UFY2eUhWWkpwWHU1Y1ZmbGtIaHFmVVJxb2J6eGdES3FfbmdRRkpjd3l5WERoWkdLQ3VvZzd6ZThPVEg1dGJ3alRUYXhOMkNVVFhTX0FFV0hWVUlSTVJLWlpnbkU?oc=5",
-      "source": "BNamericas",
+      "source": "bnamericas.com",
       "published_utc": "2019-08-30T07:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
-      "title_en": "At a Glance: Niobium powerhouse CBMM - BNamericas",
+      "title_en": "At a Glance: Niobium powerhouse CBMM - bnamericas.com",
       "title_en_source": "passthrough"
     },
     {
@@ -402,13 +402,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Spotlight: Brazil acquisitions put China's C... - BNamericas",
+      "title": "Spotlight: Brazil acquisitions put China's C... - bnamericas.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSG5UbDd3N0l1Y3NHUDB0Q2VCa3A5RFltcXAtLXVVNk5ka29KOTJmSWFVemhJTG9TN3Q3YVFaRTRUMlhrcnlKWEdHWFY3bzRkeE41bVVPQ1VyZGFuUGZ0WDJvS2tqX0ZsVjEwb19pWlVCR2xXajlUX3ZwUUJpcXdWSWJxSk5fbUdSRy0tMEUxUTc0TVhFcWMtTnc5MHItVTJzaEVJdHROSEhQa3Q5aDdaUlNYTGJ2dHhoblVIX2N3?oc=5",
-      "source": "BNamericas",
+      "source": "bnamericas.com",
       "published_utc": "2017-10-12T07:00:00+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
-      "title_en": "Spotlight: Brazil acquisitions put China's C... - BNamericas",
+      "title_en": "Spotlight: Brazil acquisitions put China's C... - bnamericas.com",
       "title_en_source": "passthrough"
     }
   ],
