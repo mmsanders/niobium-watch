@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-05T21:44:25.915714+00:00",
+  "as_of_utc": "2026-10-06T07:15:53.900406+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 44,
+  "item_count": 42,
   "items": [
     {
       "title": "NIOB Adds to Critical Minerals Portfolio - The Globe and Mail",
@@ -22,13 +22,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
+      "title": "Critical Minerals: Global Niobium Supply & Demand - geopoliticalmonitor.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFp0OWk4LXFCYWNuMnVIZVN4LVFfbC1JZmdSRUVzUnZicDRVZ0FtTmh0UzBVQUh0a0w0cm55YWFuWk1VN04yNVlqTnlYbXFMc0w1Mno3VlYyUHRRanNJNjhOZzNJUGx1REZiM19xZE01YlRzTkRvRG4xcUlwRWtyYTczMXdWcDRTaWNB?oc=5",
-      "source": "Geopolitical Monitor",
+      "source": "geopoliticalmonitor.com",
       "published_utc": "2026-07-10T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
+      "title_en": "Critical Minerals: Global Niobium Supply & Demand - geopoliticalmonitor.com",
       "title_en_source": "passthrough"
     },
     {
@@ -52,13 +52,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - uchumi360.com",
+      "title": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hc3g0Tks2NVY5UTRKRkt4Y0JmMUpwR1EwUmFPVGJCUy1RYTZ3TjlxWWo2SFJzWWJPM3AyMGdwZ0FZZTE4Y0V1MXhwQjdLdy03TXZIRVZYd0V4WkY0ZE96QVpoTQ?oc=5",
-      "source": "uchumi360.com",
+      "source": "Uchumi360",
       "published_utc": "2026-03-27T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - uchumi360.com",
+      "title_en": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
       "title_en_source": "passthrough"
     },
     {
@@ -172,23 +172,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobium: poor recyclability and high dependence on Brazilian supply - pricepedia.it",
+      "title": "Niobium: poor recyclability and high dependence on Brazilian supply - PricePedia",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUWJTTDRrSEd5QVg1X3paV0I4Y1B2TTU0NUNyYVBqeUVrak9hNXQtOHFtNk81aFo1T0R1bWN1ckIzSmZvY0tVZktKa2ZTUXhsRlhZWEN0aHJjNm1OMjZEczEwMERlSE5iV1l1cFRuVGNCTDJwV21xNi1ZbkxvV1NONGFPNGNXWTJkOUJrM1I1LW1YNzFKNktMWUQ4cXcxQ1M5ZVpXeVEzdHRGc2ZOcnk0NUc5ZjFETjNvTDZuSk9OaWdfQQ?oc=5",
-      "source": "pricepedia.it",
+      "source": "PricePedia",
       "published_utc": "2025-08-04T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
-      "title_en": "Niobium: poor recyclability and high dependence on Brazilian supply - pricepedia.it",
+      "title_en": "Niobium: poor recyclability and high dependence on Brazilian supply - PricePedia",
       "title_en_source": "passthrough"
     },
     {
-      "title": "Quebec mine strike shows fragility of critical minerals supply chains: Analyst - canadianminingjournal.com",
+      "title": "Quebec mine strike shows fragility of critical minerals supply chains: Analyst - Canadian Mining Journal",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVFNwUkhBR2ZfVDAzV1UtQTdpZ3ZITXJqNE5mRC1Xc25UYnBsU29XQ2Y3Q3g4NU92Y1R1MnVhY01jbXJYQVNMbDI1UTQyanVzVE1CMUVHRkg4dEwyMkNHX3IwcVBoSENZTFB0dmlhS0xBQkJWeW5JdV90T0RpU1hIN09BMEV6Y2ZoMlFhUDc4VEF4YU9uR0FkUUh4MGdRNUhPWEZDdmVfNXJzd1ZQbXhRTlJrQ1c4RjFrTVJnMVdR?oc=5",
-      "source": "canadianminingjournal.com",
+      "source": "Canadian Mining Journal",
       "published_utc": "2025-05-07T07:00:00+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "red",
-      "title_en": "Quebec mine strike shows fragility of critical minerals supply chains: Analyst - canadianminingjournal.com",
+      "title_en": "Quebec mine strike shows fragility of critical minerals supply chains: Analyst - Canadian Mining Journal",
       "title_en_source": "passthrough"
     },
     {
@@ -312,23 +312,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Noble Mineral Exploration Completes Acquisition of Nagagami Claims near Hearst, Ontario - juniorminingnetwork.com",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYnNVRE15d2MtWVhaLUxCdU5ROGh6RTd2VlltS1QtZzZ6ZzJVamNBdVhGMXIzaEVWaHpXOVNxWk1OUGhhbUlGS01nZ1RlOHZ0WVg4Ui1EOTdCZ0VZY1djVXo1a0ZkQTNScjhhbU01aVFkVm05TzBieWlhTHhXSTQ4SlpfYUNGTUpGYVlheGJVOHlfRUJkdTZqQTZ4SkRmU3BxMmVEMGJ0YlVsNHJfQkpfbnV1YS1QRllwTTV1S09BcEEzZVBlWmRQSGFWaktyckpRblkxb05TY3dZNVdBeGVsOFdGcG10ekJWX1lvMVl4RVNRUVVnV1M1V3NLWGs?oc=5",
-      "source": "juniorminingnetwork.com",
-      "published_utc": "2022-04-06T07:00:00+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "Noble Mineral Exploration Completes Acquisition of Nagagami Claims near Hearst, Ontario - juniorminingnetwork.com",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - investingnews.com",
+      "title": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR181N2xrZ1N4Wkh1OUdzWHgxamw4NWR3dnZQclNITXBLTUNNTlBkbzJPek1QdHRtc21PemhXUEo3RzJFYWtyMHFCcmdtc1N5OVhzY3ZaSGp5bjV3ZWRCemM3V0tXbENaaGgyQnFQMlBySE5LelFjT2FwYWZpQkdwZ1Njc2ZMTURQeFlQQUZZVC1jbUtmOHN3WXludF9raTJ0ZjhBSmpuamNtelVIdmtocHVrMll1QWsxajFFY0tRTEpEZTN6NHRuOG90M3k2WUFjWnhDTU5EeUtWRGdSeVBOVnRpSmJmV2J0SUdseUdVYw?oc=5",
-      "source": "investingnews.com",
+      "source": "Investing News Network",
       "published_utc": "2021-12-16T08:00:00+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - investingnews.com",
+      "title_en": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
       "title_en_source": "passthrough"
     },
     {
@@ -342,13 +332,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "The niobium controversy - FAPESP",
+      "title": "The niobium controversy - revistapesquisa.fapesp.br",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FVWl0RHdLelZZdWhwREJmejhqdjdBblVFVXZlVlZWaXJyenBLSDVEMmpEb3RRZnYxc2xaR2kzdXZnSmwwMkk1S3FSZFRvNmhucVJyZEpBQURmemFSOFNBdktDbm9WNDNIaG1LcHYwQUI?oc=5",
-      "source": "FAPESP",
+      "source": "revistapesquisa.fapesp.br",
       "published_utc": "2020-06-02T06:34:46+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
-      "title_en": "The niobium controversy - FAPESP",
+      "title_en": "The niobium controversy - revistapesquisa.fapesp.br",
       "title_en_source": "passthrough"
     },
     {
@@ -409,6 +399,16 @@
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
       "title_en": "Hands off Brazil's niobium: Bolsonaro sees China as threat to utopian vision - Reuters",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Spotlight: Brazil acquisitions put China's C... - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSG5UbDd3N0l1Y3NHUDB0Q2VCa3A5RFltcXAtLXVVNk5ka29KOTJmSWFVemhJTG9TN3Q3YVFaRTRUMlhrcnlKWEdHWFY3bzRkeE41bVVPQ1VyZGFuUGZ0WDJvS2tqX0ZsVjEwb19pWlVCR2xXajlUX3ZwUUJpcXdWSWJxSk5fbUdSRy0tMEUxUTc0TVhFcWMtTnc5MHItVTJzaEVJdHROSEhQa3Q5aDdaUlNYTGJ2dHhoblVIX2N3?oc=5",
+      "source": "BNamericas",
+      "published_utc": "2017-10-12T07:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "Spotlight: Brazil acquisitions put China's C... - BNamericas",
       "title_en_source": "passthrough"
     }
   ],
