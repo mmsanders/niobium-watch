@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-07T06:55:05.009560+00:00",
+  "as_of_utc": "2026-10-07T20:19:24.440267+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -12,6 +12,16 @@
   "item_count": 46,
   "items": [
     {
+      "title": "A Victory for Pro-American Candidate Bolsonaro Gives Washington an Opening to Leverage China’s Dependence on Brazil and Recalibrate the Global Balance of Power - Мілітарний",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZclM0V2xJYUZVUTVUa3Y3dU1uNktrUlJfS3I5NXdTRVFBMmphdVU1Umg1NEdVYlp5QXV2UHNFSVF0Qng5cUxFbGhTdDl5bThPNkJMV1B2VF9OMmlMQVZCYjY2R2FTSzk1SDhLOVFZQ2hObGVFQmZvVWdqTm0?oc=5",
+      "source": "Мілітарний",
+      "published_utc": "2026-10-07T06:41:49+00:00",
+      "query": "Brazil ferroniobium OR ferronióbio export",
+      "flag": "green",
+      "title_en": "A Victory for Pro-American Candidate Bolsonaro Gives Washington an Opening to Leverage China’s Dependence on Brazil and Recalibrate the Global Balance of Power - Мілітарний",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "NIOB Adds to Critical Minerals Portfolio - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRFVwUm1ieTdFYjNjSkZlNDFGdWhqOTlENHZJLU1DRkNuS3hiUlk2U2hlZW1mNHdPNjRNNUNxTUU3SXpFclNfaXc5S0d3U2hXSktzcmxGb3IyWldkUVVrLWlDSzRLdlI1d3NCQmNPLW1rVjRzWnVMV09TWFByZlVDRW4tZ0gxeXVjT2k4am5TRW1nclB3MUFmQzFSYXNNMFBReTY4VGwtclZCQVk2amV3OE1RSVRHSlpkcVZyMmU2QjZ3bjRC?oc=5",
       "source": "The Globe and Mail",
@@ -19,16 +29,6 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "NIOB Adds to Critical Minerals Portfolio - The Globe and Mail",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "St George steps up Araxá testing - The Australian",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRFhJZnk2bEREbWJVR1EtUG8zRlZWMUVFSnAxWUFTVlg5b1F0dmdRQkdhcmY2X2s0ZTZ3ZHVTS2Q0SW5oYW8xeWo3RXZrbmR1YnFYMkIzU0ZmdGZ0ZEZPYWE2OFJYclNWQmFubWtzYndDQmtpS0U4ZFViX0JJTGhFRjB6TUNBZWpKN0hUWm5oRlZLZ0lybXo2bmY3U3FmemtoZmxGbDBpWEJBX09FdE8tYXduY1lHTTJRQndzUVJsbG95QjB3d2I2Uzd4cnNQSWVHV2JCQklCd1FZd1RIdGh0SkxCMXZ0d1puV2d1OUVvOVpVbkE1SDZ5SUg3Rk4xM1dlY3VtSDkyRnBxQnJV?oc=5",
-      "source": "The Australian",
-      "published_utc": "2026-09-03T07:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "St George steps up Araxá testing - The Australian",
       "title_en_source": "passthrough"
     },
     {
@@ -82,16 +82,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hc3g0Tks2NVY5UTRKRkt4Y0JmMUpwR1EwUmFPVGJCUy1RYTZ3TjlxWWo2SFJzWWJPM3AyMGdwZ0FZZTE4Y0V1MXhwQjdLdy03TXZIRVZYd0V4WkY0ZE96QVpoTQ?oc=5",
-      "source": "Uchumi360",
-      "published_utc": "2026-03-27T07:00:00+00:00",
-      "query": "Brazil ferroniobium OR ferronióbio export",
-      "flag": "green",
-      "title_en": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Tanzania seals strategic minerals deal - Daily News",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WUlhrQWpuZHdCc0pHaUZfMTVJc0RqWk5KRU94UmNPaHBZc0hTUkprMlNNVHFUSlIxMmVzdzR2SHlGZm16N01zR3pGN3kzdnRfdWJuWlV2OThvYnpEdHZEVVJhVzA2QmlUQTJlZW82azQ?oc=5",
       "source": "Daily News",
@@ -129,6 +119,16 @@
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
       "title_en": "CMOC Brasil's historic record in niobium production confirms its leading global position. IBRAM - IBRAM - Mineração do Brasil",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Land deal progresses Brazilian rare earths mine - The Australian",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSzhIVmxsMDMxYU5HNndrOWtob21rbjlhWlV1WGdwVFVnQVI0aTZTdF9Wc3RkMkNQaFRoNG1oNnAzZE1KTXVlR2xqaUdWMzBVQVB3SmFQOTV0NF8wdzBmUHAyaWlaaW95R0VJUjlzUnpTOFozdnFEdDljWXpoaDJQb21UaWkxd1RZc0otTzR2UjhxV25DdnFlOEpnZ1pwTTdFbTNGTlZrMVZFNF9hMVFXNkxCdGM1R0VpUFgxYVlZeXZNYXRuYkRiMC12cmc0TUZSbTVHb1BYdGdMUlhtWXhYMTFvSU94NVVyaGlQazlrZ0JBLThpRzFhUTV5U29lUnhXYlJPazhLMTVHX1VTUmxVeHh5bE1oQQ?oc=5",
+      "source": "The Australian",
+      "published_utc": "2026-02-16T08:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "Land deal progresses Brazilian rare earths mine - The Australian",
       "title_en_source": "passthrough"
     },
     {
