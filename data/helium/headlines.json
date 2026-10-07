@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-06T19:54:19.617467+00:00",
+  "as_of_utc": "2026-10-07T06:55:05.009560+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -11,8 +11,18 @@
     "MRI helium shortage",
     "Shute Creek helium OR LaBarge helium"
   ],
-  "item_count": 77,
+  "item_count": 76,
   "items": [
+    {
+      "title": "Hormuz's crude recovery hides a slower one for LNG, fertilizer, helium, and aluminum - EnterpriseAM",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeThTTHlIbkRtRnhnMmRVbDlNVjBGTk1LcmtLWFp4Z3dwdm1meXVFNnpXRW5rUm5GT3BxUzNlaDhvb3h5WTBfU3VtR0tVZ2I3NWRwX3ozbmY0Tml1clpYVjAzZExsTDhvemVpMy04bHVkSnpTc0V3LTdoM1VZRy1yYmxEdkNpSnlPbWVjV09yMVp5WmlNSnNZTVE5Yy16MnFBV0kwelhlQlBqdE4xWkpUMWRMVWdXMGoxaTYzNlZnbTFZYzZseXc?oc=5",
+      "source": "EnterpriseAM",
+      "published_utc": "2026-10-06T21:00:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "yellow",
+      "title_en": "Hormuz's crude recovery hides a slower one for LNG, fertilizer, helium, and aluminum - EnterpriseAM",
+      "title_en_source": "passthrough"
+    },
     {
       "title": "Will Gold Hydrogen's Ramsay Flow Test Prove Up Helium (ASX:GHY)? - Kalkine Media",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUjlQU1ZWSVVqTzdfRWR3UFBDMnFPSXRwYXFXYW9SdWFkUzdscV9vYS1PelhWdGxVZWttQUxZN0N5cThmVUJmMVF5aTV5bkl4anVHNDBmVjBLR0FHOHNHYkxsSFQwMXZWdnlZWVd5UmpRTjh4NWZlT1gtc0ZobjBJcDQ2dmFCWkd6NzlxQlp3OWxpTEEtQWNna01DbDNDT1VpcmFN?oc=5",
@@ -41,16 +51,6 @@
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
       "title_en": "Interview: Avanti Helium on Sweetgrass, North American Supply Security and Helium Growth - ChemAnalyst",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "US Helium Market Remains Supply-Constrained Amid Qatar Disruption and Rising Demand - ChemAnalyst",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeEhnZ2xBZFFLcWxGM1k0Sm9pMW82RjMycU9LUHVjYnZ6RkRRcDUxOGhzSFBXT1dmQTVZMGI2di13ZEVVRkdGVDZmdEtDMFJ6d1RIak1sdGtHVUJMQVhHcjZtcTRRcGdCOFdCNUF4OEUwMmRhVlBONUlEdWRDUzd1NVJhc2NudmV5aEloUS1DZFZyTFBJNENud0tIRGhEOTZDWkJIU2NxeGw1MGpnSU5pMzEtMA?oc=5",
-      "source": "ChemAnalyst",
-      "published_utc": "2026-09-30T14:56:47+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "US Helium Market Remains Supply-Constrained Amid Qatar Disruption and Rising Demand - ChemAnalyst",
       "title_en_source": "passthrough"
     },
     {
@@ -284,13 +284,33 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Russia Imposes Temporary Export Controls on Helium Until 2027 - Global Banking & Finance Review",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRkgwdUplQVh3X1VmRE5Tcmt5V0FYMFpaektoNUZOUHRHVVhDOXdVSE9Xdjc0M2lSR01zS21SbF9KOWtadnZ2NS1MUHNwUG1VZURVRW9rRWZWbFYxZzJ6LVBGX293dmdlUWNuakZMci1kRThoNTJCOUEwRnBkZE1BUDg0QUYxSEdySHVOQ0ZVZDVtdw?oc=5",
-      "source": "Global Banking & Finance Review",
+      "title": "Russia Inserts Itself Into Global Semi-Conductor Manufacturing Output By Banning Helium Exports - russia's pivot to asia",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnZlc3dPVFhnX09kQUsyUnEtTG02cTloZkVSMlgxS0o0LW0xYjBrOWFSM0xmYWxYZExsMHV2QnNwZnZFeTFaYXZFaVRCWGpzNFM4aEZmbkJjUmFic2lEVmpqajRYbC1TTHJCTE4yNld3Q21XOXdYS004cVdCc0lpOF9MTElBcko1VDQ1a0NsbFVsc2R5V25mUVlabTRJUzRBUnY0M3pBeDFUUzNTOFYtUy1Ob0lnZnpVdlh4RE11elRiVXlzY0E?oc=5",
+      "source": "russia's pivot to asia",
+      "published_utc": "2026-04-15T07:00:00+00:00",
+      "query": "Shute Creek helium OR LaBarge helium",
+      "flag": "green",
+      "title_en": "Russia Inserts Itself Into Global Semi-Conductor Manufacturing Output By Banning Helium Exports - russia's pivot to asia",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Top 5 issues for helium startups in Middle East crisis - gasworld",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUUJwWEVmODNCczlCb1NUUi02YUQteXBpNTdab3JnYVRkcHZER25iMVdyVTlLaFl5MC1qOEptV0M0RllySHRiQjlsLXRxYWJCb1VuR1lkTEJhREdCZVZmLS1sa0VmMXI0MnFuMkV0NzU4XzQ0Z1dhTW15eTZKNlJVeXRJby1CUi11SWNtYlI0NElINVg2QjhBa3FGZWJnM0d5dWIwZQ?oc=5",
+      "source": "gasworld",
+      "published_utc": "2026-04-14T07:00:00+00:00",
+      "query": "helium plant outage OR helium force majeure",
+      "flag": "green",
+      "title_en": "Top 5 issues for helium startups in Middle East crisis - gasworld",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Russia Introduces Helium Export Controls Amid Global Shortage - The Moscow Times",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2kzWk51emVJb2c4VTBubDY0U3J6TldPeXNnNXlGWjB3dy1Kb0xxeks3ZFZHYkd0Q2VPSGxuX1BPUDAxM0g3QzV3bWtpbk5ZMHpZSk9wQi1VRFAzRnpZeHk2Mm5QWktCaUdqQk5BOF9JcDNZM3RrRGlaNFFqSldaeDN3U0xlTmR1WFppcndyNlMwMk9CYTZWVWV2S1c0TVhnTGVxRUZDc1d0Uk5VSnU0?oc=5",
+      "source": "The Moscow Times",
       "published_utc": "2026-04-14T07:00:00+00:00",
       "query": "Amur helium",
-      "flag": "green",
-      "title_en": "Russia Imposes Temporary Export Controls on Helium Until 2027 - Global Banking & Finance Review",
+      "flag": "red",
+      "title_en": "Russia Introduces Helium Export Controls Amid Global Shortage - The Moscow Times",
       "title_en_source": "passthrough"
     },
     {
@@ -321,6 +341,16 @@
       "query": "MRI helium shortage",
       "flag": "green",
       "title_en": "The world is running out of helium — again : Short Wave - NPR",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "America Has a Helium Problem - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QOTMzN0JCRjZ5ZWswcENPblFGNEY1bUxfVjc0eEZOTHdBbDFwQU0wMWRtNEJiY1hxWHk0OG1tclM5WkZWSWlfWHF2My0xYl9TY281R3Vrdzdwb3ZMdEFlRkk1VzNMVWVfNklKZWN2bw?oc=5",
+      "source": "Newsweek",
+      "published_utc": "2026-04-05T07:00:00+00:00",
+      "query": "BLM helium OR Cliffside helium",
+      "flag": "green",
+      "title_en": "America Has a Helium Problem - Newsweek",
       "title_en_source": "passthrough"
     },
     {
@@ -371,36 +401,6 @@
       "query": "Shute Creek helium OR LaBarge helium",
       "flag": "red",
       "title_en": "Helium “Tsunami” to Hit Chipmakers — The Surprising Winner to Profit From the Coming Shortage - Yahoo Finance",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Helium \"Tsunami\" to Hit Chipmakers - The Surprising Winner to Profit From the Coming Shortage - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb05XRHFLU290U2p0TEIxNFN0cDk5Y015RXpPc0IyR0cwMnBha0xYVGRHWXB1djlSanA0RkI1cmxsTVdDbFdTTzRvRlQ2WlRBMk83aWxiZ21XR2c5WTY2MDl5aEQzYmZteXdFMy1TZ0VlVWlJLVlmOGhyd2ZlZEUwSW9rYU80TlBvN29Wbno0aUlNeHl1MHJmOHJqd2RVbXJfc3JtNy1sWnRucTZ1LVpmNmtVNGQwbGtkaFBLUS1XTmlRek1XaHBvUHdhUm5EQQ?oc=5",
-      "source": "24/7 Wall St.",
-      "published_utc": "2026-03-30T07:00:00+00:00",
-      "query": "Shute Creek helium OR LaBarge helium",
-      "flag": "red",
-      "title_en": "Helium \"Tsunami\" to Hit Chipmakers - The Surprising Winner to Profit From the Coming Shortage - 24/7 Wall St.",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Wyoming's helium value rises as war in the Middle East affects supply - Gillette News Record",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSUU3MnRNOE1ybmk3S2lYbVhmVWc1ZGE4aGppcHRaaTRCUDBMbk8tbV9IdUZWdGRFTFhUSW9PYWR2bXZPS3huMi1aenl3cFo1RkRDVG9DV25JMlhrMlUwZ1Y4WThOZWg4b3gtWDV5OFR3U01xTTBQTkJGanItUlZ5Mkx5dkRuOGo1ZkxvanpFc1hQOTM0Z0hwR0FGVE5rZw?oc=5",
-      "source": "Gillette News Record",
-      "published_utc": "2026-03-30T07:00:00+00:00",
-      "query": "Shute Creek helium OR LaBarge helium",
-      "flag": "green",
-      "title_en": "Wyoming's helium value rises as war in the Middle East affects supply - Gillette News Record",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Iran war chokes off helium supplies in threat to chipmakers and healthcare - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZzFKQmlSeEZmYzZrenFxVm03RkZfUXRYWHJOamhtcEJhN1gyX05LRVNXUG1NRDJpd25XLTlXWVBDV2oxWjBnemVCSkJFQWxiM3BOdGhoQnRNVDF4bTVOTi1EeURMUTRlRkxCOF95M2pTQU4xdXF3T1NrN1FKTy1mOUFOeUM?oc=5",
-      "source": "Financial Times",
-      "published_utc": "2026-03-28T07:00:00+00:00",
-      "query": "helium plant outage OR helium force majeure",
-      "flag": "green",
-      "title_en": "Iran war chokes off helium supplies in threat to chipmakers and healthcare - Financial Times",
       "title_en_source": "passthrough"
     },
     {
