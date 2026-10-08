@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-08T07:02:44.948551+00:00",
+  "as_of_utc": "2026-10-08T20:21:37.114942+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 48,
+  "item_count": 50,
   "items": [
     {
       "title": "A Victory for Pro-American Candidate Bolsonaro Gives Washington an Opening to Leverage China’s Dependence on Brazil and Recalibrate the Global Balance of Power - Мілітарний",
@@ -19,6 +19,16 @@
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
       "title_en": "A Victory for Pro-American Candidate Bolsonaro Gives Washington an Opening to Leverage China’s Dependence on Brazil and Recalibrate the Global Balance of Power - Мілітарний",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "St George steps up Araxá testing - The Australian",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRFhJZnk2bEREbWJVR1EtUG8zRlZWMUVFSnAxWUFTVlg5b1F0dmdRQkdhcmY2X2s0ZTZ3ZHVTS2Q0SW5oYW8xeWo3RXZrbmR1YnFYMkIzU0ZmdGZ0ZEZPYWE2OFJYclNWQmFubWtzYndDQmtpS0U4ZFViX0JJTGhFRjB6TUNBZWpKN0hUWm5oRlZLZ0lybXo2bmY3U3FmemtoZmxGbDBpWEJBX09FdE8tYXduY1lHTTJRQndzUVJsbG95QjB3d2I2Uzd4cnNQSWVHV2JCQklCd1FZd1RIdGh0SkxCMXZ0d1puV2d1OUVvOVpVbkE1SDZ5SUg3Rk4xM1dlY3VtSDkyRnBxQnJV?oc=5",
+      "source": "The Australian",
+      "published_utc": "2026-09-03T07:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "St George steps up Araxá testing - The Australian",
       "title_en_source": "passthrough"
     },
     {
@@ -272,16 +282,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Are Chinese investments in Brazilian mining the start of a new wave? - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHl0RE9uVXBJakE0SmRXeWZvZTZqS29WNnRPY3JvNW94Y19ZaVhIMFBzWkZVX2x1Rmp3UnFVQXdHck51RnZiNHFnOWpfRnlDajU2MVZvVkxmblR3UEFDRlhzMVRQWU53NVVvUU5iMDhaSVp2dm1LZ2hpSE1IUEpoajhYSFVLXzZPcTNqZlNYSUVRbGhoTUlKWmstOWdPR3cycDRjZjlfa2ZGUQ?oc=5",
-      "source": "BNamericas",
-      "published_utc": "2024-12-10T08:00:00+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "green",
-      "title_en": "Are Chinese investments in Brazilian mining the start of a new wave? - BNamericas",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - Electric & Hybrid Vehicle Technology International",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVHZDR1d4MFJDTnFHb2RFMnFEZGxoUGpmbmhpVm1Yem1Sb2NhQzl6SmtzM2hFM1FvVTVtcjlXbHNQYnNUR2tMcnBITW9SMUg3NGMtcDRsTlU5eERpVEFicUFQMU5CbUNlUkJmUGxBS29OSGZZcXpUc2RTR0wtT2dGYXR4bXJ6bmYwVElvMVRwWnVNamxEMVRwVzFITUVwOXd6ZXc2RHB0LTVKLVNZckR3Q3BKa0tXeWtiNEpGYVp6dDE2WHVvcnFmYS13V09Sc2hySmVuTmZLbVVRdw?oc=5",
       "source": "Electric & Hybrid Vehicle Technology International",
@@ -402,13 +402,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - Dassault Systèmes",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMU5iMGYzYzNYM0NlVWtCU28xbVpsX2VlcjNoazAyeGY2WnByLWF4ZFVGSGg3SjVyTHp6VkNDSFFzS2phM0h1VFl4NEV6VDNnN2JKSVlyVTIwRl91MUNUa0QyX1Z1dm56SV95dFpEMzUxTTEtTFpQUGlxNWlWNHZYWDJhOEZLTVZNVG1CbnZmR0Nqem82NXdYVmVkMDhIUzVRZWFCOFI2OUd1UHc0bHo0VF9rSkVla3BsUWJucGNPWjhjcnBHT2xwbVVYc2hpR3F0TlBqVURxUVZ0T29iWWx2d2owSVk1cmFPTUFTUjdlaGxZSGV0THhRanRuOThWeXFrb081R3dfS0ZJSjRt?oc=5",
-      "source": "Dassault Systèmes",
-      "published_utc": "2021-02-10T08:00:00+00:00",
-      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "title": "Niobec unique in North America - Canadian Mining Journal",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeG5pLXoyTGYzR3BSXzJOWnFPVXUxWkl6MU1GSkY2VDhFT1otUHBJeGQ4Ync4by1RaENtd3BJYmZ4eGZCMmxFT0x6Ym8yN29JcXNZR0ZaTEZaWHlOUEpkSWlyM2czUmZRSUt2YXk3MS04bXZqakFuOGFNU20ySkxFSWdrOUhOVndBX0xDb0x1VQ?oc=5",
+      "source": "Canadian Mining Journal",
+      "published_utc": "2021-06-30T14:31:51+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - Dassault Systèmes",
+      "title_en": "Niobec unique in North America - Canadian Mining Journal",
       "title_en_source": "passthrough"
     }
   ],
