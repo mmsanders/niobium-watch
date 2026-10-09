@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-08T20:21:37.114942+00:00",
+  "as_of_utc": "2026-10-09T07:10:51.354256+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 50,
+  "item_count": 49,
   "items": [
     {
       "title": "A Victory for Pro-American Candidate Bolsonaro Gives Washington an Opening to Leverage China’s Dependence on Brazil and Recalibrate the Global Balance of Power - Мілітарний",
@@ -89,16 +89,6 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hc3g0Tks2NVY5UTRKRkt4Y0JmMUpwR1EwUmFPVGJCUy1RYTZ3TjlxWWo2SFJzWWJPM3AyMGdwZ0FZZTE4Y0V1MXhwQjdLdy03TXZIRVZYd0V4WkY0ZE96QVpoTQ?oc=5",
-      "source": "Uchumi360",
-      "published_utc": "2026-03-27T07:00:00+00:00",
-      "query": "Brazil ferroniobium OR ferronióbio export",
-      "flag": "green",
-      "title_en": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
       "title_en_source": "passthrough"
     },
     {
@@ -409,6 +399,16 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "Niobec unique in North America - Canadian Mining Journal",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - Dassault Systèmes",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMU5iMGYzYzNYM0NlVWtCU28xbVpsX2VlcjNoazAyeGY2WnByLWF4ZFVGSGg3SjVyTHp6VkNDSFFzS2phM0h1VFl4NEV6VDNnN2JKSVlyVTIwRl91MUNUa0QyX1Z1dm56SV95dFpEMzUxTTEtTFpQUGlxNWlWNHZYWDJhOEZLTVZNVG1CbnZmR0Nqem82NXdYVmVkMDhIUzVRZWFCOFI2OUd1UHc0bHo0VF9rSkVla3BsUWJucGNPWjhjcnBHT2xwbVVYc2hpR3F0TlBqVURxUVZ0T29iWWx2d2owSVk1cmFPTUFTUjdlaGxZSGV0THhRanRuOThWeXFrb081R3dfS0ZJSjRt?oc=5",
+      "source": "Dassault Systèmes",
+      "published_utc": "2021-02-10T08:00:00+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "flag": "green",
+      "title_en": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - Dassault Systèmes",
       "title_en_source": "passthrough"
     }
   ],
