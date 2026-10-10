@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-10T06:44:35.749896+00:00",
+  "as_of_utc": "2026-10-10T19:03:24.788803+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -22,16 +22,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Komatsu MC51 at Niobec: mechanical cutting validation insights for mine engineers - Geomechanics.io",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb2g1MjJTUXg0ekVlLXhDTWJDa0RmTm9LTnQzNmtYTFQ1c1dvNnhtTmdmaTZsU0ZNSlpsb0tKN3k3TVVnWHY0NDBqMTRaYmFHRTNMeEUtX1FqaVlVbFhydnpwcVBkUTVFeXZtTEZ2eW81T1k1b1E1YXlvaElsdVhRZEhCdG5JSkFTdU5HTUdkME9JU01Nc3g5Q1JYS0tLVXFxNDUyMW4zWXVFR1hNc2k0NkxhS3ZFUE1sR1lGZGRn?oc=5",
-      "source": "Geomechanics.io",
-      "published_utc": "2026-09-04T00:02:37+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "yellow",
-      "title_en": "Komatsu MC51 at Niobec: mechanical cutting validation insights for mine engineers - Geomechanics.io",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "St George steps up Araxá testing - The Australian",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRFhJZnk2bEREbWJVR1EtUG8zRlZWMUVFSnAxWUFTVlg5b1F0dmdRQkdhcmY2X2s0ZTZ3ZHVTS2Q0SW5oYW8xeWo3RXZrbmR1YnFYMkIzU0ZmdGZ0ZEZPYWE2OFJYclNWQmFubWtzYndDQmtpS0U4ZFViX0JJTGhFRjB6TUNBZWpKN0hUWm5oRlZLZ0lybXo2bmY3U3FmemtoZmxGbDBpWEJBX09FdE8tYXduY1lHTTJRQndzUVJsbG95QjB3d2I2Uzd4cnNQSWVHV2JCQklCd1FZd1RIdGh0SkxCMXZ0d1puV2d1OUVvOVpVbkE1SDZ5SUg3Rk4xM1dlY3VtSDkyRnBxQnJV?oc=5",
       "source": "The Australian",
@@ -39,6 +29,16 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "St George steps up Araxá testing - The Australian",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "St George Mining starts pilot-scale test work to advance Araxá niobium and rare earths flowsheet in Brazil - Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQY0lQYVBCZXc0cHhWajRpZHBZdzd6UnM2OEF5VTR2bUlmVlM2cVRpREd5eUlUZjFvWkJ0bnlLR2NXc05NaXgyV1Y4cEJpX2tZa1loTmxnZWwyOEdNMnJfYTBodS1KUVZzYnhYVjdFZUV0ZDdWZEJBUUdzSTFhRElva3NTcXlTYzczZ2F2YVlZd3VvYTc2TWVyMzZGa0JzSk1tcjVMLTQ5c281eUE2cDc5NTVIUVdaWUhMNVlSdVdnSmV0YTB4X2tIXzVoYWVrYXJOU0lhM2FkTmRRZ1VEZURidlktV3RrREFpWlpXUGxvdVl6OXNrWjM3NHAxejd3UzZkOE1fY29oZEI?oc=5",
+      "source": "Proactive financial news",
+      "published_utc": "2026-09-01T07:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "St George Mining starts pilot-scale test work to advance Araxá niobium and rare earths flowsheet in Brazil - Proactive financial news",
       "title_en_source": "passthrough"
     },
     {
@@ -232,16 +232,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Research centers and companies in Brazil finding new applications for niobium - FAPESP",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSkpJZGZuUEE3aDlMakNMdEM5NVJaaWpTZzhlNVNsTVRyXzBEekdTOFY0TlBMeU9aVzdobkN6dFhNQ1RSWm9DbE9DYnJSMU1XSDZWZzRUWl9tR2FWT2tST1BHQUtYeE9LekRJZnVkYy1mU1FmTHp1YkVWck9ydjJWOVE5blRoX2VEOUg5M3pLUVpTSVN3MFpaYThOWE1YV2c5QUVXRnN0NUp4UG9VVHVNY0tNc1FyUQ?oc=5",
-      "source": "FAPESP",
-      "published_utc": "2025-08-26T00:20:55+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "Research centers and companies in Brazil finding new applications for niobium - FAPESP",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "China's CMOC eyes more M&A opportunities in Africa, South America - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeXhLWnNLS1lTMk5ISkJSUXdqaVBsMEdMX1kyVjFxYnVlYXBzaWdFLUpFNVh5UWFLVEVGZWFxc2o3WFVFWHNVSEtzNm0wMGIydmxsWnBDdVpISzE0MU9Id3JMcjAyRHB5LWtkemJvTE40U1lnQi1OdnVKd2dERTEtR3NxOVlLN0dHX1VaTmFEaE05OFQ0d3hrT2ZzNmFQSmRXeXZOYWFoVUV6ZTBaeUR4bFZwaXdFZw?oc=5",
       "source": "Reuters",
@@ -409,6 +399,16 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - Dassault Systèmes",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMU5iMGYzYzNYM0NlVWtCU28xbVpsX2VlcjNoazAyeGY2WnByLWF4ZFVGSGg3SjVyTHp6VkNDSFFzS2phM0h1VFl4NEV6VDNnN2JKSVlyVTIwRl91MUNUa0QyX1Z1dm56SV95dFpEMzUxTTEtTFpQUGlxNWlWNHZYWDJhOEZLTVZNVG1CbnZmR0Nqem82NXdYVmVkMDhIUzVRZWFCOFI2OUd1UHc0bHo0VF9rSkVla3BsUWJucGNPWjhjcnBHT2xwbVVYc2hpR3F0TlBqVURxUVZ0T29iWWx2d2owSVk1cmFPTUFTUjdlaGxZSGV0THhRanRuOThWeXFrb081R3dfS0ZJSjRt?oc=5",
+      "source": "Dassault Systèmes",
+      "published_utc": "2021-02-10T08:00:00+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "flag": "green",
+      "title_en": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - Dassault Systèmes",
       "title_en_source": "passthrough"
     }
   ],
