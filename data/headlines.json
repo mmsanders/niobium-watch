@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-09T19:54:28.192599+00:00",
+  "as_of_utc": "2026-10-10T06:44:35.749896+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -162,16 +162,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Ameerex Confirms Major Heavy Rare Earth Mineralization in Brazil JV Across the Goiás-Araxá-Catalão Belt - Brazil Ranking Second to China by Estimated REE Resources - ACCESS Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcnBpTDdXTHBOOGJERTNnNVRMQkkyRDdreS1INVlUVzZxZ1VXT1ppcUI4VGpnYUNEcm52LTEtS2ZFN0E1S3F5Vy1QUUtuTEk2a3M1MmpJRjE4QkVmX2RuVjdJS1lkcW11bno4QUpTbjhDbkkxbVo4ZGxzZWpRRzFrVVV1Zk9tM1pQZEtIdEdDOEoxM2pTTXFBMjlFelB5MElGTXp0ZFY2ajF1ZElOMjNNWFRDbjhXWk5ObnA3LU92dUVSNFNWeDJqRklVRHhSN1lPMmc4YmxmR25MVTRsNTBtekxwQ3g?oc=5",
-      "source": "ACCESS Newswire",
-      "published_utc": "2026-02-06T08:00:00+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "green",
-      "title_en": "Ameerex Confirms Major Heavy Rare Earth Mineralization in Brazil JV Across the Goiás-Araxá-Catalão Belt - Brazil Ranking Second to China by Estimated REE Resources - ACCESS Newswire",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "High-grade niobium discovered outside SGQ’s Araxá resource - The Australian",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVmJ0d3NOa1gxYW4tLTVhWGdxRXNiVlBtNXRPTXd5Z1VzcF9XRHdaSXYxa19MTEZ4cW5ZdkJfU29EQUQ4UTNDU1VmYlBhVjF6YXN3c0huSXNleHJCMkpwS09jc2tiSjlPWjBVOW1zS0FPalFwR3Vld2tLNVhzMk5hTFpVY3ROZ2xwNWNSZjBvNmxYX3hCakIwQlVqRWxuamREWjVTU0Q5M1FVcjFGTE95SlBEckNybm42dnNMWjJqRHN1bkszWUFXZlFTd2VxV216Y211QVd6X3lqWVpEVXQwNkIybjZ1Yi1Ja3phVU02NzJxTF9FVnRNSmhLVzdfZ0oxQ3JPckluYVMzaktZ?oc=5",
       "source": "The Australian",
@@ -289,6 +279,16 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "red",
       "title_en": "Quebec mine strike shows fragility of critical minerals supply chains: Analyst - Canadian Mining Journal",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Are Chinese investments in Brazilian mining the start of a new wave? - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHl0RE9uVXBJakE0SmRXeWZvZTZqS29WNnRPY3JvNW94Y19ZaVhIMFBzWkZVX2x1Rmp3UnFVQXdHck51RnZiNHFnOWpfRnlDajU2MVZvVkxmblR3UEFDRlhzMVRQWU53NVVvUU5iMDhaSVp2dm1LZ2hpSE1IUEpoajhYSFVLXzZPcTNqZlNYSUVRbGhoTUlKWmstOWdPR3cycDRjZjlfa2ZGUQ?oc=5",
+      "source": "BNamericas",
+      "published_utc": "2024-12-10T08:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "Are Chinese investments in Brazilian mining the start of a new wave? - BNamericas",
       "title_en_source": "passthrough"
     },
     {
