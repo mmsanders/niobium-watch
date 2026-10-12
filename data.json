@@ -1,0 +1,1841 @@
+{
+  "as_of_utc": "2026-10-12T16:28:44.697263+00:00",
+  "meta": {
+    "project": "niobium-watch",
+    "timezone": "America/Los_Angeles",
+    "dashboard_as_of": "2026-10-12",
+    "update_cadence": {
+      "headlines": "twice daily via cron (no AI)",
+      "exports": "twice daily attempt + monthly AI synthesis"
+    },
+    "created_utc": "2026-09-12T02:14:31.466375+00:00",
+    "last_headline_fetch_utc": "2026-10-12T16:26:48.582704+00:00",
+    "last_export_fetch_utc": "2026-10-12T16:28:27.958506+00:00",
+    "last_error": null,
+    "overall_status": "Watch",
+    "overall_rationale": "Brazil FeNb exports remain healthy through Sep 2026 (latest official month 8,859 t, inside/near the ~7–9 kt normal band after a soft MoM −16.3% from a strong Aug). CBMM spare capacity (~150 kt vs ~100 kt sales) and record CMOC 2025 output support continuity. Posture stays Watch—not Normal—because of extreme Araxá concentration plus standing yellow logistics/contractor-labor signals (MTE truck-corridor findings; Catalão Manserv/Metabase). No confirmed mine/plant interdiction in the live scan.",
+    "choke_sites": [
+      {
+        "id": "cbmm-araxa",
+        "name": "CBMM Araxá (MG)",
+        "share_approx": "70–80%+ of global Nb products (often cited ~90% of industrialized Nb products)",
+        "capacity_feNb_eq_tpy": 150000,
+        "sales_or_production_2025_t": 100000,
+        "metric": "FeNb-equivalent sales ~100 kt (2025); capacity 150 kt/y",
+        "watch": "Plant ops, truck Araxá→Contagem/rail→Santos, Codemig PPP, labor on logistics chain",
+        "sources": [
+          "Diário do Comércio 2026-03-27",
+          "CBMM sustainability materials (150 kt capacity)"
+        ]
+      },
+      {
+        "id": "cmoc-catalao",
+        "name": "CMOC Boa Vista / Catalão–Ouvidor (GO)",
+        "share_approx": "~9–10% global (second producer)",
+        "production_2025_nb_t": 10348,
+        "metric": "10,348 t Nb metal content in 2025 (record)",
+        "watch": "Boa Vista recovery rates, contractor labor (Manserv/Metabase), phosphate co-ops interactions",
+        "sources": [
+          "CMOC Group 2025 annual materials / en.cmoc.com BRA Nb-P page"
+        ]
+      },
+      {
+        "id": "niobec-quebec",
+        "name": "Niobec (Saint-Honoré, Québec) — Magris",
+        "share_approx": "~5% global (Canada USGS ~6 kt Nb content 2025e)",
+        "production_note": "Public exact 2025 FeNb tonnes not verified in this pack; USGS Canada mine ~6,000 t Nb content (2025e).",
+        "watch": "Canadian underground ops, Magris disclosures, US import share from Canada",
+        "sources": [
+          "USGS MCS 2026 niobium",
+          "Magris / miningdataonline (secondary)"
+        ]
+      }
+    ],
+    "producers": {
+      "usgs_mcs_2026": {
+        "brazil_mine_2025e_nb_t": 104000,
+        "canada_mine_2025e_nb_t": 6000,
+        "world_mine_2025e_nb_t": 112000,
+        "brazil_share_approx_pct": 93,
+        "source": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-niobium.pdf",
+        "published": "February 2026"
+      },
+      "cbmm": {
+        "capacity_feNb_eq_tpy": 150000,
+        "sales_2025_feNb_eq_t": 100000,
+        "global_demand_cited_2025_t": 133000,
+        "source": "Diário do Comércio / CBMM disclosures Mar 2026"
+      },
+      "cmoc_brazil": {
+        "production_2025_nb_t": 10348,
+        "production_2024_nb_t": 10024,
+        "h1_2025_nb_t": 5231,
+        "source": "CMOC Group filings / company site"
+      }
+    },
+    "logistics_baseline": {
+      "route": "Truck from Araxá → Contagem area → rail → ports (often Santos/Guarujá)",
+      "form": "Containerized pallets/big-bags — not bulk AIS vessel tracking",
+      "hs_ncm": "7202.93 / 7202.93.00"
+    },
+    "legend": {
+      "Normal": "Volumes stable/rising; no material disruption signals",
+      "Watch": "Healthy flow but elevated concentration or yellow labor/logistics/policy signals",
+      "Stress": "Confirmed production halt, port/rail blockade hitting FeNb, or sharp unexplained export collapse",
+      "green": "Supply-supportive or continuity news",
+      "yellow": "Monitor — labor, ESG, policy, or soft disruption risk",
+      "red": "Hard supply interruption or imminent choke"
+    },
+    "sources_footer": [
+      "Comex Stat API (MDIC) — NCM 72029300 exports",
+      "USGS Mineral Commodity Summaries 2026 — Niobium",
+      "CBMM / Diário do Comércio production & capacity",
+      "CMOC Group Brazil niobium disclosures",
+      "Repórter Brasil, Badiinho, Valor Econômico, IBRAM (news)"
+    ],
+    "last_cron_run_utc": "2026-10-12T16:26:55.134710+00:00",
+    "cron": "twice daily America/Los_Angeles 08:00 and 18:00",
+    "baseline_signals": [
+      {
+        "id": "rb-2026-04-03-mte-logistics",
+        "date": "2026-04-03",
+        "title": "MTE flags slave-like conditions in CBMM FeNb trucking (Araxá→Santos)",
+        "summary": "Inspection (Feb–May 2025) rescued 21 Expresso Nepomuceno drivers. CBMM says it no longer uses that carrier. Logistics ESG risk; no plant stoppage confirmed.",
+        "url": "https://reporterbrasil.org.br/2026/04/mte-escravidao-niobio-moreira-salles/",
+        "risk": "yellow",
+        "tags": [
+          "CBMM",
+          "logistics",
+          "labor"
+        ]
+      },
+      {
+        "id": "badiinho-2026-08-03-manserv",
+        "date": "2026-08-03",
+        "title": "Metabase assembly at CMOC Boa Vista considers strike state vs Manserv",
+        "summary": "Contractor health-plan dispute; 72h strike notice if approved. Not a confirmed production halt.",
+        "url": "https://www.badiinho.com.br/metabase-estado-de-greve-manserv-cmoc-catalao/",
+        "risk": "yellow",
+        "tags": [
+          "CMOC",
+          "Catalão",
+          "labor"
+        ]
+      },
+      {
+        "id": "dc-2026-03-27-cbmm-100kt",
+        "date": "2026-03-27",
+        "title": "CBMM record >100 kt FeNb-equivalent sales in 2025",
+        "summary": "Sales ~100 kt (+4.7% YoY); capacity 150 kt/y vs global demand ~133 kt.",
+        "url": "https://diariodocomercio.com.br/negocios/cbmm-bate-recorde-supera-100-mil-toneladas-vendas/",
+        "risk": "green",
+        "tags": [
+          "CBMM",
+          "production"
+        ]
+      },
+      {
+        "id": "valor-2025-10-30-codemig",
+        "date": "2025-10-30",
+        "title": "Codemig–CBMM renew Araxá partnership up to 45 years",
+        "summary": "PPP extended 30+15 years (potentially to 2070). Continuity for dominant supply node.",
+        "url": "https://valor.globo.com/empresas/noticia/2025/10/30/codemig-e-cbmm-renovam-contrato-para-explorao-de-nibio-em-minas-gerais-por-at-45-anos.ghtml",
+        "risk": "green",
+        "tags": [
+          "CBMM",
+          "Araxá",
+          "policy"
+        ]
+      },
+      {
+        "id": "cmoc-2025-10348",
+        "date": "2026-03-27",
+        "title": "CMOC Brazil record niobium 10,348 t in 2025",
+        "summary": "+3.23% vs 10,024 t in 2024; H1 2025 record 5,231 t.",
+        "url": "https://en.cmoc.com/html/Business/BRA-Nb-P/",
+        "risk": "green",
+        "tags": [
+          "CMOC",
+          "production"
+        ]
+      },
+      {
+        "id": "usgs-mcs-2026",
+        "date": "2026-02-01",
+        "title": "USGS MCS 2026: Brazil ~93% of world Nb mine output",
+        "summary": "Brazil ~104 kt Nb content (2025e); world ~112 kt. Extreme geographic concentration.",
+        "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-niobium.pdf",
+        "risk": "green",
+        "tags": [
+          "USGS",
+          "concentration"
+        ]
+      },
+      {
+        "id": "mais1-araxa-2025",
+        "date": "2026-01-15",
+        "title": "Araxá #2 MG municipal exporter 2025 (~US$2.53B) on FeNb",
+        "summary": "Ferroniobium (CBMM) drove Araxá to second place among Minas Gerais exporting cities.",
+        "url": "https://mais1online.com.br/araxa-se-consolida-como-a-segunda-maior-exportadora-de-minas-gerais-em-2025/",
+        "risk": "green",
+        "tags": [
+          "Araxá",
+          "exports"
+        ]
+      },
+      {
+        "id": "ibram-cmoc-1h25",
+        "date": "2025-09-01",
+        "title": "CMOC H1 2025 record niobium production 5,231 t",
+        "summary": "+3% vs H1 2024; sales 5,462 t.",
+        "url": "https://ibram.org.br/en/noticia/cmoc-celebra-o-primeiro-semestre-de-2025-com-crescimento-consistente-na-producao-e-vendas/",
+        "risk": "green",
+        "tags": [
+          "CMOC"
+        ]
+      }
+    ],
+    "data_schema": {
+      "exports": "series_monthly[{period,year,month,tonnes,kg,fob_usd}], destinations{YYYY_full|YYYY_ytd:{period,countries[]}}, annual_summaries optional",
+      "headlines": "cron RSS items use flag/published_utc; curated meta.baseline_signals use risk/date/summary",
+      "meta": "overall_status, choke_sites, producers, baseline_signals, legend"
+    },
+    "watch_kit": {
+      "sites": [
+        {
+          "priority": "P0",
+          "id": "cbmm-araxa",
+          "name": "CBMM Araxá MG (Córrego da Mata)",
+          "share_approx": "70–80%+ of global Nb products (often cited ~90% of industrialized Nb products)",
+          "capacity_feNb_eq_tpy": 150000,
+          "sales_or_production_2025_t": 100000,
+          "metric": "FeNb-equivalent sales ~100 kt (2025); capacity 150 kt/y",
+          "watch": [
+            "labor",
+            "power",
+            "water",
+            "fire/stoppage",
+            "env suits",
+            "battery-oxide ramp"
+          ],
+          "notes": "Dominant single-site choke. Spare capacity (~150 kt vs ~100 kt sales) means soft steel demand / logistics often explain soft months before 'mine empty'."
+        },
+        {
+          "priority": "P1",
+          "id": "cmoc-catalao",
+          "name": "CMOC Catalão / Ouvidor GO (Boa Vista)",
+          "share_approx": "~9–10% global (second producer)",
+          "production_2025_nb_t": 10348,
+          "metric": "10,348 t Nb metal content in 2025 (record)",
+          "watch": [
+            "production guidance",
+            "logistics corridor",
+            "contractor labor (Manserv/Metabase)"
+          ],
+          "notes": "Second Brazilian node; phosphate co-ops interactions can create local noise."
+        },
+        {
+          "priority": "P2",
+          "id": "niobec-quebec",
+          "name": "Niobec Saint-Honoré QC (Magris)",
+          "share_approx": "~5% global (Canada USGS ~6 kt Nb content 2025e)",
+          "metric": "Public exact 2025 FeNb tonnes not verified; USGS Canada mine ~6,000 t Nb content (2025e)",
+          "watch": [
+            "strikes",
+            "underground ops",
+            "CA export quirks",
+            "Magris disclosures"
+          ],
+          "notes": "Main non-Brazil swing producer for Western buyers."
+        },
+        {
+          "priority": "P3",
+          "id": "taboca-amazon",
+          "name": "Taboca Amazon by-product",
+          "share_approx": "small / by-product",
+          "metric": "By-product Nb — can add noise in monthly Brazil splits",
+          "watch": [
+            "noise in monthly export splits",
+            "Amazon logistics headlines"
+          ],
+          "notes": "Not a primary FeNb choke; watch mainly to avoid misreading monthly mix."
+        },
+        {
+          "priority": "Horizon",
+          "id": "st-george-araxa",
+          "name": "St. George Araxá REE+Nb",
+          "share_approx": "development / not current supply",
+          "metric": "Project timeline often cited toward 2028–29",
+          "watch": [
+            "local politics",
+            "feasibility / flotation testwork",
+            "permitting near CBMM district"
+          ],
+          "notes": "Horizon risk to local politics and narrative, not near-term tonnes."
+        }
+      ],
+      "logistics": {
+        "pipe": "truck Araxá → Contagem → rail → ports (often Santos/Guarujá)",
+        "form": "containerized pallets/big-bags — not bulk AIS vessel tracking",
+        "destinations": [
+          "China",
+          "Netherlands / Rotterdam",
+          "United States",
+          "Korea",
+          "Singapore",
+          "Japan"
+        ],
+        "distributors": [
+          "CITIC",
+          "Sojitz"
+        ],
+        "offices": "CBMM Europe / Asia / NA commercial offices",
+        "hs_ncm": "7202.93 / 7202.93.00"
+      },
+      "codes": {
+        "hs": "7202.93",
+        "ncm": "7202.93.00",
+        "ncm_digits": "72029300",
+        "specialty": "8112.99 (niobium metal / specialty forms — secondary)",
+        "product": "Ferro-niobium / ferroniobium (FeNb)"
+      },
+      "data_pipes": [
+        {
+          "name": "Comex Stat — Dados Gerais",
+          "how": "Query NCM 72029300, flow export; monthly kg + FOB USD",
+          "url": "https://comexstat.mdic.gov.br/",
+          "api": "https://api-comexstat.mdic.gov.br/general"
+        },
+        {
+          "name": "Comex Stat — Municípios",
+          "how": "Araxá + SH4 7202 (all ferro-alloys — not FeNb-only; use as corroboration)",
+          "url": "https://comexstat.mdic.gov.br/"
+        },
+        {
+          "name": "Canada exports",
+          "how": "Statistics Canada / customs extracts for Canadian FeNb / Nb shipments (Niobec corridor)",
+          "url": "https://www.statcan.gc.ca/"
+        },
+        {
+          "name": "USGS MCS",
+          "how": "Annual niobium mine production & country shares",
+          "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-niobium.pdf"
+        },
+        {
+          "name": "Company disclosures",
+          "how": "CBMM / CMOC / Niobec (Magris) production, capacity, guidance",
+          "url": null
+        },
+        {
+          "name": "Trade press",
+          "how": "SteelOrbis and peers for FeNb price / steel-demand color",
+          "url": "https://www.steelorbis.com/"
+        }
+      ],
+      "language_layer": {
+        "languages": [
+          "PT",
+          "FR",
+          "EN"
+        ],
+        "search_seeds": [
+          "CBMM nióbio OR ferronióbio OR niobium",
+          "Araxá CBMM OR nióbio",
+          "CMOC Catalão nióbio OR niobium",
+          "Niobec niobium OR niobium Quebec",
+          "Brazil ferroniobium OR ferronióbio export",
+          "greve CBMM OR greve Catalão nióbio",
+          "Santos ferroalloy OR Contagem ferrovia nióbio"
+        ],
+        "outlets": [
+          {
+            "name": "G1 Triângulo",
+            "type": "local PT",
+            "region": "MG / Triângulo Mineiro"
+          },
+          {
+            "name": "Diário do Comércio",
+            "type": "business PT",
+            "region": "MG"
+          },
+          {
+            "name": "Valor Econômico",
+            "type": "national business PT",
+            "region": "BR"
+          },
+          {
+            "name": "Estado de Minas",
+            "type": "regional PT",
+            "region": "MG"
+          },
+          {
+            "name": "IBRAM",
+            "type": "industry association",
+            "region": "BR"
+          },
+          {
+            "name": "Badiinho / local Catalão",
+            "type": "local labor PT",
+            "region": "GO"
+          },
+          {
+            "name": "Repórter Brasil",
+            "type": "investigative PT",
+            "region": "BR"
+          }
+        ]
+      },
+      "cadence": [
+        {
+          "freq": "Daily",
+          "covers": "Local PT/FR headlines (strikes, ANM, fire, rail/port incidents); quick scan of G1 Triângulo, Catalão labor, Santos congestion notes"
+        },
+        {
+          "freq": "Weekly",
+          "covers": "Roll-up of yellow flags; logistics corridor (Contagem–rail–Santos); CMOC/Niobec chatter; trade-press FeNb/steel color"
+        },
+        {
+          "freq": "Monthly",
+          "covers": "Comex Stat NCM 72029300 tonnes, MoM %, unit value; destination mix; Araxá municipal corroboration (SH4)"
+        },
+        {
+          "freq": "Quarterly",
+          "covers": "Producer disclosures (CBMM/CMOC/Niobec), USGS revisions, capacity/guidance vs demand"
+        },
+        {
+          "freq": "As needed",
+          "covers": "Confirmed stoppage, export-tax/restriction shock, multi-week port/rail blockade, simultaneous Brazil+Niobec stress"
+        }
+      ],
+      "automation_note": "Already automated: twice-daily RSS headline fetch (no AI scoring on ingest); monthly AI brief for export synthesis / status rationale. Dashboard reloads live JSON without HTML rebuild.",
+      "temperature": {
+        "normal": [
+          "~7–9 kt/mo Brazil FeNb",
+          "CBMM majority of flow",
+          "China / NL / US among top destinations",
+          "Quiet local news",
+          "CBMM capacity overhang means soft steel demand / logistics more likely than 'mine empty'"
+        ],
+        "yellow": [
+          "MoM tonnes drop >~20–25% without a steel-demand story",
+          "Unit value up + tonnes down",
+          "Short strike / ANM inspect / Contagem–rail / Santos ferroalloy congestion",
+          "CMOC or Niobec outage"
+        ],
+        "red": [
+          "Multi-week CBMM stoppage",
+          "Sustained Araxá export collapse with fine steel demand",
+          "Brazil + Niobec simultaneous disruption",
+          "Brazilian export restriction / tax shock"
+        ],
+        "false_alarms": [
+          "AIS Santos without FeNb ID (containers ≠ bulk ore AIS)",
+          "Single soft month after front-load",
+          "Battery-anode / Nb-oxide hype without plant impact"
+        ]
+      },
+      "legend_detailed": {
+        "Looks normal": "Stable ~7–9 kt/mo Brazil FeNb, CBMM majority, familiar destinations, quiet locals; capacity overhang favors demand/logistics explanations over mine failure.",
+        "Yellow flags": "Sharp MoM volume drop without steel story; rising unit value with falling tonnes; short labor/ANM/rail/port events; CMOC or Niobec outages.",
+        "Red flags": "Multi-week CBMM halt; sustained Araxá collapse despite healthy steel demand; Brazil+Niobec together; export restriction/tax shock."
+      },
+      "not_provided": [
+        "No minute-by-minute trading edge or FeNb price feed",
+        "No reliable FeNb-specific AIS vessel tracking (containerized)",
+        "No CBMM daily plant tonnes",
+        "No guaranteed real-time municipal FeNb split (city endpoint is SH4 7202)",
+        "News risk flags are monitoring judgments, not investment advice"
+      ]
+    },
+    "temperature": {
+      "normal": [
+        "~7–9 kt/mo Brazil FeNb",
+        "CBMM majority of flow",
+        "China / NL / US among top destinations",
+        "Quiet local news",
+        "CBMM capacity overhang means soft steel demand / logistics more likely than 'mine empty'"
+      ],
+      "yellow": [
+        "MoM tonnes drop >~20–25% without a steel-demand story",
+        "Unit value up + tonnes down",
+        "Short strike / ANM inspect / Contagem–rail / Santos ferroalloy congestion",
+        "CMOC or Niobec outage"
+      ],
+      "red": [
+        "Multi-week CBMM stoppage",
+        "Sustained Araxá export collapse with fine steel demand",
+        "Brazil + Niobec simultaneous disruption",
+        "Brazilian export restriction / tax shock"
+      ],
+      "false_alarms": [
+        "AIS Santos without FeNb ID (containers ≠ bulk ore AIS)",
+        "Single soft month after front-load",
+        "Battery-anode / Nb-oxide hype without plant impact"
+      ]
+    },
+    "legend_detailed": {
+      "Looks normal": "Stable ~7–9 kt/mo Brazil FeNb, CBMM majority, familiar destinations, quiet locals; capacity overhang favors demand/logistics explanations over mine failure.",
+      "Yellow flags": "Sharp MoM volume drop without steel story; rising unit value with falling tonnes; short labor/ANM/rail/port events; CMOC or Niobec outages.",
+      "Red flags": "Multi-week CBMM halt; sustained Araxá collapse despite healthy steel demand; Brazil+Niobec together; export restriction/tax shock."
+    },
+    "translation": "deep_translator Google via .venv after each headline fetch",
+    "last_monthly_brief_utc": "2026-10-12T16:28:44.697263+00:00",
+    "last_monthly_brief": {
+      "as_of_date": "2026-10-12",
+      "status": "Watch",
+      "export_latest_period": "2026-09",
+      "export_latest_tonnes": 8858.731,
+      "export_mom_pct": -16.3,
+      "bullets": [
+        "Export pulse: 2026-09 Brazil FeNb 8,859 t (FOB $260.9M, UV $29.45/kg); MoM -16.3% vs 2026-08.",
+        "Flow still solid vs baseline: trailing-12 avg ~8,873 t/mo; 2026 YTD (9 mo) avg ~8,830 t vs 2025 avg ~8,219 t.",
+        "Destinations 2026 YTD through 2026-09: China ~47.11%, then Netherlands, US, Singapore, Korea, Japan — mix stable; Sep month saw US share rise vs China.",
+        "Live headlines mostly green/continuity (St George Araxá testing/permitting; development coverage). No fresh red plant/port stoppage.",
+        "Standing yellows unchanged: Repórter Brasil MTE logistics (Araxá→Santos trucking) and Badiinho Catalão contractor strike-state risk — monitor, not confirmed halt.",
+        "Producer baseline unchanged: CBMM 2025 sales ~100 kt FeNb-eq / 150 kt capacity; CMOC Brazil 10,348 t Nb (2025); USGS Brazil ~93% world mine."
+      ],
+      "dashboard_url": "https://mmsanders.github.io/niobium-watch/"
+    },
+    "last_export_reshape_utc": "2026-10-12T16:28:44.697263+00:00"
+  },
+  "exports": {
+    "as_of_utc": "2026-10-12T16:28:27.958506+00:00",
+    "source": "api-comexstat.mdic.gov.br/general",
+    "product": "Ferroniobium (NCM 7202.93.00)",
+    "coverage_note": "Official monthly Brazil export stats reshaped from Comex Stat raw through 2026-09.",
+    "series_monthly": [
+      {
+        "year": 2024,
+        "month": 1,
+        "period": "2024-01",
+        "kg": 5977170.0,
+        "tonnes": 5977.17,
+        "fob_usd": 154953676.0,
+        "unit_value_usd_per_kg": 25.92,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2024,
+        "month": 2,
+        "period": "2024-02",
+        "kg": 7453769.0,
+        "tonnes": 7453.769,
+        "fob_usd": 193868280.0,
+        "unit_value_usd_per_kg": 26.01,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2024,
+        "month": 3,
+        "period": "2024-03",
+        "kg": 6774174.0,
+        "tonnes": 6774.174,
+        "fob_usd": 170268507.0,
+        "unit_value_usd_per_kg": 25.13,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2024,
+        "month": 4,
+        "period": "2024-04",
+        "kg": 8841810.0,
+        "tonnes": 8841.81,
+        "fob_usd": 223852219.0,
+        "unit_value_usd_per_kg": 25.32,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2024,
+        "month": 5,
+        "period": "2024-05",
+        "kg": 9747214.0,
+        "tonnes": 9747.214,
+        "fob_usd": 249091357.0,
+        "unit_value_usd_per_kg": 25.56,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2024,
+        "month": 6,
+        "period": "2024-06",
+        "kg": 6167067.0,
+        "tonnes": 6167.067,
+        "fob_usd": 157832603.0,
+        "unit_value_usd_per_kg": 25.59,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2024,
+        "month": 7,
+        "period": "2024-07",
+        "kg": 7699565.0,
+        "tonnes": 7699.565,
+        "fob_usd": 201295276.0,
+        "unit_value_usd_per_kg": 26.14,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2024,
+        "month": 8,
+        "period": "2024-08",
+        "kg": 6774291.0,
+        "tonnes": 6774.291,
+        "fob_usd": 178050021.0,
+        "unit_value_usd_per_kg": 26.28,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2024,
+        "month": 9,
+        "period": "2024-09",
+        "kg": 6140948.0,
+        "tonnes": 6140.948,
+        "fob_usd": 160666522.0,
+        "unit_value_usd_per_kg": 26.16,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2024,
+        "month": 10,
+        "period": "2024-10",
+        "kg": 9439464.0,
+        "tonnes": 9439.464,
+        "fob_usd": 248481672.0,
+        "unit_value_usd_per_kg": 26.32,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2024,
+        "month": 11,
+        "period": "2024-11",
+        "kg": 7660325.0,
+        "tonnes": 7660.325,
+        "fob_usd": 196345278.0,
+        "unit_value_usd_per_kg": 25.63,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2024,
+        "month": 12,
+        "period": "2024-12",
+        "kg": 9312758.0,
+        "tonnes": 9312.758,
+        "fob_usd": 245206621.0,
+        "unit_value_usd_per_kg": 26.33,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "period": "2025-01",
+        "kg": 5120024.0,
+        "tonnes": 5120.024,
+        "fob_usd": 129797495.0,
+        "unit_value_usd_per_kg": 25.35,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "period": "2025-02",
+        "kg": 5730364.0,
+        "tonnes": 5730.364,
+        "fob_usd": 153502139.0,
+        "unit_value_usd_per_kg": 26.79,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "period": "2025-03",
+        "kg": 9233460.0,
+        "tonnes": 9233.46,
+        "fob_usd": 248844399.0,
+        "unit_value_usd_per_kg": 26.95,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "period": "2025-04",
+        "kg": 7488324.0,
+        "tonnes": 7488.324,
+        "fob_usd": 200775437.0,
+        "unit_value_usd_per_kg": 26.81,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "period": "2025-05",
+        "kg": 10515212.0,
+        "tonnes": 10515.212,
+        "fob_usd": 283647165.0,
+        "unit_value_usd_per_kg": 26.97,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "period": "2025-06",
+        "kg": 8074488.0,
+        "tonnes": 8074.488,
+        "fob_usd": 217778054.0,
+        "unit_value_usd_per_kg": 26.97,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "period": "2025-07",
+        "kg": 9338905.0,
+        "tonnes": 9338.905,
+        "fob_usd": 247969242.0,
+        "unit_value_usd_per_kg": 26.55,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "period": "2025-08",
+        "kg": 7693510.0,
+        "tonnes": 7693.51,
+        "fob_usd": 209552865.0,
+        "unit_value_usd_per_kg": 27.24,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "period": "2025-09",
+        "kg": 8421229.0,
+        "tonnes": 8421.229,
+        "fob_usd": 233725304.0,
+        "unit_value_usd_per_kg": 27.75,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "period": "2025-10",
+        "kg": 8531811.0,
+        "tonnes": 8531.811,
+        "fob_usd": 225361089.0,
+        "unit_value_usd_per_kg": 26.41,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "period": "2025-11",
+        "kg": 9707526.0,
+        "tonnes": 9707.526,
+        "fob_usd": 267663254.0,
+        "unit_value_usd_per_kg": 27.57,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "period": "2025-12",
+        "kg": 8772695.0,
+        "tonnes": 8772.695,
+        "fob_usd": 239767489.0,
+        "unit_value_usd_per_kg": 27.33,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "period": "2026-01",
+        "kg": 4516201.0,
+        "tonnes": 4516.201,
+        "fob_usd": 120714155.0,
+        "unit_value_usd_per_kg": 26.73,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "period": "2026-02",
+        "kg": 9553322.0,
+        "tonnes": 9553.322,
+        "fob_usd": 266782922.0,
+        "unit_value_usd_per_kg": 27.93,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "period": "2026-03",
+        "kg": 7891172.0,
+        "tonnes": 7891.172,
+        "fob_usd": 218749093.0,
+        "unit_value_usd_per_kg": 27.72,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "period": "2026-04",
+        "kg": 7623804.0,
+        "tonnes": 7623.804,
+        "fob_usd": 206553022.0,
+        "unit_value_usd_per_kg": 27.09,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "period": "2026-05",
+        "kg": 10387391.0,
+        "tonnes": 10387.391,
+        "fob_usd": 290634020.0,
+        "unit_value_usd_per_kg": 27.98,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "period": "2026-06",
+        "kg": 10435134.0,
+        "tonnes": 10435.134,
+        "fob_usd": 303856700.0,
+        "unit_value_usd_per_kg": 29.12,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "period": "2026-07",
+        "kg": 9621947.0,
+        "tonnes": 9621.947,
+        "fob_usd": 277775479.0,
+        "unit_value_usd_per_kg": 28.87,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "period": "2026-08",
+        "kg": 10577833.0,
+        "tonnes": 10577.833,
+        "fob_usd": 305389661.0,
+        "unit_value_usd_per_kg": 28.87,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "period": "2026-09",
+        "kg": 8858731.0,
+        "tonnes": 8858.731,
+        "fob_usd": 260878400.0,
+        "unit_value_usd_per_kg": 29.45,
+        "source": "Comex Stat API (api-comexstat.mdic.gov.br/general)",
+        "ncm": "72029300",
+        "queried_utc": "2026-10-12T16:28:27.958506+00:00"
+      }
+    ],
+    "annual_summaries": [
+      {
+        "year": 2024,
+        "months": 12,
+        "kg": 91988555.0,
+        "tonnes": 91988.555,
+        "fob_usd": 2379912032.0,
+        "unit_value_usd_per_kg": 25.87
+      },
+      {
+        "year": 2025,
+        "months": 12,
+        "kg": 98627548.0,
+        "tonnes": 98627.548,
+        "fob_usd": 2658383932.0,
+        "unit_value_usd_per_kg": 26.95
+      },
+      {
+        "year": 2026,
+        "months": 9,
+        "kg": 79465535.0,
+        "tonnes": 79465.535,
+        "fob_usd": 2251333452.0,
+        "unit_value_usd_per_kg": 28.33
+      }
+    ],
+    "destinations": {
+      "2024_full": {
+        "period": "2024-01..2024-12",
+        "total_kg": 91988555.0,
+        "total_tonnes": 91988.555,
+        "total_fob_usd": 2379912032.0,
+        "countries": [
+          {
+            "country": "China",
+            "kg": 41340201.0,
+            "tonnes": 41340.201,
+            "fob_usd": 1058338423.0,
+            "share_kg_pct": 44.94
+          },
+          {
+            "country": "Netherlands",
+            "kg": 17702450.0,
+            "tonnes": 17702.45,
+            "fob_usd": 461722334.0,
+            "share_kg_pct": 19.24
+          },
+          {
+            "country": "South Korea",
+            "kg": 7664000.0,
+            "tonnes": 7664.0,
+            "fob_usd": 193178823.0,
+            "share_kg_pct": 8.33
+          },
+          {
+            "country": "Singapore",
+            "kg": 6554450.0,
+            "tonnes": 6554.45,
+            "fob_usd": 169044717.0,
+            "share_kg_pct": 7.13
+          },
+          {
+            "country": "United States",
+            "kg": 6532153.0,
+            "tonnes": 6532.153,
+            "fob_usd": 161952977.0,
+            "share_kg_pct": 7.1
+          },
+          {
+            "country": "Japan",
+            "kg": 5750230.0,
+            "tonnes": 5750.23,
+            "fob_usd": 170361795.0,
+            "share_kg_pct": 6.25
+          },
+          {
+            "country": "India",
+            "kg": 1444000.0,
+            "tonnes": 1444.0,
+            "fob_usd": 36156524.0,
+            "share_kg_pct": 1.57
+          },
+          {
+            "country": "Canada",
+            "kg": 890787.0,
+            "tonnes": 890.787,
+            "fob_usd": 21663040.0,
+            "share_kg_pct": 0.97
+          },
+          {
+            "country": "Italy",
+            "kg": 850000.0,
+            "tonnes": 850.0,
+            "fob_usd": 22894052.0,
+            "share_kg_pct": 0.92
+          },
+          {
+            "country": "Mexico",
+            "kg": 641413.0,
+            "tonnes": 641.413,
+            "fob_usd": 15424262.0,
+            "share_kg_pct": 0.7
+          },
+          {
+            "country": "South Africa",
+            "kg": 534000.0,
+            "tonnes": 534.0,
+            "fob_usd": 13643310.0,
+            "share_kg_pct": 0.58
+          },
+          {
+            "country": "Switzerland",
+            "kg": 525650.0,
+            "tonnes": 525.65,
+            "fob_usd": 14144923.0,
+            "share_kg_pct": 0.57
+          },
+          {
+            "country": "Turkey",
+            "kg": 517050.0,
+            "tonnes": 517.05,
+            "fob_usd": 13495205.0,
+            "share_kg_pct": 0.56
+          },
+          {
+            "country": "Hong Kong",
+            "kg": 330000.0,
+            "tonnes": 330.0,
+            "fob_usd": 8869031.0,
+            "share_kg_pct": 0.36
+          },
+          {
+            "country": "Taiwan",
+            "kg": 177000.0,
+            "tonnes": 177.0,
+            "fob_usd": 4753446.0,
+            "share_kg_pct": 0.19
+          },
+          {
+            "country": "Saudi Arabia",
+            "kg": 160000.0,
+            "tonnes": 160.0,
+            "fob_usd": 3940307.0,
+            "share_kg_pct": 0.17
+          },
+          {
+            "country": "Argentina",
+            "kg": 155171.0,
+            "tonnes": 155.171,
+            "fob_usd": 4699208.0,
+            "share_kg_pct": 0.17
+          },
+          {
+            "country": "Argélia",
+            "kg": 110000.0,
+            "tonnes": 110.0,
+            "fob_usd": 2652522.0,
+            "share_kg_pct": 0.12
+          },
+          {
+            "country": "Germany",
+            "kg": 50000.0,
+            "tonnes": 50.0,
+            "fob_usd": 1318050.0,
+            "share_kg_pct": 0.05
+          },
+          {
+            "country": "Estônia",
+            "kg": 50000.0,
+            "tonnes": 50.0,
+            "fob_usd": 1312872.0,
+            "share_kg_pct": 0.05
+          },
+          {
+            "country": "Chile",
+            "kg": 8000.0,
+            "tonnes": 8.0,
+            "fob_usd": 277873.0,
+            "share_kg_pct": 0.01
+          },
+          {
+            "country": "Peru",
+            "kg": 2000.0,
+            "tonnes": 2.0,
+            "fob_usd": 68338.0,
+            "share_kg_pct": 0.0
+          }
+        ]
+      },
+      "2025_full": {
+        "period": "2025-01..2025-12",
+        "total_kg": 98627548.0,
+        "total_tonnes": 98627.548,
+        "total_fob_usd": 2658383932.0,
+        "countries": [
+          {
+            "country": "China",
+            "kg": 49036453.0,
+            "tonnes": 49036.453,
+            "fob_usd": 1322857573.0,
+            "share_kg_pct": 49.72
+          },
+          {
+            "country": "Netherlands",
+            "kg": 16652812.0,
+            "tonnes": 16652.812,
+            "fob_usd": 460902178.0,
+            "share_kg_pct": 16.88
+          },
+          {
+            "country": "United States",
+            "kg": 7909834.0,
+            "tonnes": 7909.834,
+            "fob_usd": 214451440.0,
+            "share_kg_pct": 8.02
+          },
+          {
+            "country": "Singapore",
+            "kg": 7608800.0,
+            "tonnes": 7608.8,
+            "fob_usd": 193533172.0,
+            "share_kg_pct": 7.71
+          },
+          {
+            "country": "South Korea",
+            "kg": 7224000.0,
+            "tonnes": 7224.0,
+            "fob_usd": 176102710.0,
+            "share_kg_pct": 7.32
+          },
+          {
+            "country": "Japan",
+            "kg": 5026000.0,
+            "tonnes": 5026.0,
+            "fob_usd": 155233105.0,
+            "share_kg_pct": 5.1
+          },
+          {
+            "country": "India",
+            "kg": 1281000.0,
+            "tonnes": 1281.0,
+            "fob_usd": 30153852.0,
+            "share_kg_pct": 1.3
+          },
+          {
+            "country": "Canada",
+            "kg": 765163.0,
+            "tonnes": 765.163,
+            "fob_usd": 19615696.0,
+            "share_kg_pct": 0.78
+          },
+          {
+            "country": "Saudi Arabia",
+            "kg": 700000.0,
+            "tonnes": 700.0,
+            "fob_usd": 19193622.0,
+            "share_kg_pct": 0.71
+          },
+          {
+            "country": "Turkey",
+            "kg": 495000.0,
+            "tonnes": 495.0,
+            "fob_usd": 13581036.0,
+            "share_kg_pct": 0.5
+          },
+          {
+            "country": "Mexico",
+            "kg": 480608.0,
+            "tonnes": 480.608,
+            "fob_usd": 12373198.0,
+            "share_kg_pct": 0.49
+          },
+          {
+            "country": "Hong Kong",
+            "kg": 415000.0,
+            "tonnes": 415.0,
+            "fob_usd": 11701381.0,
+            "share_kg_pct": 0.42
+          },
+          {
+            "country": "South Africa",
+            "kg": 309000.0,
+            "tonnes": 309.0,
+            "fob_usd": 8348025.0,
+            "share_kg_pct": 0.31
+          },
+          {
+            "country": "Germany",
+            "kg": 200000.0,
+            "tonnes": 200.0,
+            "fob_usd": 5353289.0,
+            "share_kg_pct": 0.2
+          },
+          {
+            "country": "Switzerland",
+            "kg": 177000.0,
+            "tonnes": 177.0,
+            "fob_usd": 4859927.0,
+            "share_kg_pct": 0.18
+          },
+          {
+            "country": "Argélia",
+            "kg": 150000.0,
+            "tonnes": 150.0,
+            "fob_usd": 3718712.0,
+            "share_kg_pct": 0.15
+          },
+          {
+            "country": "Argentina",
+            "kg": 104728.0,
+            "tonnes": 104.728,
+            "fob_usd": 3333135.0,
+            "share_kg_pct": 0.11
+          },
+          {
+            "country": "Taiwan",
+            "kg": 40000.0,
+            "tonnes": 40.0,
+            "fob_usd": 936427.0,
+            "share_kg_pct": 0.04
+          },
+          {
+            "country": "Barein",
+            "kg": 40000.0,
+            "tonnes": 40.0,
+            "fob_usd": 1721290.0,
+            "share_kg_pct": 0.04
+          },
+          {
+            "country": "Chile",
+            "kg": 10000.0,
+            "tonnes": 10.0,
+            "fob_usd": 345663.0,
+            "share_kg_pct": 0.01
+          },
+          {
+            "country": "Peru",
+            "kg": 2000.0,
+            "tonnes": 2.0,
+            "fob_usd": 63487.0,
+            "share_kg_pct": 0.0
+          },
+          {
+            "country": "Bolivia",
+            "kg": 150.0,
+            "tonnes": 0.15,
+            "fob_usd": 5014.0,
+            "share_kg_pct": 0.0
+          }
+        ]
+      },
+      "2026_ytd": {
+        "period": "2026-01..2026-09",
+        "total_kg": 79465535.0,
+        "total_tonnes": 79465.535,
+        "total_fob_usd": 2251333452.0,
+        "countries": [
+          {
+            "country": "China",
+            "kg": 37434980.0,
+            "tonnes": 37434.98,
+            "fob_usd": 1049627646.0,
+            "share_kg_pct": 47.11
+          },
+          {
+            "country": "Netherlands",
+            "kg": 12027000.0,
+            "tonnes": 12027.0,
+            "fob_usd": 329612634.0,
+            "share_kg_pct": 15.13
+          },
+          {
+            "country": "United States",
+            "kg": 8431236.0,
+            "tonnes": 8431.236,
+            "fob_usd": 241270225.0,
+            "share_kg_pct": 10.61
+          },
+          {
+            "country": "Singapore",
+            "kg": 6692100.0,
+            "tonnes": 6692.1,
+            "fob_usd": 193620461.0,
+            "share_kg_pct": 8.42
+          },
+          {
+            "country": "South Korea",
+            "kg": 5860000.0,
+            "tonnes": 5860.0,
+            "fob_usd": 175404567.0,
+            "share_kg_pct": 7.37
+          },
+          {
+            "country": "Japan",
+            "kg": 4579000.0,
+            "tonnes": 4579.0,
+            "fob_usd": 139706943.0,
+            "share_kg_pct": 5.76
+          },
+          {
+            "country": "India",
+            "kg": 1390500.0,
+            "tonnes": 1390.5,
+            "fob_usd": 39208894.0,
+            "share_kg_pct": 1.75
+          },
+          {
+            "country": "Canada",
+            "kg": 615876.0,
+            "tonnes": 615.876,
+            "fob_usd": 15159260.0,
+            "share_kg_pct": 0.78
+          },
+          {
+            "country": "Italy",
+            "kg": 560000.0,
+            "tonnes": 560.0,
+            "fob_usd": 15900861.0,
+            "share_kg_pct": 0.7
+          },
+          {
+            "country": "Turkey",
+            "kg": 511000.0,
+            "tonnes": 511.0,
+            "fob_usd": 14442670.0,
+            "share_kg_pct": 0.64
+          },
+          {
+            "country": "Mexico",
+            "kg": 455588.0,
+            "tonnes": 455.588,
+            "fob_usd": 11456720.0,
+            "share_kg_pct": 0.57
+          },
+          {
+            "country": "South Africa",
+            "kg": 332000.0,
+            "tonnes": 332.0,
+            "fob_usd": 9314788.0,
+            "share_kg_pct": 0.42
+          },
+          {
+            "country": "Germany",
+            "kg": 150000.0,
+            "tonnes": 150.0,
+            "fob_usd": 4066738.0,
+            "share_kg_pct": 0.19
+          },
+          {
+            "country": "Argélia",
+            "kg": 125000.0,
+            "tonnes": 125.0,
+            "fob_usd": 3448305.0,
+            "share_kg_pct": 0.16
+          },
+          {
+            "country": "Argentina",
+            "kg": 116255.0,
+            "tonnes": 116.255,
+            "fob_usd": 3748471.0,
+            "share_kg_pct": 0.15
+          },
+          {
+            "country": "Barein",
+            "kg": 60000.0,
+            "tonnes": 60.0,
+            "fob_usd": 1939944.0,
+            "share_kg_pct": 0.08
+          },
+          {
+            "country": "Taiwan",
+            "kg": 40000.0,
+            "tonnes": 40.0,
+            "fob_usd": 1134931.0,
+            "share_kg_pct": 0.05
+          },
+          {
+            "country": "Vietnam",
+            "kg": 40000.0,
+            "tonnes": 40.0,
+            "fob_usd": 936783.0,
+            "share_kg_pct": 0.05
+          },
+          {
+            "country": "Saudi Arabia",
+            "kg": 20000.0,
+            "tonnes": 20.0,
+            "fob_usd": 595348.0,
+            "share_kg_pct": 0.03
+          },
+          {
+            "country": "Switzerland",
+            "kg": 20000.0,
+            "tonnes": 20.0,
+            "fob_usd": 561334.0,
+            "share_kg_pct": 0.03
+          },
+          {
+            "country": "Chile",
+            "kg": 4000.0,
+            "tonnes": 4.0,
+            "fob_usd": 138159.0,
+            "share_kg_pct": 0.01
+          },
+          {
+            "country": "Peru",
+            "kg": 1000.0,
+            "tonnes": 1.0,
+            "fob_usd": 37770.0,
+            "share_kg_pct": 0.0
+          }
+        ]
+      },
+      "latest_month": {
+        "period": "2026-09",
+        "total_kg": 8858731.0,
+        "total_tonnes": 8858.731,
+        "total_fob_usd": 260878400.0,
+        "countries": [
+          {
+            "country": "China",
+            "kg": 3035000.0,
+            "tonnes": 3035.0,
+            "fob_usd": 89034487.0,
+            "share_kg_pct": 34.26
+          },
+          {
+            "country": "United States",
+            "kg": 1852477.0,
+            "tonnes": 1852.477,
+            "fob_usd": 54747826.0,
+            "share_kg_pct": 20.91
+          },
+          {
+            "country": "Netherlands",
+            "kg": 1471000.0,
+            "tonnes": 1471.0,
+            "fob_usd": 39871379.0,
+            "share_kg_pct": 16.61
+          },
+          {
+            "country": "Singapore",
+            "kg": 1017000.0,
+            "tonnes": 1017.0,
+            "fob_usd": 32755325.0,
+            "share_kg_pct": 11.48
+          },
+          {
+            "country": "South Korea",
+            "kg": 790000.0,
+            "tonnes": 790.0,
+            "fob_usd": 23848861.0,
+            "share_kg_pct": 8.92
+          },
+          {
+            "country": "Japan",
+            "kg": 340000.0,
+            "tonnes": 340.0,
+            "fob_usd": 10589873.0,
+            "share_kg_pct": 3.84
+          },
+          {
+            "country": "India",
+            "kg": 206000.0,
+            "tonnes": 206.0,
+            "fob_usd": 5998341.0,
+            "share_kg_pct": 2.33
+          },
+          {
+            "country": "Mexico",
+            "kg": 72434.0,
+            "tonnes": 72.434,
+            "fob_usd": 1859099.0,
+            "share_kg_pct": 0.82
+          },
+          {
+            "country": "Turkey",
+            "kg": 48000.0,
+            "tonnes": 48.0,
+            "fob_usd": 1289131.0,
+            "share_kg_pct": 0.54
+          },
+          {
+            "country": "Argentina",
+            "kg": 26820.0,
+            "tonnes": 26.82,
+            "fob_usd": 884078.0,
+            "share_kg_pct": 0.3
+          }
+        ]
+      }
+    },
+    "municipal_context": null,
+    "notes": [
+      "Reshaped from exports_comexstat_raw.json during monthly AI brief",
+      "Latest official month 2026-09: 8858.7 t"
+    ],
+    "status": "reshaped",
+    "raw_available": true,
+    "errors": []
+  },
+  "headlines": {
+    "as_of_utc": "2026-10-12T16:26:48.582704+00:00",
+    "source": "google_news_rss",
+    "queries": [
+      "CBMM nióbio OR ferronióbio OR niobium",
+      "Araxá CBMM OR nióbio",
+      "CMOC Catalão nióbio OR niobium",
+      "Niobec niobium OR niobium Quebec",
+      "Brazil ferroniobium OR ferronióbio export"
+    ],
+    "item_count": 48,
+    "items": [
+      {
+        "title": "A Victory for Pro-American Candidate Bolsonaro Gives Washington an Opening to Leverage China’s Dependence on Brazil and Recalibrate the Global Balance of Power - Мілітарний",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZclM0V2xJYUZVUTVUa3Y3dU1uNktrUlJfS3I5NXdTRVFBMmphdVU1Umg1NEdVYlp5QXV2UHNFSVF0Qng5cUxFbGhTdDl5bThPNkJMV1B2VF9OMmlMQVZCYjY2R2FTSzk1SDhLOVFZQ2hObGVFQmZvVWdqTm0?oc=5",
+        "source": "Мілітарний",
+        "published_utc": "2026-10-07T06:41:49+00:00",
+        "query": "Brazil ferroniobium OR ferronióbio export",
+        "flag": "green"
+      },
+      {
+        "title": "Komatsu MC51 at Niobec: mechanical cutting validation insights for mine engineers - Geomechanics.io",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb2g1MjJTUXg0ekVlLXhDTWJDa0RmTm9LTnQzNmtYTFQ1c1dvNnhtTmdmaTZsU0ZNSlpsb0tKN3k3TVVnWHY0NDBqMTRaYmFHRTNMeEUtX1FqaVlVbFhydnpwcVBkUTVFeXZtTEZ2eW81T1k1b1E1YXlvaElsdVhRZEhCdG5JSkFTdU5HTUdkME9JU01Nc3g5Q1JYS0tLVXFxNDUyMW4zWXVFR1hNc2k0NkxhS3ZFUE1sR1lGZGRn?oc=5",
+        "source": "Geomechanics.io",
+        "published_utc": "2026-09-04T00:02:37+00:00",
+        "query": "Niobec niobium OR niobium Quebec",
+        "flag": "yellow"
+      },
+      {
+        "title": "St George steps up Araxá testing - The Australian",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRFhJZnk2bEREbWJVR1EtUG8zRlZWMUVFSnAxWUFTVlg5b1F0dmdRQkdhcmY2X2s0ZTZ3ZHVTS2Q0SW5oYW8xeWo3RXZrbmR1YnFYMkIzU0ZmdGZ0ZEZPYWE2OFJYclNWQmFubWtzYndDQmtpS0U4ZFViX0JJTGhFRjB6TUNBZWpKN0hUWm5oRlZLZ0lybXo2bmY3U3FmemtoZmxGbDBpWEJBX09FdE8tYXduY1lHTTJRQndzUVJsbG95QjB3d2I2Uzd4cnNQSWVHV2JCQklCd1FZd1RIdGh0SkxCMXZ0d1puV2d1OUVvOVpVbkE1SDZ5SUg3Rk4xM1dlY3VtSDkyRnBxQnJV?oc=5",
+        "source": "The Australian",
+        "published_utc": "2026-09-03T07:00:00+00:00",
+        "query": "Araxá CBMM OR nióbio",
+        "flag": "green"
+      },
+      {
+        "title": "St George Mining starts environmental permitting for Araxá rare earths and niobium development - proactiveinvestors.com.au",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRi1UUTZWSl9BWDhLSzdjSTcxTXVvMWJVb2VDZThuS1pyblBBS3oteUVUTS1XN29ZN0FoUHBSSENnMktadmlEcGxERGdEdjF2dW9WMFNFTmZ4RnNQR3Q5UDNpS0p1RlN2V2tpaWYtWHYzUHVnTm9xcmxzOVhjSzBaOU9HbzFRY2pCYnhwZWZFV1VKUW01V0VXV0JERHhhdDB0bzRJbkh0S2hIQXhJVnlEYXp2TmFORE8wTWFteGphV1JPczVnaC1WM0NLdUxiamN0S05DNGpIbTJyb05QUG9xbmNnbkJLTTFUSUtMVUlTcXlkc2o2SEg5T1RaU0Q?oc=5",
+        "source": "proactiveinvestors.com.au",
+        "published_utc": "2026-08-25T07:00:00+00:00",
+        "query": "Araxá CBMM OR nióbio",
+        "flag": "green"
+      },
+      {
+        "title": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFp0OWk4LXFCYWNuMnVIZVN4LVFfbC1JZmdSRUVzUnZicDRVZ0FtTmh0UzBVQUh0a0w0cm55YWFuWk1VN04yNVlqTnlYbXFMc0w1Mno3VlYyUHRRanNJNjhOZzNJUGx1REZiM19xZE01YlRzTkRvRG4xcUlwRWtyYTczMXdWcDRTaWNB?oc=5",
+        "source": "Geopolitical Monitor",
+        "published_utc": "2026-07-10T07:00:00+00:00",
+        "query": "Brazil ferroniobium OR ferronióbio export",
+        "flag": "green"
+      },
+      {
+        "title": "NIOB Adds to Critical Minerals Portfolio - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMFphX21OWWktRWZHaFhDZ0R1WmFJaTBqTTV6MUxPcUNhRm1lM3RUZ0hrUzVfWlFhbnFSWEtFODNCMWhmYV9OTlRtanlCVHFaMlJabFE4SUdPcjNwNk0wU2x3dnV3SXdWYTU3V29zUmcyUHZJUHJiSHhpRkxGVktjNzJMRHBQamY0WjhNbWhJQ216T3hkSWk0M2FlMnpvRjVuTmtZcHQ5SGF2UEdiVzF5TWxMQ3J3NkxMNjM5Q2dtRktjSGhm?oc=5",
+        "source": "The Globe and Mail",
+        "published_utc": "2026-07-08T07:00:00+00:00",
+        "query": "Niobec niobium OR niobium Quebec",
+        "flag": "green"
+      },
+      {
+        "title": "St George Mining secures A$60 million to fast-track rare earths-niobium project in Brazil - proactiveinvestors.com.au",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOHN5SUNtZG9HMFRLRG1BZFlVWm9DOFhKeW5PUFRKaFZVN2Q2YzlXSFNvdzE4NldpT01mRGZPSTQ5alJTU0g3ekNOcWVRTUFIN0drYWR4Ni1xR2pSUE9IalU0Z2xuV1ZJLU1GbDVoRV94QlJrYzdyMVY4ZmlraUlZX0FiUTFRLTR1UG9qR0kzOUNfRnV3Y0doYWRmMnJPQ3VHLXgycUV5RXRGeU5VV1RLckZYRlJKRzNtcDZxWk1kRDhWc0VzSTZJclBYMmtNWU1FdTlJRFJuajZRbERlYXcwMWZ2cEctM3lZbzFwdlNJNm16UU8zblE?oc=5",
+        "source": "proactiveinvestors.com.au",
+        "published_utc": "2026-06-17T07:00:00+00:00",
+        "query": "Araxá CBMM OR nióbio",
+        "flag": "green"
+      },
+      {
+        "title": "Ferroniobium Market | Global Market Analysis Report - 2036 - Fact.MR",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xWUxSYnFHV1puZHg2WUN2ajhobFNDTWNBa1dLVF82UTNOb2trYmlmS2JTWTdCMWV6b1ZMWmNBVTBCVWJ4SlVrTTJKXzllMG1WeUNEaHpQSkw0ZHRpNFE?oc=5",
+        "source": "Fact.MR",
+        "published_utc": "2026-06-13T07:00:00+00:00",
+        "query": "Brazil ferroniobium OR ferronióbio export",
+        "flag": "green"
+      },
+      {
+        "title": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQczJON05BR3h4aXBLT2pnWGVzMF95NXhEdVE4QlpGc0NRV2VWdHcxSnZjSTYxc1lyY2ZSNGNCQ0VmcHhxLWlPamx5QVRoeVp4anJacUduN1d5WnlnV05xVlYzakJmNW5wWHFKdzNzclc1TU9ienh4QWs2VVdOUG8ybXgwTlY2NjBkZE1fT2ZNdnBHblh6VnIxeTVmSUZKNzJ5Q0Q5TWRsT3JBUVhUcTVucVFlT3ZWa3RCeVZRS2pnN2Zkd1RTLVNsMlNfTlJHYVhn?oc=5",
+        "source": "Next Investors",
+        "published_utc": "2026-06-11T07:00:00+00:00",
+        "query": "CBMM nióbio OR ferronióbio OR niobium",
+        "flag": "green"
+      },
+      {
+        "title": "Tanzania seals strategic minerals deal - Daily News",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WUlhrQWpuZHdCc0pHaUZfMTVJc0RqWk5KRU94UmNPaHBZc0hTUkprMlNNVHFUSlIxMmVzdzR2SHlGZm16N01zR3pGN3kzdnRfdWJuWlV2OThvYnpEdHZEVVJhVzA2QmlUQTJlZW82azQ?oc=5",
+        "source": "Daily News",
+        "published_utc": "2026-03-25T07:00:00+00:00",
+        "query": "Brazil ferroniobium OR ferronióbio export",
+        "flag": "green"
+      },
+      {
+        "title": "Brazil’s Araxá Niobium-Rare Earth Project Posts Major Resource Increase - Rare Earth Exchanges",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTDNlSmRmcDFwNGJRU1pmcWtvbWtJRlc1RjROZTJ5MnpJSTByUW5wWDhfUU5vWDBkbEhyRV95RXhXbFBKT1czdWZCeFhxYjA3WVBOek5qVkFJV3JoVXB4b3VmOWdoLVJUS0NobFN6cGdsTGJIT0dQN2tnMkJEOWpGQnRDdHdlYV94ajdSeHlpbzNMRHRuajVPQ3FDTVFGdms3bWg4TERUdHBmMmM?oc=5",
+        "source": "Rare Earth Exchanges",
+        "published_utc": "2026-03-06T08:00:00+00:00",
+        "query": "Araxá CBMM OR nióbio",
+        "flag": "green"
+      },
+      {
+        "title": "Niobium partnership in Brazil gains governance boost - BNamericas",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVdrZktMV2RjTVlyVUo5Rl81N3c5UWdTMnBIeHZTX240TVdkdFdFSXk0dVZlcFVVbEJOcWw4RU9aWVVhdzlINVl4a2Vpbm03czBwemsyVDNURVlGUGFkb0JkRzBfdFBJc1V3OGVJZE1VaHBXSHJ3ZmtjQW9NNkxYOXdXOUV0UW4yc1gtNTlGNEM?oc=5",
+        "source": "BNamericas",
+        "published_utc": "2026-03-04T08:00:00+00:00",
+        "query": "CBMM nióbio OR ferronióbio OR niobium",
+        "flag": "green"
+      },
+      {
+        "title": "JFE Steel, Nippon Steel, Sojitz, JOGMEC, POSCO and NPS Form Japan-Korea PartnershipGroup to Invest in Brazilian Producer of Niobium, Critical Alloying Element for High-Grade Steel Products : 2010 News Releases | Japan Organization for Metals and En - www.jogmec.go.jp",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53aUszOV9Jc2I0QlF6dUREMk4zTEUwMEFxQ3UtSnBXS29LYzZzM3AtcGk0T05lT0RjcWRxN2JqWWRyMXpQaXlzXzVsUW5JWjc1SWZsRmdoRDNwN1gwV2FiaTYzXzNISnBrcC1TNkRrdUlxdw?oc=5",
+        "source": "www.jogmec.go.jp",
+        "published_utc": "2026-03-02T18:44:26+00:00",
+        "query": "CBMM nióbio OR ferronióbio OR niobium",
+        "flag": "green"
+      },
+      {
+        "title": "CMOC Brasil's historic record in niobium production confirms its leading global position. IBRAM - IBRAM - Mineração do Brasil",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUjh3TnVPQVZrZ0ZEZWxSai1naE9RMEQ2bVM3RnhBTHVtMDhFVU9WY0VPcVBaaGFzOGVaZG9tZHluOE5PV2NCS190SWw5SXhyYVJFRjFpaVVxbS1iNUtITWZSalBWSF9GTTAxUUp1NGZXM2J5QU9rS1RwU0JHWjBIWGRHeTVjQkF3aktZNUQzRkFSZmRVeWNXWFpHdW03d1ZncHhfMFRqWUhLUzhkM3lJT2d6aW91WmVQYlhkLWFGUVRsTDVRU3c?oc=5",
+        "source": "IBRAM - Mineração do Brasil",
+        "published_utc": "2026-02-26T15:29:25+00:00",
+        "query": "CMOC Catalão nióbio OR niobium",
+        "flag": "green"
+      },
+      {
+        "title": "St George hits record 164m niobium-rare earth intercept at Araxá - Proactive financial news",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLTFzWno1VnZpNVpyaXJQckJZaU9rd2I3SXZjWXd5SVd5cm9VaW04TmFVcXpxMUt5aVBVSXYzbDFzVnI5eEloQXhWWXRWbi1CelQ2bTRnaFI5UWZ4dVhCR0pQY2Z2bDZzckhfSFQ2SXJKYkZRQTV5STdwcEVkZVNYTnB4VkpBTnlncWpuX3hEOFJxVEZndjJwQy1pa25lQVBMOWgyYTdCaXYxYlE3TTVuUVZNUGYteUtMb1VIa2hLYTFRZi1XdnVmUW1pSjJuWk1X?oc=5",
+        "source": "Proactive financial news",
+        "published_utc": "2026-02-17T08:00:00+00:00",
+        "query": "Araxá CBMM OR nióbio",
+        "flag": "green"
+      },
+      {
+        "title": "High-grade niobium discovered outside SGQ’s Araxá resource - The Australian",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVmJ0d3NOa1gxYW4tLTVhWGdxRXNiVlBtNXRPTXd5Z1VzcF9XRHdaSXYxa19MTEZ4cW5ZdkJfU29EQUQ4UTNDU1VmYlBhVjF6YXN3c0huSXNleHJCMkpwS09jc2tiSjlPWjBVOW1zS0FPalFwR3Vld2tLNVhzMk5hTFpVY3ROZ2xwNWNSZjBvNmxYX3hCakIwQlVqRWxuamREWjVTU0Q5M1FVcjFGTE95SlBEckNybm42dnNMWjJqRHN1bkszWUFXZlFTd2VxV216Y211QVd6X3lqWVpEVXQwNkIybjZ1Yi1Ja3phVU02NzJxTF9FVnRNSmhLVzdfZ0oxQ3JPckluYVMzaktZ?oc=5",
+        "source": "The Australian",
+        "published_utc": "2026-01-08T08:00:00+00:00",
+        "query": "Araxá CBMM OR nióbio",
+        "flag": "green"
+      },
+      {
+        "title": "St George finds high-grade niobium beyond Araxá resource estimate - smallcaps.com.au",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnFrWGNtaWktbkh2cVJ1Q1p5ak1GTUxpNGZWbUYzUG9sZkhuU3FIZTE4a2gyZy1WQnBNZXJfWDdlT2NFbFN3UWpFQXJIZ2R4N1psVElCcG5aSm5GNDRNc3h3eFU0U1lLWFZWZUZac0RuUHJUQjB4bm5wSFo0bjJNMUZJUXUyaUx2YXRrYWlUVEZYajQzakw1QUdwbk9PUU9xaVpUdHZRdjk1Ujkxcl90eFNCN1RlYW1wTzVj?oc=5",
+        "source": "smallcaps.com.au",
+        "published_utc": "2026-01-07T08:00:00+00:00",
+        "query": "Araxá CBMM OR nióbio",
+        "flag": "green"
+      },
+      {
+        "title": "St. George targets up to R$2bn in niobium, rare earths - Valor International",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDRNTGFxTHRSeS1UVHlHNHdfbE1Mc2hHcncybFlJcE1ETngzVU5kVDVaNnJUWWd4clB1N1drRGpDTHVTM2d3MFlUT3YwV1laXzNNT0QySDM4dmltWGFMMUlEWkRrVnJlMkFFdDdvMWE4OElkd0E5Vm55QlBXRmphZXpjaHZfTXRmSUNMNWZrcnB0bFczb0t2eGNFUk5pbzkxT3prZlNPa0k2V0N6NDNWZU1wcnQzaGJPMDZF0gHKAUFVX3lxTE5HdzRSZHUxNlRvTnZKa1pnOHE3QW45cF9Dcl80Vm44WnU5STFNS0RxT2VwS055emEzVjZGWFBHUU54Mk1yTlRfbGU4d1h3SjROMHFJXzFhSXBxTkFnMTZxcTdlX3ZMZXFTUlA1RGdXNzQ0NWJHWENlYndSY0twN05UZE5na19WTXRSZzVONENvZ3VSN2VyMjk1YzlDZzh6VndRMjk3NXdXZU1xMC00QWZLU1dCQXNjVENRYlZJenlicUVMZ2F3cThzREE?oc=5",
+        "source": "Valor International",
+        "published_utc": "2025-12-26T08:00:00+00:00",
+        "query": "Araxá CBMM OR nióbio",
+        "flag": "green"
+      },
+      {
+        "title": "In Depth: How a Chinese Mining Giant Learned to Win in Brazil - Caixin Global",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHp5R3hiT1NOV1RvQXhDMHN0aXFmMWZCYXl4YzVYOTZSMnN3OHVsNjd2RzZWV1VTU3JpWjZBWENoczlqd1JGOU5KeVJ4ZXNpcU1FZGZxTC1naEF4WklMamRldWdyNW9DdThiNFdvNkRSZnd3T3hrMXYzak5tdlpSLUpzcE5BcUFldjdsNldnLTFUN3dmUHNyd2pUTDFlRDJzVy1xQU1QNlF0ZjdYek8yVk16N0VsQQ?oc=5",
+        "source": "Caixin Global",
+        "published_utc": "2025-12-18T08:00:00+00:00",
+        "query": "CMOC Catalão nióbio OR niobium",
+        "flag": "green"
+      },
+      {
+        "title": "Codemig, CBMM renew niobium deal until 2070 - Valor International",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUEtzdDB3Tmtpc09yLXE5a1Z6ZUt2cVo0SUZDd2dEX2YwdUEyb0pTRW5fS3JlVkpZNldtUF8teGp0M3BJRVQ0aGJZSGY5eG9Hc3I2d3FhdE82SUd4VWNBazJiVGpDQXI4T2x2azVnYkRUUlRGZmdaMDRsUTJpSHZpOGtOSUxfYzFVdWliZmFrMGpXX3ItMlVJMy1GdXNYTm0wblNKZUFFT2Z0U1Qxbi1R0gG-AUFVX3lxTE40b0JEZXc5MnRPOFQxblFyTzEtZDZXcGRpZDBXUEpTZlZZb1ZuMnZGMWNERlZSWTNTWVZUTHNSOVAwakd4U2xVc2Z2c0h2X1lVSTNzNUZBSGJFSVdtblcyMHd6VlI5MnVXV3NlNjZDeTlqVGJ5VzY3a2lSWVQ3cWNQSFFiWkpnNHlGRUNTVHpLZXpuNWdXUXlfaE9GVVdISUhWS3NFSk1CMlF1U19kR2tQYTJKc25EdEJVNEIwZnc?oc=5",
+        "source": "Valor International",
+        "published_utc": "2025-10-31T07:00:00+00:00",
+        "query": "CBMM nióbio OR ferronióbio OR niobium",
+        "flag": "green"
+      },
+      {
+        "title": "Niobium Market Size - Forecast Report 2026-2035 - Research Nester",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kSjJDZEs4T25SZ3hJSkVnM1U4NmRrbXJrbk0xSVk4eDhvdGdQOFd5MVA0SmhMX1F1dWtxZ0g4SDJFYmNJZHQ2RmE2dEotYkVWYW8zbmRJTTFVVlRHM0FLLUI2aGZReUk0VUE?oc=5",
+        "source": "Research Nester",
+        "published_utc": "2025-09-15T07:00:00+00:00",
+        "query": "Brazil ferroniobium OR ferronióbio export",
+        "flag": "green"
+      },
+      {
+        "title": "Sojitz’s Niobium Business: Ensuring Stable Supply of an Essential Additive in High-Strength Steel Manufacturing - 双日株式会社",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tVi04VU9ZdDdjd1FkalNNdkc1RDBtRWFQWmxJcEVzT1FLRzNiemdlSmJLSDVTNWxhbndyTzViQWV4ZGdUanlhMDI3Q2ZsVF94YVAxcTdMcEc3Nm1sYmxWeHZwUlVlVVFJ?oc=5",
+        "source": "双日株式会社",
+        "published_utc": "2025-09-08T07:00:00+00:00",
+        "query": "CBMM nióbio OR ferronióbio OR niobium",
+        "flag": "green"
+      },
+      {
+        "title": "Research centers and companies in Brazil finding new applications for niobium - FAPESP",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSkpJZGZuUEE3aDlMakNMdEM5NVJaaWpTZzhlNVNsTVRyXzBEekdTOFY0TlBMeU9aVzdobkN6dFhNQ1RSWm9DbE9DYnJSMU1XSDZWZzRUWl9tR2FWT2tST1BHQUtYeE9LekRJZnVkYy1mU1FmTHp1YkVWck9ydjJWOVE5blRoX2VEOUg5M3pLUVpTSVN3MFpaYThOWE1YV2c5QUVXRnN0NUp4UG9VVHVNY0tNc1FyUQ?oc=5",
+        "source": "FAPESP",
+        "published_utc": "2025-08-26T00:20:55+00:00",
+        "query": "Araxá CBMM OR nióbio",
+        "flag": "green"
+      },
+      {
+        "title": "China's CMOC eyes more M&A opportunities in Africa, South America - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeXhLWnNLS1lTMk5ISkJSUXdqaVBsMEdMX1kyVjFxYnVlYXBzaWdFLUpFNVh5UWFLVEVGZWFxc2o3WFVFWHNVSEtzNm0wMGIydmxsWnBDdVpISzE0MU9Id3JMcjAyRHB5LWtkemJvTE40U1lnQi1OdnVKd2dERTEtR3NxOVlLN0dHX1VaTmFEaE05OFQ0d3hrT2ZzNmFQSmRXeXZOYWFoVUV6ZTBaeUR4bFZwaXdFZw?oc=5",
+        "source": "Reuters",
+        "published_utc": "2025-08-25T07:00:00+00:00",
+        "query": "CMOC Catalão nióbio OR niobium",
+        "flag": "green"
+      },
+      {
+        "title": "Niobium: poor recyclability and high dependence on Brazilian supply - PricePedia",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUWJTTDRrSEd5QVg1X3paV0I4Y1B2TTU0NUNyYVBqeUVrak9hNXQtOHFtNk81aFo1T0R1bWN1ckIzSmZvY0tVZktKa2ZTUXhsRlhZWEN0aHJjNm1OMjZEczEwMERlSE5iV1l1cFRuVGNCTDJwV21xNi1ZbkxvV1NONGFPNGNXWTJkOUJrM1I1LW1YNzFKNktMWUQ4cXcxQ1M5ZVpXeVEzdHRGc2ZOcnk0NUc5ZjFETjNvTDZuSk9OaWdfQQ?oc=5",
+        "source": "PricePedia",
+        "published_utc": "2025-08-04T07:00:00+00:00",
+        "query": "Brazil ferroniobium OR ferronióbio export",
+        "flag": "green"
+      },
+      {
+        "title": "In 2016, A $1.7 Billion Deal For Brazilian Niobium And Phosphate Mines Sealed The Battle Between Chinese CMOC's Expansion And Anglo American's Contraction - CPG Click Oil and Gas",
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPS3RCNlFUcXZQaWdibFBvbVdnOEhLdnpHVHBTcFFpbGExMFgzUERnV1cwb3ZCMkNIWTZtNnJYRUhuc09kZ1k0RXlKLWg2N0F1RWRnZkdFWVplRkw1YmNrcENUcHA1YjhFcmhIazlPMGJ5bUxtRHVFV29wRm1aako5STVGTnBLQlZJSUhwTUF0cm9BMHVZMHJpQlJpczNiX01ZN0VjaUhjQzYyQTRzdzduaWtZTjZSZlV2WloyYWZPNGkybHg4NnNiU2Y1QzR3cmdwWC1XcmtsMXZyQzZGZ2d2VFU3T0xsN3NFUmZZN2FCcmduMndsZVg0WWNuTGVfbENqeWU0ZGxFTjU3dnA5WEhRbHAtVlREVjJfemhEZHE5NjJ4MUYzTVJHaU1B?oc=5",
+        "source": "CPG Click Oil and Gas",
+        "published_utc": "2025-06-26T07:00:00+00:00",
+        "query": "CMOC Catalão nióbio OR niobium",
+        "flag": "yellow"
+      },
+      {
+        "title": "Quebec mine strike shows fragility of critical minerals supply chains: Analyst - Canadian Mining Journal",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVFNwUkhBR2ZfVDAzV1UtQTdpZ3ZITXJqNE5mRC1Xc25UYnBsU29XQ2Y3Q3g4NU92Y1R1MnVhY01jbXJYQVNMbDI1UTQyanVzVE1CMUVHRkg4dEwyMkNHX3IwcVBoSENZTFB0dmlhS0xBQkJWeW5JdV90T0RpU1hIN09BMEV6Y2ZoMlFhUDc4VEF4YU9uR0FkUUh4MGdRNUhPWEZDdmVfNXJzd1ZQbXhRTlJrQ1c4RjFrTVJnMVdR?oc=5",
+        "source": "Canadian Mining Journal",
+        "published_utc": "2025-05-07T07:00:00+00:00",
+        "query": "Niobec niobium OR niobium Quebec",
+        "flag": "red"
+      },
+      {
+        "title": "CBMM opens facility in Brazil to produce Echion’s XNO niobium anode material - Charged EVs",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQy1uWEFNZjhpVXUxQnhEcTB4LWh0NnU5NWVIVzhEZjdKbTk1dFRjSWVFMG8zTmsyOHktalJIOTYtS2tMel9pNGFPWElKcHdQOTFFUDBqc0FXdTZPRVRwZVJ6bUh5LTNRYWlXTTRkamNTalFfcW52Uk5OQlk4YkZkb3l3cDc4S3Y1Nkc1MnJ6RmY4VnloMDgtSUJkREJlNW9hTXVlak1uaVpJUXJh?oc=5",
+        "source": "Charged EVs",
+        "published_utc": "2024-12-10T08:00:00+00:00",
+        "query": "CBMM nióbio OR ferronióbio OR niobium",
+        "flag": "green"
+      },
+      {
+        "title": "Are Chinese investments in Brazilian mining the start of a new wave? - BNamericas",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHl0RE9uVXBJakE0SmRXeWZvZTZqS29WNnRPY3JvNW94Y19ZaVhIMFBzWkZVX2x1Rmp3UnFVQXdHck51RnZiNHFnOWpfRnlDajU2MVZvVkxmblR3UEFDRlhzMVRQWU53NVVvUU5iMDhaSVp2dm1LZ2hpSE1IUEpoajhYSFVLXzZPcTNqZlNYSUVRbGhoTUlKWmstOWdPR3cycDRjZjlfa2ZGUQ?oc=5",
+        "source": "BNamericas",
+        "published_utc": "2024-12-10T08:00:00+00:00",
+        "query": "CMOC Catalão nióbio OR niobium",
+        "flag": "green"
+      },
+      {
+        "title": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - Electric & Hybrid Vehicle Technology International",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVHZDR1d4MFJDTnFHb2RFMnFEZGxoUGpmbmhpVm1Yem1Sb2NhQzl6SmtzM2hFM1FvVTVtcjlXbHNQYnNUR2tMcnBITW9SMUg3NGMtcDRsTlU5eERpVEFicUFQMU5CbUNlUkJmUGxBS29OSGZZcXpUc2RTR0wtT2dGYXR4bXJ6bmYwVElvMVRwWnVNamxEMVRwVzFITUVwOXd6ZXc2RHB0LTVKLVNZckR3Q3BKa0tXeWtiNEpGYVp6dDE2WHVvcnFmYS13V09Sc2hySmVuTmZLbVVRdw?oc=5",
+        "source": "Electric & Hybrid Vehicle Technology International",
+        "published_utc": "2024-11-21T08:00:00+00:00",
+        "query": "CBMM nióbio OR ferronióbio OR niobium",
+        "flag": "green"
+      },
+      {
+        "title": "CBMM unveils world’s largest Niobium anode production facility - Engineer Live",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDFTbjJhdmtyYTNlWDZGYmRWR3k4VUZQeTJMck1RblViUGVRdkJtbm1tekZIWXN4MUlYbmRJeGdDMUxtMDFhLWRMRUpENE1kXzllVExNak11LTFxMWxEb1l4Y1FmUGkyWTBPWDI4Y3N2bWY3eDAwcFNmSDdWQjNuR3VLdFo2dkxad3daaF9tVlc?oc=5",
+        "source": "Engineer Live",
+        "published_utc": "2024-11-19T08:00:00+00:00",
+        "query": "CBMM nióbio OR ferronióbio OR niobium",
+        "flag": "green"
+      },
+      {
+        "title": "CBMM opens niobium anode production facility in Brazil - Mining Technology",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnNiTGQ2UW5JRlh0bzh0N1B5elFiNEFrZE5FdW1LV0RuRk1HMlIzQzNKYzVtOXhnZVo2NWtzSmRZNXZlbFhab0RCVExqRGp0TVRMcjhBLWNmOGZBY0JMNUh1Yzc5TExUS2p0QVY4dmtWTHg1TEZwRElwNTNldzgtc1pPRjM?oc=5",
+        "source": "Mining Technology",
+        "published_utc": "2024-11-18T08:00:00+00:00",
+        "query": "CBMM nióbio OR ferronióbio OR niobium",
+        "flag": "green"
+      },
+      {
+        "title": "QuesTek Launches Partnership with CBMM to Advance Material Capabilities with Niobium - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdDE4X1ZYSjlPQXg0WGZjb0I1UXdHOElMY29LUGV0NWlLZXpmYjZQQ2xPTmNoZ2RGV3NBTTg3YmJsZmNWLXg2MkNTQW04MlB5OUt1blk4eUpobElyQmVpOGhBa041WnlzRGFycVo1YjNSS18zQ1JONC02eTFnZk5faks1dVVscS1mUTdyaGhzM1pTRjU2OVF6b3BYZVgwN2N0Vzl4X1gtT3Z3djhNVUtTcUk4U0NBQ01CdXlTVVVvVzE1MmV1MDJDdDZGczd5Tnl3SWMzaFNLQQ?oc=5",
+        "source": "PR Newswire",
+        "published_utc": "2024-07-02T07:00:00+00:00",
+        "query": "CBMM nióbio OR ferronióbio OR niobium",
+        "flag": "green"
+      },
+      {
+        "title": "Toshiba, Sojitz and CBMM Unveil an Ultra-Fast Charging Electric Bus Prototype Powered by Next-Generation Lithium-ion Batteries with Niobium Titanium Oxide Anodes - 東芝",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YM0kyVzdpWDlMcWFYaFZ0SUlWMldzb0J5WnE3SEpJaE5mOXFyWlFRdGF1ZWhISzdVWU1NdTB4eXpHVmpVdGRPVW9paWhHU1A3S0w1Y0pfRkV4UUd5WGR2c3FnblY4dmZKaUVFeElnZUFZZ2tJbDRrT2NSMFhsdFU?oc=5",
+        "source": "東芝",
+        "published_utc": "2024-06-20T07:00:00+00:00",
+        "query": "CBMM nióbio OR ferronióbio OR niobium",
+        "flag": "green"
+      },
+      {
+        "title": "CBMM to Showcase Niobium at SAE Brake - The BRAKE Report",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tenlTV3djb2ZLc01veTZWYk9tU0ZtMzJtWUdUblBxTTh2QjRIVDdHbVpyVzJZbjBHeDQ1X0dfT0NCRllmdVptcTdrXzhCbG95UXg4cDdzZ2xSbzBFNi1WbGx3OERfNEZoOFZUTmxlRlQweU0?oc=5",
+        "source": "The BRAKE Report",
+        "published_utc": "2023-11-10T08:00:00+00:00",
+        "query": "CBMM nióbio OR ferronióbio OR niobium",
+        "flag": "green"
+      },
+      {
+        "title": "International trade in critical raw materials - European Commission",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTRYTkZNQ09CYWhnczNsS2tBQ2Q0MzBhbFVxamxRVUpZT3A3eEFDUkpORmN1alhjOWV1M0ZmTndObnVucXJ5OTVRWDlVbUlaaURLMjhYbEZPbzhZa2xvUlBhYUk0dkU1bVhTb2dKSWFvbF9Db1lxakQ3Q3Jyc1M5eElmT3ZOTk1tVGZsUzNwbzgyb3pkWDhCNXJFd3NGS0NNTDJTRVRnclFMc2lTNkswUnl3?oc=5",
+        "source": "European Commission",
+        "published_utc": "2023-11-06T11:53:15+00:00",
+        "query": "Brazil ferroniobium OR ferronióbio export",
+        "flag": "green"
+      },
+      {
+        "title": "Magris acquisition of Niobec Niobium Mine - Torys LLP",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tc0d2YnNPZDF0N2Vta2ZSSEZ3cm5icDFYZE1VRU1vRnlEWmZSbi1iMDBBMGtZZXJkcmZDNGdoM1BNeXlGY1ZlOFB3UV9tNmc4UEdtV1hBNEtqMmVEVFdrLVZGRDR2Ykt4NmoxSmhlNTNBSm9uUklTNHc1Zw?oc=5",
+        "source": "Torys LLP",
+        "published_utc": "2022-05-06T09:58:07+00:00",
+        "query": "Niobec niobium OR niobium Quebec",
+        "flag": "green"
+      },
+      {
+        "title": "Noble Mineral Exploration Completes Acquisition of Nagagami Claims near Hearst, Ontario - Junior Mining Network",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYnNVRE15d2MtWVhaLUxCdU5ROGh6RTd2VlltS1QtZzZ6ZzJVamNBdVhGMXIzaEVWaHpXOVNxWk1OUGhhbUlGS01nZ1RlOHZ0WVg4Ui1EOTdCZ0VZY1djVXo1a0ZkQTNScjhhbU01aVFkVm05TzBieWlhTHhXSTQ4SlpfYUNGTUpGYVlheGJVOHlfRUJkdTZqQTZ4SkRmU3BxMmVEMGJ0YlVsNHJfQkpfbnV1YS1QRllwTTV1S09BcEEzZVBlWmRQSGFWaktyckpRblkxb05TY3dZNVdBeGVsOFdGcG10ekJWX1lvMVl4RVNRUVVnV1M1V3NLWGs?oc=5",
+        "source": "Junior Mining Network",
+        "published_utc": "2022-04-06T07:00:00+00:00",
+        "query": "Niobec niobium OR niobium Quebec",
+        "flag": "green"
+      },
+      {
+        "title": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR181N2xrZ1N4Wkh1OUdzWHgxamw4NWR3dnZQclNITXBLTUNNTlBkbzJPek1QdHRtc21PemhXUEo3RzJFYWtyMHFCcmdtc1N5OVhzY3ZaSGp5bjV3ZWRCemM3V0tXbENaaGgyQnFQMlBySE5LelFjT2FwYWZpQkdwZ1Njc2ZMTURQeFlQQUZZVC1jbUtmOHN3WXludF9raTJ0ZjhBSmpuamNtelVIdmtocHVrMll1QWsxajFFY0tRTEpEZTN6NHRuOG90M3k2WUFjWnhDTU5EeUtWRGdSeVBOVnRpSmJmV2J0SUdseUdVYw?oc=5",
+        "source": "Investing News Network",
+        "published_utc": "2021-12-16T08:00:00+00:00",
+        "query": "Niobec niobium OR niobium Quebec",
+        "flag": "green"
+      },
+      {
+        "title": "Iamgold sees potential to extend Nelligan footprint - The Northern Miner",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU2NTejBFZlNMcUVJMndUYmR4QVRqUFlqM09TcUQzRXlDdU9jclFqeTV2Z25pSGhrbm1MRkdIcXdJcDNQbWs1MDhZbzFvWkRoZEtSaW9lYUhtR3FmU1hTU1ZhZmdvRW93SHBvVWlnN1pPTXNYRl80Q0VMc2hUQkU3b29rR3FfLWZkVGZTVjdERE1ZaGFybncwQkZHbmdMTEp3Smw1bm1n?oc=5",
+        "source": "The Northern Miner",
+        "published_utc": "2020-06-19T13:29:39+00:00",
+        "query": "Niobec niobium OR niobium Quebec",
+        "flag": "green"
+      }
+    ],
+    "errors": [],
+    "status": "ok"
+  }
+}

@@ -1,17 +1,17 @@
 {
   "project": "niobium-watch",
   "timezone": "America/Los_Angeles",
-  "dashboard_as_of": "2026-09-12",
+  "dashboard_as_of": "2026-10-12",
   "update_cadence": {
     "headlines": "twice daily via cron (no AI)",
     "exports": "twice daily attempt + monthly AI synthesis"
   },
   "created_utc": "2026-09-12T02:14:31.466375+00:00",
-  "last_headline_fetch_utc": "2026-10-12T07:01:42.675869+00:00",
-  "last_export_fetch_utc": "2026-09-12T02:16:04.773727+00:00",
+  "last_headline_fetch_utc": "2026-10-12T16:26:48.582704+00:00",
+  "last_export_fetch_utc": "2026-10-12T16:28:27.958506+00:00",
   "last_error": null,
   "overall_status": "Watch",
-  "overall_rationale": "Export volumes and producer output are healthy/record, with CBMM spare capacity (~150 kt vs ~100 kt sales). Posture is Watch—not Normal—because of extreme Araxá concentration plus yellow logistics/contractor labor signals on the truck corridor and Catalão contractors; no confirmed mine/plant interdiction.",
+  "overall_rationale": "Brazil FeNb exports remain healthy through Sep 2026 (latest official month 8,859 t, inside/near the ~7–9 kt normal band after a soft MoM −16.3% from a strong Aug). CBMM spare capacity (~150 kt vs ~100 kt sales) and record CMOC 2025 output support continuity. Posture stays Watch—not Normal—because of extreme Araxá concentration plus standing yellow logistics/contractor-labor signals (MTE truck-corridor findings; Catalão Manserv/Metabase). No confirmed mine/plant interdiction in the live scan.",
   "choke_sites": [
     {
       "id": "cbmm-araxa",
@@ -91,8 +91,8 @@
     "CMOC Group Brazil niobium disclosures",
     "Repórter Brasil, Badiinho, Valor Econômico, IBRAM (news)"
   ],
-  "last_cron_run_utc": "2026-10-12T07:01:42.675869+00:00",
-  "cron": "GitHub Actions twice daily (01:00 & 15:00 UTC)",
+  "last_cron_run_utc": "2026-10-12T16:26:55.134710+00:00",
+  "cron": "twice daily America/Los_Angeles 08:00 and 18:00",
   "baseline_signals": [
     {
       "id": "rb-2026-04-03-mte-logistics",
@@ -475,5 +475,24 @@
     "Looks normal": "Stable ~7–9 kt/mo Brazil FeNb, CBMM majority, familiar destinations, quiet locals; capacity overhang favors demand/logistics explanations over mine failure.",
     "Yellow flags": "Sharp MoM volume drop without steel story; rising unit value with falling tonnes; short labor/ANM/rail/port events; CMOC or Niobec outages.",
     "Red flags": "Multi-week CBMM halt; sustained Araxá collapse despite healthy steel demand; Brazil+Niobec together; export restriction/tax shock."
-  }
+  },
+  "translation": "deep_translator Google via .venv after each headline fetch",
+  "last_monthly_brief_utc": "2026-10-12T16:28:44.697263+00:00",
+  "last_monthly_brief": {
+    "as_of_date": "2026-10-12",
+    "status": "Watch",
+    "export_latest_period": "2026-09",
+    "export_latest_tonnes": 8858.731,
+    "export_mom_pct": -16.3,
+    "bullets": [
+      "Export pulse: 2026-09 Brazil FeNb 8,859 t (FOB $260.9M, UV $29.45/kg); MoM -16.3% vs 2026-08.",
+      "Flow still solid vs baseline: trailing-12 avg ~8,873 t/mo; 2026 YTD (9 mo) avg ~8,830 t vs 2025 avg ~8,219 t.",
+      "Destinations 2026 YTD through 2026-09: China ~47.11%, then Netherlands, US, Singapore, Korea, Japan — mix stable; Sep month saw US share rise vs China.",
+      "Live headlines mostly green/continuity (St George Araxá testing/permitting; development coverage). No fresh red plant/port stoppage.",
+      "Standing yellows unchanged: Repórter Brasil MTE logistics (Araxá→Santos trucking) and Badiinho Catalão contractor strike-state risk — monitor, not confirmed halt.",
+      "Producer baseline unchanged: CBMM 2025 sales ~100 kt FeNb-eq / 150 kt capacity; CMOC Brazil 10,348 t Nb (2025); USGS Brazil ~93% world mine."
+    ],
+    "dashboard_url": "https://mmsanders.github.io/niobium-watch/"
+  },
+  "last_export_reshape_utc": "2026-10-12T16:28:44.697263+00:00"
 }
