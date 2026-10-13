@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-13T07:26:05.878474+00:00",
+  "as_of_utc": "2026-10-13T20:26:19.632848+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 48,
+  "item_count": 49,
   "items": [
     {
       "title": "A Victory for Pro-American Candidate Bolsonaro Gives Washington an Opening to Leverage China’s Dependence on Brazil and Recalibrate the Global Balance of Power - Мілітарний",
@@ -39,6 +39,16 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "St George steps up Araxá testing - The Australian",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "St George Mining starts pilot-scale test work to advance Araxá niobium and rare earths flowsheet in Brazil - Proactive Investors Australia",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPbERxb29zZlZMcnRyZTVSNTVFNVd3dmo3Vy1ZV1lsaFFZczJnSVZjNEZ2eDRIQ3BOZGljdGM5NVVya01pNGVmTlNjWDhtSDNuSFNQX0J4OTYtalRrYVpxR0Utb28zVFl4cG5XSm9mVjRkVjVmUHdPVG0td3lHSGczLVVUY1hRbWJpWERDZEFUMkVFNThPTUE2R2dyTHNNNDN4emhvUE5BaThENGRhVTEtdUtwX3pHRkw1X1RvS2IwZW1KZjBpRnM2LXdHZ0pSYkJzSmNocmh6VHd2QUdxd0dlbTZNejNNdk00Sl9zOHZhci1OZGFQbzJJTW9pYjc0SDczTF90UWJTZjlfVTZ1?oc=5",
+      "source": "Proactive Investors Australia",
+      "published_utc": "2026-09-02T07:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "St George Mining starts pilot-scale test work to advance Araxá niobium and rare earths flowsheet in Brazil - Proactive Investors Australia",
       "title_en_source": "passthrough"
     },
     {
@@ -232,16 +242,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Research centers and companies in Brazil finding new applications for niobium - Revista Pesquisa FAPESP",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSkpJZGZuUEE3aDlMakNMdEM5NVJaaWpTZzhlNVNsTVRyXzBEekdTOFY0TlBMeU9aVzdobkN6dFhNQ1RSWm9DbE9DYnJSMU1XSDZWZzRUWl9tR2FWT2tST1BHQUtYeE9LekRJZnVkYy1mU1FmTHp1YkVWck9ydjJWOVE5blRoX2VEOUg5M3pLUVpTSVN3MFpaYThOWE1YV2c5QUVXRnN0NUp4UG9VVHVNY0tNc1FyUQ?oc=5",
-      "source": "Revista Pesquisa FAPESP",
-      "published_utc": "2025-08-26T00:20:55+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "Research centers and companies in Brazil finding new applications for niobium - Revista Pesquisa FAPESP",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "China's CMOC eyes more M&A opportunities in Africa, South America - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeXhLWnNLS1lTMk5ISkJSUXdqaVBsMEdMX1kyVjFxYnVlYXBzaWdFLUpFNVh5UWFLVEVGZWFxc2o3WFVFWHNVSEtzNm0wMGIydmxsWnBDdVpISzE0MU9Id3JMcjAyRHB5LWtkemJvTE40U1lnQi1OdnVKd2dERTEtR3NxOVlLN0dHX1VaTmFEaE05OFQ0d3hrT2ZzNmFQSmRXeXZOYWFoVUV6ZTBaeUR4bFZwaXdFZw?oc=5",
       "source": "Reuters",
@@ -259,16 +259,6 @@
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
       "title_en": "Niobium: poor recyclability and high dependence on Brazilian supply - PricePedia",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Brazil's federal government to take over nio... - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWlZQT2N6UlE1Tjg2SUx2WmNjU2lRTFkwTjZTeFpyX1A0Nnp3eWd1MHVRUGFEWDVSZWZtR25Ca3oyMVFjaHFTU2JfMDdLNC1JSVVodURNMGphV0JLSGp1RXdkVXBOQmhJUnYwemlTWTFBaXFRYVNrS1dnVEg4RS1QcHJIZUtMRV9MSTlBd0xLRnE0RlZLSjNlSHpRZWw?oc=5",
-      "source": "BNamericas",
-      "published_utc": "2025-07-04T07:00:00+00:00",
-      "query": "CBMM nióbio OR ferronióbio OR niobium",
-      "flag": "green",
-      "title_en": "Brazil's federal government to take over nio... - BNamericas",
       "title_en_source": "passthrough"
     },
     {
@@ -409,6 +399,16 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Niobec unique in North America - Canadian Mining Journal",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeG5pLXoyTGYzR3BSXzJOWnFPVXUxWkl6MU1GSkY2VDhFT1otUHBJeGQ4Ync4by1RaENtd3BJYmZ4eGZCMmxFT0x6Ym8yN29JcXNZR0ZaTEZaWHlOUEpkSWlyM2czUmZRSUt2YXk3MS04bXZqakFuOGFNU20ySkxFSWdrOUhOVndBX0xDb0x1VQ?oc=5",
+      "source": "Canadian Mining Journal",
+      "published_utc": "2021-06-30T14:31:51+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "Niobec unique in North America - Canadian Mining Journal",
       "title_en_source": "passthrough"
     }
   ],
