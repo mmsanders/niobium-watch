@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-12T22:18:58.349085+00:00",
+  "as_of_utc": "2026-10-13T07:26:05.878474+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,13 +9,13 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 49,
+  "item_count": 48,
   "items": [
     {
       "title": "A Victory for Pro-American Candidate Bolsonaro Gives Washington an Opening to Leverage China’s Dependence on Brazil and Recalibrate the Global Balance of Power - Мілітарний",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZclM0V2xJYUZVUTVUa3Y3dU1uNktrUlJfS3I5NXdTRVFBMmphdVU1Umg1NEdVYlp5QXV2UHNFSVF0Qng5cUxFbGhTdDl5bThPNkJMV1B2VF9OMmlMQVZCYjY2R2FTSzk1SDhLOVFZQ2hObGVFQmZvVWdqTm0?oc=5",
       "source": "Мілітарний",
-      "published_utc": "2026-10-07T06:41:49+00:00",
+      "published_utc": "2026-10-07T06:30:54+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
       "title_en": "A Victory for Pro-American Candidate Bolsonaro Gives Washington an Opening to Leverage China’s Dependence on Brazil and Recalibrate the Global Balance of Power - Мілітарний",
@@ -322,16 +322,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "CBMM unveils world’s largest Niobium anode production facility - Engineer Live",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDFTbjJhdmtyYTNlWDZGYmRWR3k4VUZQeTJMck1RblViUGVRdkJtbm1tekZIWXN4MUlYbmRJeGdDMUxtMDFhLWRMRUpENE1kXzllVExNak11LTFxMWxEb1l4Y1FmUGkyWTBPWDI4Y3N2bWY3eDAwcFNmSDdWQjNuR3VLdFo2dkxad3daaF9tVlc?oc=5",
-      "source": "Engineer Live",
-      "published_utc": "2024-11-19T08:00:00+00:00",
-      "query": "CBMM nióbio OR ferronióbio OR niobium",
-      "flag": "green",
-      "title_en": "CBMM unveils world’s largest Niobium anode production facility - Engineer Live",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "CBMM opens niobium anode production facility in Brazil - Mining Technology",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnNiTGQ2UW5JRlh0bzh0N1B5elFiNEFrZE5FdW1LV0RuRk1HMlIzQzNKYzVtOXhnZVo2NWtzSmRZNXZlbFhab0RCVExqRGp0TVRMcjhBLWNmOGZBY0JMNUh1Yzc5TExUS2p0QVY4dmtWTHg1TEZwRElwNTNldzgtc1pPRjM?oc=5",
       "source": "Mining Technology",
@@ -359,6 +349,16 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "Toshiba, Sojitz and CBMM Unveil an Ultra-Fast Charging Electric Bus Prototype Powered by Next-Generation Lithium-ion Batteries with Niobium Titanium Oxide Anodes - 東芝",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Top critical mineral miner CBMM sees opportunity in EV batteries - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVJvT0tKMUVHdlhiRjFyNkQyY2Z2cVhreDlIVTFJaURUbml3WGladl8zNkFPUUZULTNxeGp0Yzg4SVI2MGtKSkw3OGtMY1QxTzVIU1U5bTRiRXowdU1SY0llWmhFQlVoWXgwYW53cjRmYk5vV2pKT0RHUGxPZDNGa1N2N0syVFBScTRtTS1VOG1SSGE1SWVn?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2024-05-13T07:00:00+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "flag": "green",
+      "title_en": "Top critical mineral miner CBMM sees opportunity in EV batteries - Mining.com",
       "title_en_source": "passthrough"
     },
     {
