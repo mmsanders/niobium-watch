@@ -2,17 +2,17 @@
   "project": "helium-watch",
   "commodity": "helium",
   "timezone": "America/Los_Angeles",
-  "dashboard_as_of": "2026-09-12",
+  "dashboard_as_of": "2026-10-13",
   "update_cadence": {
     "headlines": "twice daily via cron (no AI)",
     "supply": "annual USGS MCS + plant-watch headlines; no reliable public monthly world series"
   },
   "created_utc": "2026-09-12T16:55:48.728850+00:00",
-  "last_headline_fetch_utc": "2026-10-13T07:26:05.878474+00:00",
+  "last_headline_fetch_utc": "2026-10-13T16:24:06.597536+00:00",
   "last_supply_fetch_utc": "2026-09-12T16:55:48.728850+00:00",
   "last_error": null,
   "overall_status": "Stress",
-  "overall_rationale": "USGS MCS 2026 (Feb) still showed a two-country market: United States 81 million m³ and Qatar 63 million m³ of 190 million m³ world output in 2025e (~76% combined). After that snapshot, Ras Laffan — the single largest helium liquefaction cluster — was halted in early March 2026 after conflict damage to LNG trains that feed Helium 1/2/3; QatarEnergy declared force majeure. gasworld reported Helium 2 still offline on 24 Apr 2026 and only a partial Helium 2 restart by 30 Jun 2026, with full recovery tied to LNG feed and Strait of Hormuz shipping. Official QatarEnergy utilization is unpublished; trade press describes incomplete recovery through mid-2026. MRI, semiconductor, and aerospace buyers remain exposed to a handful of liquefaction plants. Posture is Stress (confirmed multi-month P0 outage), not a full global shutdown.",
+  "overall_rationale": "USGS MCS 2026 (Feb) still framed a two-country market: United States 81 Mm³ and Qatar 63 Mm³ of 190 Mm³ world output in 2025e (~76% combined). That snapshot predates the March 2026 Ras Laffan halt after conflict damage to LNG trains feeding Helium 1/2/3 and QatarEnergy force majeure. Recovery remains partial: gasworld (30 Jun) and AKAP (3 Aug) reported a partial Helium 2 restart with Jeddah routing; Air Liquide (28 Jul) expected that to ease H2 2026 pressure; industry color puts output well below normal, and no official utilization is published. October 2026 scan: QatarEnergy force majeure on LNG extended into early December; two damaged Ras Laffan trains (~17% of capacity) are reported out for 3–5 years; only ~17 LNG exits through Hormuz in September (~80% below pre-war), and QatarEnergy says it could normalize undamaged trains within weeks of a durable Hormuz reopening. Russia adds a yellow layer: Ukraine said it struck the Orenburg gas-processing/helium complex on 24 Jun 2026 (damage not independently verified), on top of Decree 404 export authorization through end-2027; the 25 Aug fire was at SIBUR-Sinopec's Amur Gas Chemical Complex, not Gazprom's Amur helium plant. No confirmed multi-week Shute Creek, Cliffside/Messer, or Algeria halt; no new USGS/BLM helium data since MCS 2026. Posture stays Stress (confirmed multi-month P0 disruption with only partial recovery), not a full global shutdown and not Normal.",
   "ui": {
     "title": "Helium Supply Watch",
     "subtitle": "Liquid / gaseous helium choke-point monitor",
@@ -108,12 +108,98 @@
   "sources_footer": [
     "USGS Mineral Commodity Summaries 2026 — Helium and Rare Gases (Feb 2026)",
     "USGS Mineral Commodity Summaries 2025 — Helium (Jan 2025)",
-    "gasworld Ras Laffan / Helium 2 reporting (Apr–Jun 2026)",
+    "gasworld Ras Laffan / Helium 2 / Air Liquide reporting (Apr–Jul 2026)",
+    "AKAP Energy Helium 2 / Jeddah logistics note (Aug 2026)",
+    "BLM Shute Creek CO2 disposal approval (Jun 2026)",
     "Messer — Federal Helium System / Cliffside close (27 Jun 2024)",
     "Qatargas / Air Liquide historical Ras Laffan Helium 1–3 nameplate notes",
     "USITC HTS 2804.29.00.10 helium"
   ],
   "baseline_signals": [
+    {
+      "id": "lng-2026-10-qatar-fm-december",
+      "date": "2026-10-12",
+      "title": "QatarEnergy LNG force majeure extended into early December; Hormuz LNG traffic ~80% below pre-war",
+      "summary": "EnterpriseAM (12 Oct, citing Reuters/Bloomberg): force majeure runs into early December; two damaged Ras Laffan trains (~12.8 Mtpa, ~17% of capacity) out for 3–5 years; ~12 empty carriers waiting near Qatar; North Field East first train ready in November with production expected 1Q 2027. BusinessToday (2 Oct): ~17 confirmed LNG exits through Hormuz in September, ~80% below pre-war. Helium 2 recovery stays tied to LNG feed; no official helium utilization published.",
+      "url": "https://enterpriseam.com/logistics/2026/10/12/qatarenergy-is-lining-up-new-lng-capacity-and-a-dozen-empty-carriers-as-hormuz-traffic-picks-up/",
+      "risk": "red",
+      "tags": [
+        "Qatar",
+        "Ras Laffan",
+        "Hormuz",
+        "force majeure",
+        "LNG"
+      ]
+    },
+    {
+      "id": "orenburg-2026-06-24-strike",
+      "date": "2026-06-24",
+      "title": "Ukraine reports strike on Orenburg gas-processing and helium complex",
+      "summary": "Ukraine's General Staff said it hit the Orenburg Gas Processing Plant and Orenburg Helium Plant (one complex) on 24 Jun 2026, later claiming four units damaged and operations suspended; Kazakhstan cut Karachaganak gas output >25% afterward. AP said effects could not be independently verified. Russian helium is already banned in US/EU, so the direct Western impact is limited; Asian supply and the broader Russian helium buffer are exposed.",
+      "url": "https://apnews.com/article/russia-ukraine-war-crimea-attacks-6076b6666c3312bbf9b4b8d875a52513",
+      "risk": "yellow",
+      "tags": [
+        "Russia",
+        "Orenburg",
+        "strike",
+        "sanctions"
+      ]
+    },
+    {
+      "id": "gasworld-2026-07-28-al-qatar-partial",
+      "date": "2026-07-28",
+      "title": "Air Liquide: Qatar partial restart expected to ease H2 2026 shortage pressure",
+      "summary": "gasworld / Air Liquide H1 call: CEO François Jackow said partial Qatar helium restart should limit shortage impact on Air Liquide in 2H 2026. Trade press earlier cited industry views that Helium 2 output remained below ~30% of normal; official QatarEnergy utilization unpublished.",
+      "url": "https://www.gasworld.com/story/air-liquide-expects-qatar-restart-to-ease-helium-supply-pressures/2255652.article/",
+      "risk": "red",
+      "tags": [
+        "Qatar",
+        "Air Liquide",
+        "Helium 2",
+        "shortage"
+      ]
+    },
+    {
+      "id": "akap-2026-08-03-he2-jeddah",
+      "date": "2026-08-03",
+      "title": "Industry sources: Helium 2 production resumed; Hormuz still largely closed; Jeddah shipping workaround",
+      "summary": "AKAP Energy: QatarEnergy resumed Helium 2 (~1.3 bcf/y nameplate; offtake Air Liquide/Linde/Iwatani) in recent weeks despite Hormuz largely closed, with shipping via Jeddah cited. Confirms incomplete recovery, not a full Ras Laffan return.",
+      "url": "https://www.akapenergy.com/post/qatar-quietly-restarts-helium-production-at-helium-2-shipping-via-jeddah",
+      "risk": "red",
+      "tags": [
+        "Qatar",
+        "Helium 2",
+        "Hormuz",
+        "logistics"
+      ]
+    },
+    {
+      "id": "russia-2026-04-14-he-export-controls",
+      "date": "2026-04-14",
+      "title": "Russia temporary helium export authorization outside EAEU through end-2027",
+      "summary": "Russian Government Decree No. 404 (13 Apr 2026) added helium (HS 2804.29.100.0) to temporary export-restricted goods. Exports outside the EAEU need PM/deputy approval on Minpromtorg proposals through 31 Dec 2027. Western buyers already largely blocked by US/EU import bans; this further constrains non-EAEU offtake from Amur/Orenburg.",
+      "url": "https://interfax.com/newsroom/top-stories/117116/",
+      "risk": "yellow",
+      "tags": [
+        "Russia",
+        "Amur",
+        "export controls",
+        "sanctions"
+      ]
+    },
+    {
+      "id": "blm-2026-06-shute-creek-co2",
+      "date": "2026-06-12",
+      "title": "BLM approves Shute Creek CO2 disposal well/pipeline — not a helium outage notice",
+      "summary": "BLM approved ExxonMobil Shute Creek 7-34 CO2 disposal project (Lincoln/Sweetwater, WY). Infrastructure for excess CO2 sequestration from the gas plant. No public helium production halt tied to this approval in the monthly scan.",
+      "url": "https://www.blm.gov/announcement/blm-approves-shute-creek-carbon-dioxide-disposal-and-pipeline-project",
+      "risk": "green",
+      "tags": [
+        "Shute Creek",
+        "BLM",
+        "Wyoming"
+      ]
+    },
     {
       "id": "gasworld-2026-04-24-he2-offline",
       "date": "2026-04-24",
@@ -189,18 +275,6 @@
         "Qatar",
         "capacity"
       ]
-    },
-    {
-      "id": "airliquide-2013-he2",
-      "date": "2013-07-08",
-      "title": "Air Liquide: Helium 2 ~38 million m³/y; Helium 1+2 ~58 million m³/y",
-      "summary": "Turnkey purification/liquefaction at Ras Laffan. Still the standard public nameplate citation for Helium 2. Not a 2026 operating rate.",
-      "url": "https://www.airliquide.com/group/press-releases-news/2013-07-08/qatar-start-worlds-largest-helium-unit",
-      "risk": "green",
-      "tags": [
-        "Qatar",
-        "Helium 2"
-      ]
     }
   ],
   "watch_kit": {
@@ -218,7 +292,7 @@
           "Helium 2 restart",
           "drone/missile damage"
         ],
-        "notes": "Single largest liquefaction cluster. Helium is an LNG by-product — plant output tracks Ras Laffan train availability, not a standalone mine. March 2026 halt + incomplete 2026 recovery is the live P0 event."
+        "notes": "Single largest liquefaction cluster. Helium is an LNG by-product — plant output tracks Ras Laffan train availability, not a standalone mine. March 2026 halt + only partial Helium 2 recovery through Jul–Aug 2026 (Hormuz/Jeddah logistics constrained) remains the live P0 event."
       },
       {
         "priority": "P1",
@@ -523,6 +597,7 @@
     "No reliable public monthly world production series (annual MCS only)",
     "News risk flags are monitoring judgments, not investment or procurement advice"
   ],
-  "last_cron_run_utc": "2026-10-13T07:26:05.878474+00:00",
-  "cron": "GitHub Actions twice daily (01:00 & 15:00 UTC)"
+  "last_cron_run_utc": "2026-10-13T16:24:10.159171+00:00",
+  "cron": "twice daily America/Los_Angeles 08:00 and 18:00",
+  "translation": "deep_translator Google via .venv after each headline fetch"
 }
