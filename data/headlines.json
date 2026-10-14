@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-13T20:26:19.632848+00:00",
+  "as_of_utc": "2026-10-14T05:53:35.312111+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 49,
+  "item_count": 48,
   "items": [
     {
       "title": "A Victory for Pro-American Candidate Bolsonaro Gives Washington an Opening to Leverage China’s Dependence on Brazil and Recalibrate the Global Balance of Power - Мілітарний",
@@ -49,16 +49,6 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "St George Mining starts pilot-scale test work to advance Araxá niobium and rare earths flowsheet in Brazil - Proactive Investors Australia",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "St George Mining starts environmental permitting for Araxá rare earths and niobium development - proactiveinvestors.com.au",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRi1UUTZWSl9BWDhLSzdjSTcxTXVvMWJVb2VDZThuS1pyblBBS3oteUVUTS1XN29ZN0FoUHBSSENnMktadmlEcGxERGdEdjF2dW9WMFNFTmZ4RnNQR3Q5UDNpS0p1RlN2V2tpaWYtWHYzUHVnTm9xcmxzOVhjSzBaOU9HbzFRY2pCYnhwZWZFV1VKUW01V0VXV0JERHhhdDB0bzRJbkh0S2hIQXhJVnlEYXp2TmFORE8wTWFteGphV1JPczVnaC1WM0NLdUxiamN0S05DNGpIbTJyb05QUG9xbmNnbkJLTTFUSUtMVUlTcXlkc2o2SEg5T1RaU0Q?oc=5",
-      "source": "proactiveinvestors.com.au",
-      "published_utc": "2026-08-25T07:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "St George Mining starts environmental permitting for Araxá rare earths and niobium development - proactiveinvestors.com.au",
       "title_en_source": "passthrough"
     },
     {
@@ -182,16 +172,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "St George finds high-grade niobium beyond Araxá resource estimate - smallcaps.com.au",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnFrWGNtaWktbkh2cVJ1Q1p5ak1GTUxpNGZWbUYzUG9sZkhuU3FIZTE4a2gyZy1WQnBNZXJfWDdlT2NFbFN3UWpFQXJIZ2R4N1psVElCcG5aSm5GNDRNc3h3eFU0U1lLWFZWZUZac0RuUHJUQjB4bm5wSFo0bjJNMUZJUXUyaUx2YXRrYWlUVEZYajQzakw1QUdwbk9PUU9xaVpUdHZRdjk1Ujkxcl90eFNCN1RlYW1wTzVj?oc=5",
-      "source": "smallcaps.com.au",
-      "published_utc": "2026-01-07T08:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "St George finds high-grade niobium beyond Araxá resource estimate - smallcaps.com.au",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "St. George targets up to R$2bn in niobium, rare earths - Valor International",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDRNTGFxTHRSeS1UVHlHNHdfbE1Mc2hHcncybFlJcE1ETngzVU5kVDVaNnJUWWd4clB1N1drRGpDTHVTM2d3MFlUT3YwV1laXzNNT0QySDM4dmltWGFMMUlEWkRrVnJlMkFFdDdvMWE4OElkd0E5Vm55QlBXRmphZXpjaHZfTXRmSUNMNWZrcnB0bFczb0t2eGNFUk5pbzkxT3prZlNPa0k2V0N6NDNWZU1wcnQzaGJPMDZF0gHKAUFVX3lxTE5HdzRSZHUxNlRvTnZKa1pnOHE3QW45cF9Dcl80Vm44WnU5STFNS0RxT2VwS055emEzVjZGWFBHUU54Mk1yTlRfbGU4d1h3SjROMHFJXzFhSXBxTkFnMTZxcTdlX3ZMZXFTUlA1RGdXNzQ0NWJHWENlYndSY0twN05UZE5na19WTXRSZzVONENvZ3VSN2VyMjk1YzlDZzh6VndRMjk3NXdXZU1xMC00QWZLU1dCQXNjVENRYlZJenlicUVMZ2F3cThzREE?oc=5",
       "source": "Valor International",
@@ -242,6 +222,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Research centers and companies in Brazil finding new applications for niobium - Revista Pesquisa FAPESP",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSkpJZGZuUEE3aDlMakNMdEM5NVJaaWpTZzhlNVNsTVRyXzBEekdTOFY0TlBMeU9aVzdobkN6dFhNQ1RSWm9DbE9DYnJSMU1XSDZWZzRUWl9tR2FWT2tST1BHQUtYeE9LekRJZnVkYy1mU1FmTHp1YkVWck9ydjJWOVE5blRoX2VEOUg5M3pLUVpTSVN3MFpaYThOWE1YV2c5QUVXRnN0NUp4UG9VVHVNY0tNc1FyUQ?oc=5",
+      "source": "Revista Pesquisa FAPESP",
+      "published_utc": "2025-08-26T00:20:55+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "Research centers and companies in Brazil finding new applications for niobium - Revista Pesquisa FAPESP",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "China's CMOC eyes more M&A opportunities in Africa, South America - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeXhLWnNLS1lTMk5ISkJSUXdqaVBsMEdMX1kyVjFxYnVlYXBzaWdFLUpFNVh5UWFLVEVGZWFxc2o3WFVFWHNVSEtzNm0wMGIydmxsWnBDdVpISzE0MU9Id3JMcjAyRHB5LWtkemJvTE40U1lnQi1OdnVKd2dERTEtR3NxOVlLN0dHX1VaTmFEaE05OFQ0d3hrT2ZzNmFQSmRXeXZOYWFoVUV6ZTBaeUR4bFZwaXdFZw?oc=5",
       "source": "Reuters",
@@ -259,16 +249,6 @@
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
       "title_en": "Niobium: poor recyclability and high dependence on Brazilian supply - PricePedia",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "In 2016, A $1.7 Billion Deal For Brazilian Niobium And Phosphate Mines Sealed The Battle Between Chinese CMOC's Expansion And Anglo American's Contraction - CPG Click Oil and Gas",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPS3RCNlFUcXZQaWdibFBvbVdnOEhLdnpHVHBTcFFpbGExMFgzUERnV1cwb3ZCMkNIWTZtNnJYRUhuc09kZ1k0RXlKLWg2N0F1RWRnZkdFWVplRkw1YmNrcENUcHA1YjhFcmhIazlPMGJ5bUxtRHVFV29wRm1aako5STVGTnBLQlZJSUhwTUF0cm9BMHVZMHJpQlJpczNiX01ZN0VjaUhjQzYyQTRzdzduaWtZTjZSZlV2WloyYWZPNGkybHg4NnNiU2Y1QzR3cmdwWC1XcmtsMXZyQzZGZ2d2VFU3T0xsN3NFUmZZN2FCcmduMndsZVg0WWNuTGVfbENqeWU0ZGxFTjU3dnA5WEhRbHAtVlREVjJfemhEZHE5NjJ4MUYzTVJHaU1B?oc=5",
-      "source": "CPG Click Oil and Gas",
-      "published_utc": "2025-06-26T07:00:00+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "yellow",
-      "title_en": "In 2016, A $1.7 Billion Deal For Brazilian Niobium And Phosphate Mines Sealed The Battle Between Chinese CMOC's Expansion And Anglo American's Contraction - CPG Click Oil and Gas",
       "title_en_source": "passthrough"
     },
     {
@@ -319,6 +299,16 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "CBMM opens niobium anode production facility in Brazil - Mining Technology",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "St George to Acquire Advanced High-Grade Araxa Niobium Project in World’s Leading Niobium Producing Address - Investing News Network",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnlDRW9XQy1HX1RFQUdZSUdwOUFhRlR2VUZ3TGlndWdGYUhNR3FvN0VRX1I5Vk1ld3ZOcnBvR1ZweGlVWXFLYUotTy1LSWF4WE9nLVhfZDdTcjk5cHBSMllwTTR3V0piSW9xV3JDWTZGdGJ5R2lpX2x2RWFCZ1Z2Y1hyRWg0S04xWE9YVFd1LUJwcVJzaWhzVUE0Z25BbGhpbUo3aWlMZ1dKQlA3X0hCNGpLOG5CSGZ6Rk43SnFlV2hReVVLVXBvaVFCNnJIZw?oc=5",
+      "source": "Investing News Network",
+      "published_utc": "2024-08-05T07:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "St George to Acquire Advanced High-Grade Araxa Niobium Project in World’s Leading Niobium Producing Address - Investing News Network",
       "title_en_source": "passthrough"
     },
     {
@@ -409,6 +399,16 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "Niobec unique in North America - Canadian Mining Journal",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "The niobium controversy - FAPESP",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FVWl0RHdLelZZdWhwREJmejhqdjdBblVFVXZlVlZWaXJyenBLSDVEMmpEb3RRZnYxc2xaR2kzdXZnSmwwMkk1S3FSZFRvNmhucVJyZEpBQURmemFSOFNBdktDbm9WNDNIaG1LcHYwQUI?oc=5",
+      "source": "FAPESP",
+      "published_utc": "2020-06-02T06:34:46+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "The niobium controversy - FAPESP",
       "title_en_source": "passthrough"
     }
   ],
