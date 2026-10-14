@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-14T05:53:35.312111+00:00",
+  "as_of_utc": "2026-10-14T19:03:41.436427+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -11,8 +11,38 @@
     "MRI helium shortage",
     "Shute Creek helium OR LaBarge helium"
   ],
-  "item_count": 75,
+  "item_count": 76,
   "items": [
+    {
+      "title": "Helium Evolution Identifies 10 Grasslands Drilling Targets as Helium Supply Tightens - Streetwise Reports",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU3ZZdEZSdEowbHpPUUk2N0MwZk9tMWJaVTMxenJGVDZLeXV6aHdmc1hFRnplcld3dWF1ZV9zcmc2c2dEM011Tmc2alBXMUJfZXlkMHNTQ24tUUktMHlFMmlROTVZdmJYdjFsV1NfOVJBaG9hTnB2OE8ydjBsZlVBVGhLYWlFTVZ6TWNlal9oZ3RWM1A1WEZBMG1SQVdTM0VOTW80azc1OFlNZXZvczJ6cFBMZ1lTSGd1bHFPc25FZ3JaZzZ2cDlvRy1LQk5lY2lfQ0cybEh4SGQtdw?oc=5",
+      "source": "Streetwise Reports",
+      "published_utc": "2026-10-14T09:52:06+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "Helium Evolution Identifies 10 Grasslands Drilling Targets as Helium Supply Tightens - Streetwise Reports",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Pulsar Helium Inc. Slides as Bearish Momentum Intensifies: Downside Risk Mounts Amid Valuation Scrutiny and Sector Headwinds - kalkine.ca",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcHBYd2x1OE1ZR093RmQxaGVtbnZVeXVwRzhjRFp4WHFDSkdIc20xcUJfVVZmM2NJck1Kak1aajdnZlpzeGtlaDFKSWFjUGc2Zk1Nd0xxREYySmFZTlM1X19fQ2VtUWkyMFB5d1hQbkFIWnVJMzJYRlAtazhISXJWdDhGX3dZQUVCZ3A3R2ZfNW50UlJzTU1RWE1uWUhZbzkzS3o5aHQ4NmFnOXgwTE1qSjRkQ1pic1ZEc1ZzbS1HQzJIWXBfV294VE9HdTI5NkNiYlp5TUVUZXIwVFB0NHFmU0dqRFk3cHc5?oc=5",
+      "source": "kalkine.ca",
+      "published_utc": "2026-10-14T09:03:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "Pulsar Helium Inc. Slides as Bearish Momentum Intensifies: Downside Risk Mounts Amid Valuation Scrutiny and Sector Headwinds - kalkine.ca",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Pulsar Helium and Lunar Helium-3 Mining Sign Evaluation Agreement for Helium-3 Recovery Assessment at Topaz - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOb011Nl90aV9Udm93RDBhNWdKWTk3VXhUeFFuaklIT3JJZjVKSElmelg0Z0EwMnNUVDVNLWFoVG5PQ3FYQXJVQkRMYnRVT3pleGotOGgwMFNZeENVUGJXbUpVOG9GdmtLb3lqZmVxdEROVl9SU1ljY0s3VE1saEJXRklqWUJPM1ljbDFJZHk1blBEWXE0R0ZGN2pzMmdja2tmMEU4a2xSX2xiaFJnTGxyWDUyWS1mZ3pEbWtrUUlsZ2Z4Z2x6TFItV3QtamRLQjJOcVNBejMzQjYwamxzZExCZkhnOWdodjFLWUNieldzSEJNamRUUDE2cmNNbDBMdDVXdTRvSDQtY0VjSlE?oc=5",
+      "source": "GlobeNewswire",
+      "published_utc": "2026-10-14T06:00:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "Pulsar Helium and Lunar Helium-3 Mining Sign Evaluation Agreement for Helium-3 Recovery Assessment at Topaz - GlobeNewswire",
+      "title_en_source": "passthrough"
+    },
     {
       "title": "Helium company plans to build processing plant in Two Harbors - KAXE",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaGN6NXQ3Q2lTWkhvVTliZnkwN1hiZzNkQkFUSnIzVHFvalRhRi11MUl5Uzg2U3BIb3NjcDJQSDJpS0RRbWI3V25DRkVldG9ySnZDX3JReWNkQ29ENWF6bFJ6dnVvVTIxT3pZZFFhMkNPRjdYazN3YUpWeVhmaURnQ01fdjVsbTJNSlFaZQ?oc=5",
@@ -31,16 +61,6 @@
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
       "title_en": "Primordial Helium Further Confirms Our Understanding Of The Big Bang - Universe Today",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Why the world keeps running out of Helium - Substack",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTTVSOGNvU1ZnN2tQTnhBSTVfY0pKUWo4TE9FUlJvTjRpbm9ONG5DYUVBM25RdXkyM2V0MEJMVWI5QXY2cjFXMWdHNW4xY0E4MENhQzhkMmpKTFFITE5VTm1UeFlKbTRaQzM3UlBseGtrUzBMUDRRRHBkV05rVWlIRQ?oc=5",
-      "source": "Substack",
-      "published_utc": "2026-10-08T03:20:22+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "Why the world keeps running out of Helium - Substack",
       "title_en_source": "passthrough"
     },
     {
@@ -127,7 +147,7 @@
       "title": "Why the Middle East Helium Supply Shock Didn’t Hit Chip Makers - WSJ",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX3FvUzN1UkFTY0pzZjgwWDhwcDJCaHBkbXl0VEVWV01kUENOSFMyRjJQb0FsTzRoREdHVlVNY3B4cFdQVGF1eHk1MzE2OUxyd1ZhdjVVRGs5TkFZU2NLczRMVWpYbkJoa1BzOWRsTUhoaUdCMUlLWmpBQ2NGakt1dXJTLTVleVdoV0FQYk1jbHVIUHVLdGVZZTlMOHItSU0?oc=5",
       "source": "WSJ",
-      "published_utc": "2026-06-25T07:00:00+00:00",
+      "published_utc": "2026-06-25T11:20:18+00:00",
       "query": "helium Ras Laffan",
       "flag": "green",
       "title_en": "Why the Middle East Helium Supply Shock Didn’t Hit Chip Makers - WSJ",
@@ -324,16 +344,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Iran war deflates critical helium production supplies - Axios",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sM1doNmxSNDgyZEVLTm83cG1aMDdLTUxSenp4U3lJZFpVdlNZcHI3MFpZeV9WOUVJLXY0U1NHMjRpbWdpb0daakNZMEpxWkIxa1ZNY2FLbjNCblJNSkFwWmwxMFBwRHdjcDE3aTNvdUx5NUU?oc=5",
-      "source": "Axios",
-      "published_utc": "2026-04-07T07:00:00+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "Iran war deflates critical helium production supplies - Axios",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Russia’s Helium Card in the AI Arms Race - The National Interest",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1NuTXdVTU9vM1lmUTF0cjRYb0NHdVc3VnBtalFmbWozZm5kYXpTLXZsei1xZFo0eVc0NnM0S1pQTVBuQkstZzlrZmRZMnJfbjV5SnQ5X0xKRDM3XzZkbEJsS0JCZS0teHU5TjF2aFpMQm0wM1ROSkR6M0RlNXNYY3Z6MGNNUGdkNEE?oc=5",
       "source": "The National Interest",
@@ -401,16 +411,6 @@
       "query": "MRI helium shortage",
       "flag": "green",
       "title_en": "The war in the Middle East is disrupting helium supplies. That's bad news for more than party balloons. - Marketplace.org",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Helium \"Tsunami\" to Hit Chipmakers - The Surprising Winner to Profit From the Coming Shortage - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb05XRHFLU290U2p0TEIxNFN0cDk5Y015RXpPc0IyR0cwMnBha0xYVGRHWXB1djlSanA0RkI1cmxsTVdDbFdTTzRvRlQ2WlRBMk83aWxiZ21XR2c5WTY2MDl5aEQzYmZteXdFMy1TZ0VlVWlJLVlmOGhyd2ZlZEUwSW9rYU80TlBvN29Wbno0aUlNeHl1MHJmOHJqd2RVbXJfc3JtNy1sWnRucTZ1LVpmNmtVNGQwbGtkaFBLUS1XTmlRek1XaHBvUHdhUm5EQQ?oc=5",
-      "source": "24/7 Wall St.",
-      "published_utc": "2026-03-30T07:00:00+00:00",
-      "query": "Shute Creek helium OR LaBarge helium",
-      "flag": "red",
-      "title_en": "Helium \"Tsunami\" to Hit Chipmakers - The Surprising Winner to Profit From the Coming Shortage - 24/7 Wall St.",
       "title_en_source": "passthrough"
     }
   ],
