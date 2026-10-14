@@ -2,17 +2,17 @@
   "project": "palladium-watch",
   "commodity": "palladium",
   "timezone": "America/Los_Angeles",
-  "dashboard_as_of": "2026-09-14",
+  "dashboard_as_of": "2026-10-14",
   "update_cadence": {
     "headlines": "twice daily via cron (no AI)",
     "supply": "annual USGS MCS PGM chapter + company quarterlies; no reliable public monthly world mine series"
   },
   "created_utc": "2026-09-12T21:31:05.083214+00:00",
-  "last_headline_fetch_utc": "2026-09-14T16:21:05.407172+00:00",
+  "last_headline_fetch_utc": "2026-10-14T16:10:43.011138+00:00",
   "last_supply_fetch_utc": "2026-09-12T21:31:05.083214+00:00",
   "last_error": null,
   "overall_status": "Watch",
-  "overall_rationale": "USGS MCS 2026 (Feb): world palladium mine output 190,000 kg (2025e), with Russia 84,000 kg (~44%) and South Africa 70,000 kg (~37%) — ~81% combined. That two-country concentration remains the structural choke. Live overlays (Sep 2026 brief): (1) USITC 29 May 2026 negative injury vote ended the Russian unwrought Pd AD/CVD case — Commerce will not issue orders despite final AD 132.83% / CVD 109.1% margins (USITC Pub. 5749); US channel friction eased vs earlier Watch narrative. (2) Sibanye-Stillwater USW strike at Stillwater East + Columbus metallurgical complex began 3 Sep 2026; East Boulder remains under a separate CBA and is not in the notice (SENS 2 Sep 2026; Stillwater East ~76k 2Eoz H1 / ~55% of US PGM). Small vs Norilsk but the sole US primary Pd mine node and only domestic PGM smelter/refinery. (3) Nornickel H1 2026 Pd 1.12 Moz (−14% YoY) on scheduled maintenance/grades; FY2026 guidance reiterated 2.415–2.465 Moz — not a multi-week force majeure. Nadezhda main-furnace rebuild (~270 days, ~half capacity) flagged for 2027. (4) SA load-shedding pressure has eased on a multi-month quiet grid stretch, though producers still contract private power. Offset: JM PGM Market Report May 2026 sees possible small 2026 Pd surplus (~214 koz) as autocat demand softens and recycling recovers; Nornickel similarly cites ~0.3 Moz pre-investment surplus / balanced after investment. Posture remains Watch (RU+SA concentration + active Stillwater East/Columbus strike + Nornickel lower 2026 run-rate), not Stress (no confirmed multi-week Norilsk halt; no simultaneous RU+SA mine crisis; no new Western physical embargo).",
+  "overall_rationale": "USGS MCS 2026 (Feb): world palladium mine output 190,000 kg (2025e), Russia 84,000 kg (~44%) + South Africa 70,000 kg (~37%) = ~81% — the structural two-country choke. Oct 2026 brief: (1) Sibanye-Stillwater Stillwater East + Columbus USW strike (from 3 Sep) ENDED — new 3-yr CBA ratified, SENS 7 Oct 2026, staff back on day shift 9 Oct; East Boulder CBA finalised ~29–30 Sep. US primary node de-escalated from red to green (restart ramp + Montana costs still watched). (2) New US trade friction: Lindsey O. Graham Sanctioning Russia and Iran Act signed 18 Sep 2026 — Sec. 112 requires duties 'up to 500%' on all Russian-origin imports within 30 days (~18–19 Oct 2026), no minimum rate, broad presidential waiver; not palladium-specific and rate/implementation pending. Separate from the closed AD/CVD case (USITC 29 May 2026 negative; no orders). SFA/Heraeus (Sep 2026) notes Russian Pd imports into the US had already stopped. (3) Nornickel: H1 2026 Pd 1,199 koz (−14% YoY) on lower-grade feed; FY2026 guidance 2,415–2,465 koz reiterated 27 Jul. From Jul 2026 all Nornickel Pd concentrate is produced at Kola MMC (Monchegorsk) — a single-node concentration (~40% of world Pd per plant technologist); drone-risk commentary only, no reported strike/outage. (4) SA: no belt-wide strike or load-shedding crisis; Sibanye Kwezi shaft (Rustenburg) in s189A consultations (~1,114 jobs, reserve depletion) — small, yellow. Valterra FY guidance 3.0–3.4 Moz PGM unchanged; Implats FY27 refined guidance 3.30–3.50 Moz 6E. Balance/demand: JM (May 2026) sees ~214 koz 2026 Pd surplus; SFA/Heraeus (Sep 2026) sees 345 koz deficit (primary 5.91 Moz −4%, recycling 3.01 Moz +7%, gross demand 9.27 Moz −2%). Price at ~1-yr lows in early Oct on weak ICE/hybrid auto demand. Posture stays Watch (RU+SA concentration; Nornickel lower run-rate + Kola single-node; new US Russia-tariff mandate pending), not Stress (no multi-week Norilsk/Kola halt, no simultaneous RU+SA disruption, no Western physical embargo with offtake blocked). Normal not yet: Sec. 112 is a fresh trade-friction escalation and Nornickel 2026 output is ~10% lower.",
   "ui": {
     "title": "Palladium Supply Watch",
     "subtitle": "PGM (palladium) choke-point monitor",
@@ -97,7 +97,7 @@
     }
   ],
   "logistics_baseline": {
-    "route": "Russia: Norilsk/Talnakh concentrate → Nornickel refining → metal to China/Europe/US/other (US AD/CVD case ended 29 May 2026 without orders after USITC negative injury vote). SA: Bushveld mines → Amplats/Impala/Sibanye refining → exports. US: Stillwater/East Boulder (Montana) domestic feed + heavy import reliance; Stillwater East + Columbus on strike from 3 Sep 2026 (East Boulder separate CBA). Secondary: spent autocatalysts → collectors → PGM refiners.",
+    "route": "Russia: Norilsk/Talnakh ore → Norilsk smelting → copper anode slime calcine shipped to Kola MMC (Monchegorsk), sole Nornickel Pd-concentrate node since Jul 2026 → refined metal to China/Europe/other (US AD/CVD case ended 29 May 2026 without orders; Russian Pd imports to US reportedly already halted; Sec. 112 Russia-tariff mandate due ~18–19 Oct 2026). SA: Bushveld mines → Valterra (ex-Amplats)/Impala/Sibanye refining → exports. US: Stillwater/East Boulder (Montana) domestic feed + heavy import reliance; Stillwater East + Columbus strike 3 Sep–7 Oct 2026 resolved (return 9 Oct). Secondary: spent autocatalysts → collectors → PGM refiners.",
     "form": "Unwrought Pd / powder / sponge; semi-manufactured; spent autocatalyst scrap. Not bulk-ore AIS tracking.",
     "hs_ncm": "HS 7110.21 / HTS 7110.21.00.00 (unwrought/powder); 7110.29 (semi); 7112 (waste/scrap)"
   },
@@ -109,30 +109,93 @@
     "Sibanye-Stillwater Montana restructuring notices (2024–25)",
     "USITC HTS 7110.21.00.00 / 7110.29.00.00; Schedule B 7110.21",
     "USITC News Release 26-077 (29 May 2026) — Unwrought Palladium from Russia negative determinations",
-    "Sibanye-Stillwater SENS 2 Sep 2026 — Stillwater East / Columbus strike notice",
-    "Nornickel H1/1Q 2026 production results; JM PGM Market Report May 2026"
+    "Nornickel H1/1Q 2026 production results; JM PGM Market Report May 2026",
+    "Sibanye-Stillwater SENS 7 Oct 2026 — Stillwater East / Columbus CBA ratified, strike ended",
+    "Nornickel 1H2026 production results (27 Jul 2026)",
+    "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 (H.R. 5334) Sec. 112 — Debevoise 7 Oct 2026; CRS LSB11474",
+    "SFA (Oxford) / Heraeus — The Palladium Standard, Sep 2026",
+    "Barents Observer / ArcticToday 16 Jul 2026 — Nornickel Pd concentrate consolidated at Kola MMC",
+    "Mining Weekly 8 Sep 2026 — Sibanye Kwezi shaft s189A"
   ],
   "baseline_signals": [
     {
-      "id": "sibanye-stillwater-east-strike-2026-09",
-      "date": "2026-09-03",
-      "title": "USW strike at Sibanye-Stillwater Stillwater East + Columbus metallurgical complex",
-      "summary": "SENS 2 Sep 2026: strike notice for Stillwater East mine and Columbus metallurgical facility from 3 Sep 2026 07:00 MT. East Boulder under separate CBA and not included. H1 2026 US PGM 137,930 2Eoz; Stillwater East 76,334 2Eoz (~55%). Company warned prolonged stoppage risks sustainability of sections; production impact duration-dependent.",
-      "url": "https://www.sibanyestillwater.com/",
-      "risk": "red",
+      "id": "sibanye-stillwater-east-strike-ends-2026-10",
+      "date": "2026-10-07",
+      "title": "Stillwater East + Columbus strike ends: USW ratifies 3-yr CBA; return to work 9 Oct",
+      "summary": "SENS 7 Oct 2026: new CBA effective 1 Jun 2026–31 May 2029 (4.5% yr1; ≥3.5%/CPI yr2; ≥3.0%/CPI yr3) closes the strike running since 3 Sep 2026; employees resume day shift Fri 9 Oct 2026. East Boulder CBA finalised ~29–30 Sep without a strike. ~420 workers covered (Montana Free Press). Watch restart ramp and Montana cost pressure (H1 AISC cited ~$1,347/2E oz by trade press).",
+      "url": "https://www.businessday.co.za/companies/company-strategy/2026-10-07-strike-at-sibanyes-stillwater-east-ends-with-wage-deal/",
+      "risk": "green",
       "tags": [
         "Stillwater",
         "United States",
         "Sibanye",
-        "strike"
+        "strike resolved"
+      ]
+    },
+    {
+      "id": "us-sanctioning-russia-act-sec112-2026-09",
+      "date": "2026-09-18",
+      "title": "US Sanctioning Russia and Iran Act signed: Sec. 112 'up to 500%' duties on all Russian imports due ~18–19 Oct",
+      "summary": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 signed 18 Sep 2026. Sec. 112 directs the President, within 30 days, to raise duties on all goods from Russia to a rate of up to 500% ad valorem (no minimum; cumulative; broad Sec. 115 waiver). Not palladium-specific; rate and scope pending implementation. Separate from closed AD/CVD case. Russian Pd flows to the US had reportedly already stopped (SFA/Heraeus Sep 2026), so near-term physical impact is limited; watch for Pd carve-outs/waivers and any EU/UK follow-on.",
+      "url": "https://www.debevoise.com/insights/publications/2026/10/lindsey-graham-act-expands-us-sanctions-and-tariff",
+      "risk": "yellow",
+      "tags": [
+        "trade",
+        "sanctions",
+        "tariff",
+        "Russia",
+        "United States"
+      ]
+    },
+    {
+      "id": "nornickel-kola-pd-consolidation-2026-07",
+      "date": "2026-07-16",
+      "title": "Nornickel moves all Pd-concentrate production to Kola MMC (Monchegorsk) from Jul 2026",
+      "summary": "Processing of copper anode slime calcine shifted from Norilsk Copper Plant to Kola MMC; plant technologist says the site now accounts for ~40% of global Pd production (Barents Observer/ArcticToday). Efficiency gain, but a single-node choke within the P0 producer. Drone-risk commentary exists; no reported attack or outage as of mid-Oct 2026.",
+      "url": "https://www.arctictoday.com/all-of-nornickels-palladium-to-be-processed-on-the-kola-peninsula/",
+      "risk": "yellow",
+      "tags": [
+        "Nornickel",
+        "Kola",
+        "Monchegorsk",
+        "refining",
+        "single-node"
+      ]
+    },
+    {
+      "id": "sibanye-kwezi-s189a-2026-09",
+      "date": "2026-09-08",
+      "title": "Sibanye-Stillwater opens s189A consultations on Rustenburg Kwezi shaft (~1,114 jobs)",
+      "summary": "Kwezi shaft at limits of approved mining licence area / end of economic life; ~781 employees + 333 contractors potentially affected; Kwezi Shallows project delayed by objections/appeals. Small vs SA belt; a reserve-depletion yellow, not a strike.",
+      "url": "https://www.miningweekly.com/article/sibanye-stillwater-proposes-restructure-of-south-african-pgm-shaft-1-114-jobs-on-the-line-2026-09-08",
+      "risk": "yellow",
+      "tags": [
+        "South Africa",
+        "Sibanye",
+        "Rustenburg",
+        "restructuring"
+      ]
+    },
+    {
+      "id": "sfa-heraeus-palladium-standard-2026-09",
+      "date": "2026-09-17",
+      "title": "SFA/Heraeus Palladium Standard: 2026 Pd deficit 345 koz; primary 5.91 Moz (−4%), recycling 3.01 Moz (+7%)",
+      "summary": "Russia 2,465 koz (−10%) on lower-grade feed; SA 2,205 koz; North America 555 koz. Gross demand 9.27 Moz (−2%); light-vehicle production ~92M (−~1M) on Middle East war + weak China; catalysed LVs ~75M. Price forecast $1,100–1,600/oz (avg $1,455) next six months. Contrasts with JM May 2026 ~214 koz surplus — balance is near-flat either way.",
+      "url": "https://www.heraeus-precious-metals.com/dam/jcr:93ec4812-18fe-40fd-91c5-a9771579ac7c/the-heraeus-palladium-standard-2026.2026-09-17-14-24-13.pdf",
+      "risk": "green",
+      "tags": [
+        "market balance",
+        "recycling",
+        "autocatalyst",
+        "demand"
       ]
     },
     {
       "id": "nornickel-h1-2026-maintenance",
-      "date": "2026-06-15",
-      "title": "Nornickel H1 2026 Pd 1.12 Moz (−14% YoY) on scheduled maintenance; FY guidance held",
-      "summary": "Company: H1 palladium 1.12 Moz (−14% YoY); Q2 590 koz. Scheduled equipment maintenance + grades. FY2026 guidance reiterated 2.415–2.465 Moz Pd. Separate notes: Nadezhda furnace rebuild planned ~2027 (~270 days / ~half capacity).",
-      "url": "https://www.nornickel.com/",
+      "date": "2026-07-27",
+      "title": "Nornickel H1 2026 Pd 1,199 koz (−14% YoY) on lower-grade feed; FY guidance held",
+      "summary": "Company release 27 Jul 2026: H1 palladium 1,199 koz (−14% YoY); Q2 590 koz (−3% QoQ), Q1 608 koz. Decline from feedstock metal composition / lower grades. FY2026 guidance reiterated 2,415–2,465 koz Pd. Separate notes: Nadezhda furnace rebuild planned ~2027 (~270 days / ~half capacity).",
+      "url": "https://nornik-upload.storage.yandexcloud.net/iblock/9f2/9f281df9f30d854f9ff98e521e839eae/nornickel_production_results_1n_2026_eng_full.pdf",
       "risk": "yellow",
       "tags": [
         "Norilsk",
@@ -227,22 +290,23 @@
       {
         "priority": "P0",
         "id": "norilsk-nornickel",
-        "name": "Nornickel — Norilsk / Talnakh (Russia)",
+        "name": "Nornickel — Norilsk / Talnakh + Kola MMC Monchegorsk (Russia)",
         "share_approx": "~44% of world mine Pd 2025e (USGS Russia 84 of 190 thousand kg)",
         "metric": "USGS Russia 84,000 kg (2025e). Company FY2025: 2,725 koz Pd (~84.8 t). Dominant single-producer choke.",
         "watch": [
+          "Kola MMC Monchegorsk (sole Pd-concentrate node since Jul 2026)",
           "metallurgical plant outages",
           "ore grade / disseminated feed",
-          "sanctions / AD-CVD",
+          "sanctions / tariffs (US Sec. 112)",
           "Arctic logistics",
           "China offtake"
         ],
-        "notes": "Largest single palladium producer. Western buyers face sanctions/AD friction; metal still sets global availability via non-US destinations."
+        "notes": "Largest single palladium producer. FY2026 guidance 2,415–2,465 koz (vs 2,725 koz 2025). Since Jul 2026 all Pd concentrate is produced at Kola MMC — a single-node choke. Western buyers face sanctions/tariff friction; metal still sets global availability via non-US destinations."
       },
       {
         "priority": "P1",
         "id": "sa-bushveld-amplats",
-        "name": "Anglo American Platinum (Amplats) — Bushveld Complex (South Africa)",
+        "name": "Valterra Platinum (ex-Anglo American Platinum / Amplats) — Bushveld Complex (South Africa)",
         "share_approx": "Largest SA PGM producer; SA country total ~37% world Pd (USGS 70,000 kg 2025e)",
         "metric": "Country-level USGS only. Company reports 6E/4E ounces — convert to Pd carefully.",
         "watch": [
@@ -262,7 +326,7 @@
         "metric": "USGS SA country total 70,000 kg Pd (2025e). No official USGS company split.",
         "watch": [
           "strikes",
-          "shaft closures",
+          "shaft closures (Kwezi s189A)",
           "restructuring",
           "power",
           "safety stoppages"
@@ -276,12 +340,13 @@
         "share_approx": "Only primary US PGM mines; USGS US 6,200 kg Pd (2025e) ~3% world",
         "metric": "Pd-dominant J-M Reef (~3.5:1 Pd:Pt). 2024–25 restructuring cut Montana output sharply.",
         "watch": [
+          "post-strike restart ramp (from 9 Oct 2026)",
           "C&M status",
           "headcount / section restarts",
           "Section 45X credits",
-          "US AD/CVD politics"
+          "US Russia-tariff politics"
         ],
-        "notes": "Small vs Norilsk/SA but the sole US primary Pd source and the AD/CVD petitioner narrative node."
+        "notes": "Small vs Norilsk/SA but the sole US primary Pd source and only domestic PGM smelter/refinery. Stillwater East + Columbus strike 3 Sep–7 Oct 2026 resolved with 3-yr CBA; East Boulder CBA finalised end-Sep."
       },
       {
         "priority": "P2",
@@ -451,9 +516,9 @@
       "News risk flags are monitoring judgments, not investment or procurement advice"
     ]
   },
-  "last_cron_run_utc": "2026-09-14T16:21:08.732710+00:00",
+  "last_cron_run_utc": "2026-10-14T16:10:43.914140+00:00",
   "cron": "twice daily America/Los_Angeles 08:00 and 18:00",
   "translation": "deep_translator Google via .venv after each headline fetch",
-  "last_brief_utc": "2026-09-14T16:35:43.094136+00:00",
-  "last_status_review_utc": "2026-09-14T16:35:43.094136+00:00"
+  "last_brief_utc": "2026-10-14T16:22:33.140737+00:00",
+  "last_status_review_utc": "2026-10-14T16:22:33.140737+00:00"
 }
