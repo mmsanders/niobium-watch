@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch niobium and helium headlines (Google News RSS)
+      - name: Fetch niobium, helium and palladium headlines (Google News RSS)
         run: |
           python3 << 'PY'
           import json, re, urllib.parse, urllib.request, xml.etree.ElementTree as ET
@@ -60,6 +60,20 @@ jobs:
                   ],
                   "red": ["strike","shutdown","outage","explosion","fire","sanction","export ban","force majeure","offline","halt","missile","drone","shortage"],
                   "yellow": ["delay","investigation","lawsuit","protest","capacity","expans","cut","maintenance","restart","partial","allocation","surcharge","hormuz"],
+              },
+              "palladium": {
+                  "dir": Path("data/palladium"),
+                  "queries": [
+                      "Norilsk Nickel palladium OR Nornickel palladium",
+                      "Amplats OR Anglo American Platinum palladium",
+                      "Impala Platinum PGM OR Impala palladium",
+                      "Sibanye Stillwater palladium OR East Boulder",
+                      "palladium supply OR palladium shortage",
+                      "palladium sanctions OR Russia palladium antidumping",
+                      "Zimplats palladium OR South Africa load shedding PGM",
+                  ],
+                  "red": ["strike","shutdown","outage","explosion","fire","sanction","export ban","force majeure","offline","halt","embargo","shortage","antidumping","anti-dumping","interdiction"],
+                  "yellow": ["delay","investigation","lawsuit","protest","capacity","expans","cut","maintenance","restart","partial","allocation","surcharge","load shedding","load-shedding","restructuring","care and maintenance","duty","tariff","guidance"],
               },
           }
 
@@ -133,8 +147,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/headlines.json data/meta.json data/helium/headlines.json data/helium/meta.json
-          git diff --staged --quiet || git commit -m "chore: refresh niobium and helium headlines"
+          git add data/headlines.json data/meta.json data/helium/headlines.json data/helium/meta.json data/palladium/headlines.json data/palladium/meta.json
+          git diff --staged --quiet || git commit -m "chore: refresh niobium, helium and palladium headlines"
           git push
 
   deploy:
