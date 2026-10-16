@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-16T05:33:16.159675+00:00",
+  "as_of_utc": "2026-10-16T18:31:45.392291+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,16 +9,16 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 46,
+  "item_count": 47,
   "items": [
     {
-      "title": "North American Niobium Airborne Survey Identifies Rare Earth Targets at Bardy SE - Junior Mining Network",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQkVoZUFSWnJ4Zk5jSE5HS04tWGMzS2ZPY2t2SnNlcXRhZDlTV29ER0ZFVkpsUlBJcXJwQk10SWUtUG5qU0dSd3FyUVZjbVBoT2M2ZmlSVE5qVXd1ZElfRWF2ZUpsdVZ6ekNmc1NXY0ZiMVVrU1dfMGY2MUg3OFAtdm9sSHVPUGxEZUtncEc2R21mMnVmS1p2UjRQci0xUmRRSnF1ZXNuQjMtcGJpOVQzS3JkYjN3VjJEbkU0dGxqUFRkNzJSaHFKYzNSYndrVzdMTnlmYktBcVR3ckRlWERxNWpBTlhMWVFyanItRXJR?oc=5",
-      "source": "Junior Mining Network",
-      "published_utc": "2026-10-14T11:38:23+00:00",
+      "title": "NIOB Airborne Survey Identifies Rare Earth Targets at Bardy SE - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeHZTNGl6d1VwbGd5MC1nRkVGM3hiQkZXMktUZXlUMDI4aml6SVNJN3k0TmI0RFpCSVJLbnR3Q2Y3dFppVWMtX3JZdEpQS3ZHRWU5VHRpNjQwUm9Jck9CRFdEdUhIX3BMbG1panljYXBzWGpVQnJjNVRwcG1YeFhqanNjc053NWJoNkE1WmpSaDN1WVVJeDd2ZEFBZjdlWXBnT2oyaURnT21ZWm1MbWNmM0lmb1ljX3lBdkE1YzQxMDVWVGZqTjVoLUtrQWw5c1FBSGfSAdcBQVVfeXFMUGcyQ0VhdXNyRmhFRF9uTGlnMkNQVTktWUtqMTNxZlhlRHhITVBDdm54YllmSE16UW9pdkxfZ1hGUzVBenFwM1VkMG8xUUFqV01pNTZxcTFnTUEtVEcySlpLcWJhU3VBVXN4VWpPYUI1cXZkUEIwT2xPVjFxaTJ3WTRFcDVSQXZ2aEtiWkM1dHlSLUZnMFRsX0VTUGp2ZXIybjFCVEZHQTJwSVFtclZQZmY0LS1sdFpMWjlfcTd3VXhtdVBOdEFxTWlwcDlhZ3Jja2NSQUotY00?oc=5",
+      "source": "The Manila Times",
+      "published_utc": "2026-10-14T11:34:07+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "North American Niobium Airborne Survey Identifies Rare Earth Targets at Bardy SE - Junior Mining Network",
+      "title_en": "NIOB Airborne Survey Identifies Rare Earth Targets at Bardy SE - The Manila Times",
       "title_en_source": "passthrough"
     },
     {
@@ -39,16 +39,6 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "St George steps up Araxá testing - The Australian",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "St George Mining starts pilot-scale test work to advance Araxá niobium and rare earths flowsheet in Brazil - Proactive Investors Australia",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPbERxb29zZlZMcnRyZTVSNTVFNVd3dmo3Vy1ZV1lsaFFZczJnSVZjNEZ2eDRIQ3BOZGljdGM5NVVya01pNGVmTlNjWDhtSDNuSFNQX0J4OTYtalRrYVpxR0Utb28zVFl4cG5XSm9mVjRkVjVmUHdPVG0td3lHSGczLVVUY1hRbWJpWERDZEFUMkVFNThPTUE2R2dyTHNNNDN4emhvUE5BaThENGRhVTEtdUtwX3pHRkw1X1RvS2IwZW1KZjBpRnM2LXdHZ0pSYkJzSmNocmh6VHd2QUdxd0dlbTZNejNNdk00Sl9zOHZhci1OZGFQbzJJTW9pYjc0SDczTF90UWJTZjlfVTZ1?oc=5",
-      "source": "Proactive Investors Australia",
-      "published_utc": "2026-09-02T07:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "St George Mining starts pilot-scale test work to advance Araxá niobium and rare earths flowsheet in Brazil - Proactive Investors Australia",
       "title_en_source": "passthrough"
     },
     {
@@ -92,16 +82,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "St George appoints Worley to advance Araxá feasibility work - Proactive financial news",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZlhGZUJENnB6OERQc05nZ0NoQlVIRGZqYk5qZkV1eXBoT0wta2RQM1FIYk5zR3RkVWdaMENVUTQzYmFGT2FNTFZTdjFldmg5dF9Ta2NsVmY5RndzY0RtT3kxZ3UxN2VoUTBRbUlBWGVPaVNtTXpuYllIYk5Jd0ktbEQ0a1BTZG0tMjE5blRrZTZDWjhaaFJPMDFrc0M1NUVLQTA3UDRIbDlBTHoxTXcwQ25CdGtabE53OG5DTUlVVUlWYlE2ZG1MaUFB?oc=5",
-      "source": "Proactive financial news",
-      "published_utc": "2026-05-05T07:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "St George appoints Worley to advance Araxá feasibility work - Proactive financial news",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hc3g0Tks2NVY5UTRKRkt4Y0JmMUpwR1EwUmFPVGJCUy1RYTZ3TjlxWWo2SFJzWWJPM3AyMGdwZ0FZZTE4Y0V1MXhwQjdLdy03TXZIRVZYd0V4WkY0ZE96QVpoTQ?oc=5",
       "source": "Uchumi360",
@@ -132,6 +112,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "St George lifts Araxá resource 75% to 70.9Mt, boosts higher-confidence rare earths and niobium inventory - Proactive Investors Australia",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPa2stQ08tNklBQUlZX3dNZDdjRHdMejVEUTNCUnpJT01LM3JsMHdhLWJGWG5Ydy1jdDBtelRKNnh2N0dCM0FWOV9tYWs0NU1fT3VOQzV6OW9LNTFEOVhqRlFHV3hMcEdkRDh2dmpnYUppYzZEZEZaRzV3ZHh2a2swOWhEMk9talVVU1lRaGU4Ry0xakJ2Q3VNZkVfQ05pdUFLUW5aLUZ0OEJKTVZYYzgtZHFDUWh6SVdEdFdTR1dvUm5ZUkFpZDNTcWtKZ1pVVHZkWjV1dWY5V0p3MG52X3dSNE1EMmQ1WVJwTFp4cUtwam9DVF91dGNpNTlvZ0RyRnRFeVlYVERhWQ?oc=5",
+      "source": "Proactive Investors Australia",
+      "published_utc": "2026-03-03T08:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "St George lifts Araxá resource 75% to 70.9Mt, boosts higher-confidence rare earths and niobium inventory - Proactive Investors Australia",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "JFE Steel, Nippon Steel, Sojitz, JOGMEC, POSCO and NPS Form Japan-Korea PartnershipGroup to Invest in Brazilian Producer of Niobium, Critical Alloying Element for High-Grade Steel Products : 2010 News Releases | Japan Organization for Metals and En - www.jogmec.go.jp",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53aUszOV9Jc2I0QlF6dUREMk4zTEUwMEFxQ3UtSnBXS29LYzZzM3AtcGk0T05lT0RjcWRxN2JqWWRyMXpQaXlzXzVsUW5JWjc1SWZsRmdoRDNwN1gwV2FiaTYzXzNISnBrcC1TNkRrdUlxdw?oc=5",
       "source": "www.jogmec.go.jp",
@@ -149,6 +139,16 @@
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
       "title_en": "CMOC Brasil's historic record in niobium production confirms its leading global position. IBRAM - IBRAM - Mineração do Brasil",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "St George Mining Ltd secures strategic land to advance Araxá niobium-rare earths project in Brazil - Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV0dGMHBsVHFMZ01RQ3BDbVlHMzhuYTIxUG94aFFDNUdsei1ESDJ0V25BUkdIQy13NDE0ekZ0M1pqOVE1bUNFN0dTZU4wRF9mQzI4bm5KWUxjNVZYV1p5eXhOVUZnaWRtVVQyamMxM0RXM2tGdjZMTE0wcWVYY0FiTEIybkdPLXlKZlQ5NEVadjlSaENIYWIzVGNZUW8tcHZzcW9pN1V0T3lrRmdCd3ZobERFU2pQM0ZzdFV2eHBPbGFaZlJORHVtVG9DdTMzdHpmak5EUS1wYk4yNUpDREpQelNSLVJoU1FzWV9fTkdybWgzaXA2ZjBNZE95TW5nUQ?oc=5",
+      "source": "Proactive financial news",
+      "published_utc": "2026-02-15T08:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "St George Mining Ltd secures strategic land to advance Araxá niobium-rare earths project in Brazil - Proactive financial news",
       "title_en_source": "passthrough"
     },
     {
@@ -209,6 +209,16 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "Sojitz’s Niobium Business: Ensuring Stable Supply of an Essential Additive in High-Strength Steel Manufacturing - 双日株式会社",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Research centers and companies in Brazil finding new applications for niobium - Revista Pesquisa FAPESP",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSkpJZGZuUEE3aDlMakNMdEM5NVJaaWpTZzhlNVNsTVRyXzBEekdTOFY0TlBMeU9aVzdobkN6dFhNQ1RSWm9DbE9DYnJSMU1XSDZWZzRUWl9tR2FWT2tST1BHQUtYeE9LekRJZnVkYy1mU1FmTHp1YkVWck9ydjJWOVE5blRoX2VEOUg5M3pLUVpTSVN3MFpaYThOWE1YV2c5QUVXRnN0NUp4UG9VVHVNY0tNc1FyUQ?oc=5",
+      "source": "Revista Pesquisa FAPESP",
+      "published_utc": "2025-08-26T00:20:55+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "Research centers and companies in Brazil finding new applications for niobium - Revista Pesquisa FAPESP",
       "title_en_source": "passthrough"
     },
     {
@@ -399,16 +409,6 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "At a Glance: Niobium powerhouse CBMM - BNamericas",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzJvbTdLamF2RExoWTMxbXZRSjUxU29lenJmdjVOWmp4ak5BYUZCWEMwSU9ReTV6bmhZMFl2Z3BwbkgxTDNhMVdka25tOU9saG54cXF0SDRhTHZLemNzTkpEd0ZXSERPU1B6ckEzdy03T09Oa25Zek5pYVJrNVVNTDhjOFJoS3ZDVXFhNXlNNHB2OE1VVUhtajNCNW9vbGo2MjdxZ0ZkUU82S1ZlZFE?oc=5",
-      "source": "Mining.com",
-      "published_utc": "2019-06-13T14:20:20+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
       "title_en_source": "passthrough"
     }
   ],

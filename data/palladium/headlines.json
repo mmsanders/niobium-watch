@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-16T05:33:16.159675+00:00",
+  "as_of_utc": "2026-10-16T18:31:45.392291+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -11,7 +11,7 @@
     "palladium sanctions OR Russia palladium antidumping",
     "Zimplats palladium OR South Africa load shedding PGM"
   ],
-  "item_count": 72,
+  "item_count": 71,
   "items": [
     {
       "title": "Palladium Has Quietly Rallied While Gold and Silver Hog the Headlines - Startup Fortune",
@@ -21,16 +21,6 @@
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
       "title_en": "Palladium Has Quietly Rallied While Gold and Silver Hog the Headlines - Startup Fortune",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Workers reach agreement at Stillwater Mine after month of striking - Bozeman Daily Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMWF4LU9pM0d6a1VoTTJkREdQVjVzMmdtN3hDel96YkhSRWNsN3Q2OUVhU1dONmx0MGlqaGVkd1Zyb19QeXlfWXJkX042eTI2bHA0N1l3VkNpMmN1SWhGRlpzcmF5Vk1GMVVZWXRmQzMwdWZ5WFdfSlV0Zmg4dlJtMmFXYTA5dFhOVlgyQ0c1MG8yenRCM0VNYldUNlg3aHRrUXdfbUE1aHNjX0JkYUhxb0ppZGVjTFFzeTIzc0dwNTJsQ2JOTGtfaHp1UENkaTZKa3NqSWZteVVCTDBxLVVvakg1YUdZTkktcHlOWmZiaUFpTzRoUmlTVEFTQQ?oc=5",
-      "source": "Bozeman Daily Chronicle",
-      "published_utc": "2026-10-07T23:54:00+00:00",
-      "query": "Sibanye Stillwater palladium OR East Boulder",
-      "flag": "green",
-      "title_en": "Workers reach agreement at Stillwater Mine after month of striking - Bozeman Daily Chronicle",
       "title_en_source": "passthrough"
     },
     {
@@ -71,16 +61,6 @@
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
       "title_en": "Strike at Sibanye’s Stillwater East ends with wage deal - Business Day",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Palladium Stays Near Its Lows as Vehicle Demand Weakens: Sibanye-Stillwater (NYSE:SBSW), Impala Platinum (OTC:IMPUF) in Focus - kalkine.ca",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaUxfSURxcUw2R1VGM3hxVDFRancwUnY5bHRNNDhJeDc5WktMMzdvOG4zZ3pTb0hpZUZfZUp1d0FXaWM0YVNEUW5yVndNYm1SUHlwUS1BYkxJTkxYS2FQR3BTUll2dkU3bU1OWlRBelpfWjBvVnU4V1dHdl9uUXFBOFpxWUxlN3B5UU1pVE1MT3FkMWNIOEdKSjZoeHZGWHQ5SmY5RVk4d09zNGhZZU93YkM4ZWpScjhNeW1hSGlPV0YwV2h0cVR6SG5pSEhOb21yUVppcUk2SEhST2J4eTQzY2d3?oc=5",
-      "source": "kalkine.ca",
-      "published_utc": "2026-10-06T19:41:00+00:00",
-      "query": "Impala Platinum PGM OR Impala palladium",
-      "flag": "green",
-      "title_en": "Palladium Stays Near Its Lows as Vehicle Demand Weakens: Sibanye-Stillwater (NYSE:SBSW), Impala Platinum (OTC:IMPUF) in Focus - kalkine.ca",
       "title_en_source": "passthrough"
     },
     {
@@ -154,6 +134,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Sibanye-Stillwater reaches contract agreement with East Boulder mine workers - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0M1OFlLdUUzaFYtajZlNFkxTloxT2ZUQ0ZUS2VFNjk0dVBVS1NydUY4ODk4OGtZM1BTOE5aR2R3Z1FYN25UeURtWTIxUXVlZmZPZnRpSkY5X2xXNGJUNXp4bUtqbHFNWkJIV2JwTGV1S1BkZ094amdHN2lEZFZxNVJZZ2dOdGR5S1ZKYnlaTnVQSER4bGRrMkNR?oc=5",
+      "source": "Yahoo",
+      "published_utc": "2026-09-30T07:00:00+00:00",
+      "query": "Sibanye Stillwater palladium OR East Boulder",
+      "flag": "green",
+      "title_en": "Sibanye-Stillwater reaches contract agreement with East Boulder mine workers - Yahoo",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Sibanye-Stillwater reaches contract agreement with East Boulder mine workers - KTVQ",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPczVYYUJoR3VVWU9KVTBjaGNIZlppRkpKekh0SzJ6eFcyX1piVnJ5bXpSaXItc2VoaEJxTmhxT2F6OUxWWFB0bXVjTmctODJJcFpsSEpFYzUwel9UaDZqeFdQeDZKRS00UWF1V042NVhHSHFCZFpfa1JBYnNyeUF1Nzl1R3g3YUx2V1diYVlnV29NZ2x2NlkwQnh4Rnl6Y3E2bGg0NQ?oc=5",
       "source": "KTVQ",
@@ -214,16 +204,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Why Platinum Is Emerging as the ‘Value Metal’ of the Next Commodity Cycle - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNDl5ZHVneUNnQWw5cjBEaV9JM3FmZ29CU0xZd2I4S3MzRDlIZXVQM0xfeTVWaHVhVUNubkVqcmNsMGZNdlV2YkdEcVIydXVUUGhlN0pWMTVQeTJZOUJoVThsRkZxRklxdzlYUmhWcFpsN21mdDRzRDFlX281aTNYMUROWG0xZw?oc=5",
-      "source": "CryptoRank",
-      "published_utc": "2026-08-25T07:00:00+00:00",
-      "query": "palladium supply OR palladium shortage",
-      "flag": "green",
-      "title_en": "Why Platinum Is Emerging as the ‘Value Metal’ of the Next Commodity Cycle - CryptoRank",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Palladium Has Quietly Surged 90% and Russia Tariffs Could Push It Further - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS2dDekdqT2RQdE5oVHpJQU5CMFBnUGRJdm1ZMHR2R2dQY280NWZ2WjVLY1hkT2pRZHFtd0dTMURjTVctU2l5RVB3eHhjeVI3UFI3aVJSMmpQTU85bm9vVXBXdVdUb1VvaEJkTS1zRUU5MUE1R3FNYjJLeTNkSV9iUHV0eEdEckdFdjgwN2ZWOGlBbFEtWDM4b0d3a2tGcUtHa3c?oc=5",
       "source": "Startup Fortune",
@@ -244,16 +224,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Platinum’s Changing Investment Story: Deficits, Geopolitics and New Sources of Demand - Medium",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVGFmN3l2RGVERnhOV2dKbXJHZTZoODZka3lHa3hZLTJpeVdQTDNHWExsb3JzdFVzUkpMbV8teGNrQzFTZUlCM05ORWpOc0RMRlE3SVV1MEJMeW9ZN0tJeVljNkQ2SjVwOHRWdXFPa3VReDNldFI3SlMtai1LbUd3aDlsS3AzWTJnMVc4QTVKelFwUGh1MVJUU3YxNGFpeDJkRTU4RTVhUUo2aUtCMHBzaW5lYk5nZzl0eHc3RVJoaHZLVUEta0RmdGlHV0JEdG8?oc=5",
-      "source": "Medium",
-      "published_utc": "2026-08-08T07:00:00+00:00",
-      "query": "palladium supply OR palladium shortage",
-      "flag": "green",
-      "title_en": "Platinum’s Changing Investment Story: Deficits, Geopolitics and New Sources of Demand - Medium",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Distribution of palladium production worldwide in 2025, by company - Statista",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdXdYWlNwNjRlNTFhSEI4dG5IbHRHZDM2SXZoRU9ZUHZ5NHJPclQ2dDJQM29oMEpUUjFBMXQxUlhkZzZwZWpFQ25kSE56ZUhJU2JVd3d6Q3czcF93dTNVd3YwaC1FM0FmTVpxSnIzS3VtNUowVW00T1E3SEl6NndVUWZtMUtVMXFhaXVDU2JYY1BWMnBhU1U3bG5NX254OVU?oc=5",
       "source": "Statista",
@@ -261,6 +231,16 @@
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
       "title_en": "Distribution of palladium production worldwide in 2025, by company - Statista",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Platinum surges toward $3,000 as a four-year supply deficit resets the metal's price floor - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSG4yZTVCUjRPWVo4VVctRld5OExycmwyZ3VXS1hQTVVoZ0xvYWwwTHBRcGd2b1NmbkNkRHRUR1VGLUhwejNFeXo2RTV1MGhDNHlxdXh4bVZpNENrVnNzWWM0SHdPRnRralhLTTRlaGlOYUFGc2FnQ2RIMUpneXYwLTVwbXJQSEo1OUc2cWJnRzR6RTNhTmMxeUFLVnV3QW4zeG9md01sRUlITHJIT29OUnJRNlkzdw?oc=5",
+      "source": "Startup Fortune",
+      "published_utc": "2026-07-31T07:00:00+00:00",
+      "query": "palladium supply OR palladium shortage",
+      "flag": "green",
+      "title_en": "Platinum surges toward $3,000 as a four-year supply deficit resets the metal's price floor - Startup Fortune",
       "title_en_source": "passthrough"
     },
     {
@@ -291,16 +271,6 @@
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
       "title_en": "Experts raise concerns as Russia shifts palladium refining closer to Finland - Yle",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "All of Nornickel’s palladium to be processed on the Kola Peninsula - The Barents Observer",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXF0b1Y4MXRkaWEwQWMwelBUb0VPbFp3MGppVGNaTnEzNzkwWDVEZVJhQTVVWjRVZXpIdFltSER5V2NWSWg2LUxDRVNxWDE2WTFSZ2dEZVR5ZklRUUI0aGNHV0hQNnJJdWh1Q0lPN3U2bXFkT1pXQ3R0WUN6M2c3ZGcwRkxwVFpzRUVoOTBWOTZiLXZUb3hxREZEeHd2akgzVFAzZFBpX0pJV0VnOXNqR0lR?oc=5",
-      "source": "The Barents Observer",
-      "published_utc": "2026-07-16T07:00:00+00:00",
-      "query": "Norilsk Nickel palladium OR Nornickel palladium",
-      "flag": "green",
-      "title_en": "All of Nornickel’s palladium to be processed on the Kola Peninsula - The Barents Observer",
       "title_en_source": "passthrough"
     },
     {
@@ -374,6 +344,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Platinum, Rhodium to Outpace Palladium in 2026: Metals Focus - Value The Markets",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTUZwUl9NSUx4dmJBUHRFZlZjMDB4S3BXYTE2eC1NLW1UR1hseFJGYnVyOXNPYktZNlE2NHpDM0haY2Ewd1hQRmZwYjNlZ2o4UGpwYTBzMV9lYU5WRlFQeHVnZTRDMWRCNVY1V0QtWkVJcTFHMjFZRGJydFFkclJjdUJ2SE9Iak5VSlp3?oc=5",
+      "source": "Value The Markets",
+      "published_utc": "2026-05-19T07:00:00+00:00",
+      "query": "palladium supply OR palladium shortage",
+      "flag": "green",
+      "title_en": "Platinum, Rhodium to Outpace Palladium in 2026: Metals Focus - Value The Markets",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Platinum, rhodium to outperform palladium in 2026, Metals Focus forecasts - Mining.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXy14blZPTU51Z1V2QlhjeDRUVEJFaWNPUHpXS2kyLXFVLUxadHItdnBZbTllRWtkSGE0SF9CU0hVUFdPemZ5ZXhKX0RwODFOaGNxMGVpa3FDUFJKVnFUSzdqWFNuUXZoMTFfZS1hbWYydkJvcmViemRTa3dzOWtXV0RNUlNoM2tKdGJEN1VERkhydlVkVDVBTlJZbThnX3RL?oc=5",
       "source": "Mining.com",
@@ -411,6 +391,26 @@
       "query": "palladium supply OR palladium shortage",
       "flag": "green",
       "title_en": "Platinum or palladium: Which metal is a better investment? - USA Today",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Chalice taps Cutifani’s firm for WA palladium push - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rNC1pTHFpWm5LRDQxeHNNMXRuNjVscXVoTGRpZFFCbVZmSjBQWjJ0VUZYMk5CMXJqQ3hBYjM1MHFlVjVIcDg0cjJyaW1IRE9PUEpzVUE2ODRnMDZCTTEwUG1DRGZpOVlHRm1mMHljcTlMaFg5UGdhaTRLeUZiUQ?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2026-04-13T07:00:00+00:00",
+      "query": "Amplats OR Anglo American Platinum palladium",
+      "flag": "yellow",
+      "title_en": "Chalice taps Cutifani’s firm for WA palladium push - Mining.com",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Nornickel taps AI to seek new demand for its palladium - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLXRUSkFlVnZmUG1vOHhJb3BqUFhrYnoycm5yVUNUaTMzeGRSZG56bjJwczZFcno0U2o1dlpnMTNpNjNTLXJ6V3ZSNXF0YnlnNEFod05EUTZyeVhuNlB5bXAxeHQxUG9VZ1lKZ21zSXVaM2V3ZV94MGJoLXh0ano4clBZX1lwX3Z4Wnc?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2026-03-24T07:00:00+00:00",
+      "query": "Norilsk Nickel palladium OR Nornickel palladium",
+      "flag": "green",
+      "title_en": "Nornickel taps AI to seek new demand for its palladium - Mining.com",
       "title_en_source": "passthrough"
     }
   ],
