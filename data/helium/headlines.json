@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-15T18:46:16.701387+00:00",
+  "as_of_utc": "2026-10-16T05:33:16.159675+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -11,7 +11,7 @@
     "MRI helium shortage",
     "Shute Creek helium OR LaBarge helium"
   ],
-  "item_count": 75,
+  "item_count": 74,
   "items": [
     {
       "title": "Helium One keeps Panmure Liberum 'buy' as dilution drives target cut - Yahoo Finance UK",
@@ -21,16 +21,6 @@
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "yellow",
       "title_en": "Helium One keeps Panmure Liberum 'buy' as dilution drives target cut - Yahoo Finance UK",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Helium Evolution Identifies 10 Grasslands Drilling Targets as Helium Supply Tightens - Streetwise Reports",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU3ZZdEZSdEowbHpPUUk2N0MwZk9tMWJaVTMxenJGVDZLeXV6aHdmc1hFRnplcld3dWF1ZV9zcmc2c2dEM011Tmc2alBXMUJfZXlkMHNTQ24tUUktMHlFMmlROTVZdmJYdjFsV1NfOVJBaG9hTnB2OE8ydjBsZlVBVGhLYWlFTVZ6TWNlal9oZ3RWM1A1WEZBMG1SQVdTM0VOTW80azc1OFlNZXZvczJ6cFBMZ1lTSGd1bHFPc25FZ3JaZzZ2cDlvRy1LQk5lY2lfQ0cybEh4SGQtdw?oc=5",
-      "source": "Streetwise Reports",
-      "published_utc": "2026-10-14T09:52:06+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "Helium Evolution Identifies 10 Grasslands Drilling Targets as Helium Supply Tightens - Streetwise Reports",
       "title_en_source": "passthrough"
     },
     {
@@ -44,13 +34,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Primordial Helium Further Confirms Our Understanding Of The Big Bang - Universe Today",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWFISWF4YmpJNGxWcDhUVFJ5YmJkbmRSaTIxdFViT0ZSZ2hjMWw3TGkzUUhPNmZYXzRNcWJ6SjZ6bHplR2hmclg0TndtakJNZmxyWjR2TDI2Rk1vV3hGWHZzY1dvQWZ3cFNFaDVmQ1lJZXowd2otZXFRVFRIOHNlRy1SdHZ0cGtGcjJVdHlONlg3ZHlJMEJabjloWGNxQ09pek5jN0kxdW40SkU?oc=5",
-      "source": "Universe Today",
-      "published_utc": "2026-10-12T15:18:00+00:00",
+      "title": "Primordial helium further confirms our understanding of the Big Bang - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TeUpzcHBxbHF5d0VyMU1SU0c5RnJpSjYtM2g0YlV1YkQwR0hDT3RpYWRiYjRLODh5UjUzTWNHRk5YTnFMNm1mX0FFTVBxNTVaNlZSM1R3aFFyRG83dmZHUW5FaWVBTU0?oc=5",
+      "source": "Phys.org",
+      "published_utc": "2026-10-12T19:20:07+00:00",
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
-      "title_en": "Primordial Helium Further Confirms Our Understanding Of The Big Bang - Universe Today",
+      "title_en": "Primordial helium further confirms our understanding of the Big Bang - Phys.org",
       "title_en_source": "passthrough"
     },
     {
@@ -224,16 +214,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "The AI economy runs on helium. The Iran war just created a $650 billion problem - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SLVRkVWdiLVYxeXloVGt5YUlRSUh6RTBMWTloVnBtcXRmX1VtYW5rWU9nVF9rUERLT3JIMFNSek53NmJIeC1UTUFMOUdvcTJ1c2xuVDNDR1JrdHVZbldTTHRsaWFCNUpQWnR5MHk3OG0yenk0REcwRXBpWQ?oc=5",
-      "source": "Fortune",
-      "published_utc": "2026-04-22T07:00:00+00:00",
-      "query": "helium plant outage OR helium force majeure",
-      "flag": "green",
-      "title_en": "The AI economy runs on helium. The Iran war just created a $650 billion problem - Fortune",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Bring back the helium reserve—before the next shock hits - Peterson Institute for International Economics",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZzBYTGxNdVFhbG1vZFhkLThGWmM2MkxsSmQtcGdvVG5rWVZNTDNNQlZNTTNTWDhVclF2SmJsWXVybXI3SHNXWVBENFltNHV2Ull1SktTZm5BUUFDTUg0QnZFak90aEowdDNVWmZkTFIyZUVFMzNxR0NOS0JLajhBeFNUV3VnVHYxZTRWYkJfck9FTWo5SWJF?oc=5",
       "source": "Peterson Institute for International Economics",
@@ -294,6 +274,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Iran war deflates critical helium production supplies - Axios",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sM1doNmxSNDgyZEVLTm83cG1aMDdLTUxSenp4U3lJZFpVdlNZcHI3MFpZeV9WOUVJLXY0U1NHMjRpbWdpb0daakNZMEpxWkIxa1ZNY2FLbjNCblJNSkFwWmwxMFBwRHdjcDE3aTNvdUx5NUU?oc=5",
+      "source": "Axios",
+      "published_utc": "2026-04-07T07:00:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "Iran war deflates critical helium production supplies - Axios",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Russia’s Helium Card in the AI Arms Race - The National Interest",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1NuTXdVTU9vM1lmUTF0cjRYb0NHdVc3VnBtalFmbWozZm5kYXpTLXZsei1xZFo0eVc0NnM0S1pQTVBuQkstZzlrZmRZMnJfbjV5SnQ5X0xKRDM3XzZkbEJsS0JCZS0teHU5TjF2aFpMQm0wM1ROSkR6M0RlNXNYY3Z6MGNNUGdkNEE?oc=5",
       "source": "The National Interest",
@@ -321,6 +311,16 @@
       "query": "MRI helium shortage",
       "flag": "green",
       "title_en": "The world is running out of helium — again : Short Wave - NPR",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Region can avoid fallout from helium supply chain disruption - Observer-Reporter",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUkVaaGhhTDlQOHJ4TUh2X21jNlBWdVJMUF92ZW9RWm9zRl90amx3dmlOdTRxQ2F0UFlwSTRMQS1XZzZmdmRoQ2o5aDRJMFI3eUtla0JSZVJQa2E0QmNLRlVwdmZKSm1LQUdCU2pQZElvb2hyNEUtNGdUdUdXV0tvd2h1NGlkWEFRWllUdGk2cVZOWmJEZ1JJaTNrVjc4WVNhZndTbzJWYzhWVWJmTi1xSlJQMW90YkhSZy1WWV9MeEI?oc=5",
+      "source": "Observer-Reporter",
+      "published_utc": "2026-04-04T07:00:00+00:00",
+      "query": "helium Ras Laffan",
+      "flag": "green",
+      "title_en": "Region can avoid fallout from helium supply chain disruption - Observer-Reporter",
       "title_en_source": "passthrough"
     },
     {
