@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-17T05:22:11.158546+00:00",
+  "as_of_utc": "2026-10-17T17:38:08.479640+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -11,7 +11,7 @@
     "palladium sanctions OR Russia palladium antidumping",
     "Zimplats palladium OR South Africa load shedding PGM"
   ],
-  "item_count": 71,
+  "item_count": 70,
   "items": [
     {
       "title": "Palladium Has Quietly Rallied While Gold and Silver Hog the Headlines - Startup Fortune",
@@ -87,10 +87,20 @@
       "title": "[SMM PGM Flash] Sibanye-Stillwater announced on 30 September that wor - Shanghai Metals Market",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenFUYXVXVkU3cGk3NEdHZG5PTmlUd2FQeUZaOUNITW1SYlpCVWpoc2dIX1c1Zlk4eXRxQmVQNl9md2xkYWdxLWZTY19XYy1NQTFEbG1ub1pJZk1aTGFQam1OZFZocWE4czdWN3hHR2k1ZmVCSFU4OHdZMkVKR0NrVEtBckFCNkJqSzBxOHk5TmRGa0xXcW9BOFRXTlFQR2dNUVZ0SElTQmVLZUtPWWxFTXlYS3lRS0E3?oc=5",
       "source": "Shanghai Metals Market",
-      "published_utc": "2026-10-01T08:45:00+00:00",
+      "published_utc": "2026-10-01T07:00:00+00:00",
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "green",
       "title_en": "[SMM PGM Flash] Sibanye-Stillwater announced on 30 September that wor - Shanghai Metals Market",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Sibanye-Stillwater Confirms East Boulder Wage Agreement as Stillwater East and Columbus Strikes Persist - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmxFN19mYllENmtZWWZMR1lXaFliMzM3VHRCOUJqOTlpUkN0b2doSDYzS0JjZllSTHVpUG5BUUpUbUNvc1V3VkRfYWRmTzdwZUMxVmVsYmZfWkpVZDhVVWMtM2FmUE5CTi1vSzluS24wMjktbGY5VGdYNURTQU9raVJfXzZoeUNZYkl2N1N2RjM3SFJuSXZVejY0cWFvYWV5TVVMckIyRTJ1S0R4ZDBHTl9pRklNdUtyT1c5cWpvN3ZSMmxMcThCV0lqQU0tQQ?oc=5",
+      "source": "IndexBox",
+      "published_utc": "2026-09-30T14:50:39+00:00",
+      "query": "Sibanye Stillwater palladium OR East Boulder",
+      "flag": "red",
+      "title_en": "Sibanye-Stillwater Confirms East Boulder Wage Agreement as Stillwater East and Columbus Strikes Persist - IndexBox",
       "title_en_source": "passthrough"
     },
     {
@@ -134,26 +144,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Sibanye-Stillwater sits out capital raise on copper project - MiningMX",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLVExd3ZHXzMyeUQ0ZXl0NWQ3ZWxMbjk0NUhrMlFPaEF4U1FrMi1wMDFzTFQtYi1SeXlzeVJGMTJFR2ZBOTQ4VU5TQ3ZhZzBFRFJ6SkYxVHBraDRyN1BCVTc4SXgycnVIWnRpZTFRRXlYblc5R2hhOWVrRlV2c3pXMEZReGNZaDFXT2d4R2U3NGxXUTdvTHQ0?oc=5",
-      "source": "MiningMX",
-      "published_utc": "2026-09-30T07:00:00+00:00",
-      "query": "Sibanye Stillwater palladium OR East Boulder",
-      "flag": "green",
-      "title_en": "Sibanye-Stillwater sits out capital raise on copper project - MiningMX",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Sibanye-Stillwater reaches contract agreement with East Boulder mine workers - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0M1OFlLdUUzaFYtajZlNFkxTloxT2ZUQ0ZUS2VFNjk0dVBVS1NydUY4ODk4OGtZM1BTOE5aR2R3Z1FYN25UeURtWTIxUXVlZmZPZnRpSkY5X2xXNGJUNXp4bUtqbHFNWkJIV2JwTGV1S1BkZ094amdHN2lEZFZxNVJZZ2dOdGR5S1ZKYnlaTnVQSER4bGRrMkNR?oc=5",
-      "source": "Yahoo",
-      "published_utc": "2026-09-30T07:00:00+00:00",
-      "query": "Sibanye Stillwater palladium OR East Boulder",
-      "flag": "green",
-      "title_en": "Sibanye-Stillwater reaches contract agreement with East Boulder mine workers - Yahoo",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Sibanye-Stillwater reaches contract agreement with East Boulder mine workers - KTVQ",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPczVYYUJoR3VVWU9KVTBjaGNIZlppRkpKekh0SzJ6eFcyX1piVnJ5bXpSaXItc2VoaEJxTmhxT2F6OUxWWFB0bXVjTmctODJJcFpsSEpFYzUwel9UaDZqeFdQeDZKRS00UWF1V042NVhHSHFCZFpfa1JBYnNyeUF1Nzl1R3g3YUx2V1diYVlnV29NZ2x2NlkwQnh4Rnl6Y3E2bGg0NQ?oc=5",
       "source": "KTVQ",
@@ -161,6 +151,16 @@
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "green",
       "title_en": "Sibanye-Stillwater reaches contract agreement with East Boulder mine workers - KTVQ",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "[SMM Analysis] Valterra Platinum 2010 To 2025: How Processing Shocks and Price Cycles Reshaped the Business - Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa0tWS1IwdHAyV2FON2Z0eVpabWx1ZjJMeUNuVkFIV0FCYTFEX3JfS01jSWNEaWxqQUw4dEI5ZEZaWGhlNmZ5XzNOSHg4Q2xmM2Rqd3AxeFJfSkZmWXZRaENnRHNkOE9wbXY5aFlaMmhyQTNpZXJaeElsZWJMeERhcy1vRXktUXp0ckVyTGdya0VMZHRpU0lkTFZCWFpyMGZYZjN2WTFKVkg5MVhUaFc1SkNqa21fNFBESWFZZ2FEeTFmX1JNNnE1Z1B1T2lRMFdmX0M3Tno5QVp2aVlHYWZRdEFHYw?oc=5",
+      "source": "Shanghai Metals Market",
+      "published_utc": "2026-09-21T07:00:00+00:00",
+      "query": "Amplats OR Anglo American Platinum palladium",
+      "flag": "green",
+      "title_en": "[SMM Analysis] Valterra Platinum 2010 To 2025: How Processing Shocks and Price Cycles Reshaped the Business - Shanghai Metals Market",
       "title_en_source": "passthrough"
     },
     {
