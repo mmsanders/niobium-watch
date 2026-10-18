@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-18T05:30:03.300816+00:00",
+  "as_of_utc": "2026-10-18T17:40:29.739347+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -109,16 +109,6 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "Brazil’s Araxá Niobium-Rare Earth Project Posts Major Resource Increase - Rare Earth Exchanges",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Niobium partnership in Brazil gains governance boost - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVdrZktMV2RjTVlyVUo5Rl81N3c5UWdTMnBIeHZTX240TVdkdFdFSXk0dVZlcFVVbEJOcWw4RU9aWVVhdzlINVl4a2Vpbm03czBwemsyVDNURVlGUGFkb0JkRzBfdFBJc1V3OGVJZE1VaHBXSHJ3ZmtjQW9NNkxYOXdXOUV0UW4yc1gtNTlGNEM?oc=5",
-      "source": "BNamericas",
-      "published_utc": "2026-03-04T08:00:00+00:00",
-      "query": "CBMM nióbio OR ferronióbio OR niobium",
-      "flag": "green",
-      "title_en": "Niobium partnership in Brazil gains governance boost - BNamericas",
       "title_en_source": "passthrough"
     },
     {
@@ -402,13 +392,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "The niobium controversy - FAPESP",
+      "title": "The niobium controversy - Revista Pesquisa FAPESP",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FVWl0RHdLelZZdWhwREJmejhqdjdBblVFVXZlVlZWaXJyenBLSDVEMmpEb3RRZnYxc2xaR2kzdXZnSmwwMkk1S3FSZFRvNmhucVJyZEpBQURmemFSOFNBdktDbm9WNDNIaG1LcHYwQUI?oc=5",
-      "source": "FAPESP",
+      "source": "Revista Pesquisa FAPESP",
       "published_utc": "2020-06-02T06:34:46+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
-      "title_en": "The niobium controversy - FAPESP",
+      "title_en": "The niobium controversy - Revista Pesquisa FAPESP",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "At a Glance: Niobium powerhouse CBMM - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01RGYwSE5TOElGb1hxRXNKNVo1THhZbkx6bWt3UFY2eUhWWkpwWHU1Y1ZmbGtIaHFmVVJxb2J6eGdES3FfbmdRRkpjd3l5WERoWkdLQ3VvZzd6ZThPVEg1dGJ3alRUYXhOMkNVVFhTX0FFV0hWVUlSTVJLWlpnbkU?oc=5",
+      "source": "BNamericas",
+      "published_utc": "2019-08-30T07:00:00+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "flag": "green",
+      "title_en": "At a Glance: Niobium powerhouse CBMM - BNamericas",
       "title_en_source": "passthrough"
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-18T05:30:03.300816+00:00",
+  "as_of_utc": "2026-10-18T17:40:29.739347+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -11,7 +11,7 @@
     "palladium sanctions OR Russia palladium antidumping",
     "Zimplats palladium OR South Africa load shedding PGM"
   ],
-  "item_count": 72,
+  "item_count": 73,
   "items": [
     {
       "title": "Palladium Has Quietly Rallied While Gold and Silver Hog the Headlines - Startup Fortune",
@@ -31,16 +31,6 @@
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
       "title_en": "Union representing Sibanye-Stillwater mine workers ends strike - Montana Free Press",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Sibanye-Stillwater concludes collective bargaining agreement at Stillwater East mine and Columbus metallurgical facility - Swiss Resource Capital AG",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTzRYaE55VGU4QXRuWjN0U0JNR0doMEhrV2FoZW5SYUZWNXV4aWxHendVVTJnXzVuNktmV2dQUTR6bS14N0RYTXVtVFY3ZE9iVnBURk1Wb09rNTlJWjJiRXNxT3FybG5WeFVJVS1Id2JBbE5tR3NpSHAzV1VuODdHNDV4SnhJbVlZcDh5UnktZGhTTUxLNllxU2RhMUdOZjlNQndxU1M0bm5kczRhWW9kS2NFUDFZS2wxR2sxS1dlNnR2UC1YcFQ0WTJJV0JSR0JweklRTXpXM2l4MVRjWGo1N3VTSUlNejdyeUppNFdwdVZsNjZaam1OZGNn?oc=5",
-      "source": "Swiss Resource Capital AG",
-      "published_utc": "2026-10-07T16:17:48+00:00",
-      "query": "Sibanye Stillwater palladium OR East Boulder",
-      "flag": "green",
-      "title_en": "Sibanye-Stillwater concludes collective bargaining agreement at Stillwater East mine and Columbus metallurgical facility - Swiss Resource Capital AG",
       "title_en_source": "passthrough"
     },
     {
@@ -81,6 +71,16 @@
       "query": "Amplats OR Anglo American Platinum palladium",
       "flag": "green",
       "title_en": "Platinum and Palladium COT Shifts: Euro Hits Multi-Year Extreme - News and Statistics - IndexBox",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Sibanye-Stillwater finalises wage agreement at its US PGM operations East Boulder mine - Swiss Resource Capital AG",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRHpNQXcxclZlMUhiN3AwMkJnNGRHdV83VTdUeWVyZlZ6c2NfdUhuUmFQbll6QTE2QlVkNzg2SUxmRjRvUUp2VTI4UjUxWllLUnNVQTBqcXBhOWZoUW5ZY1pxWGZ5Z0duYVEwQWpyS01IMHBveFVDelVoQmY3aFBsS1kyZHJrLUtwSWVjVXZpNnBVYTZ4MDVmcVhPMHM1YXBvSmJuYWwwX1BZV3d3ZHUxM2VZV2VFWG1vTFJibUFvcnpFZ2NUQUZlZnhUY2Q?oc=5",
+      "source": "Swiss Resource Capital AG",
+      "published_utc": "2026-10-01T08:34:11+00:00",
+      "query": "Sibanye Stillwater palladium OR East Boulder",
+      "flag": "green",
+      "title_en": "Sibanye-Stillwater finalises wage agreement at its US PGM operations East Boulder mine - Swiss Resource Capital AG",
       "title_en_source": "passthrough"
     },
     {
@@ -141,6 +141,16 @@
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "green",
       "title_en": "Sibanye Stillwater Says Finalized Wage Agreement at East Boulder Mine - marketscreener.com",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Sibanye-Stillwater sits out capital raise on copper project - MiningMX",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLVExd3ZHXzMyeUQ0ZXl0NWQ3ZWxMbjk0NUhrMlFPaEF4U1FrMi1wMDFzTFQtYi1SeXlzeVJGMTJFR2ZBOTQ4VU5TQ3ZhZzBFRFJ6SkYxVHBraDRyN1BCVTc4SXgycnVIWnRpZTFRRXlYblc5R2hhOWVrRlV2c3pXMEZReGNZaDFXT2d4R2U3NGxXUTdvTHQ0?oc=5",
+      "source": "MiningMX",
+      "published_utc": "2026-09-30T07:00:00+00:00",
+      "query": "Sibanye Stillwater palladium OR East Boulder",
+      "flag": "green",
+      "title_en": "Sibanye-Stillwater sits out capital raise on copper project - MiningMX",
       "title_en_source": "passthrough"
     },
     {
@@ -401,16 +411,6 @@
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
       "title_en": "Russia’s Nornickel Reports Sharp First-Quarter Drop in Metal Output - The Moscow Times",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Platinum or palladium: Which metal is a better investment? - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdk0wYVZ1aEN5YjBHRS12ZEpfZDluMFZPQmgyRTZmNC1qWm9kOEZ0MHVkTlI2MlNvTWlMS0dTMzU0YUFWZUh1c0c3cmtBQXRXUW04QkFyRFFCX3pTRUhmcmJSZkN4RDNpaFNtT0dmUXlOM3pGSUdDTHNnMDFiTHVXYmlQM0xCVi1z?oc=5",
-      "source": "USA Today",
-      "published_utc": "2026-04-23T07:00:00+00:00",
-      "query": "palladium supply OR palladium shortage",
-      "flag": "green",
-      "title_en": "Platinum or palladium: Which metal is a better investment? - USA Today",
       "title_en_source": "passthrough"
     }
   ],
