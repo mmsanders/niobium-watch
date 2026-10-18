@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-17T17:38:08.479640+00:00",
+  "as_of_utc": "2026-10-18T05:30:03.300816+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -11,7 +11,7 @@
     "MRI helium shortage",
     "Shute Creek helium OR LaBarge helium"
   ],
-  "item_count": 74,
+  "item_count": 75,
   "items": [
     {
       "title": "The Hidden Dance of Helium and Argon: How Temperature Gradients Quietly Stratify Nuclear Reactor Coolants - Bioengineer.org",
@@ -404,13 +404,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "When a Commodity Becomes Rare: The Helium Crisis, the Ras Laffan Shock, and the Fragility of Global Supply - Rare Earth Exchanges",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ2Ytcm9IMm5sNkhaVHN4blhxOFJxODIyVVM0SXRLSDZZdjhlZjkyV2lySGJDUGNKdWhYWXRId25xaGlfelhxTU5kcF9VbEJiMThmaWMyZ1Q2WTJLc0pNS09ibGljbGVPWDN6UGlVQTAtaEtqNUpWOEZZTDdaaGJIdEV5dFdNaFFudnc3RXVfLUNtUmlRQnROU3VjTEVhY25jOUQ5d3laa1lsdmNZbFlTU2JFY0w3aDNMTDNzZVdqWXF5YVVpOHRRclc4VFBKWUhQaThGcHFpTQ?oc=5",
-      "source": "Rare Earth Exchanges",
-      "published_utc": "2026-03-23T07:00:00+00:00",
-      "query": "helium Ras Laffan",
+      "title": "Airgas Curtails Helium Orders After Qatar LNG Field Damaged - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWl8wYnBwQjB0N2VqbEdSS1N3NURHYVI2bzZFRnhNM3BzbUkyQTZQdklldi1pY0wyc2N1cHBiZzlMVWpxRHhDRXp0QXdyVGVCWTcwMnZwNUhyTmhUV2tVd0RVMHU2QmtYVGsyLTBzaW05TXlSLVoyaWo5RWlOellmTnZaa3VBcEl3X1FiTzRPQTJla005OWRtek00MFpHRDFBVm9RLTBrTlQwNjg3YlRR?oc=5",
+      "source": "Bloomberg.com",
+      "published_utc": "2026-03-24T07:00:00+00:00",
+      "query": "helium plant outage OR helium force majeure",
       "flag": "green",
-      "title_en": "When a Commodity Becomes Rare: The Helium Crisis, the Ras Laffan Shock, and the Fragility of Global Supply - Rare Earth Exchanges",
+      "title_en": "Airgas Curtails Helium Orders After Qatar LNG Field Damaged - Bloomberg.com",
       "title_en_source": "passthrough"
     }
   ],

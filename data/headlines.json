@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-17T17:38:08.479640+00:00",
+  "as_of_utc": "2026-10-18T05:30:03.300816+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -25,7 +25,7 @@
       "title": "A Victory for Pro-American Candidate Bolsonaro Gives Washington an Opening to Leverage China’s Dependence on Brazil and Recalibrate the Global Balance of Power - Мілітарний",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZclM0V2xJYUZVUTVUa3Y3dU1uNktrUlJfS3I5NXdTRVFBMmphdVU1Umg1NEdVYlp5QXV2UHNFSVF0Qng5cUxFbGhTdDl5bThPNkJMV1B2VF9OMmlMQVZCYjY2R2FTSzk1SDhLOVFZQ2hObGVFQmZvVWdqTm0?oc=5",
       "source": "Мілітарний",
-      "published_utc": "2026-10-07T06:30:54+00:00",
+      "published_utc": "2026-10-07T07:00:00+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
       "title_en": "A Victory for Pro-American Candidate Bolsonaro Gives Washington an Opening to Leverage China’s Dependence on Brazil and Recalibrate the Global Balance of Power - Мілітарний",
@@ -112,13 +112,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "St George lifts Araxá resource 75% to 70.9Mt, boosts higher-confidence rare earths and niobium inventory - Proactive Investors Australia",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPa2stQ08tNklBQUlZX3dNZDdjRHdMejVEUTNCUnpJT01LM3JsMHdhLWJGWG5Ydy1jdDBtelRKNnh2N0dCM0FWOV9tYWs0NU1fT3VOQzV6OW9LNTFEOVhqRlFHV3hMcEdkRDh2dmpnYUppYzZEZEZaRzV3ZHh2a2swOWhEMk9talVVU1lRaGU4Ry0xakJ2Q3VNZkVfQ05pdUFLUW5aLUZ0OEJKTVZYYzgtZHFDUWh6SVdEdFdTR1dvUm5ZUkFpZDNTcWtKZ1pVVHZkWjV1dWY5V0p3MG52X3dSNE1EMmQ1WVJwTFp4cUtwam9DVF91dGNpNTlvZ0RyRnRFeVlYVERhWQ?oc=5",
-      "source": "Proactive Investors Australia",
-      "published_utc": "2026-03-03T08:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
+      "title": "Niobium partnership in Brazil gains governance boost - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVdrZktMV2RjTVlyVUo5Rl81N3c5UWdTMnBIeHZTX240TVdkdFdFSXk0dVZlcFVVbEJOcWw4RU9aWVVhdzlINVl4a2Vpbm03czBwemsyVDNURVlGUGFkb0JkRzBfdFBJc1V3OGVJZE1VaHBXSHJ3ZmtjQW9NNkxYOXdXOUV0UW4yc1gtNTlGNEM?oc=5",
+      "source": "BNamericas",
+      "published_utc": "2026-03-04T08:00:00+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
-      "title_en": "St George lifts Araxá resource 75% to 70.9Mt, boosts higher-confidence rare earths and niobium inventory - Proactive Investors Australia",
+      "title_en": "Niobium partnership in Brazil gains governance boost - BNamericas",
       "title_en_source": "passthrough"
     },
     {
@@ -192,6 +192,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Niobium Mines and Producers: Output, Reserves, Uses - Farmonaut",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVEhkdkJhNHZ4Qm1xVnl6Wjcya1NIeFFNaUtMUDdhVHdDMWdsQWgzMkJpOHRSVXg4cHBpLW5QSUNGOFJQUjQ1OGFLczEweERUN2dGcjZoaDh2QzJqTTJPRnN1eUk5R0hhNWpnS2hxVHF6MDA0UVNsUk1aOUs2RFJPcTN3?oc=5",
+      "source": "Farmonaut",
+      "published_utc": "2025-12-10T22:03:20+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "Niobium Mines and Producers: Output, Reserves, Uses - Farmonaut",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Codemig, CBMM renew niobium deal until 2070 - Valor International",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUEtzdDB3Tmtpc09yLXE5a1Z6ZUt2cVo0SUZDd2dEX2YwdUEyb0pTRW5fS3JlVkpZNldtUF8teGp0M3BJRVQ0aGJZSGY5eG9Hc3I2d3FhdE82SUd4VWNBazJiVGpDQXI4T2x2azVnYkRUUlRGZmdaMDRsUTJpSHZpOGtOSUxfYzFVdWliZmFrMGpXX3ItMlVJMy1GdXNYTm0wblNKZUFFT2Z0U1Qxbi1R0gG-AUFVX3lxTE40b0JEZXc5MnRPOFQxblFyTzEtZDZXcGRpZDBXUEpTZlZZb1ZuMnZGMWNERlZSWTNTWVZUTHNSOVAwakd4U2xVc2Z2c0h2X1lVSTNzNUZBSGJFSVdtblcyMHd6VlI5MnVXV3NlNjZDeTlqVGJ5VzY3a2lSWVQ3cWNQSFFiWkpnNHlGRUNTVHpLZXpuNWdXUXlfaE9GVVdISUhWS3NFSk1CMlF1U19kR2tQYTJKc25EdEJVNEIwZnc?oc=5",
       "source": "Valor International",
@@ -252,13 +262,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Are Chinese investments in Brazilian mining the start of a new wave? - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHl0RE9uVXBJakE0SmRXeWZvZTZqS29WNnRPY3JvNW94Y19ZaVhIMFBzWkZVX2x1Rmp3UnFVQXdHck51RnZiNHFnOWpfRnlDajU2MVZvVkxmblR3UEFDRlhzMVRQWU53NVVvUU5iMDhaSVp2dm1LZ2hpSE1IUEpoajhYSFVLXzZPcTNqZlNYSUVRbGhoTUlKWmstOWdPR3cycDRjZjlfa2ZGUQ?oc=5",
-      "source": "BNamericas",
-      "published_utc": "2024-12-10T08:00:00+00:00",
+      "title": "Niobium's battle of quantity and quality - Mining Magazine",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZEFQQ29Wcld6SFAzVk9qb2hYQ0dKTUpvT2xSdjJMV2lzMDRWR2duNVRESEtqRkY3RjRiSVhOZXVXUEIzS05lSXRwLTRKOE5EaS1weGhLMjN4SnBMaFZrM25NTDJPYTFodlE5SXJ3XzU3NmtpTnJnNEdaekZ1bk9BNkY3U056cW5xZVBscW8tNkQ3SzcyNVBxQ0xfNGs?oc=5",
+      "source": "Mining Magazine",
+      "published_utc": "2025-03-17T07:00:00+00:00",
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
-      "title_en": "Are Chinese investments in Brazilian mining the start of a new wave? - BNamericas",
+      "title_en": "Niobium's battle of quantity and quality - Mining Magazine",
       "title_en_source": "passthrough"
     },
     {
@@ -399,16 +409,6 @@
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
       "title_en": "The niobium controversy - FAPESP",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "At a Glance: Niobium powerhouse CBMM - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01RGYwSE5TOElGb1hxRXNKNVo1THhZbkx6bWt3UFY2eUhWWkpwWHU1Y1ZmbGtIaHFmVVJxb2J6eGdES3FfbmdRRkpjd3l5WERoWkdLQ3VvZzd6ZThPVEg1dGJ3alRUYXhOMkNVVFhTX0FFV0hWVUlSTVJLWlpnbkU?oc=5",
-      "source": "BNamericas",
-      "published_utc": "2019-08-30T07:00:00+00:00",
-      "query": "CBMM nióbio OR ferronióbio OR niobium",
-      "flag": "green",
-      "title_en": "At a Glance: Niobium powerhouse CBMM - BNamericas",
       "title_en_source": "passthrough"
     }
   ],
