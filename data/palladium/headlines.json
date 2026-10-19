@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-18T17:40:29.739347+00:00",
+  "as_of_utc": "2026-10-19T05:49:33.075526+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -11,7 +11,7 @@
     "palladium sanctions OR Russia palladium antidumping",
     "Zimplats palladium OR South Africa load shedding PGM"
   ],
-  "item_count": 73,
+  "item_count": 72,
   "items": [
     {
       "title": "Palladium Has Quietly Rallied While Gold and Silver Hog the Headlines - Startup Fortune",
@@ -24,16 +24,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Union representing Sibanye-Stillwater mine workers ends strike - Montana Free Press",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaDlUd1UxaXFCZHJRWGg3TWxxX19vazRHUVBFaFB4TlFBZkZWakNacElOVS1CdWtwUTduNV9mTXkwWlhLc1pPMV9HM0RvdDdUbzBsUDdkM19zTG9UenJhUF9xYnROUTVUSkFaWC1JM1hoTjNlQ3M0X2FPRlBOTDRKVXRrbGdtSm13U3c?oc=5",
-      "source": "Montana Free Press",
-      "published_utc": "2026-10-07T21:19:33+00:00",
-      "query": "Sibanye Stillwater palladium OR East Boulder",
-      "flag": "red",
-      "title_en": "Union representing Sibanye-Stillwater mine workers ends strike - Montana Free Press",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Sibanye-Stillwater Union Agreements Ratified at Stillwater East, Columbus, East Boulder - News and Statistics - IndexBox",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYTZLb0VCME96dTEtU0E5cGVueHVRRl8xTE1BOXpFUlByZmg3QTFjdGMzZ0dfLTFfcmFPaFptVTBKNmhfek9zZ3VFaGMyaHl4dWJBTlY3SmhlUXNadlhsWVctdE1xSmJ6QzRNRmZUOWNHOTlfVDZRb2lSekRFX2E4dUo3ellncFpBOGhGVl9EWmVEMTI3Z2QwVzE4RktBaURrNWJNMXg5NzhIM0xLRndwdXh3dG93UzVhSVBIX2QtVQ?oc=5",
       "source": "IndexBox",
@@ -41,6 +31,16 @@
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "green",
       "title_en": "Sibanye-Stillwater Union Agreements Ratified at Stillwater East, Columbus, East Boulder - News and Statistics - IndexBox",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Union representing Sibanye-Stillwater mine workers ends strike - Montana Free Press",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaDlUd1UxaXFCZHJRWGg3TWxxX19vazRHUVBFaFB4TlFBZkZWakNacElOVS1CdWtwUTduNV9mTXkwWlhLc1pPMV9HM0RvdDdUbzBsUDdkM19zTG9UenJhUF9xYnROUTVUSkFaWC1JM1hoTjNlQ3M0X2FPRlBOTDRKVXRrbGdtSm13U3c?oc=5",
+      "source": "Montana Free Press",
+      "published_utc": "2026-10-07T07:00:00+00:00",
+      "query": "Sibanye Stillwater palladium OR East Boulder",
+      "flag": "red",
+      "title_en": "Union representing Sibanye-Stillwater mine workers ends strike - Montana Free Press",
       "title_en_source": "passthrough"
     },
     {
@@ -67,7 +67,7 @@
       "title": "Platinum and Palladium COT Shifts: Euro Hits Multi-Year Extreme - News and Statistics - IndexBox",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOXzltdjlpUzY0SUFYbi1PYTJaeWx6UWJSbVRDeWhCZkdyZ2RxYXB6NHhaM0pLajVKQ3lMdHdpcXptbmFhYnlUek5uZkQxYWh3TF9fWGVSYWRJM0lrRU16VktWUExMV0xrSHY1NzFmWGlpX1F2RHY4ejZyYVplUGFpSE1rcm9BSDE5VWpUYkFTak5IY0FYZkZVeDNrU04ya095TDZSU19UYjhaZkk?oc=5",
       "source": "IndexBox",
-      "published_utc": "2026-10-06T00:20:34+00:00",
+      "published_utc": "2026-10-05T07:00:00+00:00",
       "query": "Amplats OR Anglo American Platinum palladium",
       "flag": "green",
       "title_en": "Platinum and Palladium COT Shifts: Euro Hits Multi-Year Extreme - News and Statistics - IndexBox",
@@ -141,16 +141,6 @@
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "green",
       "title_en": "Sibanye Stillwater Says Finalized Wage Agreement at East Boulder Mine - marketscreener.com",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Sibanye-Stillwater sits out capital raise on copper project - MiningMX",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLVExd3ZHXzMyeUQ0ZXl0NWQ3ZWxMbjk0NUhrMlFPaEF4U1FrMi1wMDFzTFQtYi1SeXlzeVJGMTJFR2ZBOTQ4VU5TQ3ZhZzBFRFJ6SkYxVHBraDRyN1BCVTc4SXgycnVIWnRpZTFRRXlYblc5R2hhOWVrRlV2c3pXMEZReGNZaDFXT2d4R2U3NGxXUTdvTHQ0?oc=5",
-      "source": "MiningMX",
-      "published_utc": "2026-09-30T07:00:00+00:00",
-      "query": "Sibanye Stillwater palladium OR East Boulder",
-      "flag": "green",
-      "title_en": "Sibanye-Stillwater sits out capital raise on copper project - MiningMX",
       "title_en_source": "passthrough"
     },
     {
@@ -304,16 +294,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Impala Platinum: Flat Production, Higher PGM Prices, Vulnerable To Volatility - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTXVRamdIZVVBUWlDUWx4UmFWeHZqek5ndkVGb29adVBMVTlVNFRDTXhXa1FIbjhid3cyNU5IaENVT3IyMWZQWUN1MkUwcjJfSkw4dUh4T0lXTDFTNjJucXlHamM3aF9jdkN6ZVY2M3VPSDJMNXZUZHk2b2FmaG4zNEs4Nk1LcGlERUxkZ1NiTzNqUFdZem9tMGI1UmJ0UlJPX0tjVmpmcno5RGJnVDQ0Ni1tMDBzdw?oc=5",
-      "source": "Seeking Alpha",
-      "published_utc": "2026-07-02T07:00:00+00:00",
-      "query": "Impala Platinum PGM OR Impala palladium",
-      "flag": "green",
-      "title_en": "Impala Platinum: Flat Production, Higher PGM Prices, Vulnerable To Volatility - Seeking Alpha",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Norilsk Nickel sees 2026 global palladium surplus of 300,000 oz - Mining.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM284YWNuVXlRZWVQbWw5eUVNTjlBbTNBNElRakFsVEpyd0ZzUndqVy1MTGM5UGZWdlh5SVBwTE5RMTNGaWpKUFNUWHpLS2xOZ2xqWnZtaVN5RnRVUThIdHZhOHV1cUwyZHoyLXZfbnpKVkNvSVhpUnVyOWhFc0xlcXBCOWNJNjJXc2pKeEVtbV9FSF9h?oc=5",
       "source": "Mining.com",
@@ -411,6 +391,26 @@
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
       "title_en": "Russia’s Nornickel Reports Sharp First-Quarter Drop in Metal Output - The Moscow Times",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Platinum or palladium: Which metal is a better investment? - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdk0wYVZ1aEN5YjBHRS12ZEpfZDluMFZPQmgyRTZmNC1qWm9kOEZ0MHVkTlI2MlNvTWlMS0dTMzU0YUFWZUh1c0c3cmtBQXRXUW04QkFyRFFCX3pTRUhmcmJSZkN4RDNpaFNtT0dmUXlOM3pGSUdDTHNnMDFiTHVXYmlQM0xCVi1z?oc=5",
+      "source": "USA Today",
+      "published_utc": "2026-04-23T07:00:00+00:00",
+      "query": "palladium supply OR palladium shortage",
+      "flag": "green",
+      "title_en": "Platinum or palladium: Which metal is a better investment? - USA Today",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Platinum Group Metals And Impala Platinum Holdings: Why I'm Bullish (OTCMKTS:IMPUY) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0p6Vmo0dFdFajRtWkR6MHRTcWdwc003dERvTC1velFjcjB2Y0FYc3BXVjZtNThlQkFtWFFHR3E2WGdBZ0pQaVVOdEdEU29zN1lpLXpCektEb0U5TXl2NGd0eDFvM1NlWHRDWjY0ZG5uRjRoeF9kMk1fZHc1cUY5NEo0N3FQOXhmR3RoRjl0TFJ6aWpLcnBMV1pWNVc5V3N5UjhCeUxVU2p3dw?oc=5",
+      "source": "Seeking Alpha",
+      "published_utc": "2026-04-16T07:00:00+00:00",
+      "query": "Impala Platinum PGM OR Impala palladium",
+      "flag": "green",
+      "title_en": "Platinum Group Metals And Impala Platinum Holdings: Why I'm Bullish (OTCMKTS:IMPUY) - Seeking Alpha",
       "title_en_source": "passthrough"
     }
   ],

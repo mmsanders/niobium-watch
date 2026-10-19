@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-18T17:40:29.739347+00:00",
+  "as_of_utc": "2026-10-19T05:49:33.075526+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 47,
+  "item_count": 48,
   "items": [
     {
       "title": "NIOB Airborne Survey Identifies Rare Earth Targets at Bardy SE - The Manila Times",
@@ -109,6 +109,16 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "Brazil’s Araxá Niobium-Rare Earth Project Posts Major Resource Increase - Rare Earth Exchanges",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Niobium partnership in Brazil gains governance boost - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVdrZktMV2RjTVlyVUo5Rl81N3c5UWdTMnBIeHZTX240TVdkdFdFSXk0dVZlcFVVbEJOcWw4RU9aWVVhdzlINVl4a2Vpbm03czBwemsyVDNURVlGUGFkb0JkRzBfdFBJc1V3OGVJZE1VaHBXSHJ3ZmtjQW9NNkxYOXdXOUV0UW4yc1gtNTlGNEM?oc=5",
+      "source": "BNamericas",
+      "published_utc": "2026-03-04T08:00:00+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "flag": "green",
+      "title_en": "Niobium partnership in Brazil gains governance boost - BNamericas",
       "title_en_source": "passthrough"
     },
     {
@@ -262,6 +272,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Are Chinese investments in Brazilian mining the start of a new wave? - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHl0RE9uVXBJakE0SmRXeWZvZTZqS29WNnRPY3JvNW94Y19ZaVhIMFBzWkZVX2x1Rmp3UnFVQXdHck51RnZiNHFnOWpfRnlDajU2MVZvVkxmblR3UEFDRlhzMVRQWU53NVVvUU5iMDhaSVp2dm1LZ2hpSE1IUEpoajhYSFVLXzZPcTNqZlNYSUVRbGhoTUlKWmstOWdPR3cycDRjZjlfa2ZGUQ?oc=5",
+      "source": "BNamericas",
+      "published_utc": "2024-12-10T08:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "Are Chinese investments in Brazilian mining the start of a new wave? - BNamericas",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - Electric & Hybrid Vehicle Technology International",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVHZDR1d4MFJDTnFHb2RFMnFEZGxoUGpmbmhpVm1Yem1Sb2NhQzl6SmtzM2hFM1FvVTVtcjlXbHNQYnNUR2tMcnBITW9SMUg3NGMtcDRsTlU5eERpVEFicUFQMU5CbUNlUkJmUGxBS29OSGZZcXpUc2RTR0wtT2dGYXR4bXJ6bmYwVElvMVRwWnVNamxEMVRwVzFITUVwOXd6ZXc2RHB0LTVKLVNZckR3Q3BKa0tXeWtiNEpGYVp6dDE2WHVvcnFmYS13V09Sc2hySmVuTmZLbVVRdw?oc=5",
       "source": "Electric & Hybrid Vehicle Technology International",
@@ -282,13 +302,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Echion and CBMM Open Niobium Anode Production Plant - Battery-News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSTh3OTNiNEFjMm9UcWppazdDVlF4WHRqTWJTRzZLbzlYSkk3V3E1R08xUUxtZ2hqcC0yRnFWdUZmVlJKNDJodVZyNWZSZjNkanNKVnhwUlhIWDZ6Ymd5U3ZLSFc1YUhzOXg4NmV4TTc1OHV6MGN4a19sNkNBYlZuZ0RGbS0tNk5hbFN1S3NSQVNSckph?oc=5",
-      "source": "Battery-News",
-      "published_utc": "2024-11-18T08:00:00+00:00",
+      "title": "St George Mining Appoints Executive Team to Drive Araxá Niobium Project - The Assay",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcjVYNlFmNTE0LXo4TzdJU1JHYWZDU2oxUlZSc1FLZlh0dUJfWVhhLU16M184enEyWEZzLXBXSS11UUtVVFNoeWVyMFVlUm15WFRqV3U1RVJOcVo3Y0p2S3lGbjFsN1NVSU0xWTNaeGV4ZjlPY0RDSWhyZkt6WHo3SFRBN0dBT2NRSjBnZFUwTm9SYWo0YmM0MjFVUHZKQVFVYTUtcg?oc=5",
+      "source": "The Assay",
+      "published_utc": "2024-08-21T02:42:18+00:00",
       "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "Echion and CBMM Open Niobium Anode Production Plant - Battery-News",
+      "flag": "yellow",
+      "title_en": "St George Mining Appoints Executive Team to Drive Araxá Niobium Project - The Assay",
       "title_en_source": "passthrough"
     },
     {
@@ -372,6 +392,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Redpath completes largest raisebore by volume in the Americas at Niobec niobium mine in Quebec - International Mining",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVp6VTlOa0ZLMmo2amVzVjYxMm9zWXA3eU45UlpDSWtsREFsZWJKamdsZXRyQVRtaW9zUW11WC1DYlFUTS0zV0hyNFZMT25QRjdfMGtkSDdhRWJTdUE4U25aYlU4ZE1kTmtnOG5pempQREhidVZsRTVZazVHcGplTDljbXJMRFNyQ1ZDMVR3TldJdENfenVJNnBMMTJ4dFVRbXl3ZUkyLUVKVklfc3BvSWtR?oc=5",
+      "source": "International Mining",
+      "published_utc": "2021-02-11T08:00:00+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "Redpath completes largest raisebore by volume in the Americas at Niobec niobium mine in Quebec - International Mining",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - Dassault Systèmes",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMU5iMGYzYzNYM0NlVWtCU28xbVpsX2VlcjNoazAyeGY2WnByLWF4ZFVGSGg3SjVyTHp6VkNDSFFzS2phM0h1VFl4NEV6VDNnN2JKSVlyVTIwRl91MUNUa0QyX1Z1dm56SV95dFpEMzUxTTEtTFpQUGlxNWlWNHZYWDJhOEZLTVZNVG1CbnZmR0Nqem82NXdYVmVkMDhIUzVRZWFCOFI2OUd1UHc0bHo0VF9rSkVla3BsUWJucGNPWjhjcnBHT2xwbVVYc2hpR3F0TlBqVURxUVZ0T29iWWx2d2owSVk1cmFPTUFTUjdlaGxZSGV0THhRanRuOThWeXFrb081R3dfS0ZJSjRt?oc=5",
       "source": "Dassault Systèmes",
@@ -379,36 +409,6 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - Dassault Systèmes",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Iamgold sees potential to extend Nelligan footprint - The Northern Miner",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU2NTejBFZlNMcUVJMndUYmR4QVRqUFlqM09TcUQzRXlDdU9jclFqeTV2Z25pSGhrbm1MRkdIcXdJcDNQbWs1MDhZbzFvWkRoZEtSaW9lYUhtR3FmU1hTU1ZhZmdvRW93SHBvVWlnN1pPTXNYRl80Q0VMc2hUQkU3b29rR3FfLWZkVGZTVjdERE1ZaGFybncwQkZHbmdMTEp3Smw1bm1n?oc=5",
-      "source": "The Northern Miner",
-      "published_utc": "2020-06-19T13:29:39+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "Iamgold sees potential to extend Nelligan footprint - The Northern Miner",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "The niobium controversy - Revista Pesquisa FAPESP",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FVWl0RHdLelZZdWhwREJmejhqdjdBblVFVXZlVlZWaXJyenBLSDVEMmpEb3RRZnYxc2xaR2kzdXZnSmwwMkk1S3FSZFRvNmhucVJyZEpBQURmemFSOFNBdktDbm9WNDNIaG1LcHYwQUI?oc=5",
-      "source": "Revista Pesquisa FAPESP",
-      "published_utc": "2020-06-02T06:34:46+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "green",
-      "title_en": "The niobium controversy - Revista Pesquisa FAPESP",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "At a Glance: Niobium powerhouse CBMM - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01RGYwSE5TOElGb1hxRXNKNVo1THhZbkx6bWt3UFY2eUhWWkpwWHU1Y1ZmbGtIaHFmVVJxb2J6eGdES3FfbmdRRkpjd3l5WERoWkdLQ3VvZzd6ZThPVEg1dGJ3alRUYXhOMkNVVFhTX0FFV0hWVUlSTVJLWlpnbkU?oc=5",
-      "source": "BNamericas",
-      "published_utc": "2019-08-30T07:00:00+00:00",
-      "query": "CBMM nióbio OR ferronióbio OR niobium",
-      "flag": "green",
-      "title_en": "At a Glance: Niobium powerhouse CBMM - BNamericas",
       "title_en_source": "passthrough"
     }
   ],
