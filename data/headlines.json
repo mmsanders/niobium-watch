@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-19T05:49:33.075526+00:00",
+  "as_of_utc": "2026-10-19T20:17:58.401270+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -32,13 +32,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "St George steps up Araxá testing - The Australian",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRFhJZnk2bEREbWJVR1EtUG8zRlZWMUVFSnAxWUFTVlg5b1F0dmdRQkdhcmY2X2s0ZTZ3ZHVTS2Q0SW5oYW8xeWo3RXZrbmR1YnFYMkIzU0ZmdGZ0ZEZPYWE2OFJYclNWQmFubWtzYndDQmtpS0U4ZFViX0JJTGhFRjB6TUNBZWpKN0hUWm5oRlZLZ0lybXo2bmY3U3FmemtoZmxGbDBpWEJBX09FdE8tYXduY1lHTTJRQndzUVJsbG95QjB3d2I2Uzd4cnNQSWVHV2JCQklCd1FZd1RIdGh0SkxCMXZ0d1puV2d1OUVvOVpVbkE1SDZ5SUg3Rk4xM1dlY3VtSDkyRnBxQnJV?oc=5",
-      "source": "The Australian",
-      "published_utc": "2026-09-03T07:00:00+00:00",
+      "title": "St George Mining starts environmental permitting for Araxá rare earths and niobium development - Proactive Investors Australia",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRi1UUTZWSl9BWDhLSzdjSTcxTXVvMWJVb2VDZThuS1pyblBBS3oteUVUTS1XN29ZN0FoUHBSSENnMktadmlEcGxERGdEdjF2dW9WMFNFTmZ4RnNQR3Q5UDNpS0p1RlN2V2tpaWYtWHYzUHVnTm9xcmxzOVhjSzBaOU9HbzFRY2pCYnhwZWZFV1VKUW01V0VXV0JERHhhdDB0bzRJbkh0S2hIQXhJVnlEYXp2TmFORE8wTWFteGphV1JPczVnaC1WM0NLdUxiamN0S05DNGpIbTJyb05QUG9xbmNnbkJLTTFUSUtMVUlTcXlkc2o2SEg5T1RaU0Q?oc=5",
+      "source": "Proactive Investors Australia",
+      "published_utc": "2026-08-25T07:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
-      "title_en": "St George steps up Araxá testing - The Australian",
+      "title_en": "St George Mining starts environmental permitting for Araxá rare earths and niobium development - Proactive Investors Australia",
       "title_en_source": "passthrough"
     },
     {
