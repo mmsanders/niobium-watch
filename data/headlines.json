@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-20T05:43:18.497138+00:00",
+  "as_of_utc": "2026-10-20T18:49:42.001514+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -11,6 +11,16 @@
   ],
   "item_count": 47,
   "items": [
+    {
+      "title": "NiobiumX Mining Outlines the Principal Exploration Target at Its Shipshaw Niobium Property, Quebec - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOZDlyMHZ0RXhyYkRPZkVRWklCOWFRZHFERnFBaHlIYWJaMFpOWkVhb1pwcnExSk1kaUF4N1hxRmF4dk44LW5wdXJINzZjd1pqdVZvdmw4eUhmR2hOdlhrRGVZakFucVc1TkY0OGZuUGd0T1l6Q2RJdDU4QzBqUnEydGxYRE5najRNbGtVVjZIb3RrY0hWVHlnRnVKUHN4VkhzRUNzTzQ5MTJLNV9FUWZiblJKTnpkRzZsMklVVGtyd1MzQnllQ05jV2sxV2ladnpQZEtmbVJlQjg1UnVQR0Z0cjhRZHliS3J3MmgwVFExR0F3MmNDa0FoQk9IdjRBN2RKcjBtTkRpTmJGemVqRExzZTJsUDJiQQ?oc=5",
+      "source": "The Globe and Mail",
+      "published_utc": "2026-10-20T12:00:31+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "NiobiumX Mining Outlines the Principal Exploration Target at Its Shipshaw Niobium Property, Quebec - The Globe and Mail",
+      "title_en_source": "passthrough"
+    },
     {
       "title": "NIOB Airborne Survey Identifies Rare Earth Targets at Bardy SE - The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeHZTNGl6d1VwbGd5MC1nRkVGM3hiQkZXMktUZXlUMDI4aml6SVNJN3k0TmI0RFpCSVJLbnR3Q2Y3dFppVWMtX3JZdEpQS3ZHRWU5VHRpNjQwUm9Jck9CRFdEdUhIX3BMbG1panljYXBzWGpVQnJjNVRwcG1YeFhqanNjc053NWJoNkE1WmpSaDN1WVVJeDd2ZEFBZjdlWXBnT2oyaURnT21ZWm1MbWNmM0lmb1ljX3lBdkE1YzQxMDVWVGZqTjVoLUtrQWw5c1FBSGfSAdcBQVVfeXFMUGcyQ0VhdXNyRmhFRF9uTGlnMkNQVTktWUtqMTNxZlhlRHhITVBDdm54YllmSE16UW9pdkxfZ1hGUzVBenFwM1VkMG8xUUFqV01pNTZxcTFnTUEtVEcySlpLcWJhU3VBVXN4VWpPYUI1cXZkUEIwT2xPVjFxaTJ3WTRFcDVSQXZ2aEtiWkM1dHlSLUZnMFRsX0VTUGp2ZXIybjFCVEZHQTJwSVFtclZQZmY0LS1sdFpMWjlfcTd3VXhtdVBOdEFxTWlwcDlhZ3Jja2NSQUotY00?oc=5",
@@ -399,16 +409,6 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - Dassault Systèmes",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Iamgold sees potential to extend Nelligan footprint - The Northern Miner",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU2NTejBFZlNMcUVJMndUYmR4QVRqUFlqM09TcUQzRXlDdU9jclFqeTV2Z25pSGhrbm1MRkdIcXdJcDNQbWs1MDhZbzFvWkRoZEtSaW9lYUhtR3FmU1hTU1ZhZmdvRW93SHBvVWlnN1pPTXNYRl80Q0VMc2hUQkU3b29rR3FfLWZkVGZTVjdERE1ZaGFybncwQkZHbmdMTEp3Smw1bm1n?oc=5",
-      "source": "The Northern Miner",
-      "published_utc": "2020-06-19T13:29:39+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "Iamgold sees potential to extend Nelligan footprint - The Northern Miner",
       "title_en_source": "passthrough"
     }
   ],
