@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-19T20:17:58.401270+00:00",
+  "as_of_utc": "2026-10-20T05:43:18.497138+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -184,16 +184,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Implats pays out R17bn to shareholders as metal price recovery fills coffers - News24",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU256WWxBcmRrRjYyWDdMMmZvdEQ1NHFDa1dBUTFyb3NjRUtGSERSUDhpSktzVC1jNFVlOWM1cXdnY0FiWm8yMlhFME81WU9xUjVuUU5YaENoZlEzWXlhbVg2UC16c1JzcUdNSWt3bDEybnVELTlSbVBOZGNoNmVPcGQxZjIzcjR2aDY2aHRSUjhXYjNrMHRGb0Vna0JlRU90emJuR3BkVjFRN1BmT1F1blBzVGUtWU1QN1F5c1JRS1czWWxX?oc=5",
-      "source": "News24",
-      "published_utc": "2026-09-03T07:00:00+00:00",
-      "query": "Impala Platinum PGM OR Impala palladium",
-      "flag": "green",
-      "title_en": "Implats pays out R17bn to shareholders as metal price recovery fills coffers - News24",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Sibanye-Stillwater (SBSW) receives strike notice for sections of its US pgm operations; East boulder mine not included in strike notice; negotiations continuing - Newsquawk",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxObDBuU1UtVkh1ejZYZXVYYkZxaTdBRzkycHI2YTItOTZMWmg3cUh0allBLWxIY0dCLWt4UDNJZGQ5MHMxQ1MyT0o2OVB3MGRKUDFWNDRORU9nWF8yR1NOMU1rUUNzMmp6SFlNelpjMHI1VkVwYmFlWFE2bVdBY1E1Y1dhdkJDdjVIRElSV0tpa0EzTm9oN3JYbGxoOE03dnB0Q1RYQjFkXzVjZDJ5Y2c5aEVpYzh3TUtFekFrVXpRQS1kRG5KcVQ1bjFmZDhYOElvZklCSk8wa0FBck1Vakl1c0JCQlNkdFRTM2JVM2ZyUTRRUlNVQ3JWazNsV0pZeTRBM0JDZXRaZ25XajVpcXZsdUtDRVNvRU50bVlhVw?oc=5",
       "source": "Newsquawk",
@@ -211,6 +201,16 @@
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
       "title_en": "Strike to begin at Sibanye-Stillwater’s US operations - Mining.com",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "It’s not us: Sibanye, Implats deny Northam overture - News24",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa1ZBRWx3bWwxNENIeGxYX1MybUprNUpGTVBMZTV4SHVwM0hIX3JVb1RxU1I2NFNDajVmc3AtLXJYNEtUdkZjU29ZTTg2ZjdmTFI2ZFZYMDB6WnQxVGpXd0NIdlBHcGlvNExDNXRDYV9BM3E0amRnUE5oY1dydkVtY2Q1eTdzaFhoekJnMm1QVDFYYVNSMXdFVUxleEpmdlFURUNDQ2VjWQ?oc=5",
+      "source": "News24",
+      "published_utc": "2026-08-26T07:00:00+00:00",
+      "query": "Impala Platinum PGM OR Impala palladium",
+      "flag": "green",
+      "title_en": "It’s not us: Sibanye, Implats deny Northam overture - News24",
       "title_en_source": "passthrough"
     },
     {
@@ -274,16 +274,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Impala Platinum Holdings (Implats) has temporarily suspended mining ac - Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb01xUFd6SzhFNUxzMHJwUzBfT196eVhLZWl1T09pclE1RmotNjM3R0x3WVZOMC1VejJLLU9lX0dPZmM4UExTQllTejhsTFBITmtXVGlhY0pFYU9xMTBOa1gwalJRTGk0aG1nR1c4R254UGEtZTdfRE5laGVyMGNwMnlLNzFrY1VRNXNFektnaUI4Z3BlZUdBaGRGQVlJanFCYTZjTVRLR3dRTjd5NnNEb0NUeUdYUU1wMG5oSjZuUnE0aEE?oc=5",
-      "source": "Shanghai Metals Market",
-      "published_utc": "2026-07-30T07:00:00+00:00",
-      "query": "Impala Platinum PGM OR Impala palladium",
-      "flag": "green",
-      "title_en": "Impala Platinum Holdings (Implats) has temporarily suspended mining ac - Shanghai Metals Market",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Experts raise concerns as Russia shifts palladium refining closer to Finland - Yle",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE51WHNVeW1WdWtIeGtOMU1yRU1nYmpLV3FJcllGM0NEZGJlU0RKSDMydGFRbmMzUE1sQTVkMmxiRUZXUQ?oc=5",
       "source": "Yle",
@@ -334,6 +324,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "UBS cuts palladium price target on surplus outlook - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeG5Tel8yZXhpbXZwQ1BuMzRWNUx3dE55X2NDODRQcWZpOFV6MWI4TTRtemxEMll2MDlHd1VQQl91UVlFZmlicDQ4NDd4NFh0SWJZTHZUbVpwc0d4bVhDYVRLQTVrMWQ0YWpac0xMZUxEcS1PNGM2bU9tTDZETnBsM1Q4RUtxRmgxb1FlTHV0MmE0NU0tSE41bm5mNzN0YnYtbDE3TVB5MXhrR0w2OXBOLQ?oc=5",
+      "source": "Investing.com",
+      "published_utc": "2026-05-26T07:00:00+00:00",
+      "query": "palladium supply OR palladium shortage",
+      "flag": "yellow",
+      "title_en": "UBS cuts palladium price target on surplus outlook - Investing.com",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Palladium Market Size, Share & Growth Report 2035 - SNS Insider",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHeUpUaTZNdy1qX0ZTbGJFYVBFMVNsVTVQT3ZfNWxtT2NuN0FQaWxMX2k5ZVBsUTdfZGoyVW84SDEwMFp2U2kwZFJ0dEdjQTdORlVrSzZocWJoWmZ0VWw4YXdvY2MwcFk?oc=5",
       "source": "SNS Insider",
@@ -351,16 +351,6 @@
       "query": "palladium sanctions OR Russia palladium antidumping",
       "flag": "yellow",
       "title_en": "US moves closer to prohibitive tariffs on Russian palladium - Reuters",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Platinum, Rhodium to Outpace Palladium in 2026: Metals Focus - Value The Markets",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTUZwUl9NSUx4dmJBUHRFZlZjMDB4S3BXYTE2eC1NLW1UR1hseFJGYnVyOXNPYktZNlE2NHpDM0haY2Ewd1hQRmZwYjNlZ2o4UGpwYTBzMV9lYU5WRlFQeHVnZTRDMWRCNVY1V0QtWkVJcTFHMjFZRGJydFFkclJjdUJ2SE9Iak5VSlp3?oc=5",
-      "source": "Value The Markets",
-      "published_utc": "2026-05-19T07:00:00+00:00",
-      "query": "palladium supply OR palladium shortage",
-      "flag": "green",
-      "title_en": "Platinum, Rhodium to Outpace Palladium in 2026: Metals Focus - Value The Markets",
       "title_en_source": "passthrough"
     },
     {
@@ -411,6 +401,16 @@
       "query": "Impala Platinum PGM OR Impala palladium",
       "flag": "green",
       "title_en": "Platinum Group Metals And Impala Platinum Holdings: Why I'm Bullish (OTCMKTS:IMPUY) - Seeking Alpha",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Russia's Nornickel sees new palladium demand from China’s fibreglass sector - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORFJlTk5TUzRvbTlJVUlqS21nOHY3eVZIbTR6Z1RoNEc0TkZTU2E5X2phRGtHZjVaelM1WW9hMWpEdlBULWNrb2xMbGRvMU5wYWx2S0ZxaW5Rek9vTmpuMWFNckdvNm00Q0cwSEJzazdJa1NaT0U3OUEySDRhNnFwekhJOGFzMTBHeUQxbVMtZ0dLREJMcERhUG5GQ0Q0cG1lX2pVN1hBek9NTFpweGZVSW9hLXZUdTJ2dlZxVXpzalE?oc=5",
+      "source": "Reuters",
+      "published_utc": "2026-03-23T07:00:00+00:00",
+      "query": "Norilsk Nickel palladium OR Nornickel palladium",
+      "flag": "green",
+      "title_en": "Russia's Nornickel sees new palladium demand from China’s fibreglass sector - Reuters",
       "title_en_source": "passthrough"
     }
   ],

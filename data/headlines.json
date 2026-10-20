@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-19T20:17:58.401270+00:00",
+  "as_of_utc": "2026-10-20T05:43:18.497138+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 48,
+  "item_count": 47,
   "items": [
     {
       "title": "NIOB Airborne Survey Identifies Rare Earth Targets at Bardy SE - The Manila Times",
@@ -99,16 +99,6 @@
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
       "title_en": "Tanzania seals strategic minerals deal - Daily News",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Brazil’s Araxá Niobium-Rare Earth Project Posts Major Resource Increase - Rare Earth Exchanges",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTDNlSmRmcDFwNGJRU1pmcWtvbWtJRlc1RjROZTJ5MnpJSTByUW5wWDhfUU5vWDBkbEhyRV95RXhXbFBKT1czdWZCeFhxYjA3WVBOek5qVkFJV3JoVXB4b3VmOWdoLVJUS0NobFN6cGdsTGJIT0dQN2tnMkJEOWpGQnRDdHdlYV94ajdSeHlpbzNMRHRuajVPQ3FDTVFGdms3bWg4TERUdHBmMmM?oc=5",
-      "source": "Rare Earth Exchanges",
-      "published_utc": "2026-03-06T08:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "Brazil’s Araxá Niobium-Rare Earth Project Posts Major Resource Increase - Rare Earth Exchanges",
       "title_en_source": "passthrough"
     },
     {
@@ -409,6 +399,16 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "Brazilian Niobium Supplier CBMM Uses Dassault Systèmes’ 3DEXPERIENCE Platform to Develop Safer, More Energy Efficient Automotive Applications - Dassault Systèmes",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Iamgold sees potential to extend Nelligan footprint - The Northern Miner",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU2NTejBFZlNMcUVJMndUYmR4QVRqUFlqM09TcUQzRXlDdU9jclFqeTV2Z25pSGhrbm1MRkdIcXdJcDNQbWs1MDhZbzFvWkRoZEtSaW9lYUhtR3FmU1hTU1ZhZmdvRW93SHBvVWlnN1pPTXNYRl80Q0VMc2hUQkU3b29rR3FfLWZkVGZTVjdERE1ZaGFybncwQkZHbmdMTEp3Smw1bm1n?oc=5",
+      "source": "The Northern Miner",
+      "published_utc": "2020-06-19T13:29:39+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "Iamgold sees potential to extend Nelligan footprint - The Northern Miner",
       "title_en_source": "passthrough"
     }
   ],
