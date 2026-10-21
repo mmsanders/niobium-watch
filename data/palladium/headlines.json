@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-20T18:49:42.001514+00:00",
+  "as_of_utc": "2026-10-21T05:46:26.711691+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -11,7 +11,7 @@
     "palladium sanctions OR Russia palladium antidumping",
     "Zimplats palladium OR South Africa load shedding PGM"
   ],
-  "item_count": 73,
+  "item_count": 72,
   "items": [
     {
       "title": "Palladium Has Quietly Rallied While Gold and Silver Hog the Headlines - Startup Fortune",
@@ -294,6 +294,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Impala Platinum: Flat Production, Higher PGM Prices, Vulnerable To Volatility - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTXVRamdIZVVBUWlDUWx4UmFWeHZqek5ndkVGb29adVBMVTlVNFRDTXhXa1FIbjhid3cyNU5IaENVT3IyMWZQWUN1MkUwcjJfSkw4dUh4T0lXTDFTNjJucXlHamM3aF9jdkN6ZVY2M3VPSDJMNXZUZHk2b2FmaG4zNEs4Nk1LcGlERUxkZ1NiTzNqUFdZem9tMGI1UmJ0UlJPX0tjVmpmcno5RGJnVDQ0Ni1tMDBzdw?oc=5",
+      "source": "Seeking Alpha",
+      "published_utc": "2026-07-02T07:00:00+00:00",
+      "query": "Impala Platinum PGM OR Impala palladium",
+      "flag": "green",
+      "title_en": "Impala Platinum: Flat Production, Higher PGM Prices, Vulnerable To Volatility - Seeking Alpha",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Norilsk Nickel sees 2026 global palladium surplus of 300,000 oz - Mining.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM284YWNuVXlRZWVQbWw5eUVNTjlBbTNBNElRakFsVEpyd0ZzUndqVy1MTGM5UGZWdlh5SVBwTE5RMTNGaWpKUFNUWHpLS2xOZ2xqWnZtaVN5RnRVUThIdHZhOHV1cUwyZHoyLXZfbnpKVkNvSVhpUnVyOWhFc0xlcXBCOWNJNjJXc2pKeEVtbV9FSF9h?oc=5",
       "source": "Mining.com",
@@ -401,16 +411,6 @@
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
       "title_en": "Russia's Nornickel sees new palladium demand from China’s fibreglass sector - Reuters",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Platinum is back. So why are its miners shunning growth? - MiningMX",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcmYxd1VuYTFuNF9QTVVwTWtsZmVxUnVZSkZqYm1OcHZkVS1iQTVPWjhRUUlKaXZFY3BPSVpjN09MRUVhUkw0dHpKRDFuYTdKNlBvdkVjWkJ4Nk13bDlIR0NNZDZaVXlPcnVrQlZyVmhBWVlUWmZUeW5EVWdpbnRqeTQ1ckFzc0tUaGl0ekREbU1NRkJCZUg4c2lVWVNfZw?oc=5",
-      "source": "MiningMX",
-      "published_utc": "2026-03-20T07:00:00+00:00",
-      "query": "Impala Platinum PGM OR Impala palladium",
-      "flag": "green",
-      "title_en": "Platinum is back. So why are its miners shunning growth? - MiningMX",
       "title_en_source": "passthrough"
     }
   ],
