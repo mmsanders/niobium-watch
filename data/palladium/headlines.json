@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-21T05:46:26.711691+00:00",
+  "as_of_utc": "2026-10-21T19:01:51.849579+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -194,23 +194,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Sibanye-Stillwater (SBSW) receives strike notice for sections of its US pgm operations; East boulder mine not included in strike notice; negotiations continuing - Newsquawk",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxObDBuU1UtVkh1ejZYZXVYYkZxaTdBRzkycHI2YTItOTZMWmg3cUh0allBLWxIY0dCLWt4UDNJZGQ5MHMxQ1MyT0o2OVB3MGRKUDFWNDRORU9nWF8yR1NOMU1rUUNzMmp6SFlNelpjMHI1VkVwYmFlWFE2bVdBY1E1Y1dhdkJDdjVIRElSV0tpa0EzTm9oN3JYbGxoOE03dnB0Q1RYQjFkXzVjZDJ5Y2c5aEVpYzh3TUtFekFrVXpRQS1kRG5KcVQ1bjFmZDhYOElvZklCSk8wa0FBck1Vakl1c0JCQlNkdFRTM2JVM2ZyUTRRUlNVQ3JWazNsV0pZeTRBM0JDZXRaZ25XajVpcXZsdUtDRVNvRU50bVlhVw?oc=5",
-      "source": "Newsquawk",
-      "published_utc": "2026-09-02T07:00:00+00:00",
-      "query": "Sibanye Stillwater palladium OR East Boulder",
-      "flag": "red",
-      "title_en": "Sibanye-Stillwater (SBSW) receives strike notice for sections of its US pgm operations; East boulder mine not included in strike notice; negotiations continuing - Newsquawk",
+      "title": "Implats pays out R17bn to shareholders as metal price recovery fills coffers - News24",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU256WWxBcmRrRjYyWDdMMmZvdEQ1NHFDa1dBUTFyb3NjRUtGSERSUDhpSktzVC1jNFVlOWM1cXdnY0FiWm8yMlhFME81WU9xUjVuUU5YaENoZlEzWXlhbVg2UC16c1JzcUdNSWt3bDEybnVELTlSbVBOZGNoNmVPcGQxZjIzcjR2aDY2aHRSUjhXYjNrMHRGb0Vna0JlRU90emJuR3BkVjFRN1BmT1F1blBzVGUtWU1QN1F5c1JRS1czWWxX?oc=5",
+      "source": "News24",
+      "published_utc": "2026-09-03T07:00:00+00:00",
+      "query": "Impala Platinum PGM OR Impala palladium",
+      "flag": "green",
+      "title_en": "Implats pays out R17bn to shareholders as metal price recovery fills coffers - News24",
       "title_en_source": "passthrough"
     },
     {
-      "title": "It’s not us: Sibanye, Implats deny Northam overture - News24",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa1ZBRWx3bWwxNENIeGxYX1MybUprNUpGTVBMZTV4SHVwM0hIX3JVb1RxU1I2NFNDajVmc3AtLXJYNEtUdkZjU29ZTTg2ZjdmTFI2ZFZYMDB6WnQxVGpXd0NIdlBHcGlvNExDNXRDYV9BM3E0amRnUE5oY1dydkVtY2Q1eTdzaFhoekJnMm1QVDFYYVNSMXdFVUxleEpmdlFURUNDQ2VjWQ?oc=5",
-      "source": "News24",
-      "published_utc": "2026-08-26T07:00:00+00:00",
-      "query": "Impala Platinum PGM OR Impala palladium",
-      "flag": "green",
-      "title_en": "It’s not us: Sibanye, Implats deny Northam overture - News24",
+      "title": "Strike to begin at Sibanye-Stillwater’s US operations - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZDZMMXdkZG8zUjluOGJGUjEyRFB1NDVWcEwwNC0tZ1NxRzhiSmFQaHM1cGt1V1FDLWpQZzBOZGV1akgtbHc5cUtJeU5LMFlYdGozejJ0akpMRXlCQkpVSmV5ZTNmUDY3cTc2a2VFNnBzRVYyOGgtZXV0eWl1SFZvNWpB?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2026-09-02T07:00:00+00:00",
+      "query": "Sibanye Stillwater palladium OR East Boulder",
+      "flag": "red",
+      "title_en": "Strike to begin at Sibanye-Stillwater’s US operations - Mining.com",
       "title_en_source": "passthrough"
     },
     {
@@ -241,16 +241,6 @@
       "query": "palladium supply OR palladium shortage",
       "flag": "green",
       "title_en": "Platinum’s Changing Investment Story: Deficits, Geopolitics and New Sources of Demand - Medium",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Distribution of palladium production worldwide in 2025, by company - Statista",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdXdYWlNwNjRlNTFhSEI4dG5IbHRHZDM2SXZoRU9ZUHZ5NHJPclQ2dDJQM29oMEpUUjFBMXQxUlhkZzZwZWpFQ25kSE56ZUhJU2JVd3d6Q3czcF93dTNVd3YwaC1FM0FmTVpxSnIzS3VtNUowVW00T1E3SEl6NndVUWZtMUtVMXFhaXVDU2JYY1BWMnBhU1U3bG5NX254OVU?oc=5",
-      "source": "Statista",
-      "published_utc": "2026-07-31T07:00:00+00:00",
-      "query": "Norilsk Nickel palladium OR Nornickel palladium",
-      "flag": "green",
-      "title_en": "Distribution of palladium production worldwide in 2025, by company - Statista",
       "title_en_source": "passthrough"
     },
     {
@@ -404,13 +394,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Russia's Nornickel sees new palladium demand from China’s fibreglass sector - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORFJlTk5TUzRvbTlJVUlqS21nOHY3eVZIbTR6Z1RoNEc0TkZTU2E5X2phRGtHZjVaelM1WW9hMWpEdlBULWNrb2xMbGRvMU5wYWx2S0ZxaW5Rek9vTmpuMWFNckdvNm00Q0cwSEJzazdJa1NaT0U3OUEySDRhNnFwekhJOGFzMTBHeUQxbVMtZ0dLREJMcERhUG5GQ0Q0cG1lX2pVN1hBek9NTFpweGZVSW9hLXZUdTJ2dlZxVXpzalE?oc=5",
+      "title": "Nornickel seeks new market for palladium in EVs with catalyst for lithium‑sulphur batteries - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ3ZWMm5lcmhwRndNOWwyT0ZUS2lENWJoUjZ0S0hvQ01weXNLSkpnT1RmaG1BQ1k2aVUzekJmajdWb19nQ0dUWkl3LXB4U2lfQkxleF9rdXBmY180VTJMZGJlWThwd3BjbW92QmV2ZFVlaGpsTTFMdWVkRDk2LXNiYzgySTMtOGVFNTVPNUtnWDQ1clNERVhSQzVidThFSlNiSXRfRDF6SlBMZVpLUzFUOXRrWjN3R05GOTVnOUh5Q29lQ0lUbUVtMnBCTQ?oc=5",
       "source": "Reuters",
-      "published_utc": "2026-03-23T07:00:00+00:00",
+      "published_utc": "2026-04-14T07:00:00+00:00",
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
-      "title_en": "Russia's Nornickel sees new palladium demand from China’s fibreglass sector - Reuters",
+      "title_en": "Nornickel seeks new market for palladium in EVs with catalyst for lithium‑sulphur batteries - Reuters",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Chalice taps Cutifani’s firm for WA palladium push - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rNC1pTHFpWm5LRDQxeHNNMXRuNjVscXVoTGRpZFFCbVZmSjBQWjJ0VUZYMk5CMXJqQ3hBYjM1MHFlVjVIcDg0cjJyaW1IRE9PUEpzVUE2ODRnMDZCTTEwUG1DRGZpOVlHRm1mMHljcTlMaFg5UGdhaTRLeUZiUQ?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2026-04-13T07:00:00+00:00",
+      "query": "Amplats OR Anglo American Platinum palladium",
+      "flag": "yellow",
+      "title_en": "Chalice taps Cutifani’s firm for WA palladium push - Mining.com",
       "title_en_source": "passthrough"
     }
   ],
