@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-21T19:01:51.849579+00:00",
+  "as_of_utc": "2026-10-22T05:49:13.704937+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -11,46 +11,36 @@
     "MRI helium shortage",
     "Shute Creek helium OR LaBarge helium"
   ],
-  "item_count": 74,
+  "item_count": 73,
   "items": [
     {
       "title": "Plans for commercial helium production on Yorke Peninsula - ABC News & Headlines – Australian Broadcasting Corporation",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTk9FdFc2VG5NQTR0Q0Etb1haNTdMdUNuenowVzJtVExhZTVqVjlGdlp3QzhQZXZXc1Q3X0dpQVBYNWlpbm5hbVBoVVdFM1BBSGhSVEpxY0hGcHFNWUJ3YU1Pa3RZSmRqQVRPQjNEMzRTbkwxcW5KMWsxSjE0YTNDYWk5RC1QQXdZQ3RIR3M2QmROOWFuWVhIWDNnY08?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "published_utc": "2026-10-21T06:44:15+00:00",
+      "published_utc": "2026-10-21T06:40:19+00:00",
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
       "title_en": "Plans for commercial helium production on Yorke Peninsula - ABC News & Headlines – Australian Broadcasting Corporation",
       "title_en_source": "passthrough"
     },
     {
-      "title": "Pulsar Helium's president featured on CBS 60 Mi... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV3lsNkNoLXM0ckwtSVpmczdiUU11TG13ZjB0Q3FfWmtSRUpBaWJfVHRNS2xSQ0owUXItT2NrNkxZT0VDdWZ0OHZhWHl0empKU0lrZ0hieENkeU9XeWNoTTJEUkpTbzNoQWxGZS1YNHlmSUVQMWRWM3E5aFhZejFrUm1BRmJpT0RPTEFYc0RlS0I2NnE0ZjBnWVhjeVFOcThoNkdZN1hoQQ?oc=5",
-      "source": "Pluang",
-      "published_utc": "2026-10-21T06:16:31+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "Pulsar Helium's president featured on CBS 60 Mi... - Pluang",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Pulsar Helium President Interviewed as Industry Expert in CBS 60 Minutes Segment - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNVI5eUFmdzFsREU5NXh0R0xOUUw1NjN0X3llOXlYTVlpY05OUWpMNjNaLUVIdzB2M0h0VnVnOURFOG8tWU9FX05DZkk4VmdRRE9WQVBOcFNJYmZQTGpWeDFDVDA0dEZpMW4tR0REOEhRcHplNDRYWTNqYlZPRzZzUXpDUi00Q0NEbnVTR2xDZnIwZG5sNFFFOEVrSmpjZ0ZhdjlCcU9oRVZWeFRTd090ZFRoUFhaZUFyN3F4czlMTVk3bmtrdENkaExoU2VaY1NadzR2YTFoR3VSQ1o0MThBMnJNdHUycjA?oc=5",
-      "source": "GlobeNewswire",
+      "title": "Pulsar Helium President Interviewed as Industry Expert in CBS 60 Minutes Segment - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0dhbjJUQlB6RU1EY3dNNFZPRFpNV29YbDIwUUNQRG1naHlkYlFELTVxNjkzaUlrVmNkV0NCMDBETDRwS1piSzBkQWdCeW5jaXF4clV2ZjdjWWxJWExRYUFlNWZYUWJHYW0weTBpeTc0T3RNYklmWEQ5TnppQmlkanV5YXBuTGc5OUVwa3RBdGtvZzNOc3NkQw?oc=5",
+      "source": "Yahoo Finance Singapore",
       "published_utc": "2026-10-21T06:00:00+00:00",
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
-      "title_en": "Pulsar Helium President Interviewed as Industry Expert in CBS 60 Minutes Segment - GlobeNewswire",
+      "title_en": "Pulsar Helium President Interviewed as Industry Expert in CBS 60 Minutes Segment - Yahoo Finance Singapore",
       "title_en_source": "passthrough"
     },
     {
-      "title": "Helium Summit: Helium supply chain realities if the Strait of Hormuz reopens - gasworld",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb2xrY1EyQUM4dlBLOGRfYndYQjFVQnY1bmZrTWZ1RnEwNG1LYm1heXdTOTJXSjluZE5Ub05zNGthajBzdENaREthblJkS0pxZnVGUS1hMWNWenp3amJwaG9ycGlRbWxfNHpkRERsSUJsVFpYTTJDWERsZXNDczRVZ2stZjNJdkpsa3JuRjNJQnhncGR5Wk9FTTM3a25JWnVMeHN5M3RiWk5iaXo3ZEsweGVKa2hPa0NJT1podGJxRzA?oc=5",
+      "title": "Helium Summit: Helium exports unlikely to resume even in Q1 2027 - gasworld",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0lSUlFvN1RVM1h5OFRwaFhWZG5tS051Q3M0bjREZU1Kay1XbkpaVWF0a2RJZDBXbzhqbWV2NmFlNXpBYnZZVXViWUlQU2dDZnlhb3RVLWsyTUlHSFZXNWQ2TU0tbUpDalBJZE8wZXFEcVRKRDl0ckRrV0J1R2l5TTJXX2pqUkJlOE15WVA2S0RnZUVxX21FaGxMQWxqbC1UMVhIMzlyNXl4ZWRoc0ZRQQ?oc=5",
       "source": "gasworld",
-      "published_utc": "2026-10-20T22:41:10+00:00",
+      "published_utc": "2026-10-20T14:59:39+00:00",
       "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "yellow",
-      "title_en": "Helium Summit: Helium supply chain realities if the Strait of Hormuz reopens - gasworld",
+      "flag": "green",
+      "title_en": "Helium Summit: Helium exports unlikely to resume even in Q1 2027 - gasworld",
       "title_en_source": "passthrough"
     },
     {
@@ -84,13 +74,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "US Helium Market Remains Supply-Constrained Amid Qatar Disruption and Rising Demand - ChemAnalyst",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeEhnZ2xBZFFLcWxGM1k0Sm9pMW82RjMycU9LUHVjYnZ6RkRRcDUxOGhzSFBXT1dmQTVZMGI2di13ZEVVRkdGVDZmdEtDMFJ6d1RIak1sdGtHVUJMQVhHcjZtcTRRcGdCOFdCNUF4OEUwMmRhVlBONUlEdWRDUzd1NVJhc2NudmV5aEloUS1DZFZyTFBJNENud0tIRGhEOTZDWkJIU2NxeGw1MGpnSU5pMzEtMA?oc=5",
-      "source": "ChemAnalyst",
-      "published_utc": "2026-09-30T07:00:00+00:00",
-      "query": "helium plant outage OR helium force majeure",
+      "title": "The Chip Insider®–The Iran War’s Helium disconnect update - TechInsights",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWZVeWV3REc3UFNLZXkxaE1NdnRBZU1MWlBOb1lMLWRjcFdKdlJaQ0h1eEV0STNCSnZCeW1vd0FmYXREdDBhRXR6OVFJWGRUODdYaVVzT25FSTFQQkdUc0k3OTdVUlpnUGtTX01RclVwQmQ4Mi1TZU5iM1E3bEFTY2IyeGlNLWJwLUE?oc=5",
+      "source": "TechInsights",
+      "published_utc": "2026-09-22T07:00:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
-      "title_en": "US Helium Market Remains Supply-Constrained Amid Qatar Disruption and Rising Demand - ChemAnalyst",
+      "title_en": "The Chip Insider®–The Iran War’s Helium disconnect update - TechInsights",
       "title_en_source": "passthrough"
     },
     {
@@ -181,6 +171,16 @@
       "query": "MRI helium shortage",
       "flag": "green",
       "title_en": "Helium Crisis Presents Potential MRI Challenges - Imaging Technology News",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Many factors at play in search for helium - The Timberjay",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2R1S2lWcUF6NEpmZXVwYUtRdDZfcU10c2hhcWJidmRVVEdweHBGdU9VNXBTUkJIZTgtd0dMZjZBakR3clptR0Zkbzk2b3BWRTNDZWczNk1IV3gtNW9DTDdPdHUzSDQ1LW9ReGtvU2F6UnhJMzdFcFNEUWFNZ0YxdkxRakMtUXRS?oc=5",
+      "source": "The Timberjay",
+      "published_utc": "2026-06-11T07:00:00+00:00",
+      "query": "BLM helium OR Cliffside helium",
+      "flag": "green",
+      "title_en": "Many factors at play in search for helium - The Timberjay",
       "title_en_source": "passthrough"
     },
     {

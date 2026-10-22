@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-21T19:01:51.849579+00:00",
+  "as_of_utc": "2026-10-22T05:49:13.704937+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 48,
+  "item_count": 50,
   "items": [
     {
       "title": "NiobiumX Mining Outlines the Principal Exploration Target at Its Shipshaw Niobium Property, Quebec - The Globe and Mail",
@@ -222,16 +222,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Codemig, CBMM renew niobium deal until 2070 - Valor International",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUEtzdDB3Tmtpc09yLXE5a1Z6ZUt2cVo0SUZDd2dEX2YwdUEyb0pTRW5fS3JlVkpZNldtUF8teGp0M3BJRVQ0aGJZSGY5eG9Hc3I2d3FhdE82SUd4VWNBazJiVGpDQXI4T2x2azVnYkRUUlRGZmdaMDRsUTJpSHZpOGtOSUxfYzFVdWliZmFrMGpXX3ItMlVJMy1GdXNYTm0wblNKZUFFT2Z0U1Qxbi1R0gG-AUFVX3lxTE40b0JEZXc5MnRPOFQxblFyTzEtZDZXcGRpZDBXUEpTZlZZb1ZuMnZGMWNERlZSWTNTWVZUTHNSOVAwakd4U2xVc2Z2c0h2X1lVSTNzNUZBSGJFSVdtblcyMHd6VlI5MnVXV3NlNjZDeTlqVGJ5VzY3a2lSWVQ3cWNQSFFiWkpnNHlGRUNTVHpLZXpuNWdXUXlfaE9GVVdISUhWS3NFSk1CMlF1U19kR2tQYTJKc25EdEJVNEIwZnc?oc=5",
-      "source": "Valor International",
-      "published_utc": "2025-10-31T07:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "Codemig, CBMM renew niobium deal until 2070 - Valor International",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Niobium Market Size - Forecast Report 2026-2035 - Research Nester",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kSjJDZEs4T25SZ3hJSkVnM1U4NmRrbXJrbk0xSVk4eDhvdGdQOFd5MVA0SmhMX1F1dWtxZ0g4SDJFYmNJZHQ2RmE2dEotYkVWYW8zbmRJTTFVVlRHM0FLLUI2aGZReUk0VUE?oc=5",
       "source": "Research Nester",
@@ -249,6 +239,16 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "Sojitz’s Niobium Business: Ensuring Stable Supply of an Essential Additive in High-Strength Steel Manufacturing - 双日株式会社",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Research centers and companies in Brazil finding new applications for niobium - Revista Pesquisa FAPESP",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSkpJZGZuUEE3aDlMakNMdEM5NVJaaWpTZzhlNVNsTVRyXzBEekdTOFY0TlBMeU9aVzdobkN6dFhNQ1RSWm9DbE9DYnJSMU1XSDZWZzRUWl9tR2FWT2tST1BHQUtYeE9LekRJZnVkYy1mU1FmTHp1YkVWck9ydjJWOVE5blRoX2VEOUg5M3pLUVpTSVN3MFpaYThOWE1YV2c5QUVXRnN0NUp4UG9VVHVNY0tNc1FyUQ?oc=5",
+      "source": "Revista Pesquisa FAPESP",
+      "published_utc": "2025-08-26T00:20:55+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "Research centers and companies in Brazil finding new applications for niobium - Revista Pesquisa FAPESP",
       "title_en_source": "passthrough"
     },
     {
@@ -322,6 +322,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "CBMM, Echion open world’s largest niobium anode production plant in Brazil - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQkNXNVV3R052WU5zWHFGcC1TdlhNd0hqeFVtTGh6S05YZ2M2eHhudUxXMWkxc053SUFROTU0YlRtd21VU09LR21EeTMtTG5sQW9LVW93MWNWYmZLa00yUWZkcTI5N2dMcWRxY3pTNkZNWXJXb2poZ01GbFlTb19RRlhTNkZyVkk1Y3A4dEtpOVNaRkktX3BlM3JEU2k?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2024-11-18T08:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "CBMM, Echion open world’s largest niobium anode production plant in Brazil - Mining.com",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "St George Mining Appoints Executive Team to Drive Araxá Niobium Project - The Assay",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcjVYNlFmNTE0LXo4TzdJU1JHYWZDU2oxUlZSc1FLZlh0dUJfWVhhLU16M184enEyWEZzLXBXSS11UUtVVFNoeWVyMFVlUm15WFRqV3U1RVJOcVo3Y0p2S3lGbjFsN1NVSU0xWTNaeGV4ZjlPY0RDSWhyZkt6WHo3SFRBN0dBT2NRSjBnZFUwTm9SYWo0YmM0MjFVUHZKQVFVYTUtcg?oc=5",
       "source": "The Assay",
@@ -329,6 +339,16 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "yellow",
       "title_en": "St George Mining Appoints Executive Team to Drive Araxá Niobium Project - The Assay",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "St. George Acquires Brazil-based Araxa Niobium-Rare Earths Project - Investing News Network",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DQUxhM2xHVWs4Sl9HNnE3dm5UeEd4V0xfMGxrTTZPUmFSSVhGZnBBN0UyZUJVa091eGJSUGlXcUY5QkVaQjhIT1VhMWVlZUJOWDdoaVN6dWdVSklFUkNxbW5yQVpydjhNdVE?oc=5",
+      "source": "Investing News Network",
+      "published_utc": "2024-08-07T07:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "St. George Acquires Brazil-based Araxa Niobium-Rare Earths Project - Investing News Network",
       "title_en_source": "passthrough"
     },
     {
@@ -389,26 +409,6 @@
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
       "title_en": "Ferroniobium Market | Global Market Analysis Report - 2036 - Fact.MR",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Magris acquisition of Niobec Niobium Mine - Torys LLP",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tc0d2YnNPZDF0N2Vta2ZSSEZ3cm5icDFYZE1VRU1vRnlEWmZSbi1iMDBBMGtZZXJkcmZDNGdoM1BNeXlGY1ZlOFB3UV9tNmc4UEdtV1hBNEtqMmVEVFdrLVZGRDR2Ykt4NmoxSmhlNTNBSm9uUklTNHc1Zw?oc=5",
-      "source": "Torys LLP",
-      "published_utc": "2022-05-06T09:58:07+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "Magris acquisition of Niobec Niobium Mine - Torys LLP",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR181N2xrZ1N4Wkh1OUdzWHgxamw4NWR3dnZQclNITXBLTUNNTlBkbzJPek1QdHRtc21PemhXUEo3RzJFYWtyMHFCcmdtc1N5OVhzY3ZaSGp5bjV3ZWRCemM3V0tXbENaaGgyQnFQMlBySE5LelFjT2FwYWZpQkdwZ1Njc2ZMTURQeFlQQUZZVC1jbUtmOHN3WXludF9raTJ0ZjhBSmpuamNtelVIdmtocHVrMll1QWsxajFFY0tRTEpEZTN6NHRuOG90M3k2WUFjWnhDTU5EeUtWRGdSeVBOVnRpSmJmV2J0SUdseUdVYw?oc=5",
-      "source": "Investing News Network",
-      "published_utc": "2021-12-16T08:00:00+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
       "title_en_source": "passthrough"
     }
   ],
