@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-22T18:57:58.740432+00:00",
+  "as_of_utc": "2026-10-23T05:47:57.706857+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -11,8 +11,18 @@
     "palladium sanctions OR Russia palladium antidumping",
     "Zimplats palladium OR South Africa load shedding PGM"
   ],
-  "item_count": 75,
+  "item_count": 73,
   "items": [
+    {
+      "title": "Palladium Has Quietly Rallied While Gold and Silver Hog the Headlines - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVUNjbmt6Nnl5RjRHV1JOdnNRQ2NMemNnM2lqR2NJWFg5X21RM1ZncTJvWUJaUEhCc0l2Sjdvd1VVNDViQkxZU2hTcktTM1JwSnBfZWhQUjllRkV6d3ZIVnNaTW5QbmstNFR4YzR4akxfU0tXRVVlSWZTcEx4cWRTdnJNdVRxVkZWNDl1WTdiNkNHaXZRODZWajAtaE9fZw?oc=5",
+      "source": "Startup Fortune",
+      "published_utc": "2026-10-12T14:05:37+00:00",
+      "query": "Norilsk Nickel palladium OR Nornickel palladium",
+      "flag": "green",
+      "title_en": "Palladium Has Quietly Rallied While Gold and Silver Hog the Headlines - Startup Fortune",
+      "title_en_source": "passthrough"
+    },
     {
       "title": "Union representing Sibanye-Stillwater mine workers ends strike - Montana Free Press",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaDlUd1UxaXFCZHJRWGg3TWxxX19vazRHUVBFaFB4TlFBZkZWakNacElOVS1CdWtwUTduNV9mTXkwWlhLc1pPMV9HM0RvdDdUbzBsUDdkM19zTG9UenJhUF9xYnROUTVUSkFaWC1JM1hoTjNlQ3M0X2FPRlBOTDRKVXRrbGdtSm13U3c?oc=5",
@@ -64,16 +74,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Sibanye confirms wage agreement for East Boulder workers, strikes continue at Stillwater East, Columbus continue - Mining Weekly",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUnN5dnlpTnRJczZkbDN5TzBwT0dhaklrX1lpb004dzc1Y2xfMGJiaW0xcE5HU1lxSlJLaWNSS1p4ZEF2UFRfR2g0UEkzRWJueFBwUm1mbm4tQVlaUUR2YVdFUmFEMnUzV2ZFSzltZEpUYzlib091bHdEN3VYS2lOQjB4eW1XUXU5MTRZWnRxWTRHdUo2RFVndC1XVGQ1X0ZPQUZtU1VGY3JqT2NHdWdTWGd1TW0wajRONkRCLW1seTBodDlPdmgzb0RSeWE5a2JJdzFPUzNXZDhSR0NMbDhYX0E5SllDTC01eVN5VTRNaw?oc=5",
-      "source": "Mining Weekly",
-      "published_utc": "2026-09-30T07:00:00+00:00",
-      "query": "Sibanye Stillwater palladium OR East Boulder",
-      "flag": "red",
-      "title_en": "Sibanye confirms wage agreement for East Boulder workers, strikes continue at Stillwater East, Columbus continue - Mining Weekly",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Sibanye Stillwater Says Finalized Wage Agreement at East Boulder Mine - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR1p4ZVJLOVI3U0JSdlRqU3YxLXdqc0RXNFRjbVV1R2ttZFFQSkJ1aUJVUkhjdUM4R1l5Ump3RUVYVUNBdkVObS1ZLUw2dmRVYklyTUl5V1Q1ZGRhUDJuWlJlUlJUOUdZaWVQVTlQSlpRcVNYczdoOWE2ZGFyUkN2V3l6UWg3UVJZamJjNWFXamw1QllVQUNLXy1fSFJLUV8zci01NU1R?oc=5",
       "source": "Yahoo Finance",
@@ -81,6 +81,16 @@
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "green",
       "title_en": "Sibanye Stillwater Says Finalized Wage Agreement at East Boulder Mine - Yahoo Finance",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Sibanye confirms wage agreement for East Boulder workers, strikes continue at Stillwater East, Columbus continue - Mining Weekly",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUnN5dnlpTnRJczZkbDN5TzBwT0dhaklrX1lpb004dzc1Y2xfMGJiaW0xcE5HU1lxSlJLaWNSS1p4ZEF2UFRfR2g0UEkzRWJueFBwUm1mbm4tQVlaUUR2YVdFUmFEMnUzV2ZFSzltZEpUYzlib091bHdEN3VYS2lOQjB4eW1XUXU5MTRZWnRxWTRHdUo2RFVndC1XVGQ1X0ZPQUZtU1VGY3JqT2NHdWdTWGd1TW0wajRONkRCLW1seTBodDlPdmgzb0RSeWE5a2JJdzFPUzNXZDhSR0NMbDhYX0E5SllDTC01eVN5VTRNaw?oc=5",
+      "source": "Mining Weekly",
+      "published_utc": "2026-09-30T07:00:00+00:00",
+      "query": "Sibanye Stillwater palladium OR East Boulder",
+      "flag": "red",
+      "title_en": "Sibanye confirms wage agreement for East Boulder workers, strikes continue at Stillwater East, Columbus continue - Mining Weekly",
       "title_en_source": "passthrough"
     },
     {
@@ -161,16 +171,6 @@
       "query": "Impala Platinum PGM OR Impala palladium",
       "flag": "green",
       "title_en": "Implats pays out R17bn to shareholders as metal price recovery fills coffers - News24",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Implats takes shine to bite-sized Waterberg JV - MiningMX",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlBnc0EtZTVQQUt2RFZybnFXanhkYnlsN2JEU09FbzhNUHJWRy1qeHZESVNtWmhSMG1Pc2NsYjZrRnBzaG5oT0xKMURmMnhoTW5kM1JGMGpMSHNpbEtCb0dwZzdDR2tnMU1yMEFKRVNoQWl5NjZmLW9NdFAzUGRFYXBWWGJLYXpVc0ItZ3dUYUczWmM?oc=5",
-      "source": "MiningMX",
-      "published_utc": "2026-09-03T07:00:00+00:00",
-      "query": "Impala Platinum PGM OR Impala palladium",
-      "flag": "green",
-      "title_en": "Implats takes shine to bite-sized Waterberg JV - MiningMX",
       "title_en_source": "passthrough"
     },
     {
@@ -348,7 +348,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNUkyekJpSElSMWtvNUR4WHM2YkJkY2RKV0RkVldUNzJQYThhcHpwTlJVUmQ4ZHExNGFiZ3lxQ2FjVUxlcTlDbGthQ0NoR3pvbHE2LXhEemxEZjNxYjUzSFlrOTB6aThEcVBscnBEazc0ZE1HQkhIdGdHRHJQRTZMdk95U2JtdE1zcXFJZ05MVk1mek1LTTNjc2pDVTFqTy1aSlRwVXZabjN0M1ZLM0FSZE9RbjBaYmpPR1FmTTNIcmZzcU5jR2NTMzltcW5YZmdlbThB?oc=5",
       "source": "Crux Investor",
       "published_utc": "2026-05-07T07:00:00+00:00",
-      "query": "palladium supply OR palladium shortage",
+      "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "yellow",
       "title_en": "Fed Policy Dissent & Russian Palladium Tariffs Reprice Platinum Group Metals Beyond the Automotive Cycle - Crux Investor",
       "title_en_source": "passthrough"
