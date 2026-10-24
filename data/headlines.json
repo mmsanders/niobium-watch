@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-23T18:47:51.402172+00:00",
+  "as_of_utc": "2026-10-24T05:28:23.532062+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 45,
+  "item_count": 46,
   "items": [
     {
       "title": "NiobiumX Mining Outlines the Principal Exploration Target at Its Shipshaw Niobium Property, Quebec - The Globe and Mail",
@@ -69,6 +69,16 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "NIOB Adds to Critical Minerals Portfolio - Yahoo! Finance Canada",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQczJON05BR3h4aXBLT2pnWGVzMF95NXhEdVE4QlpGc0NRV2VWdHcxSnZjSTYxc1lyY2ZSNGNCQ0VmcHhxLWlPamx5QVRoeVp4anJacUduN1d5WnlnV05xVlYzakJmNW5wWHFKdzNzclc1TU9ienh4QWs2VVdOUG8ybXgwTlY2NjBkZE1fT2ZNdnBHblh6VnIxeTVmSUZKNzJ5Q0Q5TWRsT3JBUVhUcTVucVFlT3ZWa3RCeVZRS2pnN2Zkd1RTLVNsMlNfTlJHYVhn?oc=5",
+      "source": "Next Investors",
+      "published_utc": "2026-06-11T07:00:00+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "flag": "green",
+      "title_en": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
       "title_en_source": "passthrough"
     },
     {
@@ -222,16 +232,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "St George appoints big gun for new Brazilian niobium mine - The West Australian",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjhTVVNST2dwZHZWYWFWd2cyX1RHMVlYdmR4VFRJeWNDcjhhWVNzdGltdnYtSkJnQWZCYmYyUGdhblhPNXZ1S2tHZmFrUTRuOXVYM0tjZkdpY3pVaG1DdmZ2cjc2emdUT2lSX0taa29vcDh2M1BtMlFxckZaRTJtd0ZkUXptZ3dyWUk2WU1aTXFmZGhqN1dsbFZqYTRIM2pJbk80VW04YjdVRXVacEczSWF2aFDSAboBQVVfeXFMUGNybld4NWEzc3lYVjhDU05tX0VJdlpUMEtxc01XNEpiY3p2Tm5oWXRUb0ZyQ1djSm5kLWJnZjFmMkNvWXdXRnVOa2RXMlhHOU1teFNwNUpVUEhTdEF2U3hKOUtaOEJBVi05ZnVZZ0tDVGVVV0ZjMEdNMExiazFKdi1XcmlDNC10SldfS1Y3eXlfNTR6YXFCc3g3NWNTd0k0MXBfSXJGN1lkRW5KZkZNRnZPeFFONDZHNTZ3?oc=5",
-      "source": "The West Australian",
-      "published_utc": "2025-02-03T08:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "St George appoints big gun for new Brazilian niobium mine - The West Australian",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "CBMM opens facility in Brazil to produce Echion’s XNO niobium anode material - Charged EVs",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQy1uWEFNZjhpVXUxQnhEcTB4LWh0NnU5NWVIVzhEZjdKbTk1dFRjSWVFMG8zTmsyOHktalJIOTYtS2tMel9pNGFPWElKcHdQOTFFUDBqc0FXdTZPRVRwZVJ6bUh5LTNRYWlXTTRkamNTalFfcW52Uk5OQlk4YkZkb3l3cDc4S3Y1Nkc1MnJ6RmY4VnloMDgtSUJkREJlNW9hTXVlak1uaVpJUXJh?oc=5",
       "source": "Charged EVs",
@@ -266,9 +266,19 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSTh3OTNiNEFjMm9UcWppazdDVlF4WHRqTWJTRzZLbzlYSkk3V3E1R08xUUxtZ2hqcC0yRnFWdUZmVlJKNDJodVZyNWZSZjNkanNKVnhwUlhIWDZ6Ymd5U3ZLSFc1YUhzOXg4NmV4TTc1OHV6MGN4a19sNkNBYlZuZ0RGbS0tNk5hbFN1S3NSQVNSckph?oc=5",
       "source": "Battery-News",
       "published_utc": "2024-11-18T08:00:00+00:00",
-      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "Echion and CBMM Open Niobium Anode Production Plant - Battery-News",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "CBMM, Echion open world’s largest niobium anode production plant in Brazil - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQkNXNVV3R052WU5zWHFGcC1TdlhNd0hqeFVtTGh6S05YZ2M2eHhudUxXMWkxc053SUFROTU0YlRtd21VU09LR21EeTMtTG5sQW9LVW93MWNWYmZLa00yUWZkcTI5N2dMcWRxY3pTNkZNWXJXb2poZ01GbFlTb19RRlhTNkZyVkk1Y3A4dEtpOVNaRkktX3BlM3JEU2k?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2024-11-18T08:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "CBMM, Echion open world’s largest niobium anode production plant in Brazil - Mining.com",
       "title_en_source": "passthrough"
     },
     {
@@ -289,6 +299,16 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "Toshiba, Sojitz and CBMM Unveil an Ultra-Fast Charging Electric Bus Prototype Powered by Next-Generation Lithium-ion Batteries with Niobium Titanium Oxide Anodes - 東芝",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Top critical mineral miner CBMM sees opportunity in EV batteries - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVJvT0tKMUVHdlhiRjFyNkQyY2Z2cVhreDlIVTFJaURUbml3WGladl8zNkFPUUZULTNxeGp0Yzg4SVI2MGtKSkw3OGtMY1QxTzVIU1U5bTRiRXowdU1SY0llWmhFQlVoWXgwYW53cjRmYk5vV2pKT0RHUGxPZDNGa1N2N0syVFBScTRtTS1VOG1SSGE1SWVn?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2024-05-13T07:00:00+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "flag": "green",
+      "title_en": "Top critical mineral miner CBMM sees opportunity in EV batteries - Mining.com",
       "title_en_source": "passthrough"
     },
     {
@@ -342,16 +362,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobec unique in North America - Canadian Mining Journal",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeG5pLXoyTGYzR3BSXzJOWnFPVXUxWkl6MU1GSkY2VDhFT1otUHBJeGQ4Ync4by1RaENtd3BJYmZ4eGZCMmxFT0x6Ym8yN29JcXNZR0ZaTEZaWHlOUEpkSWlyM2czUmZRSUt2YXk3MS04bXZqakFuOGFNU20ySkxFSWdrOUhOVndBX0xDb0x1VQ?oc=5",
-      "source": "Canadian Mining Journal",
-      "published_utc": "2021-06-30T14:31:51+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "Niobec unique in North America - Canadian Mining Journal",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Redpath completes largest raisebore by volume in the Americas at Niobec niobium mine in Quebec - International Mining",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVp6VTlOa0ZLMmo2amVzVjYxMm9zWXA3eU45UlpDSWtsREFsZWJKamdsZXRyQVRtaW9zUW11WC1DYlFUTS0zV0hyNFZMT25QRjdfMGtkSDdhRWJTdUE4U25aYlU4ZE1kTmtnOG5pempQREhidVZsRTVZazVHcGplTDljbXJMRFNyQ1ZDMVR3TldJdENfenVJNnBMMTJ4dFVRbXl3ZUkyLUVKVklfc3BvSWtR?oc=5",
       "source": "International Mining",
@@ -399,16 +409,6 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Niobium’s silent impact in Brazil - Dialogue Earth",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmVaQWNsQmlmaXhienBwLXFQRkVpaVJlUWpsdHFGTG9ETWVESzZfWUw0MlZzZWdYRzI5WmJUTmdUd0tNMzRVMXdVZi1HeG0wV2JON0RCeWE1aHBKZnoxY3pxRnpGSVBtUU5rbnFkZTRTbGdVdHc0V3BLdi1GVVd1Zw?oc=5",
-      "source": "Dialogue Earth",
-      "published_utc": "2019-04-05T07:00:00+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "green",
-      "title_en": "Niobium’s silent impact in Brazil - Dialogue Earth",
       "title_en_source": "passthrough"
     }
   ],
