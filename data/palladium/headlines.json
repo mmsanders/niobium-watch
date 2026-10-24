@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-24T05:28:23.532062+00:00",
+  "as_of_utc": "2026-10-24T17:42:50.213209+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -154,6 +154,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Palladium Price Analysis: Can $1,150 Hold as Investors Exit the Market? - FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb05ZcmtnNzNLc2R4RF9xRERXZWIzeWlGdzd5c29GMnNBTWpPVWtkU2YwUU53N1BPZjJJbHNEcWwtMENkTDVOY2pfVGdlUTNwbXhvdXFuVzR1UVdXRXIxOTBWRzhZSVVHUW1kWkNrSlJLdmNJU1paT1o0SklWQzZtaVQwNVBjWVRwdFpHZDN5Q3BWRUlpNlpheTN0SWdDN1ZJVHEtb0hEbFVxeXlUWlJRMTE5UmpwV0kxSWxsTEY4N1NwMmhG?oc=5",
+      "source": "FXEmpire",
+      "published_utc": "2026-09-09T07:00:00+00:00",
+      "query": "palladium supply OR palladium shortage",
+      "flag": "green",
+      "title_en": "Palladium Price Analysis: Can $1,150 Hold as Investors Exit the Market? - FXEmpire",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Impala Platinum After Earnings: Reiterating Buy Rating Due To Bullish Trends (IMPUY) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmxaeTBSUERsU0dBY1dfSHc1MlFLTEhoc201UXRhU3RicXBIM3dSazhRdzdMUkRpRDJEd2RraHFxQTBISEhLa0JPZEZLazllREV5TWl0VzRQdHRyTml6emo3RVlDUEU1bTF5LUxybm5obmFPS3Exb000ZE9IeVNpYU9FM1NUVVZNczFaQVB1UDlvY1JxZ2hKTnM2djY4OTJCbXhRcmxNOFN5ejZKSTZvOXhKOHBuVGM?oc=5",
       "source": "Seeking Alpha",
@@ -221,16 +231,6 @@
       "query": "palladium supply OR palladium shortage",
       "flag": "green",
       "title_en": "Platinum’s Changing Investment Story: Deficits, Geopolitics and New Sources of Demand - Medium",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Distribution of palladium production worldwide in 2025, by company - Statista",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdXdYWlNwNjRlNTFhSEI4dG5IbHRHZDM2SXZoRU9ZUHZ5NHJPclQ2dDJQM29oMEpUUjFBMXQxUlhkZzZwZWpFQ25kSE56ZUhJU2JVd3d6Q3czcF93dTNVd3YwaC1FM0FmTVpxSnIzS3VtNUowVW00T1E3SEl6NndVUWZtMUtVMXFhaXVDU2JYY1BWMnBhU1U3bG5NX254OVU?oc=5",
-      "source": "Statista",
-      "published_utc": "2026-07-31T07:00:00+00:00",
-      "query": "Norilsk Nickel palladium OR Nornickel palladium",
-      "flag": "green",
-      "title_en": "Distribution of palladium production worldwide in 2025, by company - Statista",
       "title_en_source": "passthrough"
     },
     {
@@ -304,6 +304,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "UBS warns that palladium faces 'structural oversupply' as EV shift hits demand - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSkRiSnNmbnllMHBGUDlfalNTNWNoRGNoTkhmSkRpOVVZcWtEX2VHVjhPZ2NINUZ1MlBkM0p4T21tVFpCREJDQ19vTENYS1VLZUFQSnJzTEMyTUVmZ0Vnd0U1Qk1jQkdXSWNyekx4dGRQaUw5bXJsQS1kQ2pKRmZCOW42QmY2aW4zbmMwbWFR?oc=5",
+      "source": "Yahoo Finance UK",
+      "published_utc": "2026-05-26T07:00:00+00:00",
+      "query": "palladium supply OR palladium shortage",
+      "flag": "green",
+      "title_en": "UBS warns that palladium faces 'structural oversupply' as EV shift hits demand - Yahoo Finance UK",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Palladium Market Size, Share & Growth Report 2035 - SNS Insider",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHeUpUaTZNdy1qX0ZTbGJFYVBFMVNsVTVQT3ZfNWxtT2NuN0FQaWxMX2k5ZVBsUTdfZGoyVW84SDEwMFp2U2kwZFJ0dEdjQTdORlVrSzZocWJoWmZ0VWw4YXdvY2MwcFk?oc=5",
       "source": "SNS Insider",
@@ -321,16 +331,6 @@
       "query": "palladium sanctions OR Russia palladium antidumping",
       "flag": "yellow",
       "title_en": "US moves closer to prohibitive tariffs on Russian palladium - Reuters",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Structural Supply Deficits Forecast to Continue Driving Platinum Group Metal Prices Higher - Medium",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVmI5NDk5bFY3azlsanBVWTJHTzhNRzBsVXZhTHh2MS1WWHQ4THZaSDhjYWdtNVVneHdPd2FTMDR6R0YyRmJzR1hIaEZrRldXa2R3QW1ZUzlCUGdzN0o1bnNsZUJsLXJvZkxwRF9zcWNONDhPUXE1bUFuOEVJMUZVQmtwX1hTUS1ZMGlBZnZMdmJjZ3ZValdJRG5vTlY5UXg5NUFfUGg0U0dpUUpCb1R3YnBBQnlhUUdZLUo0MkNYUWR6LUZJOGQ3WGlPbzBQcW9UTnF2ME91bVpMdw?oc=5",
-      "source": "Medium",
-      "published_utc": "2026-05-19T07:00:00+00:00",
-      "query": "palladium supply OR palladium shortage",
-      "flag": "green",
-      "title_en": "Structural Supply Deficits Forecast to Continue Driving Platinum Group Metal Prices Higher - Medium",
       "title_en_source": "passthrough"
     },
     {
