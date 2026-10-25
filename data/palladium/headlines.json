@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-25T05:46:38.913474+00:00",
+  "as_of_utc": "2026-10-25T17:58:40.775567+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -11,7 +11,7 @@
     "palladium sanctions OR Russia palladium antidumping",
     "Zimplats palladium OR South Africa load shedding PGM"
   ],
-  "item_count": 71,
+  "item_count": 73,
   "items": [
     {
       "title": "Palladium Has Quietly Rallied While Gold and Silver Hog the Headlines - Startup Fortune",
@@ -154,6 +154,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Palladium Price Analysis: Can $1,150 Hold as Investors Exit the Market? - FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb05ZcmtnNzNLc2R4RF9xRERXZWIzeWlGdzd5c29GMnNBTWpPVWtkU2YwUU53N1BPZjJJbHNEcWwtMENkTDVOY2pfVGdlUTNwbXhvdXFuVzR1UVdXRXIxOTBWRzhZSVVHUW1kWkNrSlJLdmNJU1paT1o0SklWQzZtaVQwNVBjWVRwdFpHZDN5Q3BWRUlpNlpheTN0SWdDN1ZJVHEtb0hEbFVxeXlUWlJRMTE5UmpwV0kxSWxsTEY4N1NwMmhG?oc=5",
+      "source": "FXEmpire",
+      "published_utc": "2026-09-09T07:00:00+00:00",
+      "query": "palladium supply OR palladium shortage",
+      "flag": "green",
+      "title_en": "Palladium Price Analysis: Can $1,150 Hold as Investors Exit the Market? - FXEmpire",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Impala Platinum After Earnings: Reiterating Buy Rating Due To Bullish Trends (IMPUY) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmxaeTBSUERsU0dBY1dfSHc1MlFLTEhoc201UXRhU3RicXBIM3dSazhRdzdMUkRpRDJEd2RraHFxQTBISEhLa0JPZEZLazllREV5TWl0VzRQdHRyTml6emo3RVlDUEU1bTF5LUxybm5obmFPS3Exb000ZE9IeVNpYU9FM1NUVVZNczFaQVB1UDlvY1JxZ2hKTnM2djY4OTJCbXhRcmxNOFN5ejZKSTZvOXhKOHBuVGM?oc=5",
       "source": "Seeking Alpha",
@@ -174,16 +184,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Implats takes shine to bite-sized Waterberg JV - MiningMX",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlBnc0EtZTVQQUt2RFZybnFXanhkYnlsN2JEU09FbzhNUHJWRy1qeHZESVNtWmhSMG1Pc2NsYjZrRnBzaG5oT0xKMURmMnhoTW5kM1JGMGpMSHNpbEtCb0dwZzdDR2tnMU1yMEFKRVNoQWl5NjZmLW9NdFAzUGRFYXBWWGJLYXpVc0ItZ3dUYUczWmM?oc=5",
-      "source": "MiningMX",
-      "published_utc": "2026-09-03T07:00:00+00:00",
-      "query": "Impala Platinum PGM OR Impala palladium",
-      "flag": "green",
-      "title_en": "Implats takes shine to bite-sized Waterberg JV - MiningMX",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Strike to begin at Sibanye-Stillwater’s US operations - The Northern Miner",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3NZbTJvYVB1a3lmcTFqSlU4dXV2VThhVW04MTZtX1RtM2RzSmZwdUNWcVc4X3lYVkMtSF9XTlZ6OG1OVmlxSURUaC1aRFZ4WmZpT3ZaZS04MWZaUUZPcDduNGQ2NTlLczlUUGxRN3JRQ1dfVDJvN29nU2ZROElOdTZCZ29JT2JBZEZHRlExR3pBemtIZVctN2puek9Pa2NE?oc=5",
       "source": "The Northern Miner",
@@ -191,6 +191,16 @@
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
       "title_en": "Strike to begin at Sibanye-Stillwater’s US operations - The Northern Miner",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Implats Hikes Dividend as Profit Soars on Platinum Price Rally - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVjkxVVBSQmhGNVR4LVMtX3RTbHRiSldvRGRXRXFBOExUTlJXaWJjTHRXUmJ0ZzMySGIycVdFMDJybXYybU1DOWhEUlloYUk2UUNsdUJSalphRkx6d0Z5blpyR2xwWWtnUHRlZ0Q4eGE0bVJVSEhYV0JCQlRwdFV0Yy1obFRpQ1JCd0RidUlkMGZLel9RMERKbl9mMHhYYWNiTDQwNVZGT3lYcjVfaHdERktzYw?oc=5",
+      "source": "Bloomberg.com",
+      "published_utc": "2026-09-02T07:00:00+00:00",
+      "query": "Impala Platinum PGM OR Impala palladium",
+      "flag": "green",
+      "title_en": "Implats Hikes Dividend as Profit Soars on Platinum Price Rally - Bloomberg.com",
       "title_en_source": "passthrough"
     },
     {
@@ -321,16 +331,6 @@
       "query": "palladium sanctions OR Russia palladium antidumping",
       "flag": "yellow",
       "title_en": "US moves closer to prohibitive tariffs on Russian palladium - Reuters",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Structural Supply Deficits Forecast to Continue Driving Platinum Group Metal Prices Higher - Medium",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVmI5NDk5bFY3azlsanBVWTJHTzhNRzBsVXZhTHh2MS1WWHQ4THZaSDhjYWdtNVVneHdPd2FTMDR6R0YyRmJzR1hIaEZrRldXa2R3QW1ZUzlCUGdzN0o1bnNsZUJsLXJvZkxwRF9zcWNONDhPUXE1bUFuOEVJMUZVQmtwX1hTUS1ZMGlBZnZMdmJjZ3ZValdJRG5vTlY5UXg5NUFfUGg0U0dpUUpCb1R3YnBBQnlhUUdZLUo0MkNYUWR6LUZJOGQ3WGlPbzBQcW9UTnF2ME91bVpMdw?oc=5",
-      "source": "Medium",
-      "published_utc": "2026-05-19T07:00:00+00:00",
-      "query": "palladium supply OR palladium shortage",
-      "flag": "green",
-      "title_en": "Structural Supply Deficits Forecast to Continue Driving Platinum Group Metal Prices Higher - Medium",
       "title_en_source": "passthrough"
     },
     {
