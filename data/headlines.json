@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-24T17:42:50.213209+00:00",
+  "as_of_utc": "2026-10-25T05:46:38.913474+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -42,13 +42,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Komatsu MC51 at Niobec: mechanical cutting validation insights for mine engineers - Geomechanics.io",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb2g1MjJTUXg0ekVlLXhDTWJDa0RmTm9LTnQzNmtYTFQ1c1dvNnhtTmdmaTZsU0ZNSlpsb0tKN3k3TVVnWHY0NDBqMTRaYmFHRTNMeEUtX1FqaVlVbFhydnpwcVBkUTVFeXZtTEZ2eW81T1k1b1E1YXlvaElsdVhRZEhCdG5JSkFTdU5HTUdkME9JU01Nc3g5Q1JYS0tLVXFxNDUyMW4zWXVFR1hNc2k0NkxhS3ZFUE1sR1lGZGRn?oc=5",
-      "source": "Geomechanics.io",
-      "published_utc": "2026-09-04T00:02:37+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "yellow",
-      "title_en": "Komatsu MC51 at Niobec: mechanical cutting validation insights for mine engineers - Geomechanics.io",
+      "title": "CBMM, St. George clash over mining rights and dam safety in Brazil - Valor International",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaDVORGpTUW5pSXpKbENMOFU1ZUZseThGX3B3YjFVOEJaaGxKeHk3MkxVLWRvRXZNNnM3NmRCb2tpWjBJbVgzSWVYdldZdFJLNXkyek9oSHQ5WHZSdUJlck5obzRBakwxRWk3YXlhQ1hKU0ZFR25rQ0RlRG5qcFQxNFdBY1RJTXhZQ3B5YUtURUpFYkZJbVI0QzNEc1hwSmpONUR0ZzZDTFR3NnBSaGFmanJjVGxUbnkxdnc2UXJDZlEwYXNxN005bkd4MkPSAdsBQVVfeXFMTkNjTWJsZDg4aW9IWFRsTmFQT2h1V25feklSS2hYaS04VUtZVzRIcU9OMFVsMzdWNWRPanJrNVVyZVpySVFfTExNQWJmcUtoa2RNNzVCemd1TzdxbDBWdjdrNHZPenNXeEhveXVyUDlNaVR5aG1EV1RhUV9wbExvTWJtOXFiVTlPMGZoOGdMVlpMS2ZiY2JoMFQwcHhOR0xBQTJZYWM4R3JDV0k4N1VFbE5hWF9yQzlxd3Ffempxb2RGZDdIY1JDOUktTEJIQUFDYzBsUS1jaFlEVDJr?oc=5",
+      "source": "Valor International",
+      "published_utc": "2026-08-11T07:00:00+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "flag": "green",
+      "title_en": "CBMM, St. George clash over mining rights and dam safety in Brazil - Valor International",
       "title_en_source": "passthrough"
     },
     {
@@ -62,13 +62,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hc3g0Tks2NVY5UTRKRkt4Y0JmMUpwR1EwUmFPVGJCUy1RYTZ3TjlxWWo2SFJzWWJPM3AyMGdwZ0FZZTE4Y0V1MXhwQjdLdy03TXZIRVZYd0V4WkY0ZE96QVpoTQ?oc=5",
-      "source": "Uchumi360",
-      "published_utc": "2026-03-27T07:00:00+00:00",
-      "query": "Brazil ferroniobium OR ferronióbio export",
+      "title": "NIOB Adds to Critical Minerals Portfolio - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTBjU3ZJRnhYZ2h0MlVKcUxZQ05scjUzUFIxeXM3MklyWGhKdlRsWWVURnR6SWlWY1pDM256Y2Znd3RmWWFQcnhDcFpNRUlpVEFBRWtTWV9fVHNEd3lMeHZrMU1qNzByOFJkUWQ2WVhXTk9DMGNwcmQyRFNfVTE5LUJsdllBYk1OWVFOUi1OTnpWOGpuVVZpSGxBdVBFMTdRQTU4bmlOMW1MTDk0U1psbUpB?oc=5",
+      "source": "GlobeNewswire",
+      "published_utc": "2026-07-08T07:00:00+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
+      "title_en": "NIOB Adds to Critical Minerals Portfolio - GlobeNewswire",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQczJON05BR3h4aXBLT2pnWGVzMF95NXhEdVE4QlpGc0NRV2VWdHcxSnZjSTYxc1lyY2ZSNGNCQ0VmcHhxLWlPamx5QVRoeVp4anJacUduN1d5WnlnV05xVlYzakJmNW5wWHFKdzNzclc1TU9ienh4QWs2VVdOUG8ybXgwTlY2NjBkZE1fT2ZNdnBHblh6VnIxeTVmSUZKNzJ5Q0Q5TWRsT3JBUVhUcTVucVFlT3ZWa3RCeVZRS2pnN2Zkd1RTLVNsMlNfTlJHYVhn?oc=5",
+      "source": "Next Investors",
+      "published_utc": "2026-06-11T07:00:00+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "flag": "green",
+      "title_en": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
       "title_en_source": "passthrough"
     },
     {
@@ -156,7 +166,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUEtzdDB3Tmtpc09yLXE5a1Z6ZUt2cVo0SUZDd2dEX2YwdUEyb0pTRW5fS3JlVkpZNldtUF8teGp0M3BJRVQ0aGJZSGY5eG9Hc3I2d3FhdE82SUd4VWNBazJiVGpDQXI4T2x2azVnYkRUUlRGZmdaMDRsUTJpSHZpOGtOSUxfYzFVdWliZmFrMGpXX3ItMlVJMy1GdXNYTm0wblNKZUFFT2Z0U1Qxbi1R0gG-AUFVX3lxTE40b0JEZXc5MnRPOFQxblFyTzEtZDZXcGRpZDBXUEpTZlZZb1ZuMnZGMWNERlZSWTNTWVZUTHNSOVAwakd4U2xVc2Z2c0h2X1lVSTNzNUZBSGJFSVdtblcyMHd6VlI5MnVXV3NlNjZDeTlqVGJ5VzY3a2lSWVQ3cWNQSFFiWkpnNHlGRUNTVHpLZXpuNWdXUXlfaE9GVVdISUhWS3NFSk1CMlF1U19kR2tQYTJKc25EdEJVNEIwZnc?oc=5",
       "source": "Valor International",
       "published_utc": "2025-10-31T07:00:00+00:00",
-      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "Codemig, CBMM renew niobium deal until 2070 - Valor International",
       "title_en_source": "passthrough"
@@ -222,6 +232,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "St George appoints big gun for new Brazilian niobium mine - The West Australian",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjhTVVNST2dwZHZWYWFWd2cyX1RHMVlYdmR4VFRJeWNDcjhhWVNzdGltdnYtSkJnQWZCYmYyUGdhblhPNXZ1S2tHZmFrUTRuOXVYM0tjZkdpY3pVaG1DdmZ2cjc2emdUT2lSX0taa29vcDh2M1BtMlFxckZaRTJtd0ZkUXptZ3dyWUk2WU1aTXFmZGhqN1dsbFZqYTRIM2pJbk80VW04YjdVRXVacEczSWF2aFDSAboBQVVfeXFMUGNybld4NWEzc3lYVjhDU05tX0VJdlpUMEtxc01XNEpiY3p2Tm5oWXRUb0ZyQ1djSm5kLWJnZjFmMkNvWXdXRnVOa2RXMlhHOU1teFNwNUpVUEhTdEF2U3hKOUtaOEJBVi05ZnVZZ0tDVGVVV0ZjMEdNMExiazFKdi1XcmlDNC10SldfS1Y3eXlfNTR6YXFCc3g3NWNTd0k0MXBfSXJGN1lkRW5KZkZNRnZPeFFONDZHNTZ3?oc=5",
+      "source": "The West Australian",
+      "published_utc": "2025-02-03T08:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "St George appoints big gun for new Brazilian niobium mine - The West Australian",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "CBMM opens facility in Brazil to produce Echion’s XNO niobium anode material - Charged EVs",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQy1uWEFNZjhpVXUxQnhEcTB4LWh0NnU5NWVIVzhEZjdKbTk1dFRjSWVFMG8zTmsyOHktalJIOTYtS2tMel9pNGFPWElKcHdQOTFFUDBqc0FXdTZPRVRwZVJ6bUh5LTNRYWlXTTRkamNTalFfcW52Uk5OQlk4YkZkb3l3cDc4S3Y1Nkc1MnJ6RmY4VnloMDgtSUJkREJlNW9hTXVlak1uaVpJUXJh?oc=5",
       "source": "Charged EVs",
@@ -242,16 +262,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "CBMM unveils world’s largest Niobium anode production facility - Engineer Live",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDFTbjJhdmtyYTNlWDZGYmRWR3k4VUZQeTJMck1RblViUGVRdkJtbm1tekZIWXN4MUlYbmRJeGdDMUxtMDFhLWRMRUpENE1kXzllVExNak11LTFxMWxEb1l4Y1FmUGkyWTBPWDI4Y3N2bWY3eDAwcFNmSDdWQjNuR3VLdFo2dkxad3daaF9tVlc?oc=5",
-      "source": "Engineer Live",
-      "published_utc": "2024-11-19T08:00:00+00:00",
-      "query": "CBMM nióbio OR ferronióbio OR niobium",
-      "flag": "green",
-      "title_en": "CBMM unveils world’s largest Niobium anode production facility - Engineer Live",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "CBMM opens niobium anode production facility in Brazil - Mining Technology",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnNiTGQ2UW5JRlh0bzh0N1B5elFiNEFrZE5FdW1LV0RuRk1HMlIzQzNKYzVtOXhnZVo2NWtzSmRZNXZlbFhab0RCVExqRGp0TVRMcjhBLWNmOGZBY0JMNUh1Yzc5TExUS2p0QVY4dmtWTHg1TEZwRElwNTNldzgtc1pPRjM?oc=5",
       "source": "Mining Technology",
@@ -269,16 +279,6 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "Echion and CBMM Open Niobium Anode Production Plant - Battery-News",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "CBMM, Echion open world’s largest niobium anode production plant in Brazil - Mining.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQkNXNVV3R052WU5zWHFGcC1TdlhNd0hqeFVtTGh6S05YZ2M2eHhudUxXMWkxc053SUFROTU0YlRtd21VU09LR21EeTMtTG5sQW9LVW93MWNWYmZLa00yUWZkcTI5N2dMcWRxY3pTNkZNWXJXb2poZ01GbFlTb19RRlhTNkZyVkk1Y3A4dEtpOVNaRkktX3BlM3JEU2k?oc=5",
-      "source": "Mining.com",
-      "published_utc": "2024-11-18T08:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "CBMM, Echion open world’s largest niobium anode production plant in Brazil - Mining.com",
       "title_en_source": "passthrough"
     },
     {
@@ -352,13 +352,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR181N2xrZ1N4Wkh1OUdzWHgxamw4NWR3dnZQclNITXBLTUNNTlBkbzJPek1QdHRtc21PemhXUEo3RzJFYWtyMHFCcmdtc1N5OVhzY3ZaSGp5bjV3ZWRCemM3V0tXbENaaGgyQnFQMlBySE5LelFjT2FwYWZpQkdwZ1Njc2ZMTURQeFlQQUZZVC1jbUtmOHN3WXludF9raTJ0ZjhBSmpuamNtelVIdmtocHVrMll1QWsxajFFY0tRTEpEZTN6NHRuOG90M3k2WUFjWnhDTU5EeUtWRGdSeVBOVnRpSmJmV2J0SUdseUdVYw?oc=5",
-      "source": "Investing News Network",
-      "published_utc": "2021-12-16T08:00:00+00:00",
+      "title": "Niobec unique in North America - Canadian Mining Journal",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeG5pLXoyTGYzR3BSXzJOWnFPVXUxWkl6MU1GSkY2VDhFT1otUHBJeGQ4Ync4by1RaENtd3BJYmZ4eGZCMmxFT0x6Ym8yN29JcXNZR0ZaTEZaWHlOUEpkSWlyM2czUmZRSUt2YXk3MS04bXZqakFuOGFNU20ySkxFSWdrOUhOVndBX0xDb0x1VQ?oc=5",
+      "source": "Canadian Mining Journal",
+      "published_utc": "2021-06-30T14:31:51+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
+      "title_en": "Niobec unique in North America - Canadian Mining Journal",
       "title_en_source": "passthrough"
     },
     {

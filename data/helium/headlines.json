@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-24T17:42:50.213209+00:00",
+  "as_of_utc": "2026-10-25T05:46:38.913474+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -11,13 +11,23 @@
     "MRI helium shortage",
     "Shute Creek helium OR LaBarge helium"
   ],
-  "item_count": 81,
+  "item_count": 80,
   "items": [
+    {
+      "title": "U.S. Department of Energy Elevates Helium to Critical Material, Semiconductor Supply Chain Disruption Risk in Focus - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJdk53bW1SeGppckhuNjlydlF6UlYzNFUtVy1XQmlCeUluNGFTd3FVOWoxZzZvWVhZcjJ2YjRDMjl0d2RGUV9qV0tTU29NZHBPUF9lbGdsSk1SX3cxZ2hXT2RLeGxSc3J3LUxVWHNSeDRJRFFjcGc?oc=5",
+      "source": "finance.biggo.com",
+      "published_utc": "2026-10-24T18:05:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "U.S. Department of Energy Elevates Helium to Critical Material, Semiconductor Supply Chain Disruption Risk in Focus - finance.biggo.com",
+      "title_en_source": "passthrough"
+    },
     {
       "title": "US Designates Helium Critical Material for Semiconductors - Hoodline",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY1M3Z0J0NTlDbzVuLTM1UWVEOW1xZ3NEeGdBZEVpdXFfTE5wTWVyeGxWQ2V3UU43b0JIODh5WkIwa2M1UzhZVTl1UGVvcDhwSHJnSkprc21odzlvaGs5dlVoeF9xbzZjUy1pZHB6VmhzZGFURmtfdUhWZDdCbEkxQkZVNFEyeUpOMnNOWDlvbzI2blRFTTFib0o0Yw?oc=5",
       "source": "Hoodline",
-      "published_utc": "2026-10-24T12:13:36+00:00",
+      "published_utc": "2026-10-24T13:49:05+00:00",
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
       "title_en": "US Designates Helium Critical Material for Semiconductors - Hoodline",
@@ -34,6 +44,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "US Declares Helium Critical Material as Qatar, Russia and China Supplies Tighten - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNay1WWTQ3ZmlmZHh3X21ERUdSUDRyQmYtN3Q5ekZERG5TRlJJRHJzVGY5MGtMdHdXOHoyYVlVRGxBakp0T0dxbGtwQTZSRmxiNjRDeXNHSkVIQ0tYMHlVelJBbkZTMUM1OEZEYnRrSmtSdm45bGoyLVNDckstY09ZbVhSYVBHaUZpWXotbTEyeVYzN0ZBYUthMk9HUUV0UXNNbnZpdA?oc=5",
+      "source": "IndexBox",
+      "published_utc": "2026-10-23T19:31:08+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "US Declares Helium Critical Material as Qatar, Russia and China Supplies Tighten - News and Statistics - IndexBox",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "US designates helium as critical amid European supply squeeze - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNXzdqaU9zMnNLMDJZUUpKUldqSzBHdmpzUktIRFpwMW5IWmlHdXVsWmZNSDNGTXdWZ0dYNjRZWTNUTTRFT1Y3Skh3bm04Z05Nd2lKcmFwTlVnQXBacjQ5YWJMZHVUYW01aUYyb1lxTXJnNTRZVzh1ZC1TSEN2NXVFbTZWVVFWMzVnMzlWMWxDaFdjZE5MOElvaTJvaXN6OWF4M0xObXNuQ2ZkX2RK?oc=5",
       "source": "Euronews.com",
@@ -41,16 +61,6 @@
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
       "title_en": "US designates helium as critical amid European supply squeeze - Euronews.com",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Helium designated a critical material in the U.S. amid global supply risk - Global News",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15ZXNzM0JqUFV5QWZBdktsT2hyVV9qU0ROMWplLXNhRlNnOGlVN1lDMDQxNndwLWJ3Q2wtY05pREp2T2tjVjl1OU5oVFBFRXp4YXhMazd2V21tdXZrVERMb21YaEZPWm1yNDE2RjE4aHZPZw?oc=5",
-      "source": "Global News",
-      "published_utc": "2026-10-23T17:26:16+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "Helium designated a critical material in the U.S. amid global supply risk - Global News",
       "title_en_source": "passthrough"
     },
     {
@@ -64,6 +74,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "US designates helium as a critical material, citing its importance for semiconductors - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjM5SGFuUzRrVGZkRXl5NWJtQkYzQTVub3FLQ2MzZEd3eTRiU2RHYldFOXpUdmhNYnkwaVh1Q1pHNXNfQjdCRXhqVjZxUDZDVW5RWXFFMTU0NXZFT2tGY1FOcWdhV1ZhRG9pY2xORGdkbTdBZG5yekNOdnpJYW01cEpQU1lnOFVMY2xKZm5sY21ZQ3h6UG9TMUtQZEZ4a05WVS1Z?oc=5",
+      "source": "AP News",
+      "published_utc": "2026-10-23T15:19:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "US designates helium as a critical material, citing its importance for semiconductors - AP News",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Helium named a critical material by US amid worries over global supply - The Independent",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaWgtYzB4Um5XSUp1YndVWXo5SVdra1VSWXZmTGQwRVNCcTBJc2JWZllPQ0hVZmZ1STVici1VSUxhQ0JDNklnN09VYWFhWFItUThrSkpRbXBIODVZWEJldTNXVE1jQm1ZZjQwTzVQbXhEOWxCZUpUMjFDdll3SzJPVV80bjUzMUI1d0FpUERodjRuOEsxV2ZWVk50UTdLNW9YRTE5U1hLcGs?oc=5",
       "source": "The Independent",
@@ -74,33 +94,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "US designates helium as a critical material, citing its importance for semiconductors - Bozeman Daily Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQazB2aTE1ekkxUHQ5ZWpZc1JxdncyLUtwYUlqX0xrZENuQnY1enl6cWhNQnF0bld5eHV1UHpoQ1hPR0JGNURpaDZ4dWt4UFpJZXJnaWVoaFVDMkplRTg4OFk3c2htSXlPdVYzdngyQm9QaHp0T2RNaXdaRXowTHVPSmlkR0RHbzk0a0VVVmNzcW1TVm9EVGdLdlBPakZBVUY1ZkZIWlJQUkJwc0NmTU9ld1hfWVBzbjFLamtXSEJ4OE56MUVTQW1vODJpa2V3RVd5WlVMQXZjcFdiLWZUdGFpU1FiQUc1R3dCYTNXWWV6WDJzSFpvWVJCbXNjVzg1SUtvWldFTjFIYjlZX3QyWjU4MlNoU0c?oc=5",
-      "source": "Bozeman Daily Chronicle",
-      "published_utc": "2026-10-23T14:01:02+00:00",
+      "title": "Garrison Ventures' Richard Brook Featured on CBS News' 60 Minutes Examining Global Helium Supply Crisis - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTkR3ZUdLVlo0NmxKZ3dfSi1lRVluX0ZCVElDTkY3NWZJM2QxWUNkQVVCb2k4Ym51dVItRGM3bS1uc0VJYnh1NFpJR0xJVVI3SkIwa2VReGxHb01NNEdZRUdqTEJ4SDdlQmZ2M3A2OVpmdnlJMzJQeXVEbUE3dmZvRkwzSGxFZm5Wb2ZUX3BqaFE0LVZucEZhMjdsMERvTU5jQTBSZkNJalp4bzF5TVZHc1RRdlBTVENodW1aRVN5NzBFcklxanRvWnlFY3V3YmVIeFFwTHZ6RGFBRkNFTEJsYldQRlg2Wk1R?oc=5",
+      "source": "USA Today",
+      "published_utc": "2026-10-22T17:28:49+00:00",
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
-      "title_en": "US designates helium as a critical material, citing its importance for semiconductors - Bozeman Daily Chronicle",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "60 Minutes Highlights Helium Shortage as Co. Advances Minnesota Project - Streetwise Reports",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNmJvYUIxSWdlYUJ4LXdnR24tRGRtSHcyd0JlSlVJWEdDbXJJTDVhZzZXTkJMRkQyY2xzYkowNGRLN0ZGM05lUWVyMzFHYVV6Y3FQd2tmYWJxODAyQ2xlWGVLR1k1cjVkSmpZNUF6dWtkZXk0RFNndnROMURhOEJRem9BWUVMc1puM3dZaXJJcUlYV1pleGkxQnhsdGxTbUJIaFhjdTFLd0dsdUFVQ21kbThmVWVhTmNlYWE5OHpYNy1oNFdHQWlr?oc=5",
-      "source": "Streetwise Reports",
-      "published_utc": "2026-10-22T23:36:33+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "red",
-      "title_en": "60 Minutes Highlights Helium Shortage as Co. Advances Minnesota Project - Streetwise Reports",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Garrison Ventures' Richard Brook Featured on CBS News' 60 Minutes Examining Global Helium Supply Crisis - Voice of Alexandria",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOdnNaYjhWMW9yYmh0SkRpLUVtR3FlZWlqczRuZ0VwazB2a2ZCT3FjcE1RT0I5dDVDTHRSM25TdUpsWWMxNHJud3Q4SkQ2Sk9VOEw2V0hrdW4wQmtXclY2QldhOFNPMVI0dTA3VFA2dEZaTWxoNG1PZGdrWEtPVlFWejBVT2l3aS0tR01iSWtRUDNOU29uZ2YxVngwTkZQa2ZnLVlzRVRWRGQ5XzdZRkZ3dHVRZGRKUFNJZ3dBcXFaMDBTSVJSMENnaUQ1QzBUa2RMNGo5bjlLby14ckZNdFlQWDRPVmN3aHlLc2MtbEVWeGtlZEYxVi11b3BCRFI1ZVFCVVVYdE5GNnNfYlNGdUF6UDVJOVc3b3l4akZ2XzZscG90YWxsOVV6cHBVZlVSdXFveHVfdmJJaU4?oc=5",
-      "source": "Voice of Alexandria",
-      "published_utc": "2026-10-22T15:46:44+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "Garrison Ventures' Richard Brook Featured on CBS News' 60 Minutes Examining Global Helium Supply Crisis - Voice of Alexandria",
+      "title_en": "Garrison Ventures' Richard Brook Featured on CBS News' 60 Minutes Examining Global Helium Supply Crisis - USA Today",
       "title_en_source": "passthrough"
     },
     {
@@ -114,13 +114,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "How Impacted Is the Helium Market from the Hormuz Crisis? - Energy News Beat",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZUV1bWZjMUtjSGRTYmpaOFhpQ1YzN1RyaTgydmdsMHRZdjZieUJYRW5ORzJtZTlqSE5FSU1uRVd1WG9zQmZtVkVNYjQ2ZThXdnkxbVlYRW5GMkFLWURHYWZfZW1haWlGVlhkY1dKWEdNTExGNlRsVlNWOVN6ZUw2Q0lwbWZNWDhfeHlTUXNncHdESzhBUUFWNGM2M2Y4YnE2eFFn?oc=5",
-      "source": "Energy News Beat",
-      "published_utc": "2026-10-19T00:51:47+00:00",
+      "title": "60 Minutes Transcript: Helium in short supply as Iran war continues, with spot prices tripling - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZDJUVTF1aUgxX3A1NFRZaFpfYURPazBpRldGNERsdUcteWZ1amdxcnRjTVVpMTFxaFhuWHVHUU5jcFU4ekdqN1JyV3hvdFJvM3BnR2RqU2w4NUUzSmhaalBTWldqeHZoM2dhRVcwb1hjX2lpMEJEMEwtNVFEOF9Nalc2dklfVzZJRzZXLXd4a1dSaGJIMFFNWTBWSnk?oc=5",
+      "source": "CBS News",
+      "published_utc": "2026-10-18T23:39:01+00:00",
       "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "yellow",
-      "title_en": "How Impacted Is the Helium Market from the Hormuz Crisis? - Energy News Beat",
+      "flag": "green",
+      "title_en": "60 Minutes Transcript: Helium in short supply as Iran war continues, with spot prices tripling - CBS News",
       "title_en_source": "passthrough"
     },
     {
@@ -154,6 +154,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Helium shortage concerns East Texas businesses, medical facilities - KLTV.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeXRRaTNBNVNJbTQwSDNDRXVYOVFaR0pIZlJRczg4Nm5Ga0p5SjJaUGd5Qkh6YmhaRUp4YlRpTFVIcFQ4YndLZk02ejlyM3VkZ1lLWGVsU0xUVTFfUmdZazFKd0FBVzczM2hCeVp1elVONXJ3VEl2aFYwQWktU3gya1hOVUNHeWx2RDNSRGc1cFFKekhvUUg5Ulo4eS1nX3FOd1pFOWRxOA?oc=5",
+      "source": "KLTV.com",
+      "published_utc": "2026-07-24T07:00:00+00:00",
+      "query": "MRI helium shortage",
+      "flag": "red",
+      "title_en": "Helium shortage concerns East Texas businesses, medical facilities - KLTV.com",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Helium Shortage 5.0: Practical Strategies for Lab Managers - Lab Manager",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUGRzQVdIVFAxWlQwNUhSa3ZYd1g5Mk9OYU1LMG8zNTltTlN2VHNQdW5VVE1PbXhZVmRTbEZVOUlwVGdzelpPNUVEczRqeVV3UHhPeXBTN3AwaUtiUmVlSEtTaW0tbEZvdWpSbTR4TnhjU0hBYmpfaXpZTnQzTUVMa3dadFd5MjJFd2lQNQ?oc=5",
       "source": "Lab Manager",
@@ -171,6 +181,26 @@
       "query": "MRI helium shortage",
       "flag": "red",
       "title_en": "Helium shortage threatens MRI services at Indian hospital - gasworld",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Helium shortage likely to affect MRI scans at Wenlock Hospital in Mangaluru - Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdnZseDU0eUJyb3o4aVdCMWpXZEJ0VWY3WTBKeXpyXzJIcThhNC0yUmZXQnduRGp4d21BTURWcy1xbDdGbmc2WUMxVXZPdzVWa1NMdVFDUTJvZF96Ri1oZXVPaXVlOXhrTEVBUzZjbld2dkU5Wm0zMlJQbDMxZkRjakhBbDluQm5LREFWdlFFd3JMellnX09ybVdFWkdCRVg2SGtWaXlKMVdrMUdrV280bW0wN2Q5TlFlVHlLb1d1ektKSWNhTHMzRlJ4Rmx0T1EzUkNyWg?oc=5",
+      "source": "Deccan Herald",
+      "published_utc": "2026-07-18T07:00:00+00:00",
+      "query": "MRI helium shortage",
+      "flag": "red",
+      "title_en": "Helium shortage likely to affect MRI scans at Wenlock Hospital in Mangaluru - Deccan Herald",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Helium shortage due to West Asia crisis to affect MRI service at Wenlock Hospital - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQ2hKdUNjaDNBVmVaMHpxNG41ZWFFV05yVkdtMENkcWZfMmJCMjE1NDcwOXZwOFRwSkFyclV0WVUxRkxhcDZ0NmVjejI3SjZ1dklQYkhHRnlCMmFXaVJpd1VoZF9vV1NpdmJwTVB2cTZfS090Y3FJVHNVeFN1SEk1eDRoOEhpT1Q5Tl9QRzEtdkFzLVpTeEJOQWNYbjJabS1ta1hwWXBvZXVZaG16c0tPZ2JwR3V3TmctanJhQ0ZTVkZmTU5XNDZSSzBKVU9kSmtwa2FlV0xWREtQUHFMVGdfLTRhWFlQNHlGc1YtVlVfWdIB9AFBVV95cUxOR3NSeEFxMlJJeEFhSkZTUnMzM2d0b3RrRXh3MFJGVUZCbnpBT3FqWVRmenNCek4xck1rbC1ENzdxUWhidDlnOExoX2VWVG1pQzBUcFBnT2JiVlVaWUlfSHRyNnh1M3dSY1BBZ3c0QnR0SHB0QlR2SXE4ZGs0Q0FUTG0wcmJtSHdvaUM5S3dHNWVheS1aNEh1bU93TUNqUk93a3NSeEYzaHJhOE5YUFdLWG1jcVN1RjF6M2tsQkswVzdzTmxsbnd5bUpqTXMxN0JNRGJiR0owMURXcHpmaWRNOU82ZVNCX1BhV3BGaXVBcmFiNU1r?oc=5",
+      "source": "The Times of India",
+      "published_utc": "2026-07-18T07:00:00+00:00",
+      "query": "MRI helium shortage",
+      "flag": "red",
+      "title_en": "Helium shortage due to West Asia crisis to affect MRI service at Wenlock Hospital - The Times of India",
       "title_en_source": "passthrough"
     },
     {
@@ -204,13 +234,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Update: What we now know about the QatarEnergy gas facility explosion | Helium - gasworld",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFdDRTQwUHExb2dOVlF2dXFuRlNWSTMwSTUwN09NWlVXMGZjaUR4cXFRVTJ6TzZDVnVMcGRDZlppY1htY2NaVWVYcGpzQjlpQ2xWaHR3OC1xM3VBMUxFeFNMZ2pkd3RfN2s3djlHOEhOOFB2aWVoQXlsSWNkVlQ5YndtWm9Ncm4ybVFUbmRWd2E2eGZCekdOTE5zUHJZZ3Y3RVhsdmZQaF9WWV9VcUdaZnBwNktTUEk?oc=5",
+      "title": "QatarEnergy confirms explosion during Ras Laffan restart - gasworld",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWRwTDhfNzA4OXhuaFFpMFBRWEZnMkhpLUJ4by1uanZwRW1JamVxX203cVZCSFhYVDVWYVpkWTNyS0FYbGZTTERCdWNScGVuWm1NdnpBQXNyYzViYlFidkhuZmg5R1RpblRDUDM1NlM5YWtEbHllRHpTWWw5QWdEeHNsdXdCTkFVUVZYNklqWFBiZGVSclRicWh6MEQ0ZkhMVlU3TU9TNA?oc=5",
       "source": "gasworld",
       "published_utc": "2026-06-22T07:00:00+00:00",
       "query": "helium Ras Laffan",
       "flag": "red",
-      "title_en": "Update: What we now know about the QatarEnergy gas facility explosion | Helium - gasworld",
+      "title_en": "QatarEnergy confirms explosion during Ras Laffan restart - gasworld",
       "title_en_source": "passthrough"
     },
     {
@@ -221,6 +251,16 @@
       "query": "helium plant outage OR helium force majeure",
       "flag": "yellow",
       "title_en": "Colorado helium reserves got big boost when war with Iran cut off 30% of the world’s supply - The Colorado Sun",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Helium is more than party balloons. Why Australia needs to take this invisible gas seriously - UNSW Sydney",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BLXZHUGVTUzZRZy1jdHNSUUpnSXVPYmFSaWxRb2I4VmY4dGJBTWw1alo2SzJfenNyUkgxMlF0NXdwenFRTHh1d3VSUjNZelYwT2ZrNGpyQW1IYWhvLWxzTW45QW1PM1BnQms2c2Q1OXZPN1FU?oc=5",
+      "source": "UNSW Sydney",
+      "published_utc": "2026-06-18T07:00:00+00:00",
+      "query": "MRI helium shortage",
+      "flag": "green",
+      "title_en": "Helium is more than party balloons. Why Australia needs to take this invisible gas seriously - UNSW Sydney",
       "title_en_source": "passthrough"
     },
     {
@@ -271,6 +311,16 @@
       "query": "MRI helium shortage",
       "flag": "green",
       "title_en": "Could the Iran Conflict Disrupt MRI Services? - Medscape",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Helium supply problems risk disrupting MRI services at hospitals - Hürriyet Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN0lJRU4zUVMtakpGcjZiRnlQUzBjZ2FZZ002dFhVSTk5dVY0WV9IQkZ0MmtkbkljMzhWcjVObER3akR5R2RHbnUwTnhnSFJUWmdNNlV2MWpudTc3dHlMR29Vbnd4QnZwNnhqS1d5aEFHZjlxVEJLU3M0VXpYVnFtWF9falI1VkRRTkFTc0hWLVZWeVdVZWQ4OVJsRzlGQUI0SUMyY3pJNE8?oc=5",
+      "source": "Hürriyet Daily News",
+      "published_utc": "2026-05-28T07:00:00+00:00",
+      "query": "MRI helium shortage",
+      "flag": "green",
+      "title_en": "Helium supply problems risk disrupting MRI services at hospitals - Hürriyet Daily News",
       "title_en_source": "passthrough"
     },
     {
@@ -354,16 +404,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "How the Iran war could disrupt helium supply for auto semiconductor production - Automotive News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xLWZNUzJueFZIZ2RjSVpuYkdvSzRPckJ6UTcxVTlqMkFQYmRKQ2FCUjBYV0xnQ0x2NUZnVHdabjFMZXhjblBRWnpYXzhmbzBtMkJ2WFFNcjF0MVc2a1B2cmJUd2lRRmQya0d0ZzUtc2Q0NXVWOGpaYQ?oc=5",
-      "source": "Automotive News",
-      "published_utc": "2026-04-17T07:00:00+00:00",
-      "query": "Shute Creek helium OR LaBarge helium",
-      "flag": "green",
-      "title_en": "How the Iran war could disrupt helium supply for auto semiconductor production - Automotive News",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Helium Shortage Threatens AI Chips Amid Iran War Disruption - MarketWise",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLTVlVkFlUG1BUWhmeUdCZmV3N1M1MVh4Ylp1WHVoNFVnZGtzMHVBSnA5UVJ5YU5rX0tLZ1RpMVNWTjFFWDNSdDROUVRKOWRTejZnYm1yR1lFMG82ZEZtN3JIWmRVN1pwUlU4UWlWNXlHcFRNMVJFYlRBRlNra2gyZzhJX1E0VUxDUGc?oc=5",
       "source": "MarketWise",
@@ -371,46 +411,6 @@
       "query": "helium plant outage OR helium force majeure",
       "flag": "red",
       "title_en": "Helium Shortage Threatens AI Chips Amid Iran War Disruption - MarketWise",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Russia Introduces Helium Export Controls Amid Global Shortage - The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2kzWk51emVJb2c4VTBubDY0U3J6TldPeXNnNXlGWjB3dy1Kb0xxeks3ZFZHYkd0Q2VPSGxuX1BPUDAxM0g3QzV3bWtpbk5ZMHpZSk9wQi1VRFAzRnpZeHk2Mm5QWktCaUdqQk5BOF9JcDNZM3RrRGlaNFFqSldaeDN3U0xlTmR1WFppcndyNlMwMk9CYTZWVWV2S1c0TVhnTGVxRUZDc1d0Uk5VSnU0?oc=5",
-      "source": "The Moscow Times",
-      "published_utc": "2026-04-14T07:00:00+00:00",
-      "query": "Amur helium",
-      "flag": "red",
-      "title_en": "Russia Introduces Helium Export Controls Amid Global Shortage - The Moscow Times",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Russia Imposes Temporary Export Controls on Helium Until 2027 - Global Banking & Finance Review",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRkgwdUplQVh3X1VmRE5Tcmt5V0FYMFpaektoNUZOUHRHVVhDOXdVSE9Xdjc0M2lSR01zS21SbF9KOWtadnZ2NS1MUHNwUG1VZURVRW9rRWZWbFYxZzJ6LVBGX293dmdlUWNuakZMci1kRThoNTJCOUEwRnBkZE1BUDg0QUYxSEdySHVOQ0ZVZDVtdw?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published_utc": "2026-04-14T07:00:00+00:00",
-      "query": "Amur helium",
-      "flag": "green",
-      "title_en": "Russia Imposes Temporary Export Controls on Helium Until 2027 - Global Banking & Finance Review",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Russia’s Helium Card in the AI Arms Race - The National Interest",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1NuTXdVTU9vM1lmUTF0cjRYb0NHdVc3VnBtalFmbWozZm5kYXpTLXZsei1xZFo0eVc0NnM0S1pQTVBuQkstZzlrZmRZMnJfbjV5SnQ5X0xKRDM3XzZkbEJsS0JCZS0teHU5TjF2aFpMQm0wM1ROSkR6M0RlNXNYY3Z6MGNNUGdkNEE?oc=5",
-      "source": "The National Interest",
-      "published_utc": "2026-04-07T07:00:00+00:00",
-      "query": "Amur helium",
-      "flag": "green",
-      "title_en": "Russia’s Helium Card in the AI Arms Race - The National Interest",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "War In Iran Threatens Helium Supplies For The World's MRI Machines - Health Policy Watch",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFNHUnJZSWpzSUhQZDRyVXhHM1NKTEE0VkFkYXp1cF9fNk9hVnVlOGFKUnhWQ0dzeGVsQXlaYUh5OW0xRnhSNTE5NzJHOHd1ZVNIMGs0UERONnA1RHYxX3ZnNW41Y29SS1M4dDlMOEJuVDVpMmJNbU5CWGFjdGQyQUFLS1FrQ3ZqZTVEQzZhUVJTSk53RjhFTmRIQS10bUk?oc=5",
-      "source": "Health Policy Watch",
-      "published_utc": "2026-04-06T07:00:00+00:00",
-      "query": "MRI helium shortage",
-      "flag": "green",
-      "title_en": "War In Iran Threatens Helium Supplies For The World's MRI Machines - Health Policy Watch",
       "title_en_source": "passthrough"
     }
   ],
