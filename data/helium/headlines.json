@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-26T05:49:36.920249+00:00",
+  "as_of_utc": "2026-10-26T20:13:37.785738+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -14,33 +14,33 @@
   "item_count": 80,
   "items": [
     {
-      "title": "U.S. Names Helium Critical Material To Develop AI And Data Centers - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbHFEYzZvX2taMUY0N0lCUmZfSDlTZndpOWhjUkRZc0J3TFQ1Z1IzLXpUbjF0d2tIT2FRMGhRaGtTWFpxYXBZeE1rRkRxMzVtRVVQV3pEZHZWWWZPMXlFa3dyanJMaWFsbjFJMGRjSVBsdkhfWU9fbDMtSnNNdlNqQ2tRSXBjYlRu?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published_utc": "2026-10-26T03:04:00+00:00",
+      "title": "Helium Summit: Potential consequences of US helium designation - gasworld",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV1RDYnB0M2hzbVRQRDdUZTBXTG13Vm93NGFBdnlPWjFJNl9Xc1ZjWEJOV09YNE5mZ2cyc0wtd2lVYjhtemJFd3dKV1o4LWJxSGRBV2s2Q1pmbFpjaHBrOTIzVUxPT1VNUm1oTnBveW5OSEJsR3lnb1AzcXZVX1NsaHpjLVprclZTYUtDZzdvZjdQNTBpaDBmWTJBRQ?oc=5",
+      "source": "gasworld",
+      "published_utc": "2026-10-26T11:25:12+00:00",
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
-      "title_en": "U.S. Names Helium Critical Material To Develop AI And Data Centers - Yahoo! Finance Canada",
+      "title_en": "Helium Summit: Potential consequences of US helium designation - gasworld",
       "title_en_source": "passthrough"
     },
     {
-      "title": "US Designates Helium a Critical Material Amid Semiconductor Supply Risks - www.nationpathindia.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWxWT3VOWVIzSFVpZEttWTJ1VjhjMmd4YmdrRDQyQThjMHdXaFhiYnVndDhNdTVKLTF5WUdtN3VIb09HTGZ4VzA0amU2YWE2RmMwaTFIX3k1NHh3cG5Xd1NMbk5wWFJrZVdIcUVmZXJscGlrVmFXR1o3NlFZaXY0bU9WNmFCblFHLXV1Yg?oc=5",
-      "source": "www.nationpathindia.com",
-      "published_utc": "2026-10-25T20:18:28+00:00",
+      "title": "U.S. Names Helium Critical Material To Develop AI And Data Centers - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZGQxUl9FbGp2QmpweEg5YmFWSVdlLWJPMlF1WjA3M0RGdzM5NXkzRUlpYThhT0hvNHZrMEVPQlMwRjB2TFI1RzZGTksyZEtfbFhRZ1kzOUdueC1TYUx1d28xSDBxV2hZczNlRmY4cko3akF2RUUxdXdUVXBNQXBOYUhaZmpyZ2RSSE9aVllVYzhYcW5oOG03dEhQRTA4Z0pydlVNclpHbGZBVGdLeTZPZWNqQzJqZzdtZWc?oc=5",
+      "source": "Forbes",
+      "published_utc": "2026-10-26T03:04:28+00:00",
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
-      "title_en": "US Designates Helium a Critical Material Amid Semiconductor Supply Risks - www.nationpathindia.com",
+      "title_en": "U.S. Names Helium Critical Material To Develop AI And Data Centers - Forbes",
       "title_en_source": "passthrough"
     },
     {
-      "title": "Ticker: Nuke power on the upswing; Helium designated critical material - Boston Herald",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUZYTXpTcGNvdlN0Y2x3cWE5OUJERnBtSFVYODNLR3c0ZlRqckRLcFh2Y1VuT3NPTWdyNWlZUDlVMEdlR05GdXRzVndfM0wwdmJ4dTRaRGZ2cXMtOGtDaUdOZS12a0dIMDVFUDVOSGdVbW1MXzNDWmpVZV9uQnNsdkZvT3lTRkpaWURnVDZ1X1J5dHlISFZYZmlQVVl3akJSeFB1aWNrQl9jYWRyNnc?oc=5",
-      "source": "Boston Herald",
-      "published_utc": "2026-10-25T19:39:10+00:00",
+      "title": "The U.S. classifies helium as a strategic material, and multiple countries have tightened export controls. - ChemNet News",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkU1dnR1lRX2E4ZGNMaW9tdkRUZXhlSHlhSWxHb0k4VUQ4STN0Z0dMQzh3NUdXYXZLdFdJVWhlNkFqWEhIWThOS2FLYzZlVkw5RVE?oc=5",
+      "source": "ChemNet News",
+      "published_utc": "2026-10-26T01:36:14+00:00",
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
-      "title_en": "Ticker: Nuke power on the upswing; Helium designated critical material - Boston Herald",
+      "title_en": "The U.S. classifies helium as a strategic material, and multiple countries have tightened export controls. - ChemNet News",
       "title_en_source": "passthrough"
     },
     {
@@ -48,7 +48,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOenlteFNpZExJOEVkMWFubURCaGNZeVE2bzNZYkVaUHpMRjhOanFnOV9UXzdPQWs2WkdpRUdpYkk4bHJMQktnemNwWDZfOHdLTUR1eUoyb1ZnYUlyekFxLV8zOWJ0aF9hakVCVXYyT3pURFRLUjdNV2lEQTVCT0x6ZGFkRUpac2xM?oc=5",
       "source": "Autonocion.com",
       "published_utc": "2026-10-25T14:00:00+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
+      "query": "helium Ras Laffan",
       "flag": "green",
       "title_en": "A 7-inch well nearly 3,000 feet deep on an Australian farming peninsula pumped 14,000 barrels of water a day, seven times its two narrower sister wells, and the helium in that water was purified and bottled beside the rig, the first helium bottled in Australia in t - Autonocion.com",
       "title_en_source": "passthrough"
@@ -94,13 +94,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "US designates helium as critical amid European supply squeeze - Euronews",
+      "title": "US designates helium as critical amid European supply squeeze - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNXzdqaU9zMnNLMDJZUUpKUldqSzBHdmpzUktIRFpwMW5IWmlHdXVsWmZNSDNGTXdWZ0dYNjRZWTNUTTRFT1Y3Skh3bm04Z05Nd2lKcmFwTlVnQXBacjQ5YWJMZHVUYW01aUYyb1lxTXJnNTRZVzh1ZC1TSEN2NXVFbTZWVVFWMzVnMzlWMWxDaFdjZE5MOElvaTJvaXN6OWF4M0xObXNuQ2ZkX2RK?oc=5",
-      "source": "Euronews",
+      "source": "Euronews.com",
       "published_utc": "2026-10-23T19:02:40+00:00",
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
-      "title_en": "US designates helium as critical amid European supply squeeze - Euronews",
+      "title_en": "US designates helium as critical amid European supply squeeze - Euronews.com",
       "title_en_source": "passthrough"
     },
     {
@@ -154,6 +154,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "While SpaceX returns Falcon 9, Russia prepares \"Amur\": Gazprom begins work on ultra-pure LNG - www1.ru",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUEhEM1BqcG5DQW9YVVJpSkdoQkJya2JZZmNFbjgyb2VfelVPdlVxTXJjT2tYaHNldkczc1ZkTjV4NU9tc0owZjByd1J5TTJhMmpJeWtKeGk1MHdnNW9TLWVudGxwVS1xcUZkTzlYdE9Cdzc3dDJaYXd4T0MyTHpYV2phMlF3NzNaeTRveWxCR3ZTZG96X3FwbzcyV1A2Skwta1lDUDgtLVFNSFNWQ3VqS1Y5Q3hwaDJqOUpOLXdaTkJLN0x0ellSdF80VHVyTTlXSzdFYVFiODUtUdIB3wFBVV95cUxOaHlvTXoySGFNUUMzc1BKTHRBUTJDd2EwdDBadEpUdDk5TWlieXFxZkJTbWhvNUE4bXRIRW83a1h2NzNMbnVkalJBZ3lMTVlsWE55YXRfMGdTUnFKblp0T19JU2o0REZsZmRMUVBIZFlURWRrb3NkMmg4ZXFYSnVKVlVxZ2c4Sl94NkxsbnVmV2NRdm5jLTFZREtIMXVkZ1VnaDFsYldtUEQ4ZHhUcTYzWFUxQXBsUzJDR25fNHVMb2ZtLUZZZVBoWVRoaVlhVGdxLXEwS05hRGlQQjJwUjc0?oc=5",
+      "source": "www1.ru",
+      "published_utc": "2026-09-17T07:00:00+00:00",
+      "query": "Amur helium",
+      "flag": "green",
+      "title_en": "While SpaceX returns Falcon 9, Russia prepares \"Amur\": Gazprom begins work on ultra-pure LNG - www1.ru",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Qatar Helium Shock Keeps Asia's Chip Supply Under Pressure - Environment+Energy Leader",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY1VubGpBdWVpZGxJcWRmd3R0bkhKV2FmZEk5MHNFNmpTRDdHX0JUaTM0OWpmZzZPMWJETUV1UkhKcHk4bjk2bHQzb2NnV2hQZVFvZXd6Mkk0WFU5Q2xrNVpnTkxVSF9kaDg4SmVReGRCMVdteVVpUENDdnd1cWxIUThVa3hrMXFxLVYtWGY1cjZjVm1kd2taUGV0X291NTRvdzluS0JuQjFucWVUbHVTZ3RB?oc=5",
       "source": "Environment+Energy Leader",
@@ -171,6 +181,16 @@
       "query": "MRI helium shortage",
       "flag": "red",
       "title_en": "Helium shortage concerns East Texas businesses, medical facilities - KLTV.com",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Helium Shortage 5.0: Practical Strategies for Lab Managers - Lab Manager",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUGRzQVdIVFAxWlQwNUhSa3ZYd1g5Mk9OYU1LMG8zNTltTlN2VHNQdW5VVE1PbXhZVmRTbEZVOUlwVGdzelpPNUVEczRqeVV3UHhPeXBTN3AwaUtiUmVlSEtTaW0tbEZvdWpSbTR4TnhjU0hBYmpfaXpZTnQzTUVMa3dadFd5MjJFd2lQNQ?oc=5",
+      "source": "Lab Manager",
+      "published_utc": "2026-07-23T20:53:51+00:00",
+      "query": "helium Ras Laffan",
+      "flag": "red",
+      "title_en": "Helium Shortage 5.0: Practical Strategies for Lab Managers - Lab Manager",
       "title_en_source": "passthrough"
     },
     {
@@ -364,16 +384,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Air Liquide says Qatar's Ras Laffan restart would bring quickest helium supply relief - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcC1zMURvcDRMUEZ6aXlvT00wOVNaNWRzSG9tRmZQQTUzY2g0eDJjdWFXUnhhbGt1SjZjeVotdW1NVlNHVTU4NGZxdkJEbjRubW5oLU05OVktQXdYMVl2Ny1OTUpacUkxUHU2NFNlQnFmaWVMZ1FFWEVaUEo1VVh6bk1lUkpWZmQ4ZVlUM0M1cHE3cEZSVmtj?oc=5",
-      "source": "Reuters",
-      "published_utc": "2026-04-28T07:00:00+00:00",
-      "query": "helium Ras Laffan",
-      "flag": "yellow",
-      "title_en": "Air Liquide says Qatar's Ras Laffan restart would bring quickest helium supply relief - Reuters",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Bring back the helium reserve—before the next shock hits - Peterson Institute for International Economics",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZzBYTGxNdVFhbG1vZFhkLThGWmM2MkxsSmQtcGdvVG5rWVZNTDNNQlZNTTNTWDhVclF2SmJsWXVybXI3SHNXWVBENFltNHV2Ull1SktTZm5BUUFDTUg0QnZFak90aEowdDNVWmZkTFIyZUVFMzNxR0NOS0JLajhBeFNUV3VnVHYxZTRWYkJfck9FTWo5SWJF?oc=5",
       "source": "Peterson Institute for International Economics",
@@ -384,6 +394,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "How the Iran war could disrupt helium supply for auto semiconductor production - Automotive News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xLWZNUzJueFZIZ2RjSVpuYkdvSzRPckJ6UTcxVTlqMkFQYmRKQ2FCUjBYV0xnQ0x2NUZnVHdabjFMZXhjblBRWnpYXzhmbzBtMkJ2WFFNcjF0MVc2a1B2cmJUd2lRRmQya0d0ZzUtc2Q0NXVWOGpaYQ?oc=5",
+      "source": "Automotive News",
+      "published_utc": "2026-04-17T07:00:00+00:00",
+      "query": "Shute Creek helium OR LaBarge helium",
+      "flag": "green",
+      "title_en": "How the Iran war could disrupt helium supply for auto semiconductor production - Automotive News",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Helium Shortage Threatens AI Chips Amid Iran War Disruption - MarketWise",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLTVlVkFlUG1BUWhmeUdCZmV3N1M1MVh4Ylp1WHVoNFVnZGtzMHVBSnA5UVJ5YU5rX0tLZ1RpMVNWTjFFWDNSdDROUVRKOWRTejZnYm1yR1lFMG82ZEZtN3JIWmRVN1pwUlU4UWlWNXlHcFRNMVJFYlRBRlNra2gyZzhJX1E0VUxDUGc?oc=5",
       "source": "MarketWise",
@@ -391,26 +411,6 @@
       "query": "helium plant outage OR helium force majeure",
       "flag": "red",
       "title_en": "Helium Shortage Threatens AI Chips Amid Iran War Disruption - MarketWise",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Russia Introduces Helium Export Controls Amid Global Shortage - The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2kzWk51emVJb2c4VTBubDY0U3J6TldPeXNnNXlGWjB3dy1Kb0xxeks3ZFZHYkd0Q2VPSGxuX1BPUDAxM0g3QzV3bWtpbk5ZMHpZSk9wQi1VRFAzRnpZeHk2Mm5QWktCaUdqQk5BOF9JcDNZM3RrRGlaNFFqSldaeDN3U0xlTmR1WFppcndyNlMwMk9CYTZWVWV2S1c0TVhnTGVxRUZDc1d0Uk5VSnU0?oc=5",
-      "source": "The Moscow Times",
-      "published_utc": "2026-04-14T07:00:00+00:00",
-      "query": "Amur helium",
-      "flag": "red",
-      "title_en": "Russia Introduces Helium Export Controls Amid Global Shortage - The Moscow Times",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Russia Imposes Temporary Export Controls on Helium Until 2027 - Global Banking & Finance Review",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRkgwdUplQVh3X1VmRE5Tcmt5V0FYMFpaektoNUZOUHRHVVhDOXdVSE9Xdjc0M2lSR01zS21SbF9KOWtadnZ2NS1MUHNwUG1VZURVRW9rRWZWbFYxZzJ6LVBGX293dmdlUWNuakZMci1kRThoNTJCOUEwRnBkZE1BUDg0QUYxSEdySHVOQ0ZVZDVtdw?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published_utc": "2026-04-14T07:00:00+00:00",
-      "query": "Amur helium",
-      "flag": "green",
-      "title_en": "Russia Imposes Temporary Export Controls on Helium Until 2027 - Global Banking & Finance Review",
       "title_en_source": "passthrough"
     }
   ],
