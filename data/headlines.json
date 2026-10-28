@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-27T19:44:59.029552+00:00",
+  "as_of_utc": "2026-10-28T06:41:00.161932+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,18 +9,8 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 47,
+  "item_count": 48,
   "items": [
-    {
-      "title": "NiobiumX Mining Outlines the Principal Exploration Target at Its Shipshaw Niobium Property, Quebec - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOZDlyMHZ0RXhyYkRPZkVRWklCOWFRZHFERnFBaHlIYWJaMFpOWkVhb1pwcnExSk1kaUF4N1hxRmF4dk44LW5wdXJINzZjd1pqdVZvdmw4eUhmR2hOdlhrRGVZakFucVc1TkY0OGZuUGd0T1l6Q2RJdDU4QzBqUnEydGxYRE5najRNbGtVVjZIb3RrY0hWVHlnRnVKUHN4VkhzRUNzTzQ5MTJLNV9FUWZiblJKTnpkRzZsMklVVGtyd1MzQnllQ05jV2sxV2ladnpQZEtmbVJlQjg1UnVQR0Z0cjhRZHliS3J3MmgwVFExR0F3MmNDa0FoQk9IdjRBN2RKcjBtTkRpTmJGemVqRExzZTJsUDJiQQ?oc=5",
-      "source": "The Globe and Mail",
-      "published_utc": "2026-10-20T12:00:31+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "NiobiumX Mining Outlines the Principal Exploration Target at Its Shipshaw Niobium Property, Quebec - The Globe and Mail",
-      "title_en_source": "passthrough"
-    },
     {
       "title": "North American Niobium Airborne Survey Identifies Rare Earth Targets at Bardy SE - Junior Mining Network",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQkVoZUFSWnJ4Zk5jSE5HS04tWGMzS2ZPY2t2SnNlcXRhZDlTV29ER0ZFVkpsUlBJcXJwQk10SWUtUG5qU0dSd3FyUVZjbVBoT2M2ZmlSVE5qVXd1ZElfRWF2ZUpsdVZ6ekNmc1NXY0ZiMVVrU1dfMGY2MUg3OFAtdm9sSHVPUGxEZUtncEc2R21mMnVmS1p2UjRQci0xUmRRSnF1ZXNuQjMtcGJpOVQzS3JkYjN3VjJEbkU0dGxqUFRkNzJSaHFKYzNSYndrVzdMTnlmYktBcVR3ckRlWERxNWpBTlhMWVFyanItRXJR?oc=5",
@@ -342,6 +332,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Ferro-niobium in Turkey Trade - The Observatory of Economic Complexity",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Odkd3YWJGaE11cFppNTM3bDFDZVFPTnR3Yzl4b1pqbnN0VVQ0eUotTFI2Nml4OHQyc3NfODQ5ZzUxYkN4R0hqOV8wS1JBa2pFbEJBd2dLMWg5UUhRa25nNDR0ZEhKUXV2YW9XbWV4ZHl6OWJ6QnY3d0hKYmNQZw?oc=5",
+      "source": "The Observatory of Economic Complexity",
+      "published_utc": "2022-10-19T19:07:49+00:00",
+      "query": "Brazil ferroniobium OR ferronióbio export",
+      "flag": "green",
+      "title_en": "Ferro-niobium in Turkey Trade - The Observatory of Economic Complexity",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Ferroniobium Market | Global Market Analysis Report - 2036 - Fact.MR",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xWUxSYnFHV1puZHg2WUN2ajhobFNDTWNBa1dLVF82UTNOb2trYmlmS2JTWTdCMWV6b1ZMWmNBVTBCVWJ4SlVrTTJKXzllMG1WeUNEaHpQSkw0ZHRpNFE?oc=5",
       "source": "Fact.MR",
@@ -359,6 +359,16 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "Magris acquisition of Niobec Niobium Mine - Torys LLP",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR181N2xrZ1N4Wkh1OUdzWHgxamw4NWR3dnZQclNITXBLTUNNTlBkbzJPek1QdHRtc21PemhXUEo3RzJFYWtyMHFCcmdtc1N5OVhzY3ZaSGp5bjV3ZWRCemM3V0tXbENaaGgyQnFQMlBySE5LelFjT2FwYWZpQkdwZ1Njc2ZMTURQeFlQQUZZVC1jbUtmOHN3WXludF9raTJ0ZjhBSmpuamNtelVIdmtocHVrMll1QWsxajFFY0tRTEpEZTN6NHRuOG90M3k2WUFjWnhDTU5EeUtWRGdSeVBOVnRpSmJmV2J0SUdseUdVYw?oc=5",
+      "source": "Investing News Network",
+      "published_utc": "2021-12-16T08:00:00+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
       "title_en_source": "passthrough"
     },
     {
@@ -399,16 +409,6 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "Boston Metal to trial molten oxide electrolysis on CBMM ore - International Mining",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Nióbio: G1 visita em MG complexo industrial do maior produtor do mundo - G1",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcEc4VlZLZUYwRGpzam15QzFGUE1GbUpSSklFZmFJbUFGd0k1b1VnMXlFRWZ1ZmRlX3dHTWx5dHVNWjh3XzhVNHBqTW9OMGEtRldsSTQ0bzMyeUdad25mNm9FS0xJdWJnSUt0UzhfYTc0SkJJZzZvOWpqUHBxQzZubmNZMUdSdVUtVjJIV0F2M1FVWGhKNXd6MmZuU09KLURaencwSHhIelpHbUl2eG5rZUxhU0tRa1V2ZEh0eEc0VWx3Z9IB0AFBVV95cUxPckprVF9VMTRPeDU4S0tZaTNnZ0c3SVVheDBvNWktTFJLTXpCeHdiNlJRY3JRdXN0RDYwaDhodmh3OTl5NnpFbXFuU2xLY01fT3RGU2JNVDM3TEJjTkMwdEZwUTZSa0FCSUJETFRIZkRoSDZyZjlYcDA3SHNGMGxQck1DQldxQ09OeC1LY0JxM01JTVU0ZzFQdmgzSDVNUVBXRVJBOGNvQ0NSeHNCUWp6dnl3Z0N3ZlhpMU1mS1pFc3pDSTU3ajBSMktlMFkxczYt?oc=5",
-      "source": "G1",
-      "published_utc": "2019-12-12T08:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "Nióbio: G1 visita em MG complexo industrial do maior produtor do mundo - G1",
       "title_en_source": "passthrough"
     }
   ],
