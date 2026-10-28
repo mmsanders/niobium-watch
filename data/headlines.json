@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-28T06:41:00.161932+00:00",
+  "as_of_utc": "2026-10-28T19:58:59.137836+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 48,
+  "item_count": 46,
   "items": [
     {
       "title": "North American Niobium Airborne Survey Identifies Rare Earth Targets at Bardy SE - Junior Mining Network",
@@ -49,16 +49,6 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "NIOB Adds to Critical Minerals Portfolio - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTBjU3ZJRnhYZ2h0MlVKcUxZQ05scjUzUFIxeXM3MklyWGhKdlRsWWVURnR6SWlWY1pDM256Y2Znd3RmWWFQcnhDcFpNRUlpVEFBRWtTWV9fVHNEd3lMeHZrMU1qNzByOFJkUWQ2WVhXTk9DMGNwcmQyRFNfVTE5LUJsdllBYk1OWVFOUi1OTnpWOGpuVVZpSGxBdVBFMTdRQTU4bmlOMW1MTDk0U1psbUpB?oc=5",
-      "source": "GlobeNewswire",
-      "published_utc": "2026-07-08T07:00:00+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "NIOB Adds to Critical Minerals Portfolio - GlobeNewswire",
       "title_en_source": "passthrough"
     },
     {
@@ -149,16 +139,6 @@
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
       "title_en": "Niobium Mines and Producers: Output, Reserves, Uses - Farmonaut",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Codemig, CBMM renew niobium deal until 2070 - Valor International",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUEtzdDB3Tmtpc09yLXE5a1Z6ZUt2cVo0SUZDd2dEX2YwdUEyb0pTRW5fS3JlVkpZNldtUF8teGp0M3BJRVQ0aGJZSGY5eG9Hc3I2d3FhdE82SUd4VWNBazJiVGpDQXI4T2x2azVnYkRUUlRGZmdaMDRsUTJpSHZpOGtOSUxfYzFVdWliZmFrMGpXX3ItMlVJMy1GdXNYTm0wblNKZUFFT2Z0U1Qxbi1R0gG-AUFVX3lxTE40b0JEZXc5MnRPOFQxblFyTzEtZDZXcGRpZDBXUEpTZlZZb1ZuMnZGMWNERlZSWTNTWVZUTHNSOVAwakd4U2xVc2Z2c0h2X1lVSTNzNUZBSGJFSVdtblcyMHd6VlI5MnVXV3NlNjZDeTlqVGJ5VzY3a2lSWVQ3cWNQSFFiWkpnNHlGRUNTVHpLZXpuNWdXUXlfaE9GVVdISUhWS3NFSk1CMlF1U19kR2tQYTJKc25EdEJVNEIwZnc?oc=5",
-      "source": "Valor International",
-      "published_utc": "2025-10-31T07:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "Codemig, CBMM renew niobium deal until 2070 - Valor International",
       "title_en_source": "passthrough"
     },
     {
@@ -409,6 +389,26 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "Boston Metal to trial molten oxide electrolysis on CBMM ore - International Mining",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Nióbio: G1 visita em MG complexo industrial do maior produtor do mundo - G1",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcEc4VlZLZUYwRGpzam15QzFGUE1GbUpSSklFZmFJbUFGd0k1b1VnMXlFRWZ1ZmRlX3dHTWx5dHVNWjh3XzhVNHBqTW9OMGEtRldsSTQ0bzMyeUdad25mNm9FS0xJdWJnSUt0UzhfYTc0SkJJZzZvOWpqUHBxQzZubmNZMUdSdVUtVjJIV0F2M1FVWGhKNXd6MmZuU09KLURaencwSHhIelpHbUl2eG5rZUxhU0tRa1V2ZEh0eEc0VWx3Z9IB0AFBVV95cUxPckprVF9VMTRPeDU4S0tZaTNnZ0c3SVVheDBvNWktTFJLTXpCeHdiNlJRY3JRdXN0RDYwaDhodmh3OTl5NnpFbXFuU2xLY01fT3RGU2JNVDM3TEJjTkMwdEZwUTZSa0FCSUJETFRIZkRoSDZyZjlYcDA3SHNGMGxQck1DQldxQ09OeC1LY0JxM01JTVU0ZzFQdmgzSDVNUVBXRVJBOGNvQ0NSeHNCUWp6dnl3Z0N3ZlhpMU1mS1pFc3pDSTU3ajBSMktlMFkxczYt?oc=5",
+      "source": "G1",
+      "published_utc": "2019-12-12T08:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "Nióbio: G1 visita em MG complexo industrial do maior produtor do mundo - G1",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzJvbTdLamF2RExoWTMxbXZRSjUxU29lenJmdjVOWmp4ak5BYUZCWEMwSU9ReTV6bmhZMFl2Z3BwbkgxTDNhMVdka25tOU9saG54cXF0SDRhTHZLemNzTkpEd0ZXSERPU1B6ckEzdy03T09Oa25Zek5pYVJrNVVNTDhjOFJoS3ZDVXFhNXlNNHB2OE1VVUhtajNCNW9vbGo2MjdxZ0ZkUU82S1ZlZFE?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2019-06-13T14:20:20+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
       "title_en_source": "passthrough"
     }
   ],
