@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-29T06:48:20.361123+00:00",
+  "as_of_utc": "2026-10-29T19:57:32.594642+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -14,6 +14,36 @@
   "item_count": 82,
   "items": [
     {
+      "title": "Linde raises helium prices in Q3 - gasworld",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb19wQzh3N0dPS2s0VVdmbTBBSTZJYzVoUEVCWDFqcDU4Q0pyUVRnSEZiM2xfcVB3Z1Y1YU8yclNRZDJnT2M4em1xWFM4SnIzTGlKemVCZDBScWdWUEZ0UnlVSXZxMThKdFctTDFLWjU0RnFRZTFTVElWWFBQeEhYb3l0Y0EzeWM?oc=5",
+      "source": "gasworld",
+      "published_utc": "2026-10-29T17:03:27+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "Linde raises helium prices in Q3 - gasworld",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Electron Pairs in Helium Push X-Ray Generation Past the Single-Electron Cutoff - Technology Org",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWnpaMHp3MEFQbUZiNlB6T0RUZTdEYjRpbVJlQnk3dF9lU25QYkxtRmJjaldJdEM1QnlyRmotRjBJRE5JeHF1Umw0TzVia3RxbDh3SVJjWHlUNlQwT3BCNnM1VlNSaDlEOW1vbm9FUkFIWElYU3dGb2NnVkJIek9XRVRRVmJURWVhU2R2RW1iNEJ3WWhhY2M0RFVEQ0RkWU0?oc=5",
+      "source": "Technology Org",
+      "published_utc": "2026-10-29T16:17:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "yellow",
+      "title_en": "Electron Pairs in Helium Push X-Ray Generation Past the Single-Electron Cutoff - Technology Org",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "BLM Launches Map Identifying Helium Concentrations on Public Lands - Bureau of Land Management (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU1JLenp0bUt0RTUxaFV0ZFBrTVpDVjN1UFppQ2dvWTZpbnN1Yk8wR1VQUTJpN0NlRC1odU8yY3dNNkRtOHNIMFg4VWZXc08wSFNBR2RBbDc0TWtrUlhUaDQ5UDJ4LS1qTGtRQjg1aHNhRG1GR1VqdTN4MmF6SjNqbmlJX0xtaGtPeklYdEg1dmgxYUdRS2lRUUFLRkw?oc=5",
+      "source": "Bureau of Land Management (.gov)",
+      "published_utc": "2026-10-29T12:00:00+00:00",
+      "query": "BLM helium OR Cliffside helium",
+      "flag": "green",
+      "title_en": "BLM Launches Map Identifying Helium Concentrations on Public Lands - Bureau of Land Management (.gov)",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "U.S. Declares Helium a Critical Material - God's World News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fV2ZDeFB2b1JvMzNtbW56ZlptMzBUQ0FuQ1N6aEV0d29sN2sxcE1wN09ScHNBbnN4WGNoVHRDNExqNHk3VU5uZjczRlA5cE8yeC1tT0dZdjR5R3FSb21lT0VMUHRycVQ4T0Z1U3RsV1Y2WTFYNnUxWk9Eb2hjZnM?oc=5",
       "source": "God's World News",
@@ -21,16 +51,6 @@
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
       "title_en": "U.S. Declares Helium a Critical Material - God's World News",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "US Designates Helium a Critical Material, Boosting Helix’s Growth - ChemAnalyst",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOGQxZ1pLMnFTU0FVN25NTWJYVVpUWmFJR29wWkNIZUNRLVJpMmNXZVRQY2VVQjhQbGRWMnZtWG9UUjFIY05pdVF3czF4N2pLYV90aWowQzhpT1cyXzQ0b3BxZ19MZE53T0huQkZ5dFlNc2Z2cUllUmNoMlRHSHJPV1VmTGRTcjFtaGlDV1VBemJ3bVUxRTlwT3B4UG4wbmk3VFFmUmZLakhNQXhqR1h3OTlRM3Y2QQ?oc=5",
-      "source": "ChemAnalyst",
-      "published_utc": "2026-10-28T12:50:24+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "US Designates Helium a Critical Material, Boosting Helix’s Growth - ChemAnalyst",
       "title_en_source": "passthrough"
     },
     {
@@ -54,16 +74,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Helium Just Became a Federal Priority. Avanti’s Montana Plant Is Racing to Reach Production - Construction Review",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUDh1NF9rV2oySlBfa3hWNmp2NFJEUjJPRTZxaE53eXlRQldXbGlCUzNKYS1fYVp2bnU5TWJHVWhMQXdHdFJFTG9EbDZhcnN3MjJNUDNUWFg1SVIxWkFyWlRzQ1FZaTNleU5yOGN2Y09XYlI2eWlpUmJleHFMRnp3c2xvbkJZOGh6MVVQenVNaUcyVVZIU21lQWxBekVVcjVCektZWVlXX2txTWRXWXFMM0tqMC03NFBYTmR0Zkh4cFFaaFhCR0E?oc=5",
-      "source": "Construction Review",
-      "published_utc": "2026-10-27T11:55:07+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "Helium Just Became a Federal Priority. Avanti’s Montana Plant Is Racing to Reach Production - Construction Review",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Helium is back on the U.S. list of 'critical materials' - Marketplace.org",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNVJzdEhZNEt1U2s2WGJfOHNFTFdwMUlJNjdKRkZONzhWZVR0QUh1bFJTRHBvalZteUpGS2RUc2k3OTFoWjZySklabzB4enZkclRnYTk2anVmZnRLaUtMNGlHazA0MUgxaHg0aVJWaXRxbkpyMlUyUWh2RVVZM3h1X0hlOENLV1VyQ3M1YVZlS2NIclpRcmhSeWQ3SWI?oc=5",
       "source": "Marketplace.org",
@@ -71,16 +81,6 @@
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
       "title_en": "Helium is back on the U.S. list of 'critical materials' - Marketplace.org",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Helium Summit: Potential consequences of US helium designation - gasworld",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV1RDYnB0M2hzbVRQRDdUZTBXTG13Vm93NGFBdnlPWjFJNl9Xc1ZjWEJOV09YNE5mZ2cyc0wtd2lVYjhtemJFd3dKV1o4LWJxSGRBV2s2Q1pmbFpjaHBrOTIzVUxPT1VNUm1oTnBveW5OSEJsR3lnb1AzcXZVX1NsaHpjLVprclZTYUtDZzdvZjdQNTBpaDBmWTJBRQ?oc=5",
-      "source": "gasworld",
-      "published_utc": "2026-10-26T11:25:12+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "Helium Summit: Potential consequences of US helium designation - gasworld",
       "title_en_source": "passthrough"
     },
     {
@@ -124,6 +124,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "US designates helium as a critical material, citing its importance for semiconductors - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjM5SGFuUzRrVGZkRXl5NWJtQkYzQTVub3FLQ2MzZEd3eTRiU2RHYldFOXpUdmhNYnkwaVh1Q1pHNXNfQjdCRXhqVjZxUDZDVW5RWXFFMTU0NXZFT2tGY1FOcWdhV1ZhRG9pY2xORGdkbTdBZG5yekNOdnpJYW01cEpQU1lnOFVMY2xKZm5sY21ZQ3h6UG9TMUtQZEZ4a05WVS1Z?oc=5",
+      "source": "AP News",
+      "published_utc": "2026-10-23T15:19:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "US designates helium as a critical material, citing its importance for semiconductors - AP News",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Helium is way more important than you might think. And the supply chain is in crisis. - CBS News",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObHZ5UHFsTURVTkZtSmhXdXhLODl4dUd6TnRIYk4tdHBiQzhEbllDTkp3RTZPNXFfdG8tUG1WeC1xY1RfNmpscG1ESjVKdU43alk5dEt3cUtUUjVtOGg0UThLRVdiV0Fad2dEVGRFX092OEpZQ3phaFBtODZEM3pGT1oxYTVHWnFqRjJZWg?oc=5",
       "source": "CBS News",
@@ -151,6 +161,16 @@
       "query": "helium Ras Laffan",
       "flag": "green",
       "title_en": "US Helium Market Remains Supply-Constrained Amid Qatar Disruption and Rising Demand - ChemAnalyst",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "While SpaceX returns Falcon 9, Russia prepares \"Amur\": Gazprom begins work on ultra-pure LNG - www1.ru",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUEhEM1BqcG5DQW9YVVJpSkdoQkJya2JZZmNFbjgyb2VfelVPdlVxTXJjT2tYaHNldkczc1ZkTjV4NU9tc0owZjByd1J5TTJhMmpJeWtKeGk1MHdnNW9TLWVudGxwVS1xcUZkTzlYdE9Cdzc3dDJaYXd4T0MyTHpYV2phMlF3NzNaeTRveWxCR3ZTZG96X3FwbzcyV1A2Skwta1lDUDgtLVFNSFNWQ3VqS1Y5Q3hwaDJqOUpOLXdaTkJLN0x0ellSdF80VHVyTTlXSzdFYVFiODUtUdIB3wFBVV95cUxOaHlvTXoySGFNUUMzc1BKTHRBUTJDd2EwdDBadEpUdDk5TWlieXFxZkJTbWhvNUE4bXRIRW83a1h2NzNMbnVkalJBZ3lMTVlsWE55YXRfMGdTUnFKblp0T19JU2o0REZsZmRMUVBIZFlURWRrb3NkMmg4ZXFYSnVKVlVxZ2c4Sl94NkxsbnVmV2NRdm5jLTFZREtIMXVkZ1VnaDFsYldtUEQ4ZHhUcTYzWFUxQXBsUzJDR25fNHVMb2ZtLUZZZVBoWVRoaVlhVGdxLXEwS05hRGlQQjJwUjc0?oc=5",
+      "source": "www1.ru",
+      "published_utc": "2026-09-17T07:00:00+00:00",
+      "query": "Amur helium",
+      "flag": "green",
+      "title_en": "While SpaceX returns Falcon 9, Russia prepares \"Amur\": Gazprom begins work on ultra-pure LNG - www1.ru",
       "title_en_source": "passthrough"
     },
     {
@@ -294,6 +314,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "We Are Experiencing a Helium Shortage — What This Could Mean for an \"Irreplaceable\" Element - Discover Magazine",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdEphazVSOWlvQTJsZGp5M25Jbmk1ZnhPVXlOSnVqNE9UbkV5U0dvT1JOdnBVLVZWTjlPRWxNS3pvUUx6dmVsbTY1Q3VIRTh5RlRnZk02bzRMMGNha0tNRkZFODdzNWdPNWh1cm1iYkhEUWhzYnRNbWhYTGtlMEQyUzJCbVNNZEplazNRR1NPT3FwbGk2OWgxSzZMUFJCdGFjdnF0RWtKcTVkYnlQa0ZMbGJzX251dThZQXpKdmdMN0Z0aDJ2?oc=5",
+      "source": "Discover Magazine",
+      "published_utc": "2026-05-25T07:00:00+00:00",
+      "query": "BLM helium OR Cliffside helium",
+      "flag": "red",
+      "title_en": "We Are Experiencing a Helium Shortage — What This Could Mean for an \"Irreplaceable\" Element - Discover Magazine",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Helium supply shock: Qatar disruptions drive search for new global sources - Ynetnews",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNYzEtcks4WnJNb0taaTFKR2xnbmlxTXdlNHlPeFNkRFJCbk1pWXJ5a1p3X3ZNVG42TUVXU1ZhN3R0SjB4MEQwc1hsSzVydWZBWDJZOFNrRzdvcFEtTjNxNkln?oc=5",
       "source": "Ynetnews",
@@ -301,6 +331,16 @@
       "query": "helium Ras Laffan",
       "flag": "green",
       "title_en": "Helium supply shock: Qatar disruptions drive search for new global sources - Ynetnews",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Helium 4.0 Is Now 5.0: Why This Shortage Looks Different - and What Canada Brings to the Table - Investorideas.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQXpSbGVJbEtHOERXOWhUVC1vbWhPSlV1WkdjNjVtZWlfNXVuQzZrMlhFWmRFUjh4dFdEWnk4RzZvUk0zalFtWGNkTGw2WEFsUUlHVnVsbldBOXU0ZjVuS25QbGwxazlPTWdEWjg4UUkxRjVJaXFuSjJMTFZmQUQ2SFJFbl9vb0Nvb2NXN1VTeElSMUVTdkE?oc=5",
+      "source": "Investorideas.com",
+      "published_utc": "2026-05-14T07:00:00+00:00",
+      "query": "BLM helium OR Cliffside helium",
+      "flag": "red",
+      "title_en": "Helium 4.0 Is Now 5.0: Why This Shortage Looks Different - and What Canada Brings to the Table - Investorideas.com",
       "title_en_source": "passthrough"
     },
     {
@@ -321,16 +361,6 @@
       "query": "BLM helium OR Cliffside helium",
       "flag": "green",
       "title_en": "The U.S. Leads the World in Helium. It Still Wasn’t Ready for an AI Supply Shock - EBC Financial Group",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Helium shortage puts lab vacuum technology under pressure - R&D World",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTXFJWUc3S1JvTF92LVNOMURrSjVIaVQ3UTAzQ3plMnhxVHR6ZEk5emFmR0U3QWFBazMzMFEtT0loYUdGOVVRdGZraExCYXk3Qzc1WHotTWsxMTQwWmpkYUxYN0k4VHFnaEx2bTJiZGhUdVZhaTZTNW9oLWo4cXNsUGR3M0JBMGpHU0NFR0RhaFdTQQ?oc=5",
-      "source": "R&D World",
-      "published_utc": "2026-04-30T07:00:00+00:00",
-      "query": "helium plant outage OR helium force majeure",
-      "flag": "red",
-      "title_en": "Helium shortage puts lab vacuum technology under pressure - R&D World",
       "title_en_source": "passthrough"
     },
     {
@@ -364,6 +394,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Russia Introduces Helium Export Controls Amid Global Shortage - The Moscow Times",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2kzWk51emVJb2c4VTBubDY0U3J6TldPeXNnNXlGWjB3dy1Kb0xxeks3ZFZHYkd0Q2VPSGxuX1BPUDAxM0g3QzV3bWtpbk5ZMHpZSk9wQi1VRFAzRnpZeHk2Mm5QWktCaUdqQk5BOF9JcDNZM3RrRGlaNFFqSldaeDN3U0xlTmR1WFppcndyNlMwMk9CYTZWVWV2S1c0TVhnTGVxRUZDc1d0Uk5VSnU0?oc=5",
+      "source": "The Moscow Times",
+      "published_utc": "2026-04-14T07:00:00+00:00",
+      "query": "Amur helium",
+      "flag": "red",
+      "title_en": "Russia Introduces Helium Export Controls Amid Global Shortage - The Moscow Times",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Russia’s Helium Card in the AI Arms Race - The National Interest",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1NuTXdVTU9vM1lmUTF0cjRYb0NHdVc3VnBtalFmbWozZm5kYXpTLXZsei1xZFo0eVc0NnM0S1pQTVBuQkstZzlrZmRZMnJfbjV5SnQ5X0xKRDM3XzZkbEJsS0JCZS0teHU5TjF2aFpMQm0wM1ROSkR6M0RlNXNYY3Z6MGNNUGdkNEE?oc=5",
       "source": "The National Interest",
@@ -371,46 +411,6 @@
       "query": "Amur helium",
       "flag": "green",
       "title_en": "Russia’s Helium Card in the AI Arms Race - The National Interest",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "War In Iran Threatens Helium Supplies For The World's MRI Machines - Health Policy Watch",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFNHUnJZSWpzSUhQZDRyVXhHM1NKTEE0VkFkYXp1cF9fNk9hVnVlOGFKUnhWQ0dzeGVsQXlaYUh5OW0xRnhSNTE5NzJHOHd1ZVNIMGs0UERONnA1RHYxX3ZnNW41Y29SS1M4dDlMOEJuVDVpMmJNbU5CWGFjdGQyQUFLS1FrQ3ZqZTVEQzZhUVJTSk53RjhFTmRIQS10bUk?oc=5",
-      "source": "Health Policy Watch",
-      "published_utc": "2026-04-06T07:00:00+00:00",
-      "query": "MRI helium shortage",
-      "flag": "green",
-      "title_en": "War In Iran Threatens Helium Supplies For The World's MRI Machines - Health Policy Watch",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "The world is running out of helium — again : Short Wave - NPR",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZbHlmQVRvV0tQWExOVnpEdmFBUnFwMWlTZldZanZFSXhrTllJcXZ2cWhDbTFaZmdvMFhqRVpJWTdqbEV6bS15RFdrQXlab1c1b0czaUpMVW5zUU1QbnA5OFFJdFdMOW5GU3k5N2hFSXFNTTlBZ0tNeg?oc=5",
-      "source": "NPR",
-      "published_utc": "2026-04-06T07:00:00+00:00",
-      "query": "MRI helium shortage",
-      "flag": "green",
-      "title_en": "The world is running out of helium — again : Short Wave - NPR",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "America Has a Helium Problem - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QOTMzN0JCRjZ5ZWswcENPblFGNEY1bUxfVjc0eEZOTHdBbDFwQU0wMWRtNEJiY1hxWHk0OG1tclM5WkZWSWlfWHF2My0xYl9TY281R3Vrdzdwb3ZMdEFlRkk1VzNMVWVfNklKZWN2bw?oc=5",
-      "source": "Newsweek",
-      "published_utc": "2026-04-05T07:00:00+00:00",
-      "query": "BLM helium OR Cliffside helium",
-      "flag": "green",
-      "title_en": "America Has a Helium Problem - Newsweek",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Iran War Chokes Off Helium Supply Critical for AI - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVRIaWE3Z0hibGFNRlpMRjB4anE1VTF3RHpxSlI2TUh3Y09JbjBLbjhtc2s3enZpQ0FGbmpURXR4amx2eVJLRWR2MTh4Z3FhcFJpN200Y2wtRC00WVdpUTM3Y0ticVRpYThfeXdXZlNGLV9oVmFHc0V3cUFWSEpHSGNqeWJETXNpQkVCNQ?oc=5",
-      "source": "WSJ",
-      "published_utc": "2026-03-30T07:00:00+00:00",
-      "query": "helium plant outage OR helium force majeure",
-      "flag": "green",
-      "title_en": "Iran War Chokes Off Helium Supply Critical for AI - WSJ",
       "title_en_source": "passthrough"
     }
   ],
