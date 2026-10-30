@@ -8,7 +8,7 @@
     "supply": "annual USGS MCS PGM chapter + company quarterlies; no reliable public monthly world mine series"
   },
   "created_utc": "2026-09-12T21:31:05.083214+00:00",
-  "last_headline_fetch_utc": "2026-10-29T19:57:32.594642+00:00",
+  "last_headline_fetch_utc": "2026-10-30T06:51:27.763476+00:00",
   "last_supply_fetch_utc": "2026-09-12T21:31:05.083214+00:00",
   "last_error": null,
   "overall_status": "Watch",
@@ -516,7 +516,7 @@
       "News risk flags are monitoring judgments, not investment or procurement advice"
     ]
   },
-  "last_cron_run_utc": "2026-10-29T19:57:32.594642+00:00",
+  "last_cron_run_utc": "2026-10-30T06:51:27.763476+00:00",
   "cron": "GitHub Actions twice daily (01:00 & 15:00 UTC)",
   "translation": "deep_translator Google via .venv after each headline fetch",
   "last_brief_utc": "2026-10-14T16:22:33.140737+00:00",
