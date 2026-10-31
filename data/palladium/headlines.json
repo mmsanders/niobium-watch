@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-30T19:47:09.741568+00:00",
+  "as_of_utc": "2026-10-31T06:43:10.202641+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -11,7 +11,7 @@
     "palladium sanctions OR Russia palladium antidumping",
     "Zimplats palladium OR South Africa load shedding PGM"
   ],
-  "item_count": 73,
+  "item_count": 72,
   "items": [
     {
       "title": "PGM outlook rosy despite some pricing volatility, says Implats CEO - thenational.co.za",
@@ -194,13 +194,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Implats generates R22bn free cash, returns R17bn to shareholders - Polity.org.za",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWU0Szk3OXBUaEhLaTQ2Qm9GYjZaMGJRamlvTkNYX1Bkc3RfTmZqUi1sRGtKV0RJR1VQaTMySHBHS2RqdkpGZGxMU1RONjN3Q1JKQlRVMEU5RHR2SGpVdzdTTjdIb015R0U2dDR0TEUwRk5jbk9nUm9KSmtFTWd2V09oSWhBYVFRaFZ6ZUZyTjhKRVBfRUtldVBIZjRSUHRqSzZLam9VMHJoa1VMY0dCSjRvMGZwUQ?oc=5",
-      "source": "Polity.org.za",
+      "title": "Implats takes shine to bite-sized Waterberg JV - MiningMX",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlBnc0EtZTVQQUt2RFZybnFXanhkYnlsN2JEU09FbzhNUHJWRy1qeHZESVNtWmhSMG1Pc2NsYjZrRnBzaG5oT0xKMURmMnhoTW5kM1JGMGpMSHNpbEtCb0dwZzdDR2tnMU1yMEFKRVNoQWl5NjZmLW9NdFAzUGRFYXBWWGJLYXpVc0ItZ3dUYUczWmM?oc=5",
+      "source": "MiningMX",
       "published_utc": "2026-09-03T07:00:00+00:00",
       "query": "Impala Platinum PGM OR Impala palladium",
       "flag": "green",
-      "title_en": "Implats generates R22bn free cash, returns R17bn to shareholders - Polity.org.za",
+      "title_en": "Implats takes shine to bite-sized Waterberg JV - MiningMX",
       "title_en_source": "passthrough"
     },
     {
@@ -211,16 +211,6 @@
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
       "title_en": "Strike to begin at Sibanye-Stillwater’s US operations - The Northern Miner",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Implats Hikes Dividend as Profit Soars on Platinum Price Rally - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVjkxVVBSQmhGNVR4LVMtX3RTbHRiSldvRGRXRXFBOExUTlJXaWJjTHRXUmJ0ZzMySGIycVdFMDJybXYybU1DOWhEUlloYUk2UUNsdUJSalphRkx6d0Z5blpyR2xwWWtnUHRlZ0Q4eGE0bVJVSEhYV0JCQlRwdFV0Yy1obFRpQ1JCd0RidUlkMGZLel9RMERKbl9mMHhYYWNiTDQwNVZGT3lYcjVfaHdERktzYw?oc=5",
-      "source": "Bloomberg.com",
-      "published_utc": "2026-09-02T07:00:00+00:00",
-      "query": "Impala Platinum PGM OR Impala palladium",
-      "flag": "green",
-      "title_en": "Implats Hikes Dividend as Profit Soars on Platinum Price Rally - Bloomberg.com",
       "title_en_source": "passthrough"
     },
     {
@@ -304,16 +294,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Palladium (XPDUSD) Is down 2.15% on Jun 24: What You Need to Watch - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSngxejNZWkdtZ1RENWRMZ01IeG13MXFHZUhnejNPM2FoMF95SWszM1dBSHp6eTFwSGt4ZEpSOVY0b3I1XzNfUUJSNDc4cmVRbGJLYW5hU215R0pIU3NyZDc4RHBTUkdzY2RvaEpPTGdVTVlpc1B3c1JibnNfZ3UwSk50eS1ZV0lRSkFMSVpB?oc=5",
-      "source": "TradingKey",
-      "published_utc": "2026-06-24T07:00:00+00:00",
-      "query": "Norilsk Nickel palladium OR Nornickel palladium",
-      "flag": "green",
-      "title_en": "Palladium (XPDUSD) Is down 2.15% on Jun 24: What You Need to Watch - TradingKey",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Norilsk Nickel sees 2026 global palladium surplus of 300,000 oz - Mining.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM284YWNuVXlRZWVQbWw5eUVNTjlBbTNBNElRakFsVEpyd0ZzUndqVy1MTGM5UGZWdlh5SVBwTE5RMTNGaWpKUFNUWHpLS2xOZ2xqWnZtaVN5RnRVUThIdHZhOHV1cUwyZHoyLXZfbnpKVkNvSVhpUnVyOWhFc0xlcXBCOWNJNjJXc2pKeEVtbV9FSF9h?oc=5",
       "source": "Mining.com",
@@ -344,6 +324,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Structural Supply Deficits Forecast to Continue Driving Platinum Group Metal Prices Higher - Medium",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVmI5NDk5bFY3azlsanBVWTJHTzhNRzBsVXZhTHh2MS1WWHQ4THZaSDhjYWdtNVVneHdPd2FTMDR6R0YyRmJzR1hIaEZrRldXa2R3QW1ZUzlCUGdzN0o1bnNsZUJsLXJvZkxwRF9zcWNONDhPUXE1bUFuOEVJMUZVQmtwX1hTUS1ZMGlBZnZMdmJjZ3ZValdJRG5vTlY5UXg5NUFfUGg0U0dpUUpCb1R3YnBBQnlhUUdZLUo0MkNYUWR6LUZJOGQ3WGlPbzBQcW9UTnF2ME91bVpMdw?oc=5",
+      "source": "Medium",
+      "published_utc": "2026-05-19T07:00:00+00:00",
+      "query": "palladium supply OR palladium shortage",
+      "flag": "green",
+      "title_en": "Structural Supply Deficits Forecast to Continue Driving Platinum Group Metal Prices Higher - Medium",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Platinum, rhodium to outperform palladium in 2026, Metals Focus forecasts - Mining.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXy14blZPTU51Z1V2QlhjeDRUVEJFaWNPUHpXS2kyLXFVLUxadHItdnBZbTllRWtkSGE0SF9CU0hVUFdPemZ5ZXhKX0RwODFOaGNxMGVpa3FDUFJKVnFUSzdqWFNuUXZoMTFfZS1hbWYydkJvcmViemRTa3dzOWtXV0RNUlNoM2tKdGJEN1VERkhydlVkVDVBTlJZbThnX3RL?oc=5",
       "source": "Mining.com",
@@ -371,6 +361,16 @@
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
       "title_en": "Russia’s Nornickel Reports Sharp First-Quarter Drop in Metal Output - The Moscow Times",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Nornickel says nickel output flat year-on-year in first quarter - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcU9McUJyQW5nLWJGaFJBSU1TQ1RidzJTQWMxWFJFS0RvVFhRUU1EeUU0a0tMa056TFBOeHNzbTA5YWtIbGV0cTRIYVloaktTNC1SeTVZYW9mbm1wOThCVWtWTmxiTFFpU3MyaklOUElLV0pFcVBRY1dJRWs1TndrNEJxNTJqUEd6aEtNMzVDeG9rM2NkRmc?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2026-04-27T07:00:00+00:00",
+      "query": "Norilsk Nickel palladium OR Nornickel palladium",
+      "flag": "green",
+      "title_en": "Nornickel says nickel output flat year-on-year in first quarter - Mining.com",
       "title_en_source": "passthrough"
     },
     {
