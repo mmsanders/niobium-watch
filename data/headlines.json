@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-31T18:55:12.934713+00:00",
+  "as_of_utc": "2026-11-01T07:11:48.161997+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 46,
+  "item_count": 42,
   "items": [
     {
       "title": "North American Niobium Airborne Survey Identifies Rare Earth Targets at Bardy SE - Junior Mining Network",
@@ -52,26 +52,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "NiobiumX Mining Inc. Commences Trading on the Canadian Securities Exchange Under the Symbol \"NIOX\", Completing Its Transition to a Niobium and Rare Earth Exploration Company Focused on Quebec's Saguenay Region - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmViZGdWcHptZEJqVUtSUDZJc3hFemllckl3dVNXMmxNLVJCdWNBMmM1SEQ5MTN5UUpKa2dvNjRNWkVZOGdsV2pHaG5ad1ZzOGo3QkQxUHVHX3U3YVhzSFBGTHNmLTh0WWZEMzcweUlZRkdqbWtoc0x2OEJ2ZjBtUHZuWWFzdHlyd1k1NVQ2X2Y1RDRvcG9uRlVHUVRkc0tkejZVUQ?oc=5",
-      "source": "Yahoo Finance",
-      "published_utc": "2026-07-29T07:00:00+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "NiobiumX Mining Inc. Commences Trading on the Canadian Securities Exchange Under the Symbol \"NIOX\", Completing Its Transition to a Niobium and Rare Earth Exploration Company Focused on Quebec's Saguenay Region - Yahoo Finance",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Strategic minerals were identified as one of the most underestimated areas for applying sanctions pressure on Russia - LIGA.net",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ2tCRlBiQlotUm1ZV3NIZ1BPMThJR1BXdjJlNjB5THlwMGRLSHZ2VkZWOWcwdC1GLTJrbFQ5bjVBQWk5dnZRTlZPdW1nb2lTeTlVUzZMc3VwZldYVDhIZzloNUxFek5xOUJaSHNTcTF4WkxKVHFQTXAxQ3J3MlJWRWlhM1p2X1l2OTZseGE2UE12akNXanRfejdOSmQxRHdYQjJKRnRueVBJTjFmN21TVGVzVnQxUnpUUmRqaTNSNDRjMEVMZ3libVAySFl5aHlSNzU1TXpabXJ5SmoxaEUybXk0Qno3d2NfQWpIX1htLURsVFhO0gH6AUFVX3lxTE1LRGxVVjFfZVZ5N0I4eWlXdmJWd3FOdk9fbkh2T0hXZHRGLW1PNHZSQjdRVnY1SFNCWkltRWRhM2xSdTRpcktONDF4d2RKd3BnZkQ5N1gtS3BDeGhfWGNBVkxWSGlzMGRhVUQ0N081aVMtdjRPUV9RbFM0V2RnTzR1bDhsNVpTLTJLWUtzVlZvZFB0bTVnOC14WEhLS2preEt6RnVnMnVzT0dZbUE4QzNCZXdPX0V3T1ZsZmRzekwzcm9tQXptWC1wbW5ObjEzTkdxWFFuUnByS0RPVmd1ekpla2pxUlU4RlVydGI4eHlGQmNpa09zeGhJUlE?oc=5",
-      "source": "LIGA.net",
-      "published_utc": "2026-07-29T07:00:00+00:00",
-      "query": "Brazil ferroniobium OR ferronióbio export",
-      "flag": "red",
-      "title_en": "Strategic minerals were identified as one of the most underestimated areas for applying sanctions pressure on Russia - LIGA.net",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFp0OWk4LXFCYWNuMnVIZVN4LVFfbC1JZmdSRUVzUnZicDRVZ0FtTmh0UzBVQUh0a0w0cm55YWFuWk1VN04yNVlqTnlYbXFMc0w1Mno3VlYyUHRRanNJNjhOZzNJUGx1REZiM19xZE01YlRzTkRvRG4xcUlwRWtyYTczMXdWcDRTaWNB?oc=5",
       "source": "Geopolitical Monitor",
@@ -82,6 +62,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQczJON05BR3h4aXBLT2pnWGVzMF95NXhEdVE4QlpGc0NRV2VWdHcxSnZjSTYxc1lyY2ZSNGNCQ0VmcHhxLWlPamx5QVRoeVp4anJacUduN1d5WnlnV05xVlYzakJmNW5wWHFKdzNzclc1TU9ienh4QWs2VVdOUG8ybXgwTlY2NjBkZE1fT2ZNdnBHblh6VnIxeTVmSUZKNzJ5Q0Q5TWRsT3JBUVhUcTVucVFlT3ZWa3RCeVZRS2pnN2Zkd1RTLVNsMlNfTlJHYVhn?oc=5",
+      "source": "Next Investors",
+      "published_utc": "2026-06-11T07:00:00+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "flag": "green",
+      "title_en": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Tanzania seals strategic minerals deal - Daily News",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WUlhrQWpuZHdCc0pHaUZfMTVJc0RqWk5KRU94UmNPaHBZc0hTUkprMlNNVHFUSlIxMmVzdzR2SHlGZm16N01zR3pGN3kzdnRfdWJuWlV2OThvYnpEdHZEVVJhVzA2QmlUQTJlZW82azQ?oc=5",
       "source": "Daily News",
@@ -89,16 +79,6 @@
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
       "title_en": "Tanzania seals strategic minerals deal - Daily News",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Niobium partnership in Brazil gains governance boost - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVdrZktMV2RjTVlyVUo5Rl81N3c5UWdTMnBIeHZTX240TVdkdFdFSXk0dVZlcFVVbEJOcWw4RU9aWVVhdzlINVl4a2Vpbm03czBwemsyVDNURVlGUGFkb0JkRzBfdFBJc1V3OGVJZE1VaHBXSHJ3ZmtjQW9NNkxYOXdXOUV0UW4yc1gtNTlGNEM?oc=5",
-      "source": "BNamericas",
-      "published_utc": "2026-03-04T08:00:00+00:00",
-      "query": "CBMM nióbio OR ferronióbio OR niobium",
-      "flag": "green",
-      "title_en": "Niobium partnership in Brazil gains governance boost - BNamericas",
       "title_en_source": "passthrough"
     },
     {
@@ -256,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSTh3OTNiNEFjMm9UcWppazdDVlF4WHRqTWJTRzZLbzlYSkk3V3E1R08xUUxtZ2hqcC0yRnFWdUZmVlJKNDJodVZyNWZSZjNkanNKVnhwUlhIWDZ6Ymd5U3ZLSFc1YUhzOXg4NmV4TTc1OHV6MGN4a19sNkNBYlZuZ0RGbS0tNk5hbFN1S3NSQVNSckph?oc=5",
       "source": "Battery-News",
       "published_utc": "2024-11-18T08:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "Echion and CBMM Open Niobium Anode Production Plant - Battery-News",
       "title_en_source": "passthrough"
@@ -289,16 +269,6 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "Toshiba, Sojitz and CBMM Unveil an Ultra-Fast Charging Electric Bus Prototype Powered by Next-Generation Lithium-ion Batteries with Niobium Titanium Oxide Anodes - 東芝",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Top critical mineral miner CBMM sees opportunity in EV batteries - Mining.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVJvT0tKMUVHdlhiRjFyNkQyY2Z2cVhreDlIVTFJaURUbml3WGladl8zNkFPUUZULTNxeGp0Yzg4SVI2MGtKSkw3OGtMY1QxTzVIU1U5bTRiRXowdU1SY0llWmhFQlVoWXgwYW53cjRmYk5vV2pKT0RHUGxPZDNGa1N2N0syVFBScTRtTS1VOG1SSGE1SWVn?oc=5",
-      "source": "Mining.com",
-      "published_utc": "2024-05-13T07:00:00+00:00",
-      "query": "CBMM nióbio OR ferronióbio OR niobium",
-      "flag": "green",
-      "title_en": "Top critical mineral miner CBMM sees opportunity in EV batteries - Mining.com",
       "title_en_source": "passthrough"
     },
     {
@@ -372,11 +342,21 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Iamgold sees potential to extend Nelligan footprint - northernminer.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU2NTejBFZlNMcUVJMndUYmR4QVRqUFlqM09TcUQzRXlDdU9jclFqeTV2Z25pSGhrbm1MRkdIcXdJcDNQbWs1MDhZbzFvWkRoZEtSaW9lYUhtR3FmU1hTU1ZhZmdvRW93SHBvVWlnN1pPTXNYRl80Q0VMc2hUQkU3b29rR3FfLWZkVGZTVjdERE1ZaGFybncwQkZHbmdMTEp3Smw1bm1n?oc=5",
+      "source": "northernminer.com",
+      "published_utc": "2020-06-19T13:29:39+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "Iamgold sees potential to extend Nelligan footprint - northernminer.com",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "The niobium controversy - Revista Pesquisa FAPESP",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FVWl0RHdLelZZdWhwREJmejhqdjdBblVFVXZlVlZWaXJyenBLSDVEMmpEb3RRZnYxc2xaR2kzdXZnSmwwMkk1S3FSZFRvNmhucVJyZEpBQURmemFSOFNBdktDbm9WNDNIaG1LcHYwQUI?oc=5",
       "source": "Revista Pesquisa FAPESP",
       "published_utc": "2020-06-02T06:34:46+00:00",
-      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "The niobium controversy - Revista Pesquisa FAPESP",
       "title_en_source": "passthrough"
@@ -396,7 +376,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01RGYwSE5TOElGb1hxRXNKNVo1THhZbkx6bWt3UFY2eUhWWkpwWHU1Y1ZmbGtIaHFmVVJxb2J6eGdES3FfbmdRRkpjd3l5WERoWkdLQ3VvZzd6ZThPVEg1dGJ3alRUYXhOMkNVVFhTX0FFV0hWVUlSTVJLWlpnbkU?oc=5",
       "source": "BNamericas",
       "published_utc": "2019-08-30T07:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "At a Glance: Niobium powerhouse CBMM - BNamericas",
       "title_en_source": "passthrough"
@@ -409,6 +389,26 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Niobium’s silent impact in Brazil - Dialogue Earth",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmVaQWNsQmlmaXhienBwLXFQRkVpaVJlUWpsdHFGTG9ETWVESzZfWUw0MlZzZWdYRzI5WmJUTmdUd0tNMzRVMXdVZi1HeG0wV2JON0RCeWE1aHBKZnoxY3pxRnpGSVBtUU5rbnFkZTRTbGdVdHc0V3BLdi1GVVd1Zw?oc=5",
+      "source": "Dialogue Earth",
+      "published_utc": "2019-04-05T07:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "Niobium’s silent impact in Brazil - Dialogue Earth",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Hands off Brazil's niobium: Bolsonaro sees China as threat to utopian vision - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSWxJWjMtLXZnRDFrTklJQlhIR0ltdmNsWVJreTNvczRmZ3BsazlVajdPYmQzZlEtY2FpQ19tR3dnWmRXMV92dzZ0YmpMeko0c2lRVVotQzRwWGVKTWhqX1R1Q2tMT0tJd0JuU3Vja201bkdFTFpsU0FmcExTOHp6d2tQUkQ4QUNvU2oySVFiT1VKaFV1ZFNYalhwMzhLY3NYNHBkanFrZG9VY0VOVkZuckx2VmJyS0JMbjUxQlhNSlJDRUhuRWc?oc=5",
+      "source": "Reuters",
+      "published_utc": "2018-10-25T07:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "Hands off Brazil's niobium: Bolsonaro sees China as threat to utopian vision - Reuters",
       "title_en_source": "passthrough"
     }
   ],
