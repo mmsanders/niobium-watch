@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-01T07:11:48.161997+00:00",
+  "as_of_utc": "2026-11-01T19:16:46.290946+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 42,
+  "item_count": 43,
   "items": [
     {
       "title": "North American Niobium Airborne Survey Identifies Rare Earth Targets at Bardy SE - Junior Mining Network",
@@ -182,6 +182,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "The Discovery of Niobium in Araxá That Revealed Brazil Has Reserves for Up to 200 Years of Global Demand and Generates Over $2 Billion Annually in Exports - CPG Click Oil and Gas",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOeUV0QjFfb3huS2lZNFdneGdKWVZidF9xX3hLZFhKcUFDcm1vdDBUYlBQdDFlbzdWQTl1dlRPNDlXX0dZdmc3dW1RLUNvUGthZG1Eb0V0T2xZTXJoU0xFWVZOVTh6ak1vVFJwcFAxQ0dvM1ZSdnRNTjJHNFF3OHpDUGdXLVYxbnhVZ3oybjB0THAybXJMOEV0NVBVTGtrbFBYSnRLSV9JdF9EVy1MdlFLNFhBUUY4MWVrczNfbEtxaVBfd3Yya0kzc0R5ZEJCaTk2Tk1Wcm8xNmhlQTRYX0hfdm9TRE5yVWxSQmgxaFFqNEtNZ3hZVld0OFFnM0ZScjcwX0tNYk41SkRYZU4ycTdzbG1yOVAxeUxZUzhyZw?oc=5",
+      "source": "CPG Click Oil and Gas",
+      "published_utc": "2025-05-31T07:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "The Discovery of Niobium in Araxá That Revealed Brazil Has Reserves for Up to 200 Years of Global Demand and Generates Over $2 Billion Annually in Exports - CPG Click Oil and Gas",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Quebec mine strike shows fragility of critical minerals supply chains: Analyst - Canadian Mining Journal",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVFNwUkhBR2ZfVDAzV1UtQTdpZ3ZITXJqNE5mRC1Xc25UYnBsU29XQ2Y3Q3g4NU92Y1R1MnVhY01jbXJYQVNMbDI1UTQyanVzVE1CMUVHRkg4dEwyMkNHX3IwcVBoSENZTFB0dmlhS0xBQkJWeW5JdV90T0RpU1hIN09BMEV6Y2ZoMlFhUDc4VEF4YU9uR0FkUUh4MGdRNUhPWEZDdmVfNXJzd1ZQbXhRTlJrQ1c4RjFrTVJnMVdR?oc=5",
       "source": "Canadian Mining Journal",
@@ -249,16 +259,6 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "Niobium pandemonium: ASX explorers are going crazy for the mineral in Brazil - Stockhead",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "St George Mining Appoints Executive Team to Drive Araxá Niobium Project - The Assay",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcjVYNlFmNTE0LXo4TzdJU1JHYWZDU2oxUlZSc1FLZlh0dUJfWVhhLU16M184enEyWEZzLXBXSS11UUtVVFNoeWVyMFVlUm15WFRqV3U1RVJOcVo3Y0p2S3lGbjFsN1NVSU0xWTNaeGV4ZjlPY0RDSWhyZkt6WHo3SFRBN0dBT2NRSjBnZFUwTm9SYWo0YmM0MjFVUHZKQVFVYTUtcg?oc=5",
-      "source": "The Assay",
-      "published_utc": "2024-08-21T02:42:18+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "yellow",
-      "title_en": "St George Mining Appoints Executive Team to Drive Araxá Niobium Project - The Assay",
       "title_en_source": "passthrough"
     },
     {
