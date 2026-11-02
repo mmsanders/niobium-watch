@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-02T07:22:43.056647+00:00",
+  "as_of_utc": "2026-11-02T22:56:32.305701+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -11,14 +11,24 @@
     "palladium sanctions OR Russia palladium antidumping",
     "Zimplats palladium OR South Africa load shedding PGM"
   ],
-  "item_count": 74,
+  "item_count": 76,
   "items": [
+    {
+      "title": "PGM outlook rosy despite some pricing volatility, says Implats CEO - thenational.co.za",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU2ZINXFBS2I4VmNtZTFpZEIzN0VfNEVZckF6ZWFUQjFaTDF0dDdzcVI5MGdvSGV1V3pDOVQ1Q01uMG1jREpNaDMyZnRBN00zWkMycmhSVlctMDg3VWx4dDhBQTJZVnZ1ODM5MDJ1c1NFUXRqdHVwQk1zaFVubHpSRkdjMldZUHlaVnhUT3k1QmRDZ3pmNjRKN0s1QzcxNmRwRlNOclF6TXlBalpz?oc=5",
+      "source": "thenational.co.za",
+      "published_utc": "2026-10-29T10:00:00+00:00",
+      "query": "Impala Platinum PGM OR Impala palladium",
+      "flag": "green",
+      "title_en": "PGM outlook rosy despite some pricing volatility, says Implats CEO - thenational.co.za",
+      "title_en_source": "passthrough"
+    },
     {
       "title": "Palladium tariffs and a 20-year production low are driving a quiet rally - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWZvNWo5Z0Fzbl9tYWVMd2dsajNkaUdVcDVhbk5vZXRKM2xXcElxazBPeE9nQmgxVGVsYnoxUXJKNG1mQkNwLTFOVWdZMTJmVUpmRWVUWDEwaDB5YnlPVW1GamJUQ2RqMFZGcWxJM0pydmpXdnBtZ2tsTFlabkFGSHN0a2tLMHJmUTFtbzFPZURmaW8wOU5fR0tEZVhBOWhwcGc?oc=5",
       "source": "Startup Fortune",
       "published_utc": "2026-10-26T15:08:12+00:00",
-      "query": "palladium supply OR palladium shortage",
+      "query": "palladium sanctions OR Russia palladium antidumping",
       "flag": "yellow",
       "title_en": "Palladium tariffs and a 20-year production low are driving a quiet rally - Startup Fortune",
       "title_en_source": "passthrough"
@@ -41,16 +51,6 @@
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
       "title_en": "Union representing Sibanye-Stillwater mine workers ends strike - Montana Free Press",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Workers reach agreement at Stillwater Mine after month of striking - Bozeman Daily Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMWF4LU9pM0d6a1VoTTJkREdQVjVzMmdtN3hDel96YkhSRWNsN3Q2OUVhU1dONmx0MGlqaGVkd1Zyb19QeXlfWXJkX042eTI2bHA0N1l3VkNpMmN1SWhGRlpzcmF5Vk1GMVVZWXRmQzMwdWZ5WFdfSlV0Zmg4dlJtMmFXYTA5dFhOVlgyQ0c1MG8yenRCM0VNYldUNlg3aHRrUXdfbUE1aHNjX0JkYUhxb0ppZGVjTFFzeTIzc0dwNTJsQ2JOTGtfaHp1UENkaTZKa3NqSWZteVVCTDBxLVVvakg1YUdZTkktcHlOWmZiaUFpTzRoUmlTVEFTQQ?oc=5",
-      "source": "Bozeman Daily Chronicle",
-      "published_utc": "2026-10-07T07:00:00+00:00",
-      "query": "Sibanye Stillwater palladium OR East Boulder",
-      "flag": "green",
-      "title_en": "Workers reach agreement at Stillwater Mine after month of striking - Bozeman Daily Chronicle",
       "title_en_source": "passthrough"
     },
     {
@@ -91,16 +91,6 @@
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
       "title_en": "Sibanye reaches East Boulder wage agreement; separate US strike continues - Shanghai Metals Market",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Sibanye Stillwater Says Finalized Wage Agreement at East Boulder Mine - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR1p4ZVJLOVI3U0JSdlRqU3YxLXdqc0RXNFRjbVV1R2ttZFFQSkJ1aUJVUkhjdUM4R1l5Ump3RUVYVUNBdkVObS1ZLUw2dmRVYklyTUl5V1Q1ZGRhUDJuWlJlUlJUOUdZaWVQVTlQSlpRcVNYczdoOWE2ZGFyUkN2V3l6UWg3UVJZamJjNWFXamw1QllVQUNLXy1fSFJLUV8zci01NU1R?oc=5",
-      "source": "Yahoo Finance",
-      "published_utc": "2026-09-30T07:00:00+00:00",
-      "query": "Sibanye Stillwater palladium OR East Boulder",
-      "flag": "green",
-      "title_en": "Sibanye Stillwater Says Finalized Wage Agreement at East Boulder Mine - Yahoo Finance",
       "title_en_source": "passthrough"
     },
     {
@@ -151,6 +141,16 @@
       "query": "Amplats OR Anglo American Platinum palladium",
       "flag": "green",
       "title_en": "3 Best Platinum Stocks for 2026 and How to Invest - The Motley Fool",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Platinum Market Tightens: Deficit Continues in 2026 - Investing News Network",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wRTg3aUhOWWFNdkwtVEZGZGlzNjByekxJV19jLVpQTTlfOXZqb0dzSy1TSmR5ejlOdkZORDhJNmF6RkJZdTlIMGFlWFVTVUJQQnNGNlFZUmZpeXM4WEM3UUhuNmpvYVE?oc=5",
+      "source": "Investing News Network",
+      "published_utc": "2026-09-13T07:00:00+00:00",
+      "query": "palladium supply OR palladium shortage",
+      "flag": "green",
+      "title_en": "Platinum Market Tightens: Deficit Continues in 2026 - Investing News Network",
       "title_en_source": "passthrough"
     },
     {
@@ -234,6 +234,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Strike looming at Sibanye Stillwater mine as contract talks fall apart - KTVQ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3FsbTM5MUJNY3VueVVMWU5hVjlNd0c2UnhyVGd4UkFIQXBTZUc1X0RrTGRfQ3dnbVF1aGttWVFVTkExUlpjcmEycFJPcjJpTXBheTdDcllSTHo0NjR4d0JMeEJSd3BvZ3VZWlJ6UjRxTFIzREh2Znc5OUdRWWEyZ21UVE1ON2EzdE5vWjdVdnB5ZjZ3QWg0S3ZNRW4?oc=5",
+      "source": "KTVQ",
+      "published_utc": "2026-09-01T07:00:00+00:00",
+      "query": "Sibanye Stillwater palladium OR East Boulder",
+      "flag": "red",
+      "title_en": "Strike looming at Sibanye Stillwater mine as contract talks fall apart - KTVQ",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Palladium Has Quietly Surged 90% and Russia Tariffs Could Push It Further - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS2dDekdqT2RQdE5oVHpJQU5CMFBnUGRJdm1ZMHR2R2dQY280NWZ2WjVLY1hkT2pRZHFtd0dTMURjTVctU2l5RVB3eHhjeVI3UFI3aVJSMmpQTU85bm9vVXBXdVdUb1VvaEJkTS1zRUU5MUE1R3FNYjJLeTNkSV9iUHV0eEdEckdFdjgwN2ZWOGlBbFEtWDM4b0d3a2tGcUtHa3c?oc=5",
       "source": "Startup Fortune",
@@ -254,26 +264,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Platinum’s Changing Investment Story: Deficits, Geopolitics and New Sources of Demand - Medium",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVGFmN3l2RGVERnhOV2dKbXJHZTZoODZka3lHa3hZLTJpeVdQTDNHWExsb3JzdFVzUkpMbV8teGNrQzFTZUlCM05ORWpOc0RMRlE3SVV1MEJMeW9ZN0tJeVljNkQ2SjVwOHRWdXFPa3VReDNldFI3SlMtai1LbUd3aDlsS3AzWTJnMVc4QTVKelFwUGh1MVJUU3YxNGFpeDJkRTU4RTVhUUo2aUtCMHBzaW5lYk5nZzl0eHc3RVJoaHZLVUEta0RmdGlHV0JEdG8?oc=5",
-      "source": "Medium",
-      "published_utc": "2026-08-08T07:00:00+00:00",
-      "query": "palladium supply OR palladium shortage",
-      "flag": "green",
-      "title_en": "Platinum’s Changing Investment Story: Deficits, Geopolitics and New Sources of Demand - Medium",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "PGM Deficit Set to Widen as AI Data Center Demand Exceeds Forecasts - Crux Investor",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2ZhTjc4NWRiWVM5YklYUFFyQkc4QXF0anFSWm1ZRjVxWW1aYlpidi1yeXBUQ085OUwxM2Y4dXBzWkpxZWxSbXZUeFU3NXh2X05wX0V2SkIyc1RIVUZ4d3pjbGg1dzBHSTZnSmoxTWx2YjNmVndUM0RTS3dXT3hDNVVmeVRUbkZjZE5mZVVSbHNiQmo5TTBxMTFvdjBRR3RvVHBTVw?oc=5",
-      "source": "Crux Investor",
-      "published_utc": "2026-08-07T07:00:00+00:00",
-      "query": "palladium supply OR palladium shortage",
-      "flag": "green",
-      "title_en": "PGM Deficit Set to Widen as AI Data Center Demand Exceeds Forecasts - Crux Investor",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Strong rand PGM pricing lifts Implats' full-year refined output, sales - Mining Weekly",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQnVLZ1JHbXlyeDNUQl94dGNjbHhOaGVPSXpVc2Z1LVNHUDFQTGZKNGtWTEppYlZZWmRUdElHNFVtRHBEaFBwX0MyNkYwNGVrb3FrdGVaNVlDbThoOENzMlZ0clRjUmdRMlFrd0FWOUh5elQ5VWRRYnNKQjZ3S2hyRFI0Uy1CZXdCcVJOa0RGODlqdW52bk9qNkpkcDJ3OFVtMGQzd1c2UkdBU3BERjVrcFFXMjlRVWc?oc=5",
       "source": "Mining Weekly",
@@ -281,16 +271,6 @@
       "query": "Impala Platinum PGM OR Impala palladium",
       "flag": "green",
       "title_en": "Strong rand PGM pricing lifts Implats' full-year refined output, sales - Mining Weekly",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Platinum surges toward $3,000 as a four-year supply deficit resets the metal's price floor - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSG4yZTVCUjRPWVo4VVctRld5OExycmwyZ3VXS1hQTVVoZ0xvYWwwTHBRcGd2b1NmbkNkRHRUR1VGLUhwejNFeXo2RTV1MGhDNHlxdXh4bVZpNENrVnNzWWM0SHdPRnRralhLTTRlaGlOYUFGc2FnQ2RIMUpneXYwLTVwbXJQSEo1OUc2cWJnRzR6RTNhTmMxeUFLVnV3QW4zeG9md01sRUlITHJIT29OUnJRNlkzdw?oc=5",
-      "source": "Startup Fortune",
-      "published_utc": "2026-07-31T07:00:00+00:00",
-      "query": "palladium supply OR palladium shortage",
-      "flag": "green",
-      "title_en": "Platinum surges toward $3,000 as a four-year supply deficit resets the metal's price floor - Startup Fortune",
       "title_en_source": "passthrough"
     },
     {
@@ -314,16 +294,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Watch: Gujarat Mall Flooded With Gamers Wanting To Buy PS5 Amid Ongoing Shortage - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRWE4bmR2UEdzUUx3OU0yXzFjMnRVZmNtdDVXeGc2WnR3SGZXZFRsX3hfaFBZelh4NGwwTzNPQTROLWJjN1pxNGZtZkpqb1FwMjUxeXRnQ20zMnNtaUxTOE1ZTEtfcVFZd3ZpOG40WVYxbFZQbnRqaFdtU0haM09kejhxMXJnUjhLdVFUenZDOS1hTEY3TEdaNWhiSHZpdkE3eThmSnpaTThCS1cwN1dGc1lXTlMwclht0gHAAUFVX3lxTFA3M045MmZmb1EwNEhSd2N3U0luZmhIVVJoa3dEeU0xN3NpcV9xQmRBc1dsQmQ3dEpHUUdqV2VDSE5Da3UzaGxzSHFBYW5qRTBjbnpWY2pNRVFwbHRzU0w3RUdUcF9JUFNNZlZCVUlMWWhwSjhHN05EQzdjVy02RUR3eGVORzN5dG1IX0h2djZCdlFYc1JadXBhZzJUZ1o5YzZRbk9XSmN2dHNYU1RUTTBneVl5LXVWX1FxMXhoRV8zRQ?oc=5",
-      "source": "NDTV",
-      "published_utc": "2026-07-16T07:00:00+00:00",
-      "query": "palladium supply OR palladium shortage",
-      "flag": "red",
-      "title_en": "Watch: Gujarat Mall Flooded With Gamers Wanting To Buy PS5 Amid Ongoing Shortage - NDTV",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Platinum Group Metals Ltd. Reports Third Quarter 2026 Results - TMX Newsfile",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ19rNHZGTHp0a25YMlFkM1UyQWE3bGowdVVydUg4M2FvVy0ySWYyeGlzWjAtQXVyRlg0dEtTMEF1Yl9tOTBxM2xiXzNZTWtyblZaM29PNm5CV2tKUmVkUmdrSTFKendtRnJsTE4zSEFKOHNsREx3UjJqOWZTdTYtS3RISlBqdnV1TVRuWklSTFJGLVFsaVBnZkNzTGZ0aWg2MTFfVnBUb18?oc=5",
       "source": "TMX Newsfile",
@@ -331,26 +301,6 @@
       "query": "Amplats OR Anglo American Platinum palladium",
       "flag": "green",
       "title_en": "Platinum Group Metals Ltd. Reports Third Quarter 2026 Results - TMX Newsfile",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Impala Platinum: Flat Production, Higher PGM Prices, Vulnerable To Volatility - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTXVRamdIZVVBUWlDUWx4UmFWeHZqek5ndkVGb29adVBMVTlVNFRDTXhXa1FIbjhid3cyNU5IaENVT3IyMWZQWUN1MkUwcjJfSkw4dUh4T0lXTDFTNjJucXlHamM3aF9jdkN6ZVY2M3VPSDJMNXZUZHk2b2FmaG4zNEs4Nk1LcGlERUxkZ1NiTzNqUFdZem9tMGI1UmJ0UlJPX0tjVmpmcno5RGJnVDQ0Ni1tMDBzdw?oc=5",
-      "source": "Seeking Alpha",
-      "published_utc": "2026-07-02T07:00:00+00:00",
-      "query": "Impala Platinum PGM OR Impala palladium",
-      "flag": "green",
-      "title_en": "Impala Platinum: Flat Production, Higher PGM Prices, Vulnerable To Volatility - Seeking Alpha",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Palladium (XPDUSD) Is down 2.15% on Jun 24: What You Need to Watch - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSngxejNZWkdtZ1RENWRMZ01IeG13MXFHZUhnejNPM2FoMF95SWszM1dBSHp6eTFwSGt4ZEpSOVY0b3I1XzNfUUJSNDc4cmVRbGJLYW5hU215R0pIU3NyZDc4RHBTUkdzY2RvaEpPTGdVTVlpc1B3c1JibnNfZ3UwSk50eS1ZV0lRSkFMSVpB?oc=5",
-      "source": "TradingKey",
-      "published_utc": "2026-06-24T07:00:00+00:00",
-      "query": "Norilsk Nickel palladium OR Nornickel palladium",
-      "flag": "green",
-      "title_en": "Palladium (XPDUSD) Is down 2.15% on Jun 24: What You Need to Watch - TradingKey",
       "title_en_source": "passthrough"
     },
     {
@@ -364,6 +314,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "In blow to Sibanye-Stillwater, attempts to tariff Russian palladium unsuccessful - Elko Daily Free Press",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3VQQmJqNGM2VElneC1GZzRpOE1kYUxfaEctbUJzWlBPOERCY0lmUjJJWlNOZ1ppRzNwVy1YbEJ3Mzhxd1hJMEpzYW5VSzFEcHpLMkdFcm5NQ1lIN09rX2VVV2hlZ1NUNFpOSnJpdVZHSVVBRGU5SVlDWUdkZkEwSGZhM2dURlkzTDNocTNfMHJ1VEptem91ckRTNTNJZjA?oc=5",
+      "source": "Elko Daily Free Press",
+      "published_utc": "2026-06-17T07:00:00+00:00",
+      "query": "Sibanye Stillwater palladium OR East Boulder",
+      "flag": "yellow",
+      "title_en": "In blow to Sibanye-Stillwater, attempts to tariff Russian palladium unsuccessful - Elko Daily Free Press",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "USITC says Russian palladium does not harm America cos, ends probe - Mining.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb2x0RGNGNXlXLUZRWEQtQXBqN0lwOXRuYnlrZ3E4M3RuRFh1N2lzdnktM3lSLVJsU2JLdWpWYjdyaE9zMXRLMWJEenpzRkhZNUNRNE1hNVNES0VqeUhiQ2hlNmdrRjhmUkRiN3Q1MF92WVVJRmJ3OVdkS1BuYS1xQms3cmlWUmR0dDRHVGJpVk1kYzdCU25aTWVJTWZDNjQ?oc=5",
       "source": "Mining.com",
@@ -371,16 +331,6 @@
       "query": "palladium sanctions OR Russia palladium antidumping",
       "flag": "green",
       "title_en": "USITC says Russian palladium does not harm America cos, ends probe - Mining.com",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Top 5 Palladium and Platinum Producers by Country - Investing News Network",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWm82N3NYbWZKMmU2LW8xV1VlREpuUUhqZlBIVkNFZFo2QTZjMjdpbWNSUjg0bzFIYVdnLXd3REVOUzBQVEFXLTNSbmk4RmxMRkpGa2szQktqbXB6R2l6ZjJxV3RsSDN6c05hanNWVWg5TjZIWHhSNVkwb0Z6akpBckw0c1BhOVJxSEdjWVhfd2F0aVdwTVprR2RwbXprRTZUZGdWc0pBRWl6UTRyc0dCZ3B1WTVmTXg3RkNWQ1dlRW5RMnZZYmNaWkFrM3FPSTZ1YkJhZFN3?oc=5",
-      "source": "Investing News Network",
-      "published_utc": "2026-05-27T07:00:00+00:00",
-      "query": "palladium supply OR palladium shortage",
-      "flag": "green",
-      "title_en": "Top 5 Palladium and Platinum Producers by Country - Investing News Network",
       "title_en_source": "passthrough"
     },
     {
@@ -404,13 +354,63 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Structural Supply Deficits Forecast to Continue Driving Platinum Group Metal Prices Higher - Medium",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVmI5NDk5bFY3azlsanBVWTJHTzhNRzBsVXZhTHh2MS1WWHQ4THZaSDhjYWdtNVVneHdPd2FTMDR6R0YyRmJzR1hIaEZrRldXa2R3QW1ZUzlCUGdzN0o1bnNsZUJsLXJvZkxwRF9zcWNONDhPUXE1bUFuOEVJMUZVQmtwX1hTUS1ZMGlBZnZMdmJjZ3ZValdJRG5vTlY5UXg5NUFfUGg0U0dpUUpCb1R3YnBBQnlhUUdZLUo0MkNYUWR6LUZJOGQ3WGlPbzBQcW9UTnF2ME91bVpMdw?oc=5",
-      "source": "Medium",
-      "published_utc": "2026-05-19T07:00:00+00:00",
+      "title": "Platinum to remain in deficit this year, while palladium, rhodium may record surpluses – Johnson Matthey - Mining Weekly",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYnhhX3k1TjBEU3E0dzhPNUhrUFhUTk1uX0xNbDBvWVlDWWRTalY5R0Y4YnQ1OF9YcUVyUjVDdzZReVBsOFplc3M5OWxWVGRZT0VXR1BFVl8zcjdtc1NJVU5IMGdUSkxvTzlvT2lXdENfQmxmNkNsUGMwMDlweXRndFJvS2JxM3lkbHpNOHp4N0hMbDhQeWoxM2pFVHZ5Vzg2MkRKNUdXb09oazNvS1h6bHpsZVZXdkdQSlJwNTFNOEt5SXZwdXptYWZOVl95THp6eW5jX3RBbHBIM195ZllGcw?oc=5",
+      "source": "Mining Weekly",
+      "published_utc": "2026-05-14T07:00:00+00:00",
       "query": "palladium supply OR palladium shortage",
       "flag": "green",
-      "title_en": "Structural Supply Deficits Forecast to Continue Driving Platinum Group Metal Prices Higher - Medium",
+      "title_en": "Platinum to remain in deficit this year, while palladium, rhodium may record surpluses – Johnson Matthey - Mining Weekly",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Fed Policy Dissent & Russian Palladium Tariffs Reprice Platinum Group Metals Beyond the Automotive Cycle - Crux Investor",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNUkyekJpSElSMWtvNUR4WHM2YkJkY2RKV0RkVldUNzJQYThhcHpwTlJVUmQ4ZHExNGFiZ3lxQ2FjVUxlcTlDbGthQ0NoR3pvbHE2LXhEemxEZjNxYjUzSFlrOTB6aThEcVBscnBEazc0ZE1HQkhIdGdHRHJQRTZMdk95U2JtdE1zcXFJZ05MVk1mek1LTTNjc2pDVTFqTy1aSlRwVXZabjN0M1ZLM0FSZE9RbjBaYmpPR1FmTTNIcmZzcU5jR2NTMzltcW5YZmdlbThB?oc=5",
+      "source": "Crux Investor",
+      "published_utc": "2026-05-07T07:00:00+00:00",
+      "query": "palladium supply OR palladium shortage",
+      "flag": "yellow",
+      "title_en": "Fed Policy Dissent & Russian Palladium Tariffs Reprice Platinum Group Metals Beyond the Automotive Cycle - Crux Investor",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Russia’s Nornickel Reports Sharp First-Quarter Drop in Metal Output - The Moscow Times",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWll6MEUyOVdvZ0F3QzNzOXVFOWIyaS1Ua2I1cXJJazczWF91LWFHbXI1c0lpLXVsY2FXYW42Y3lXNXpfYjVSTDFMUkpCQlpzeUZkUjJ6MkNzQXQ4c18ydXBjUFpCQ19oanVMSmpDeXpKSWZ5d1dEQXVfQ2lXQlVxR3huemllOWIwZDludzdmY3kyd3JiS2F6emZha3dKTkkzZEVtd25lY1R6dkRvQml4V2lLeHhLUQ?oc=5",
+      "source": "The Moscow Times",
+      "published_utc": "2026-04-28T07:00:00+00:00",
+      "query": "Norilsk Nickel palladium OR Nornickel palladium",
+      "flag": "green",
+      "title_en": "Russia’s Nornickel Reports Sharp First-Quarter Drop in Metal Output - The Moscow Times",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Platinum or palladium: Which metal is a better investment? - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdk0wYVZ1aEN5YjBHRS12ZEpfZDluMFZPQmgyRTZmNC1qWm9kOEZ0MHVkTlI2MlNvTWlMS0dTMzU0YUFWZUh1c0c3cmtBQXRXUW04QkFyRFFCX3pTRUhmcmJSZkN4RDNpaFNtT0dmUXlOM3pGSUdDTHNnMDFiTHVXYmlQM0xCVi1z?oc=5",
+      "source": "USA Today",
+      "published_utc": "2026-04-23T07:00:00+00:00",
+      "query": "palladium supply OR palladium shortage",
+      "flag": "green",
+      "title_en": "Platinum or palladium: Which metal is a better investment? - USA Today",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Platinum Group Metals And Impala Platinum Holdings: Why I'm Bullish (OTCMKTS:IMPUY) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0p6Vmo0dFdFajRtWkR6MHRTcWdwc003dERvTC1velFjcjB2Y0FYc3BXVjZtNThlQkFtWFFHR3E2WGdBZ0pQaVVOdEdEU29zN1lpLXpCektEb0U5TXl2NGd0eDFvM1NlWHRDWjY0ZG5uRjRoeF9kMk1fZHc1cUY5NEo0N3FQOXhmR3RoRjl0TFJ6aWpLcnBMV1pWNVc5V3N5UjhCeUxVU2p3dw?oc=5",
+      "source": "Seeking Alpha",
+      "published_utc": "2026-04-16T07:00:00+00:00",
+      "query": "Impala Platinum PGM OR Impala palladium",
+      "flag": "green",
+      "title_en": "Platinum Group Metals And Impala Platinum Holdings: Why I'm Bullish (OTCMKTS:IMPUY) - Seeking Alpha",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Nornickel seeks new market for palladium in EVs with catalyst for lithium‑sulphur batteries - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ3ZWMm5lcmhwRndNOWwyT0ZUS2lENWJoUjZ0S0hvQ01weXNLSkpnT1RmaG1BQ1k2aVUzekJmajdWb19nQ0dUWkl3LXB4U2lfQkxleF9rdXBmY180VTJMZGJlWThwd3BjbW92QmV2ZFVlaGpsTTFMdWVkRDk2LXNiYzgySTMtOGVFNTVPNUtnWDQ1clNERVhSQzVidThFSlNiSXRfRDF6SlBMZVpLUzFUOXRrWjN3R05GOTVnOUh5Q29lQ0lUbUVtMnBCTQ?oc=5",
+      "source": "Reuters",
+      "published_utc": "2026-04-14T07:00:00+00:00",
+      "query": "Norilsk Nickel palladium OR Nornickel palladium",
+      "flag": "green",
+      "title_en": "Nornickel seeks new market for palladium in EVs with catalyst for lithium‑sulphur batteries - Reuters",
       "title_en_source": "passthrough"
     }
   ],
