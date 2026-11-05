@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-04T20:59:05.375313+00:00",
+  "as_of_utc": "2026-11-05T07:45:06.513220+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -11,6 +11,16 @@
   ],
   "item_count": 45,
   "items": [
+    {
+      "title": "NiobiumX Mining Outlines the Principal Exploration Target at Its Shipshaw Niobium Property, Quebec - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdDl2UkczLVVvREF4SHJpd3NWa3llV3k5MlRoZ0VfZzRObnhPbTloLWc1NWpnUktSX1Y3a1h4b05yLW9vcld1cGxCa3o3d0xxV09yUWd1UWJOS1gyNy1aelBTNGNDNExEd2U0MUIwbDk2Ny1xUDVjSDZwVW56Mk10N2NyNHNROHU1TGRud1Jia0FYeXBIdnVEZDZXU2ZGa1dLSXNORUxuVXJmcFVIdW02NUo5ZjBleVU?oc=5",
+      "source": "Yahoo Finance",
+      "published_utc": "2026-10-20T07:00:00+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "NiobiumX Mining Outlines the Principal Exploration Target at Its Shipshaw Niobium Property, Quebec - Yahoo Finance",
+      "title_en_source": "passthrough"
+    },
     {
       "title": "NiobiumX Mining Outlines Its Staged Exploration Strategy at Shipshaw, Approximately Two Kilometres from North America's Only Producing Niobium Mine, as Brazil Supplies Approximately 93% of World Niobium and the United States Has No Domestic Mine - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPcWhGNGY0U0hzeHFDY0xVT1kzRVYxWVFxM0NCZVhuNnJ2VllXczl6LXFKaVN2S0RZOHA1MFhJcmVIWF8wM3JMcXplUkExUjBfdmFxNjc3Y1BNZzVJNTlwbkUxMURhQzVFMEpwYl9YUlRTTzB6NWU3UndheExaRldRQmRIZVFvaGdud01BWlRnUGZaWkpZS0Y5YVZ2YVFFT0RCTDRzUVFSdTVHdGFfNmRlcXI2eXVrd2xubExVWGtZWWV4S1MzRmgxNV92SC1WdjNibHBqWlZyMGQ4LU1DVkcwcjdMbGRKVHFpaHpZT19fSVpUYmp5NXItZ0g4MXBRUmJLa25wUThGdE4ybDREVXFLWWotd1VuSlpMX1QxQlVCLTlsMC1kVW4yWkdmRl9VbDVxZFVZUHkzc0hMTjRVT3ZBbGh1M1ZzZ1V0WW1nSnJ2TDVlYUJXX3JhSnV5am9VQ3l2U2k3VkhGaFo1c18yVUpONlZwX0ZHTmY3QjhWRWpYYkwtaV9YaDFidUw2NGJSUl9saHRJS3lVN1FaMk5idGxja1k2cTYyM2czcHB3aTc5MGFkbnB4ajBkbi1memJNckd2X2ZIbGx1TVQ?oc=5",
@@ -399,16 +409,6 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "Nióbio: G1 visita em MG complexo industrial do maior produtor do mundo - G1",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzJvbTdLamF2RExoWTMxbXZRSjUxU29lenJmdjVOWmp4ak5BYUZCWEMwSU9ReTV6bmhZMFl2Z3BwbkgxTDNhMVdka25tOU9saG54cXF0SDRhTHZLemNzTkpEd0ZXSERPU1B6ckEzdy03T09Oa25Zek5pYVJrNVVNTDhjOFJoS3ZDVXFhNXlNNHB2OE1VVUhtajNCNW9vbGo2MjdxZ0ZkUU82S1ZlZFE?oc=5",
-      "source": "Mining.com",
-      "published_utc": "2019-06-13T14:20:20+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
       "title_en_source": "passthrough"
     }
   ],

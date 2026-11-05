@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-04T20:59:05.375313+00:00",
+  "as_of_utc": "2026-11-05T07:45:06.513220+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -11,7 +11,7 @@
     "MRI helium shortage",
     "Shute Creek helium OR LaBarge helium"
   ],
-  "item_count": 73,
+  "item_count": 72,
   "items": [
     {
       "title": "Two Harbors, Pulsar Helium look to turn discovery into opportunity - BusinessNorth",
@@ -41,6 +41,16 @@
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "yellow",
       "title_en": "Helium One, Blue Star push Colorado drilling until 2027 amid permit delays - gasworld",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "US Declares Helium Critical as Minnesota Discovery Points to 1 Billion Cubic Feet - Streetwise Reports",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ0JUeEJKOHZjcm9oNm9iVTNWbUUxd1dQNkhQUWlpQ1pwRGZnVjhweUc4UWZQZDBhNWxocDBNWVQ2Vzk0cHF1QTV6aVNNYURYeUFhNlZlVWVEZmh3YUhIRFRnU01QWVJSRjEwd1ZLbnZJVjJ1TzB5VzdZNGtaelprMDZvMUwyTTRfUHUzOE1haDE1LXYxRl91c3NSTDJjTURuOU1JMmFUVjZ6dXlDTDNPTDJPNHdiTXRDd2g4QVRLM2VmeldMd2JHT2MyLXBWUFpHYmw2b1Nn?oc=5",
+      "source": "Streetwise Reports",
+      "published_utc": "2026-11-02T08:00:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "US Declares Helium Critical as Minnesota Discovery Points to 1 Billion Cubic Feet - Streetwise Reports",
       "title_en_source": "passthrough"
     },
     {
@@ -254,16 +264,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Iran war deflates critical helium production supplies - Axios",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sM1doNmxSNDgyZEVLTm83cG1aMDdLTUxSenp4U3lJZFpVdlNZcHI3MFpZeV9WOUVJLXY0U1NHMjRpbWdpb0daakNZMEpxWkIxa1ZNY2FLbjNCblJNSkFwWmwxMFBwRHdjcDE3aTNvdUx5NUU?oc=5",
-      "source": "Axios",
-      "published_utc": "2026-04-07T07:00:00+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "Iran war deflates critical helium production supplies - Axios",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Russia’s Helium Card in the AI Arms Race - The National Interest",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1NuTXdVTU9vM1lmUTF0cjRYb0NHdVc3VnBtalFmbWozZm5kYXpTLXZsei1xZFo0eVc0NnM0S1pQTVBuQkstZzlrZmRZMnJfbjV5SnQ5X0xKRDM3XzZkbEJsS0JCZS0teHU5TjF2aFpMQm0wM1ROSkR6M0RlNXNYY3Z6MGNNUGdkNEE?oc=5",
       "source": "The National Interest",
@@ -291,6 +291,16 @@
       "query": "MRI helium shortage",
       "flag": "green",
       "title_en": "The world is running out of helium — again : Short Wave - NPR",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "America Has a Helium Problem - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QOTMzN0JCRjZ5ZWswcENPblFGNEY1bUxfVjc0eEZOTHdBbDFwQU0wMWRtNEJiY1hxWHk0OG1tclM5WkZWSWlfWHF2My0xYl9TY281R3Vrdzdwb3ZMdEFlRkk1VzNMVWVfNklKZWN2bw?oc=5",
+      "source": "Newsweek",
+      "published_utc": "2026-04-05T07:00:00+00:00",
+      "query": "BLM helium OR Cliffside helium",
+      "flag": "green",
+      "title_en": "America Has a Helium Problem - Newsweek",
       "title_en_source": "passthrough"
     },
     {
@@ -401,16 +411,6 @@
       "query": "helium plant outage OR helium force majeure",
       "flag": "green",
       "title_en": "The Iran War Just Exposed America’s Hidden AI Chokepoint: Helium - The National Interest",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "MRI providers keep eye on rising helium prices amid war in Iran - Fierce Biotech",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTduY3NpTGJLSXByQzhKa0EtY2FlMnZSekdLa09ycnM3d3VvaGF1VF9mdUZJUmdsVWhIOW41bHFodTBBSWQ4ZWloaE4tck9GNXVBcVVzWUkxaUtzV2hOV3hmbHdZdlp6LURKLXpMNFpwQTh6bndvM3BNQk5GVmtWV2J4Z0JONVg2RG1HLTAzc3ZDVWFrakY5UFI5TQ?oc=5",
-      "source": "Fierce Biotech",
-      "published_utc": "2026-03-23T07:00:00+00:00",
-      "query": "MRI helium shortage",
-      "flag": "green",
-      "title_en": "MRI providers keep eye on rising helium prices amid war in Iran - Fierce Biotech",
       "title_en_source": "passthrough"
     }
   ],
