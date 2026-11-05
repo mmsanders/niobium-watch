@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-05T07:45:06.513220+00:00",
+  "as_of_utc": "2026-11-05T21:16:23.511565+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -11,16 +11,16 @@
     "MRI helium shortage",
     "Shute Creek helium OR LaBarge helium"
   ],
-  "item_count": 72,
+  "item_count": 71,
   "items": [
     {
-      "title": "Two Harbors, Pulsar Helium look to turn discovery into opportunity - BusinessNorth",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdWRac3BHT05MQUR6RmJCVW1lQWhzN2Q0UER1T25NRXZrcFNnclc2WmxIY1I5MWhiUHRSOFlSMFhkRlJSdDg2VHB2dkw4RU1QV2FMWlpaSm5GYm5BQ1BZdnJNY256Z2k2azF1VG05V1ExVVdEblpiOFBvWk9TRGRSSkVyeUdPc08xX1hTNXhqZUNZaDdrc0JOcHNuUV9yY0FfTjVYU19VTkpXSGtMUE5jUDNJelNMREJOMFl3cFV2d2VRWVVCTnhETk9ZY09QeDNkUElqVG45M21IRnJRY1E?oc=5",
-      "source": "BusinessNorth",
-      "published_utc": "2026-11-04T19:43:00+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
+      "title": "BLM maps US critical mineral potential - Metal Tech News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONEpmX1JTcVpYdm9iMVg2V0RpTzhzenVGV3o0WTRQTVFvV3ZMNXpfRkIySFpRRGtlNlk0MlotMjNiZUVsQ0JFai1VbEdsSVhkYkR1ZHh5bTJSNVh3Y3pTYzFfbjF4TmJraW5IT1UwUFhBa1hHV29iem12VDhwVjRaWG5VeDBpS2hVVEkxcUIyS3dyM2ZyTENpSlR2TmdWLXJoUUE4cHFOcWhVQ2c?oc=5",
+      "source": "Metal Tech News",
+      "published_utc": "2026-11-05T20:37:55+00:00",
+      "query": "BLM helium OR Cliffside helium",
       "flag": "green",
-      "title_en": "Two Harbors, Pulsar Helium look to turn discovery into opportunity - BusinessNorth",
+      "title_en": "BLM maps US critical mineral potential - Metal Tech News",
       "title_en_source": "passthrough"
     },
     {
@@ -31,16 +31,6 @@
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
       "title_en": "Helium just went critical in Washington: Four under-the-radar stocks that could go pop - Proactive financial news",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Helium One, Blue Star push Colorado drilling until 2027 amid permit delays - gasworld",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSXdqMENUdG5fNDYxZUZnSXVmejBjMnlMNmFWZGFEd0FIRFFEOU1tMGJxLVJxczNNWWxDOV9QUHo4bkpQUXpqWjNEc0o4OC1uODBWYzBDNkVpM201RHFqYXpwRi1KWGctdkhadS1kelROT3ZFYzNGN1dIUkxmYlBxVWM4Q2pDMi0taGhKVmVQdjN6UHVqaXBWSkpVLTJjaTZiWnQ3UGZuYlpHd2FYMGxxWlI0ZzZUZmpxZjRKRUxR?oc=5",
-      "source": "gasworld",
-      "published_utc": "2026-11-02T09:09:52+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "yellow",
-      "title_en": "Helium One, Blue Star push Colorado drilling until 2027 amid permit delays - gasworld",
       "title_en_source": "passthrough"
     },
     {
@@ -224,16 +214,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "How the Iran war could disrupt helium supply for auto semiconductor production - Automotive News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xLWZNUzJueFZIZ2RjSVpuYkdvSzRPckJ6UTcxVTlqMkFQYmRKQ2FCUjBYV0xnQ0x2NUZnVHdabjFMZXhjblBRWnpYXzhmbzBtMkJ2WFFNcjF0MVc2a1B2cmJUd2lRRmQya0d0ZzUtc2Q0NXVWOGpaYQ?oc=5",
-      "source": "Automotive News",
-      "published_utc": "2026-04-17T07:00:00+00:00",
-      "query": "Shute Creek helium OR LaBarge helium",
-      "flag": "green",
-      "title_en": "How the Iran war could disrupt helium supply for auto semiconductor production - Automotive News",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Helium Shortage Threatens AI Chips Amid Iran War Disruption - MarketWise",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLTVlVkFlUG1BUWhmeUdCZmV3N1M1MVh4Ylp1WHVoNFVnZGtzMHVBSnA5UVJ5YU5rX0tLZ1RpMVNWTjFFWDNSdDROUVRKOWRTejZnYm1yR1lFMG82ZEZtN3JIWmRVN1pwUlU4UWlWNXlHcFRNMVJFYlRBRlNra2gyZzhJX1E0VUxDUGc?oc=5",
       "source": "MarketWise",
@@ -261,6 +241,16 @@
       "query": "helium plant outage OR helium force majeure",
       "flag": "green",
       "title_en": "Top 5 issues for helium startups in Middle East crisis - gasworld",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Iran war deflates critical helium production supplies - Axios",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sM1doNmxSNDgyZEVLTm83cG1aMDdLTUxSenp4U3lJZFpVdlNZcHI3MFpZeV9WOUVJLXY0U1NHMjRpbWdpb0daakNZMEpxWkIxa1ZNY2FLbjNCblJNSkFwWmwxMFBwRHdjcDE3aTNvdUx5NUU?oc=5",
+      "source": "Axios",
+      "published_utc": "2026-04-07T07:00:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "Iran war deflates critical helium production supplies - Axios",
       "title_en_source": "passthrough"
     },
     {
@@ -294,13 +284,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "America Has a Helium Problem - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QOTMzN0JCRjZ5ZWswcENPblFGNEY1bUxfVjc0eEZOTHdBbDFwQU0wMWRtNEJiY1hxWHk0OG1tclM5WkZWSWlfWHF2My0xYl9TY281R3Vrdzdwb3ZMdEFlRkk1VzNMVWVfNklKZWN2bw?oc=5",
-      "source": "Newsweek",
-      "published_utc": "2026-04-05T07:00:00+00:00",
-      "query": "BLM helium OR Cliffside helium",
+      "title": "The world’s supply of helium is being threatened by the Iran war - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcDU5cjAzdnUwMjlfN0RqUlcyT3VUMTdrNHZ4V2RiVnZfRTkwdTBuTlJQSVVobktsRDA3OG5yX0hHRzdYenhodlpqMTB6eFNsMFhHako2VkhhajA0OHZpcGhRU211eDMzMjJfdTFLN3piZmtYVHREYWFwRklOUzhZS3dXbW9sSGplTjUwQ2JZQ0hGSlVaZkdvZE5SZklRd1k?oc=5",
+      "source": "The Conversation",
+      "published_utc": "2026-04-02T07:00:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
-      "title_en": "America Has a Helium Problem - Newsweek",
+      "title_en": "The world’s supply of helium is being threatened by the Iran war - The Conversation",
       "title_en_source": "passthrough"
     },
     {
@@ -411,6 +401,16 @@
       "query": "helium plant outage OR helium force majeure",
       "flag": "green",
       "title_en": "The Iran War Just Exposed America’s Hidden AI Chokepoint: Helium - The National Interest",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "MRI providers keep eye on rising helium prices amid war in Iran - Fierce Biotech",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTduY3NpTGJLSXByQzhKa0EtY2FlMnZSekdLa09ycnM3d3VvaGF1VF9mdUZJUmdsVWhIOW41bHFodTBBSWQ4ZWloaE4tck9GNXVBcVVzWUkxaUtzV2hOV3hmbHdZdlp6LURKLXpMNFpwQTh6bndvM3BNQk5GVmtWV2J4Z0JONVg2RG1HLTAzc3ZDVWFrakY5UFI5TQ?oc=5",
+      "source": "Fierce Biotech",
+      "published_utc": "2026-03-23T07:00:00+00:00",
+      "query": "MRI helium shortage",
+      "flag": "green",
+      "title_en": "MRI providers keep eye on rising helium prices amid war in Iran - Fierce Biotech",
       "title_en_source": "passthrough"
     }
   ],
