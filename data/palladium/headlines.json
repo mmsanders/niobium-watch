@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-05T21:16:23.511565+00:00",
+  "as_of_utc": "2026-11-06T07:44:13.298183+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -11,7 +11,7 @@
     "palladium sanctions OR Russia palladium antidumping",
     "Zimplats palladium OR South Africa load shedding PGM"
   ],
-  "item_count": 75,
+  "item_count": 74,
   "items": [
     {
       "title": "Palladium Has Quietly Rallied While Gold and Silver Hog the Headlines - Startup Fortune",
@@ -64,16 +64,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Weekly Recap: East Boulder deal and Generation Mining stake drops to 4.7% - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM05uVnJJeW5pWEhvdG01Q2dlWmIxaVF1UmFCNDh5LW5WdFVsWVpHcUlPYkQ3bVljaldOaEdPbHQ2elRqUjZ0bVVRZ24yVjRkckhSVjJsTzRxNUgwRDdLNUJQS1lPamdmR0xlbEtLWUNGMTZPZ1JaWWFSbUlqNmIwaHR3aWUtRlgxQ2U5WnFaYnFsYnpzakUzemVOU3ByclYwb00tZUJSSngxMTJyRFZMbGt2MUxfUHJLMjRzenVKRWNTbVRqaU9Ga0lqMU5jdw?oc=5",
-      "source": "TradingView",
-      "published_utc": "2026-10-04T07:00:00+00:00",
-      "query": "Sibanye Stillwater palladium OR East Boulder",
-      "flag": "green",
-      "title_en": "Weekly Recap: East Boulder deal and Generation Mining stake drops to 4.7% - TradingView",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Sibanye reaches East Boulder wage agreement; separate US strike continues - Shanghai Metals Market",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenFUYXVXVkU3cGk3NEdHZG5PTmlUd2FQeUZaOUNITW1SYlpCVWpoc2dIX1c1Zlk4eXRxQmVQNl9md2xkYWdxLWZTY19XYy1NQTFEbG1ub1pJZk1aTGFQam1OZFZocWE4czdWN3hHR2k1ZmVCSFU4OHdZMkVKR0NrVEtBckFCNkJqSzBxOHk5TmRGa0xXcW9BOFRXTlFQR2dNUVZ0SElTQmVLZUtPWWxFTXlYS3lRS0E3?oc=5",
       "source": "Shanghai Metals Market",
@@ -91,6 +81,16 @@
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
       "title_en": "Sibanye confirms wage agreement for East Boulder workers, strikes continue at Stillwater East, Columbus continue - Mining Weekly",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Sibanye-Stillwater Finalises Wage Agreement At Its US Pgm Operations East Boulder Mine - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQ1RiSjlKTVlXQkNFR1hVaDhZZDdfV3E2RjQ1dE1JdDUySlVGTUZlVWhqcEEtWjdEcDhpQzlCWkpmSVRKdzUzQXNRNGlYVUNlZ2JwazJwa0trZjZITmZIWGJWTWQ4bkRaZnlKT25EOFFBWE1hY1BJZ1pjN2J3WWJWQmJiZWhMWnlFMzNzbnR2TGRYYWZ1eHFOb1ljNDBmSThkUlo2QTNyR21DZVgyTHA3bERUVENVODVnc3BpWkl6VENwOTYzcmxMZW9pMU9wMWFUQ1BXQzhxTVhCdVp4U2RuRE1WUGptcU1WVTF1Uw?oc=5",
+      "source": "TradingView",
+      "published_utc": "2026-09-30T07:00:00+00:00",
+      "query": "Sibanye Stillwater palladium OR East Boulder",
+      "flag": "green",
+      "title_en": "Sibanye-Stillwater Finalises Wage Agreement At Its US Pgm Operations East Boulder Mine - TradingView",
       "title_en_source": "passthrough"
     },
     {
