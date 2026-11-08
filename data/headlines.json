@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-07T19:12:12.537678+00:00",
+  "as_of_utc": "2026-11-08T06:57:52.630619+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 45,
+  "item_count": 44,
   "items": [
     {
       "title": "NiobiumX Mining Outlines the Principal Exploration Target at Its Shipshaw Niobium Property, Quebec - Yahoo Finance",
@@ -79,16 +79,6 @@
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
       "title_en": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hc3g0Tks2NVY5UTRKRkt4Y0JmMUpwR1EwUmFPVGJCUy1RYTZ3TjlxWWo2SFJzWWJPM3AyMGdwZ0FZZTE4Y0V1MXhwQjdLdy03TXZIRVZYd0V4WkY0ZE96QVpoTQ?oc=5",
-      "source": "Uchumi360",
-      "published_utc": "2026-03-27T07:00:00+00:00",
-      "query": "Brazil ferroniobium OR ferronióbio export",
-      "flag": "green",
-      "title_en": "Tanzania's Mbeya Is About to Become One of Only Four Places on Earth That Produces Ferroniobium - Uchumi360",
       "title_en_source": "passthrough"
     },
     {
@@ -302,6 +292,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Trekor Talks - Trekor Metals",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMDRXYk9yZEtXYUlqc1gtcjBMNV9tckZScWF2aExvSlhMcV9tb0l4bmRDU0cxbnRES01sUnR5M2tTZ3dBaXFWc0YxR1dMdzNpOWxpM1VJMDRsdDZwZy1Pekp4YjlpZlI3RElCNjhJdXZPSGlQcFJkMXRjVzVhN1FyUWxYRlNYVk1O?oc=5",
+      "source": "Trekor Metals",
+      "published_utc": "2024-03-09T08:00:00+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "Trekor Talks - Trekor Metals",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "CBMM to Showcase Niobium at SAE Brake - The BRAKE Report",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tenlTV3djb2ZLc01veTZWYk9tU0ZtMzJtWUdUblBxTTh2QjRIVDdHbVpyVzJZbjBHeDQ1X0dfT0NCRllmdVptcTdrXzhCbG95UXg4cDdzZ2xSbzBFNi1WbGx3OERfNEZoOFZUTmxlRlQweU0?oc=5",
       "source": "The BRAKE Report",
@@ -339,16 +339,6 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "Magris acquisition of Niobec Niobium Mine - Torys LLP",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR181N2xrZ1N4Wkh1OUdzWHgxamw4NWR3dnZQclNITXBLTUNNTlBkbzJPek1QdHRtc21PemhXUEo3RzJFYWtyMHFCcmdtc1N5OVhzY3ZaSGp5bjV3ZWRCemM3V0tXbENaaGgyQnFQMlBySE5LelFjT2FwYWZpQkdwZ1Njc2ZMTURQeFlQQUZZVC1jbUtmOHN3WXludF9raTJ0ZjhBSmpuamNtelVIdmtocHVrMll1QWsxajFFY0tRTEpEZTN6NHRuOG90M3k2WUFjWnhDTU5EeUtWRGdSeVBOVnRpSmJmV2J0SUdseUdVYw?oc=5",
-      "source": "Investing News Network",
-      "published_utc": "2021-12-16T08:00:00+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
       "title_en_source": "passthrough"
     },
     {
@@ -409,6 +399,16 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "Nióbio: G1 visita em MG complexo industrial do maior produtor do mundo - G1",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzJvbTdLamF2RExoWTMxbXZRSjUxU29lenJmdjVOWmp4ak5BYUZCWEMwSU9ReTV6bmhZMFl2Z3BwbkgxTDNhMVdka25tOU9saG54cXF0SDRhTHZLemNzTkpEd0ZXSERPU1B6ckEzdy03T09Oa25Zek5pYVJrNVVNTDhjOFJoS3ZDVXFhNXlNNHB2OE1VVUhtajNCNW9vbGo2MjdxZ0ZkUU82S1ZlZFE?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2019-06-13T14:20:20+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
       "title_en_source": "passthrough"
     }
   ],

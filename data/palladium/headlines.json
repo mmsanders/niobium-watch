@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-07T19:12:12.537678+00:00",
+  "as_of_utc": "2026-11-08T06:57:52.630619+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -11,7 +11,7 @@
     "palladium sanctions OR Russia palladium antidumping",
     "Zimplats palladium OR South Africa load shedding PGM"
   ],
-  "item_count": 74,
+  "item_count": 73,
   "items": [
     {
       "title": "Palladium Has Quietly Rallied While Gold and Silver Hog the Headlines - Startup Fortune",
@@ -214,6 +214,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Strike looming at Sibanye Stillwater mine as contract talks fall apart - KTVQ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3FsbTM5MUJNY3VueVVMWU5hVjlNd0c2UnhyVGd4UkFIQXBTZUc1X0RrTGRfQ3dnbVF1aGttWVFVTkExUlpjcmEycFJPcjJpTXBheTdDcllSTHo0NjR4d0JMeEJSd3BvZ3VZWlJ6UjRxTFIzREh2Znc5OUdRWWEyZ21UVE1ON2EzdE5vWjdVdnB5ZjZ3QWg0S3ZNRW4?oc=5",
+      "source": "KTVQ",
+      "published_utc": "2026-09-01T07:00:00+00:00",
+      "query": "Sibanye Stillwater palladium OR East Boulder",
+      "flag": "red",
+      "title_en": "Strike looming at Sibanye Stillwater mine as contract talks fall apart - KTVQ",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Palladium Has Quietly Surged 90% and Russia Tariffs Could Push It Further - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS2dDekdqT2RQdE5oVHpJQU5CMFBnUGRJdm1ZMHR2R2dQY280NWZ2WjVLY1hkT2pRZHFtd0dTMURjTVctU2l5RVB3eHhjeVI3UFI3aVJSMmpQTU85bm9vVXBXdVdUb1VvaEJkTS1zRUU5MUE1R3FNYjJLeTNkSV9iUHV0eEdEckdFdjgwN2ZWOGlBbFEtWDM4b0d3a2tGcUtHa3c?oc=5",
       "source": "Startup Fortune",
@@ -261,16 +271,6 @@
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
       "title_en": "Norilsk Nickel sees 2026 global palladium surplus of 300,000 oz - Mining.com",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "In blow to Sibanye-Stillwater, attempts to tariff Russian palladium unsuccessful - Elko Daily Free Press",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3VQQmJqNGM2VElneC1GZzRpOE1kYUxfaEctbUJzWlBPOERCY0lmUjJJWlNOZ1ppRzNwVy1YbEJ3Mzhxd1hJMEpzYW5VSzFEcHpLMkdFcm5NQ1lIN09rX2VVV2hlZ1NUNFpOSnJpdVZHSVVBRGU5SVlDWUdkZkEwSGZhM2dURlkzTDNocTNfMHJ1VEptem91ckRTNTNJZjA?oc=5",
-      "source": "Elko Daily Free Press",
-      "published_utc": "2026-06-17T07:00:00+00:00",
-      "query": "Sibanye Stillwater palladium OR East Boulder",
-      "flag": "yellow",
-      "title_en": "In blow to Sibanye-Stillwater, attempts to tariff Russian palladium unsuccessful - Elko Daily Free Press",
       "title_en_source": "passthrough"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-07T19:12:12.537678+00:00",
+  "as_of_utc": "2026-11-08T06:57:52.630619+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -14,16 +14,6 @@
   "item_count": 74,
   "items": [
     {
-      "title": "AirLife Gases: The ₹189-Crore Pune Company That Bought 600,000 Acres of Helium Fields in Canada - LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2Y2dlhPRVFubk5JRHZfVTQzNFBvWU5FcHc0Qlp6YkVIMnY5YXpHMjhqVXdwbnYwRzd3NDRQd3RpWk83SWVFb0RlZmE1aFB4ZzlLcUpKRVpsUURWdzFOb3Rzd19EVS1wSTA4Tk1ZTVpXWGpQVlMzZUhXRnpEd1V6a0d6WTZITFRtLWJGUm90ZUVqOWVKM0ZpRw?oc=5",
-      "source": "LinkedIn",
-      "published_utc": "2026-11-07T04:00:32+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "AirLife Gases: The ₹189-Crore Pune Company That Bought 600,000 Acres of Helium Fields in Canada - LinkedIn",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Can chip manufacturers find an alternative to helium? - Marketplace.org",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xaV81U3QyaUNvcExSQ2FGYm1McHhoQ0NfVlpwVGFEVy1FNWxqOWtFeTlzdG1tWUVPM2FLMWhwTUlRMGE3MkdOT3hkSkFLQ3dXZklxVnhBR09LZi1ld2dWT3ZXbGZhR2dONVFFLQ?oc=5",
       "source": "Marketplace.org",
@@ -31,16 +21,6 @@
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
       "title_en": "Can chip manufacturers find an alternative to helium? - Marketplace.org",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Helium just went critical in Washington: Four under-the-radar stocks that could go pop - Proactive financial news",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMmotLUJEYW52Y3E2R1Q4UE1MQnN1WkFyX1RwZVFVV2JvMGNSX0prWXVSOVY4dTRoVEEwcktyRGI1MkphaXdybWN6WTJpZWo3LVI5Vm1xM0NNMURHVUIyQy1vazhuemRHa2xUWFJ3UTQ4RW5iRHFvVHNnWU9mMjl0c0N2ZTl4WUlsRDJqcWZMUHZLVFZfcWdSS2l0VUlCRUpuTm5SaXNkU3p2b05NUE80VnlNZ2VqaE1yZjZTUVlIN055aElsVTZha3VOc2lLbzVVdWxJVHdCQnFDc2QyclE1eXo3QWZPYnRnOXA0dg?oc=5",
-      "source": "Proactive financial news",
-      "published_utc": "2026-11-04T12:45:00+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "Helium just went critical in Washington: Four under-the-radar stocks that could go pop - Proactive financial news",
       "title_en_source": "passthrough"
     },
     {
@@ -94,13 +74,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Qatar Helium Shock Keeps Asia's Chip Supply Under Pressure - Environmental Leader",
+      "title": "Qatar Helium Shock Keeps Asia's Chip Supply Under Pressure - Environment+Energy Leader",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeGVhblpkNGJBWnJTVko5NG1PTTBwbnFJOXJTbmxsZUd5bTRsa1E0czBGc1NxTjZMclAtTFdCWUxuRTZYdnBoTktOY3ppNlFWTjE5aDFwNWFzU19RWlRBTDYtOU45ZGtTY2RZUDJyTVBWd2tJZVYwS1o5RFZGdWZJVV9GSXdMeVJQNEFiQWEybkF6WDFMLXlBU3d3MW9CREEzVDNGNkZyTzNkVzRBenNZbUxB?oc=5",
-      "source": "Environmental Leader",
+      "source": "Environment+Energy Leader",
       "published_utc": "2026-07-23T07:00:00+00:00",
       "query": "helium Ras Laffan",
       "flag": "green",
-      "title_en": "Qatar Helium Shock Keeps Asia's Chip Supply Under Pressure - Environmental Leader",
+      "title_en": "Qatar Helium Shock Keeps Asia's Chip Supply Under Pressure - Environment+Energy Leader",
       "title_en_source": "passthrough"
     },
     {
@@ -291,6 +271,26 @@
       "query": "MRI helium shortage",
       "flag": "green",
       "title_en": "The world is running out of helium — again : Short Wave - NPR",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "America Has a Helium Problem - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QOTMzN0JCRjZ5ZWswcENPblFGNEY1bUxfVjc0eEZOTHdBbDFwQU0wMWRtNEJiY1hxWHk0OG1tclM5WkZWSWlfWHF2My0xYl9TY281R3Vrdzdwb3ZMdEFlRkk1VzNMVWVfNklKZWN2bw?oc=5",
+      "source": "Newsweek",
+      "published_utc": "2026-04-05T07:00:00+00:00",
+      "query": "BLM helium OR Cliffside helium",
+      "flag": "green",
+      "title_en": "America Has a Helium Problem - Newsweek",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "The world’s supply of helium is being threatened by the Iran war - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcDU5cjAzdnUwMjlfN0RqUlcyT3VUMTdrNHZ4V2RiVnZfRTkwdTBuTlJQSVVobktsRDA3OG5yX0hHRzdYenhodlpqMTB6eFNsMFhHako2VkhhajA0OHZpcGhRU211eDMzMjJfdTFLN3piZmtYVHREYWFwRklOUzhZS3dXbW9sSGplTjUwQ2JZQ0hGSlVaZkdvZE5SZklRd1k?oc=5",
+      "source": "The Conversation",
+      "published_utc": "2026-04-02T07:00:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "The world’s supply of helium is being threatened by the Iran war - The Conversation",
       "title_en_source": "passthrough"
     },
     {
