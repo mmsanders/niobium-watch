@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-09T07:42:10.907716+00:00",
+  "as_of_utc": "2026-11-09T23:38:27.555921+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -21,16 +21,6 @@
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
       "title_en": "Can chip manufacturers find an alternative to helium? - Marketplace.org",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "BLM maps US critical mineral potential - Metal Tech News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONEpmX1JTcVpYdm9iMVg2V0RpTzhzenVGV3o0WTRQTVFvV3ZMNXpfRkIySFpRRGtlNlk0MlotMjNiZUVsQ0JFai1VbEdsSVhkYkR1ZHh5bTJSNVh3Y3pTYzFfbjF4TmJraW5IT1UwUFhBa1hHV29iem12VDhwVjRaWG5VeDBpS2hVVEkxcUIyS3dyM2ZyTENpSlR2TmdWLXJoUUE4cHFOcWhVQ2c?oc=5",
-      "source": "Metal Tech News",
-      "published_utc": "2026-11-05T20:37:55+00:00",
-      "query": "BLM helium OR Cliffside helium",
-      "flag": "green",
-      "title_en": "BLM maps US critical mineral potential - Metal Tech News",
       "title_en_source": "passthrough"
     },
     {
@@ -111,6 +101,16 @@
       "query": "MRI helium shortage",
       "flag": "red",
       "title_en": "Helium shortage threatens MRI services at Indian hospital - gasworld",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Is There a Helium Shortage? - InvestorNews",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeUt4N1lnSGRNUGtydUM2RTd2NHI5S2FpckxUdFd6Wko5cXdhQm5vYzlJR1ZoQkZZYkVidnkzcUtIOThaWTVuc2RCRDVIcTJUSWJmWm1naC1qQ0J0NWxPdnBWZUVaRXBoRGhXLVJJa1hBazViZklLY1BKSS1xMThVVDloSklNXy0xT0E?oc=5",
+      "source": "InvestorNews",
+      "published_utc": "2026-07-13T07:00:00+00:00",
+      "query": "MRI helium shortage",
+      "flag": "red",
+      "title_en": "Is There a Helium Shortage? - InvestorNews",
       "title_en_source": "passthrough"
     },
     {

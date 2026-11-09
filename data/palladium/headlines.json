@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-09T07:42:10.907716+00:00",
+  "as_of_utc": "2026-11-09T23:38:27.555921+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -194,13 +194,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Implats Hikes Dividend as Profit Soars on Platinum Price Rally - Bloomberg.com",
+      "title": "Implats Hikes Dividend as Profit Soars on Platinum Price Rally - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVjkxVVBSQmhGNVR4LVMtX3RTbHRiSldvRGRXRXFBOExUTlJXaWJjTHRXUmJ0ZzMySGIycVdFMDJybXYybU1DOWhEUlloYUk2UUNsdUJSalphRkx6d0Z5blpyR2xwWWtnUHRlZ0Q4eGE0bVJVSEhYV0JCQlRwdFV0Yy1obFRpQ1JCd0RidUlkMGZLel9RMERKbl9mMHhYYWNiTDQwNVZGT3lYcjVfaHdERktzYw?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_utc": "2026-09-02T07:00:00+00:00",
       "query": "Impala Platinum PGM OR Impala palladium",
       "flag": "green",
-      "title_en": "Implats Hikes Dividend as Profit Soars on Platinum Price Rally - Bloomberg.com",
+      "title_en": "Implats Hikes Dividend as Profit Soars on Platinum Price Rally - Bloomberg",
       "title_en_source": "passthrough"
     },
     {
@@ -227,7 +227,7 @@
       "title": "Strike looming at Sibanye Stillwater mine as contract talks fall apart - KTVQ",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3FsbTM5MUJNY3VueVVMWU5hVjlNd0c2UnhyVGd4UkFIQXBTZUc1X0RrTGRfQ3dnbVF1aGttWVFVTkExUlpjcmEycFJPcjJpTXBheTdDcllSTHo0NjR4d0JMeEJSd3BvZ3VZWlJ6UjRxTFIzREh2Znc5OUdRWWEyZ21UVE1ON2EzdE5vWjdVdnB5ZjZ3QWg0S3ZNRW4?oc=5",
       "source": "KTVQ",
-      "published_utc": "2026-09-02T04:55:41+00:00",
+      "published_utc": "2026-09-01T07:00:00+00:00",
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
       "title_en": "Strike looming at Sibanye Stillwater mine as contract talks fall apart - KTVQ",
