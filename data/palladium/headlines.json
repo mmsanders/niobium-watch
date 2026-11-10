@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-10T08:03:22.470929+00:00",
+  "as_of_utc": "2026-11-10T21:05:59.895013+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -227,7 +227,7 @@
       "title": "Strike looming at Sibanye Stillwater mine as contract talks fall apart - KTVQ",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3FsbTM5MUJNY3VueVVMWU5hVjlNd0c2UnhyVGd4UkFIQXBTZUc1X0RrTGRfQ3dnbVF1aGttWVFVTkExUlpjcmEycFJPcjJpTXBheTdDcllSTHo0NjR4d0JMeEJSd3BvZ3VZWlJ6UjRxTFIzREh2Znc5OUdRWWEyZ21UVE1ON2EzdE5vWjdVdnB5ZjZ3QWg0S3ZNRW4?oc=5",
       "source": "KTVQ",
-      "published_utc": "2026-09-02T04:55:41+00:00",
+      "published_utc": "2026-09-01T07:00:00+00:00",
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
       "title_en": "Strike looming at Sibanye Stillwater mine as contract talks fall apart - KTVQ",

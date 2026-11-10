@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-10T08:03:22.470929+00:00",
+  "as_of_utc": "2026-11-10T21:05:59.895013+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -282,16 +282,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Trekor Talks - Trekor Metals",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMDRXYk9yZEtXYUlqc1gtcjBMNV9tckZScWF2aExvSlhMcV9tb0l4bmRDU0cxbnRES01sUnR5M2tTZ3dBaXFWc0YxR1dMdzNpOWxpM1VJMDRsdDZwZy1Pekp4YjlpZlI3RElCNjhJdXZPSGlQcFJkMXRjVzVhN1FyUWxYRlNYVk1O?oc=5",
-      "source": "Trekor Metals",
-      "published_utc": "2024-03-09T08:00:00+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "Trekor Talks - Trekor Metals",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "CBMM to Showcase Niobium at SAE Brake - The BRAKE Report",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tenlTV3djb2ZLc01veTZWYk9tU0ZtMzJtWUdUblBxTTh2QjRIVDdHbVpyVzJZbjBHeDQ1X0dfT0NCRllmdVptcTdrXzhCbG95UXg4cDdzZ2xSbzBFNi1WbGx3OERfNEZoOFZUTmxlRlQweU0?oc=5",
       "source": "The BRAKE Report",
@@ -349,6 +339,16 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "Lightning Motorcycles Returns To Its Roots With Speed Record Run - RideApart.com",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Niobec unique in North America - Canadian Mining Journal",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeG5pLXoyTGYzR3BSXzJOWnFPVXUxWkl6MU1GSkY2VDhFT1otUHBJeGQ4Ync4by1RaENtd3BJYmZ4eGZCMmxFT0x6Ym8yN29JcXNZR0ZaTEZaWHlOUEpkSWlyM2czUmZRSUt2YXk3MS04bXZqakFuOGFNU20ySkxFSWdrOUhOVndBX0xDb0x1VQ?oc=5",
+      "source": "Canadian Mining Journal",
+      "published_utc": "2021-06-30T14:31:51+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "Niobec unique in North America - Canadian Mining Journal",
       "title_en_source": "passthrough"
     },
     {
