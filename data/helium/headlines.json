@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-10T21:05:59.895013+00:00",
+  "as_of_utc": "2026-11-11T07:32:01.583804+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -11,18 +11,8 @@
     "MRI helium shortage",
     "Shute Creek helium OR LaBarge helium"
   ],
-  "item_count": 72,
+  "item_count": 70,
   "items": [
-    {
-      "title": "Can chip manufacturers find an alternative to helium? - Marketplace.org",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xaV81U3QyaUNvcExSQ2FGYm1McHhoQ0NfVlpwVGFEVy1FNWxqOWtFeTlzdG1tWUVPM2FLMWhwTUlRMGE3MkdOT3hkSkFLQ3dXZklxVnhBR09LZi1ld2dWT3ZXbGZhR2dONVFFLQ?oc=5",
-      "source": "Marketplace.org",
-      "published_utc": "2026-11-06T22:05:00+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "Can chip manufacturers find an alternative to helium? - Marketplace.org",
-      "title_en_source": "passthrough"
-    },
     {
       "title": "BLM Launches Map Identifying Helium Concentrations on Public Lands - Bureau of Land Management (.gov)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU1JLenp0bUt0RTUxaFV0ZFBrTVpDVjN1UFppQ2dvWTZpbnN1Yk8wR1VQUTJpN0NlRC1odU8yY3dNNkRtOHNIMFg4VWZXc08wSFNBR2RBbDc0TWtrUlhUaDQ5UDJ4LS1qTGtRQjg1aHNhRG1GR1VqdTN4MmF6SjNqbmlJX0xtaGtPeklYdEg1dmgxYUdRS2lRUUFLRkw?oc=5",
@@ -174,16 +164,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Helium supplies are tight—and it could get worse - Chemical & Engineering News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcmlfYnpob05nbkhldzlvMDhDekRqUVZXQmNUYTdWMUxRQ244REJWa1hUcHhsSXR5Y2QyV0dhc3RKMDZwZjd6dno0RGp2TVBpaGUtRTVMWnNZdm5aaXhtRGk4T0tLb0RHNEZlalJqNE0wTXZsQjQxZWRoMkQ3WUhyRi1XbXVzekUyelFmNC1DM3hmNjIyemE4?oc=5",
-      "source": "Chemical & Engineering News",
-      "published_utc": "2026-05-12T07:00:00+00:00",
-      "query": "helium Ras Laffan",
-      "flag": "green",
-      "title_en": "Helium supplies are tight—and it could get worse - Chemical & Engineering News",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Air Liquide says Qatar's Ras Laffan restart would bring quickest helium supply relief - Reuters",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcC1zMURvcDRMUEZ6aXlvT00wOVNaNWRzSG9tRmZQQTUzY2g0eDJjdWFXUnhhbGt1SjZjeVotdW1NVlNHVTU4NGZxdkJEbjRubW5oLU05OVktQXdYMVl2Ny1OTUpacUkxUHU2NFNlQnFmaWVMZ1FFWEVaUEo1VVh6bk1lUkpWZmQ4ZVlUM0M1cHE3cEZSVmtj?oc=5",
       "source": "Reuters",
@@ -231,6 +211,16 @@
       "query": "helium Ras Laffan",
       "flag": "green",
       "title_en": "The sudden scramble for helium - WP Intelligence",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Top 5 issues for helium startups in Middle East crisis - gasworld",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUUJwWEVmODNCczlCb1NUUi02YUQteXBpNTdab3JnYVRkcHZER25iMVdyVTlLaFl5MC1qOEptV0M0RllySHRiQjlsLXRxYWJCb1VuR1lkTEJhREdCZVZmLS1sa0VmMXI0MnFuMkV0NzU4XzQ0Z1dhTW15eTZKNlJVeXRJby1CUi11SWNtYlI0NElINVg2QjhBa3FGZWJnM0d5dWIwZQ?oc=5",
+      "source": "gasworld",
+      "published_utc": "2026-04-14T07:00:00+00:00",
+      "query": "helium plant outage OR helium force majeure",
+      "flag": "green",
+      "title_en": "Top 5 issues for helium startups in Middle East crisis - gasworld",
       "title_en_source": "passthrough"
     },
     {
@@ -374,16 +364,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "US helium distributor calls force majeure after Qatar LNG attack - Arabian Gulf Business Insight | AGBI",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdDh5elBDaTcyMHJGYjU2WklSR2JVM1BjRTFWZlhtSGVtQ2ZCeUc0SlMyNFFYSTk4QlE3N3oyX09XRUt6cmVicUJ6eTVVeTNpU01FelhEd2ZKVEJnN0F4UFhGcFFDMGNFU1ZWWk9JN2UxUVB2YWhJcDlnekZoSlJmMTdTSWFBWlUzVktpUWRLOV91VDh6akNwNUtDR2w?oc=5",
-      "source": "Arabian Gulf Business Insight | AGBI",
-      "published_utc": "2026-03-25T07:00:00+00:00",
-      "query": "helium plant outage OR helium force majeure",
-      "flag": "red",
-      "title_en": "US helium distributor calls force majeure after Qatar LNG attack - Arabian Gulf Business Insight | AGBI",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Airgas Curtails Helium Orders After Qatar LNG Field Damaged - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWl8wYnBwQjB0N2VqbEdSS1N3NURHYVI2bzZFRnhNM3BzbUkyQTZQdklldi1pY0wyc2N1cHBiZzlMVWpxRHhDRXp0QXdyVGVCWTcwMnZwNUhyTmhUV2tVd0RVMHU2QmtYVGsyLTBzaW05TXlSLVoyaWo5RWlOellmTnZaa3VBcEl3X1FiTzRPQTJla005OWRtek00MFpHRDFBVm9RLTBrTlQwNjg3YlRR?oc=5",
       "source": "Bloomberg.com",
@@ -411,6 +391,26 @@
       "query": "MRI helium shortage",
       "flag": "green",
       "title_en": "MRI providers keep eye on rising helium prices amid war in Iran - Fierce Biotech",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Iran war halts Qatar helium output, threatening global tech supply chains - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnQ4RTlUNUxyMmJwZUNQVXRPam9SMjc4cF9kRmx3RFJqaEV0c3kya0ZDVlF5SUJXQkQydVJLLThORHlnQW9rbV82Q2FMMjFNV01IZnZscTg3RW9RRTNsQ2hjdUlMSjYyTjk3R19BRFZmdXhXRXNhc21QSFZfN1R5R0g3Z1AxclJXRXQ4RGo5eDBxU1o5WVlKeXFQd2VMVEFuclVTUVRB?oc=5",
+      "source": "AP News",
+      "published_utc": "2026-03-20T07:00:00+00:00",
+      "query": "helium Ras Laffan",
+      "flag": "red",
+      "title_en": "Iran war halts Qatar helium output, threatening global tech supply chains - AP News",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "The Iran war is threatening supply of a little-thought-of resource — helium. What it means for markets - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOalhCZGxOdE95ZE93dk9YS2tTaWwzOGJQMzBaTU1saXlRT2l4NjYyN19SR3ViQlBPcUw0aWF0M3dEc2hIdWhzUUhtcVdIZk5EdnlRWXVwdlVZNGpUbjJZcjV1d3d6cmRCdy11Z3NDQUFDSmFUbGFYY2txQi1OdF9sOG9tWFpZWG9zWGdjUGVsWVhKcXV2ZWN2bXhjTGgyTnpJMnJEU0YzZ9IBrAFBVV95cUxQYjBhMlNzT29nUm95SFpVMkRjWHpLMmdYNXBYaGp4WGU1ZHNXcUdPMjhNcF82VTlJRnpBQXh6LWpPUDJlT2ZWMmZvd2pWYkZ0QUNOSXU4cW5KYzItRVMxM1ZZb1I4Z1o5cGNKX3NLc3JWUVZ0MFA4YURvZWpmVTY5bDJLY1B2UDZ6T3dzdzZkdDB6WlRRblhoS2I0X2s5c2NfZlh3TEJob2RKOHg0?oc=5",
+      "source": "CNBC",
+      "published_utc": "2026-03-19T07:00:00+00:00",
+      "query": "helium Ras Laffan",
+      "flag": "green",
+      "title_en": "The Iran war is threatening supply of a little-thought-of resource — helium. What it means for markets - CNBC",
       "title_en_source": "passthrough"
     }
   ],

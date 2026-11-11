@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-10T21:05:59.895013+00:00",
+  "as_of_utc": "2026-11-11T07:32:01.583804+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -32,16 +32,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "NiobiumX Mining Outlines Its Staged Exploration Strategy at Shipshaw, Approximately Two Kilometres from North America's Only Producing Niobium Mine, as Brazil Supplies Approximately 93% of World Niobium and the United States Has No Domestic Mine - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPcWhGNGY0U0hzeHFDY0xVT1kzRVYxWVFxM0NCZVhuNnJ2VllXczl6LXFKaVN2S0RZOHA1MFhJcmVIWF8wM3JMcXplUkExUjBfdmFxNjc3Y1BNZzVJNTlwbkUxMURhQzVFMEpwYl9YUlRTTzB6NWU3UndheExaRldRQmRIZVFvaGdud01BWlRnUGZaWkpZS0Y5YVZ2YVFFT0RCTDRzUVFSdTVHdGFfNmRlcXI2eXVrd2xubExVWGtZWWV4S1MzRmgxNV92SC1WdjNibHBqWlZyMGQ4LU1DVkcwcjdMbGRKVHFpaHpZT19fSVpUYmp5NXItZ0g4MXBRUmJLa25wUThGdE4ybDREVXFLWWotd1VuSlpMX1QxQlVCLTlsMC1kVW4yWkdmRl9VbDVxZFVZUHkzc0hMTjRVT3ZBbGh1M1ZzZ1V0WW1nSnJ2TDVlYUJXX3JhSnV5am9VQ3l2U2k3VkhGaFo1c18yVUpONlZwX0ZHTmY3QjhWRWpYYkwtaV9YaDFidUw2NGJSUl9saHRJS3lVN1FaMk5idGxja1k2cTYyM2czcHB3aTc5MGFkbnB4ajBkbi1memJNckd2X2ZIbGx1TVQ?oc=5",
-      "source": "The Globe and Mail",
-      "published_utc": "2026-10-16T07:00:00+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "NiobiumX Mining Outlines Its Staged Exploration Strategy at Shipshaw, Approximately Two Kilometres from North America's Only Producing Niobium Mine, as Brazil Supplies Approximately 93% of World Niobium and the United States Has No Domestic Mine - The Globe and Mail",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "A Victory for Pro-American Candidate Bolsonaro Gives Washington an Opening to Leverage China’s Dependence on Brazil and Recalibrate the Global Balance of Power - Мілітарний",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZclM0V2xJYUZVUTVUa3Y3dU1uNktrUlJfS3I5NXdTRVFBMmphdVU1Umg1NEdVYlp5QXV2UHNFSVF0Qng5cUxFbGhTdDl5bThPNkJMV1B2VF9OMmlMQVZCYjY2R2FTSzk1SDhLOVFZQ2hObGVFQmZvVWdqTm0?oc=5",
       "source": "Мілітарний",
@@ -69,16 +59,6 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "Critical Minerals: Global Niobium Supply & Demand - Geopolitical Monitor",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQczJON05BR3h4aXBLT2pnWGVzMF95NXhEdVE4QlpGc0NRV2VWdHcxSnZjSTYxc1lyY2ZSNGNCQ0VmcHhxLWlPamx5QVRoeVp4anJacUduN1d5WnlnV05xVlYzakJmNW5wWHFKdzNzclc1TU9ienh4QWs2VVdOUG8ybXgwTlY2NjBkZE1fT2ZNdnBHblh6VnIxeTVmSUZKNzJ5Q0Q5TWRsT3JBUVhUcTVucVFlT3ZWa3RCeVZRS2pnN2Zkd1RTLVNsMlNfTlJHYVhn?oc=5",
-      "source": "Next Investors",
-      "published_utc": "2026-06-11T07:00:00+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "green",
-      "title_en": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
       "title_en_source": "passthrough"
     },
     {
@@ -129,6 +109,16 @@
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
       "title_en": "China’s CMOC makes US$1 billion Brazil gold push as bullion jumps on rising global risks - South China Morning Post",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "How a Chinese mining giant learned to win in Brazil - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVlkwODB4WnhNVHo2Ukc3NmZsT2lyVGRoUWVjUjVXajliXzNRS1c3YXRKWWVtRGhjTjVLOEIxaDhsU2ZGZldjQWFtVmtqb0dISHFmRHhLWmxTVjFIblFkQ3pJNmxIeTBNMEtVRGt5RVlqdHJMdzlkUUZZOHNGZWtVbjJfaVJEblhlTDdnTFo0TGtKMl84TnlV?oc=5",
+      "source": "Nikkei Asia",
+      "published_utc": "2026-01-04T08:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "How a Chinese mining giant learned to win in Brazil - Nikkei Asia",
       "title_en_source": "passthrough"
     },
     {
@@ -342,13 +332,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobec unique in North America - Canadian Mining Journal",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeG5pLXoyTGYzR3BSXzJOWnFPVXUxWkl6MU1GSkY2VDhFT1otUHBJeGQ4Ync4by1RaENtd3BJYmZ4eGZCMmxFT0x6Ym8yN29JcXNZR0ZaTEZaWHlOUEpkSWlyM2czUmZRSUt2YXk3MS04bXZqakFuOGFNU20ySkxFSWdrOUhOVndBX0xDb0x1VQ?oc=5",
-      "source": "Canadian Mining Journal",
-      "published_utc": "2021-06-30T14:31:51+00:00",
+      "title": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR181N2xrZ1N4Wkh1OUdzWHgxamw4NWR3dnZQclNITXBLTUNNTlBkbzJPek1QdHRtc21PemhXUEo3RzJFYWtyMHFCcmdtc1N5OVhzY3ZaSGp5bjV3ZWRCemM3V0tXbENaaGgyQnFQMlBySE5LelFjT2FwYWZpQkdwZ1Njc2ZMTURQeFlQQUZZVC1jbUtmOHN3WXludF9raTJ0ZjhBSmpuamNtelVIdmtocHVrMll1QWsxajFFY0tRTEpEZTN6NHRuOG90M3k2WUFjWnhDTU5EeUtWRGdSeVBOVnRpSmJmV2J0SUdseUdVYw?oc=5",
+      "source": "Investing News Network",
+      "published_utc": "2021-12-16T08:00:00+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "Niobec unique in North America - Canadian Mining Journal",
+      "title_en": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
       "title_en_source": "passthrough"
     },
     {
@@ -409,6 +399,16 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "Nióbio: G1 visita em MG complexo industrial do maior produtor do mundo - G1",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzJvbTdLamF2RExoWTMxbXZRSjUxU29lenJmdjVOWmp4ak5BYUZCWEMwSU9ReTV6bmhZMFl2Z3BwbkgxTDNhMVdka25tOU9saG54cXF0SDRhTHZLemNzTkpEd0ZXSERPU1B6ckEzdy03T09Oa25Zek5pYVJrNVVNTDhjOFJoS3ZDVXFhNXlNNHB2OE1VVUhtajNCNW9vbGo2MjdxZ0ZkUU82S1ZlZFE?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2019-06-13T14:20:20+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
       "title_en_source": "passthrough"
     }
   ],
