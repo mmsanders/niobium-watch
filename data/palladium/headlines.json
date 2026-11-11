@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-11T07:32:01.583804+00:00",
+  "as_of_utc": "2026-11-11T21:39:12.258840+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -54,16 +54,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Sibanye-Stillwater Union Agreements Ratified at Stillwater East, Columbus, East Boulder - News and Statistics - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYTZLb0VCME96dTEtU0E5cGVueHVRRl8xTE1BOXpFUlByZmg3QTFjdGMzZ0dfLTFfcmFPaFptVTBKNmhfek9zZ3VFaGMyaHl4dWJBTlY3SmhlUXNadlhsWVctdE1xSmJ6QzRNRmZUOWNHOTlfVDZRb2lSekRFX2E4dUo3ellncFpBOGhGVl9EWmVEMTI3Z2QwVzE4RktBaURrNWJNMXg5NzhIM0xLRndwdXh3dG93UzVhSVBIX2QtVQ?oc=5",
-      "source": "IndexBox",
-      "published_utc": "2026-10-07T07:00:00+00:00",
-      "query": "Sibanye Stillwater palladium OR East Boulder",
-      "flag": "green",
-      "title_en": "Sibanye-Stillwater Union Agreements Ratified at Stillwater East, Columbus, East Boulder - News and Statistics - IndexBox",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Palladium Stays Near Its Lows as Vehicle Demand Weakens: Sibanye-Stillwater (NYSE:SBSW), Impala Platinum (OTC:IMPUF) in Focus - kalkine.ca",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaUxfSURxcUw2R1VGM3hxVDFRancwUnY5bHRNNDhJeDc5WktMMzdvOG4zZ3pTb0hpZUZfZUp1d0FXaWM0YVNEUW5yVndNYm1SUHlwUS1BYkxJTkxYS2FQR3BTUll2dkU3bU1OWlRBelpfWjBvVnU4V1dHdl9uUXFBOFpxWUxlN3B5UU1pVE1MT3FkMWNIOEdKSjZoeHZGWHQ5SmY5RVk4d09zNGhZZU93YkM4ZWpScjhNeW1hSGlPV0YwV2h0cVR6SG5pSEhOb21yUVppcUk2SEhST2J4eTQzY2d3?oc=5",
       "source": "kalkine.ca",
@@ -101,6 +91,16 @@
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "green",
       "title_en": "Sibanye-Stillwater Finalises Wage Agreement At Its US Pgm Operations East Boulder Mine - TradingView",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Sibanye-Stillwater sits out capital raise on copper project - MiningMX",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLVExd3ZHXzMyeUQ0ZXl0NWQ3ZWxMbjk0NUhrMlFPaEF4U1FrMi1wMDFzTFQtYi1SeXlzeVJGMTJFR2ZBOTQ4VU5TQ3ZhZzBFRFJ6SkYxVHBraDRyN1BCVTc4SXgycnVIWnRpZTFRRXlYblc5R2hhOWVrRlV2c3pXMEZReGNZaDFXT2d4R2U3NGxXUTdvTHQ0?oc=5",
+      "source": "MiningMX",
+      "published_utc": "2026-09-30T07:00:00+00:00",
+      "query": "Sibanye Stillwater palladium OR East Boulder",
+      "flag": "green",
+      "title_en": "Sibanye-Stillwater sits out capital raise on copper project - MiningMX",
       "title_en_source": "passthrough"
     },
     {
@@ -204,16 +204,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Sibanye-Stillwater (SBSW) receives strike notice for sections of its US pgm operations; East boulder mine not included in strike notice; negotiations continuing - Newsquawk",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxObDBuU1UtVkh1ejZYZXVYYkZxaTdBRzkycHI2YTItOTZMWmg3cUh0allBLWxIY0dCLWt4UDNJZGQ5MHMxQ1MyT0o2OVB3MGRKUDFWNDRORU9nWF8yR1NOMU1rUUNzMmp6SFlNelpjMHI1VkVwYmFlWFE2bVdBY1E1Y1dhdkJDdjVIRElSV0tpa0EzTm9oN3JYbGxoOE03dnB0Q1RYQjFkXzVjZDJ5Y2c5aEVpYzh3TUtFekFrVXpRQS1kRG5KcVQ1bjFmZDhYOElvZklCSk8wa0FBck1Vakl1c0JCQlNkdFRTM2JVM2ZyUTRRUlNVQ3JWazNsV0pZeTRBM0JDZXRaZ25XajVpcXZsdUtDRVNvRU50bVlhVw?oc=5",
-      "source": "Newsquawk",
-      "published_utc": "2026-09-02T07:00:00+00:00",
-      "query": "Sibanye Stillwater palladium OR East Boulder",
-      "flag": "red",
-      "title_en": "Sibanye-Stillwater (SBSW) receives strike notice for sections of its US pgm operations; East boulder mine not included in strike notice; negotiations continuing - Newsquawk",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Strike to begin at Sibanye-Stillwater’s US operations - Mining.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZDZMMXdkZG8zUjluOGJGUjEyRFB1NDVWcEwwNC0tZ1NxRzhiSmFQaHM1cGt1V1FDLWpQZzBOZGV1akgtbHc5cUtJeU5LMFlYdGozejJ0akpMRXlCQkpVSmV5ZTNmUDY3cTc2a2VFNnBzRVYyOGgtZXV0eWl1SFZvNWpB?oc=5",
       "source": "Mining.com",
@@ -221,6 +211,16 @@
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
       "title_en": "Strike to begin at Sibanye-Stillwater’s US operations - Mining.com",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Sibanye Stillwater warns it may shut some U.S. PGM operations if workers strike (SBSW:NYSE) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOTYzcWh3QUpNZTJaYzRTTUZpbk1PSXlUU1pVM3FVcTlONFJYbGNmREpZYnpUN0hSTnV2akdRX2ZEeURIbVRoN0dmZW9iR0xCcDBYUXBjczgyTVR0djdCYVF5NjFCV3Y2ZVJUVzF0cFo4RGlISERtc1djeldpR0Rsc0FRUHJfeDVvQnZlWkRiTW44RnVWRTZWa2l4YVZoS2pkNXJJYk9FQkNtaUFsbWR5SnE2dGl1QQ?oc=5",
+      "source": "Seeking Alpha",
+      "published_utc": "2026-09-02T07:00:00+00:00",
+      "query": "Sibanye Stillwater palladium OR East Boulder",
+      "flag": "red",
+      "title_en": "Sibanye Stillwater warns it may shut some U.S. PGM operations if workers strike (SBSW:NYSE) - Seeking Alpha",
       "title_en_source": "passthrough"
     },
     {
@@ -241,16 +241,6 @@
       "query": "palladium supply OR palladium shortage",
       "flag": "yellow",
       "title_en": "Palladium Has Quietly Surged 90% and Russia Tariffs Could Push It Further - Startup Fortune",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Platinum’s 28.7% Premium Restores Palladium’s Cost Edge, Widening PGM Valuations - Crux Investor",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb3FnaE1oaVdzbWFzRF9JYXBlUzFrcFI3cU5LTFZNcDRka3ZCN2tUOHhNOWpiNzZ2b215U20tSTA1Zng4WFF1RE5uQW90WnozMHkycGd6eS1VblIzV1RHeG5VRkktcjdVV2dMWTRhV05UYWYtRjE4aUprMXcxQzNjV1E0ZmVfemstdmp6VzhpaEJrUHNYdkdodzZ4X2thdUpGZWMzTnNmZk9PbUpxbm9qdA?oc=5",
-      "source": "Crux Investor",
-      "published_utc": "2026-08-13T07:00:00+00:00",
-      "query": "palladium supply OR palladium shortage",
-      "flag": "green",
-      "title_en": "Platinum’s 28.7% Premium Restores Palladium’s Cost Edge, Widening PGM Valuations - Crux Investor",
       "title_en_source": "passthrough"
     },
     {
@@ -334,6 +324,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Nornickel says nickel output flat year-on-year in first quarter - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcU9McUJyQW5nLWJGaFJBSU1TQ1RidzJTQWMxWFJFS0RvVFhRUU1EeUU0a0tMa056TFBOeHNzbTA5YWtIbGV0cTRIYVloaktTNC1SeTVZYW9mbm1wOThCVWtWTmxiTFFpU3MyaklOUElLV0pFcVBRY1dJRWs1TndrNEJxNTJqUEd6aEtNMzVDeG9rM2NkRmc?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2026-04-27T07:00:00+00:00",
+      "query": "Norilsk Nickel palladium OR Nornickel palladium",
+      "flag": "green",
+      "title_en": "Nornickel says nickel output flat year-on-year in first quarter - Mining.com",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Platinum or palladium: Which metal is a better investment? - USA Today",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdk0wYVZ1aEN5YjBHRS12ZEpfZDluMFZPQmgyRTZmNC1qWm9kOEZ0MHVkTlI2MlNvTWlMS0dTMzU0YUFWZUh1c0c3cmtBQXRXUW04QkFyRFFCX3pTRUhmcmJSZkN4RDNpaFNtT0dmUXlOM3pGSUdDTHNnMDFiTHVXYmlQM0xCVi1z?oc=5",
       "source": "USA Today",
@@ -361,16 +361,6 @@
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
       "title_en": "Nornickel seeks new market for palladium in EVs with catalyst for lithium‑sulphur batteries - Reuters",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Nornickel taps AI to seek new demand for its palladium - Mining.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLXRUSkFlVnZmUG1vOHhJb3BqUFhrYnoycm5yVUNUaTMzeGRSZG56bjJwczZFcno0U2o1dlpnMTNpNjNTLXJ6V3ZSNXF0YnlnNEFod05EUTZyeVhuNlB5bXAxeHQxUG9VZ1lKZ21zSXVaM2V3ZV94MGJoLXh0ano4clBZX1lwX3Z4Wnc?oc=5",
-      "source": "Mining.com",
-      "published_utc": "2026-03-24T07:00:00+00:00",
-      "query": "Norilsk Nickel palladium OR Nornickel palladium",
-      "flag": "green",
-      "title_en": "Nornickel taps AI to seek new demand for its palladium - Mining.com",
       "title_en_source": "passthrough"
     },
     {
@@ -411,6 +401,16 @@
       "query": "palladium sanctions OR Russia palladium antidumping",
       "flag": "green",
       "title_en": "Sibanye-Stillwater welcomes US commerce dept’s preliminary determination on Russian palladium imports - Mining Weekly",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Impala Platinum cool on new projects despite price rally - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZnBQYk1SU0FMdGZKYXVhQWZOTlI1aUVqOWNvbHhDSkxFX3NqUDV3N0dCUkp2cWpFeEMwdGNXYlpJUGhETGJKcHVCNzJOMF95ODNfMGZmTklHSjRhVmgyaTVocS1qTUI0SThlUW9lRnVuak9EYkNWU0xmazAtdzBpUnRIRDV1TUE5UFhUVw?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2026-03-05T08:00:00+00:00",
+      "query": "Impala Platinum PGM OR Impala palladium",
+      "flag": "green",
+      "title_en": "Impala Platinum cool on new projects despite price rally - Mining.com",
       "title_en_source": "passthrough"
     }
   ],
