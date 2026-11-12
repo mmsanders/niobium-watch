@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-12T07:59:41.914481+00:00",
+  "as_of_utc": "2026-11-12T21:39:01.343431+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -217,7 +217,7 @@
       "title": "Strike looming at Sibanye Stillwater mine as contract talks fall apart - KTVQ",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3FsbTM5MUJNY3VueVVMWU5hVjlNd0c2UnhyVGd4UkFIQXBTZUc1X0RrTGRfQ3dnbVF1aGttWVFVTkExUlpjcmEycFJPcjJpTXBheTdDcllSTHo0NjR4d0JMeEJSd3BvZ3VZWlJ6UjRxTFIzREh2Znc5OUdRWWEyZ21UVE1ON2EzdE5vWjdVdnB5ZjZ3QWg0S3ZNRW4?oc=5",
       "source": "KTVQ",
-      "published_utc": "2026-09-01T07:00:00+00:00",
+      "published_utc": "2026-09-02T04:55:41+00:00",
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
       "title_en": "Strike looming at Sibanye Stillwater mine as contract talks fall apart - KTVQ",
@@ -274,13 +274,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Nornickel forecasts palladium and nickel surpluses through 2027 - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQlBRTDlzcUc2V3dIVWU2aENBMHpya0hZWUpwcFRub1Z4ZmtEOE1rRGVXcU5lT240emNIRnM1aWo1MTR6MEVaendNWlVuNjJYbTc0RG5Jell5X3M1Y1doQXRDOUpESU5kb2NOeEx5eUx6TTFWdC04bnBMSXIyb1Rpc3E5NllBT1dCSTVtQjZ3c1l4ZXM2eXlXblRkQ0FBandoTXhaS0k5TGsyd3MtUVFEaXdWMGJ2SUwyRFp4Ym4zS1hodw?oc=5",
-      "source": "Investing.com",
+      "title": "Nornickel forecasts palladium and nickel surpluses through 2027 By Investing.com - Investing.com Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTXI3UGFUWDJwZnlFbXhwSjlRUGdUY1pHdThodGl3ZzBjSVloa3dhWC1uTE1fMm4yc2hfS1kweFFvNmM3cmtMQjRnMkxDRnFQSk5uaXNMeDFCZjBVS2otLU1WZHY5SW5nVmQteEJEblIzWkNhUDNNTUluN1VGa3hocjRVSmV2WGZJMTFvYVlkR19WaU5uT3N2eDQ4emxjcUlWVHZNM2FmdmJ5SVF6X2EtUmJHU1lBdHhNTy1uVEZ2UGM2dw?oc=5",
+      "source": "Investing.com Nigeria",
       "published_utc": "2026-06-23T07:00:00+00:00",
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
-      "title_en": "Nornickel forecasts palladium and nickel surpluses through 2027 - Investing.com",
+      "title_en": "Nornickel forecasts palladium and nickel surpluses through 2027 By Investing.com - Investing.com Nigeria",
       "title_en_source": "passthrough"
     },
     {
@@ -301,6 +301,16 @@
       "query": "palladium sanctions OR Russia palladium antidumping",
       "flag": "yellow",
       "title_en": "US moves closer to prohibitive tariffs on Russian palladium - Reuters",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Platinum, rhodium to outperform palladium in 2026, Metals Focus forecasts - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXy14blZPTU51Z1V2QlhjeDRUVEJFaWNPUHpXS2kyLXFVLUxadHItdnBZbTllRWtkSGE0SF9CU0hVUFdPemZ5ZXhKX0RwODFOaGNxMGVpa3FDUFJKVnFUSzdqWFNuUXZoMTFfZS1hbWYydkJvcmViemRTa3dzOWtXV0RNUlNoM2tKdGJEN1VERkhydlVkVDVBTlJZbThnX3RL?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2026-05-18T07:00:00+00:00",
+      "query": "palladium supply OR palladium shortage",
+      "flag": "green",
+      "title_en": "Platinum, rhodium to outperform palladium in 2026, Metals Focus forecasts - Mining.com",
       "title_en_source": "passthrough"
     },
     {
@@ -401,16 +411,6 @@
       "query": "palladium sanctions OR Russia palladium antidumping",
       "flag": "yellow",
       "title_en": "Sibanye-Stillwater welcomes new US tariff on Russian palladium - MiningMX",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Sibanye-Stillwater welcomes US commerce dept’s preliminary determination on Russian palladium imports - Mining Weekly",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWWQ1SjdKQ0NCSDcweHNSTzdzS2I4dXIwMThRZGFnck5Oc1RTdGtkbS1hY21LYVVIaVFET0VEV1MyaVIwUGl6RlRpaWk3M0RTMzFid0t3enRtU3hxZmN2QTRmbEZSQzJyTWR6Q2dYbmd1eHZVWU5pRVoyMDVyRkRDdTB5Wkg5SERJYWZXaTIyT3hKRWtYbnUtR3pBNU1EYW5BRDBsWElaWjdndEZSY3RGcHBaOVhJcUl5eVgxMk1aeGZIaWlYT1pBX3lVbWo1X2J6RGp6RW9ldzhaelYxdlBQa0lR?oc=5",
-      "source": "Mining Weekly",
-      "published_utc": "2026-03-18T07:00:00+00:00",
-      "query": "palladium sanctions OR Russia palladium antidumping",
-      "flag": "green",
-      "title_en": "Sibanye-Stillwater welcomes US commerce dept’s preliminary determination on Russian palladium imports - Mining Weekly",
       "title_en_source": "passthrough"
     }
   ],

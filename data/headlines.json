@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-12T07:59:41.914481+00:00",
+  "as_of_utc": "2026-11-12T21:39:01.343431+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,8 +9,18 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 45,
+  "item_count": 43,
   "items": [
+    {
+      "title": "Steadright Critical Minerals Begins Exploration at Péribonka REE-Niobium Carbonatite Target in Quebec's Niobium District - Junior Mining Network",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPSklrWUprZkg4bUxUaUhBa29hYy16TGVidUhOdE40WnhwUmE1UVMtWnlwWWhCQkJLTTkwNDRnYkhjNk40Y05zdHR2WlhFazNCN2RsVGFZclpDbWNzM0FwR2Q3NXJYdDEyeVhidVByOGFpcXFGU2YzMjQ1blBmRzlFUFlPV0pQYkJib05NZi0tZ0ppX1ZTbGVWUW1BX3ZZYWpBY2tBbHZFU1FlWDJJQTRfdXdRdUhVcXd0WWJDdXpFN1lXaERtR2xIdnNmU2NMaTVEcDBtcU9BS3JlakNyQml1MFpXVk1PMmx6SWVYVEVOT1Z6cXRKYUpOOFBuLWo3Wjk0UHBUcEw3MThNRndNWUhpODREZjhFaHRxdkV2MldIZlljdw?oc=5",
+      "source": "Junior Mining Network",
+      "published_utc": "2026-11-12T13:42:07+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "Steadright Critical Minerals Begins Exploration at Péribonka REE-Niobium Carbonatite Target in Quebec's Niobium District - Junior Mining Network",
+      "title_en_source": "passthrough"
+    },
     {
       "title": "NiobiumX (NIOXF) and the Silent Crisis Behind America's AI Chips and Missiles - Barchart.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVnlWRW9LVVkwVlEySmJ6ZUx6X2lxM3hRV2NTbzBzTldLeThVbWl0UTVyTkoyMTc1WlFOeVNoREZ3R3BtMm9iN3J1aGxuUjlpNnZ1TnpXWmFPZFg0MWc0UTRrejlJNlBRT1RybU5ScU5VVEhkeUNfYURhelNLSUtGOHRZVVN1YXRxT3ZXc2VFTTBSRl9YaWxfVlFhaG1lYjZJZndqVTdMcl84TFNTNnRnNXdlRGQzR1VkbEdF?oc=5",
@@ -49,16 +59,6 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "CBMM, St. George clash over mining rights and dam safety in Brazil - Valor International",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "NiobiumX Mining Inc. Commences Trading on the Canadian Securities Exchange Under the Symbol \"NIOX\", Completing Its Transition to a Niobium and Rare Earth Exploration Company Focused on Quebec's Saguenay Region - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmViZGdWcHptZEJqVUtSUDZJc3hFemllckl3dVNXMmxNLVJCdWNBMmM1SEQ5MTN5UUpKa2dvNjRNWkVZOGdsV2pHaG5ad1ZzOGo3QkQxUHVHX3U3YVhzSFBGTHNmLTh0WWZEMzcweUlZRkdqbWtoc0x2OEJ2ZjBtUHZuWWFzdHlyd1k1NVQ2X2Y1RDRvcG9uRlVHUVRkc0tkejZVUQ?oc=5",
-      "source": "Yahoo Finance",
-      "published_utc": "2026-07-29T07:00:00+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "NiobiumX Mining Inc. Commences Trading on the Canadian Securities Exchange Under the Symbol \"NIOX\", Completing Its Transition to a Niobium and Rare Earth Exploration Company Focused on Quebec's Saguenay Region - Yahoo Finance",
       "title_en_source": "passthrough"
     },
     {
@@ -292,16 +292,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Trekor Talks - Trekor Metals",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMDRXYk9yZEtXYUlqc1gtcjBMNV9tckZScWF2aExvSlhMcV9tb0l4bmRDU0cxbnRES01sUnR5M2tTZ3dBaXFWc0YxR1dMdzNpOWxpM1VJMDRsdDZwZy1Pekp4YjlpZlI3RElCNjhJdXZPSGlQcFJkMXRjVzVhN1FyUWxYRlNYVk1O?oc=5",
-      "source": "Trekor Metals",
-      "published_utc": "2024-03-09T08:00:00+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "Trekor Talks - Trekor Metals",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "CBMM to Showcase Niobium at SAE Brake - The BRAKE Report",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tenlTV3djb2ZLc01veTZWYk9tU0ZtMzJtWUdUblBxTTh2QjRIVDdHbVpyVzJZbjBHeDQ1X0dfT0NCRllmdVptcTdrXzhCbG95UXg4cDdzZ2xSbzBFNi1WbGx3OERfNEZoOFZUTmxlRlQweU0?oc=5",
       "source": "The BRAKE Report",
@@ -362,16 +352,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobec unique in North America - Canadian Mining Journal",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeG5pLXoyTGYzR3BSXzJOWnFPVXUxWkl6MU1GSkY2VDhFT1otUHBJeGQ4Ync4by1RaENtd3BJYmZ4eGZCMmxFT0x6Ym8yN29JcXNZR0ZaTEZaWHlOUEpkSWlyM2czUmZRSUt2YXk3MS04bXZqakFuOGFNU20ySkxFSWdrOUhOVndBX0xDb0x1VQ?oc=5",
-      "source": "Canadian Mining Journal",
-      "published_utc": "2021-06-30T14:31:51+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "Niobec unique in North America - Canadian Mining Journal",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Redpath completes largest raisebore by volume in the Americas at Niobec niobium mine in Quebec - International Mining",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVp6VTlOa0ZLMmo2amVzVjYxMm9zWXA3eU45UlpDSWtsREFsZWJKamdsZXRyQVRtaW9zUW11WC1DYlFUTS0zV0hyNFZMT25QRjdfMGtkSDdhRWJTdUE4U25aYlU4ZE1kTmtnOG5pempQREhidVZsRTVZazVHcGplTDljbXJMRFNyQ1ZDMVR3TldJdENfenVJNnBMMTJ4dFVRbXl3ZUkyLUVKVklfc3BvSWtR?oc=5",
       "source": "International Mining",
@@ -409,6 +389,26 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "Boston Metal to trial molten oxide electrolysis on CBMM ore - International Mining",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Nióbio: G1 visita em MG complexo industrial do maior produtor do mundo - G1",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcEc4VlZLZUYwRGpzam15QzFGUE1GbUpSSklFZmFJbUFGd0k1b1VnMXlFRWZ1ZmRlX3dHTWx5dHVNWjh3XzhVNHBqTW9OMGEtRldsSTQ0bzMyeUdad25mNm9FS0xJdWJnSUt0UzhfYTc0SkJJZzZvOWpqUHBxQzZubmNZMUdSdVUtVjJIV0F2M1FVWGhKNXd6MmZuU09KLURaencwSHhIelpHbUl2eG5rZUxhU0tRa1V2ZEh0eEc0VWx3Z9IB0AFBVV95cUxPckprVF9VMTRPeDU4S0tZaTNnZ0c3SVVheDBvNWktTFJLTXpCeHdiNlJRY3JRdXN0RDYwaDhodmh3OTl5NnpFbXFuU2xLY01fT3RGU2JNVDM3TEJjTkMwdEZwUTZSa0FCSUJETFRIZkRoSDZyZjlYcDA3SHNGMGxQck1DQldxQ09OeC1LY0JxM01JTVU0ZzFQdmgzSDVNUVBXRVJBOGNvQ0NSeHNCUWp6dnl3Z0N3ZlhpMU1mS1pFc3pDSTU3ajBSMktlMFkxczYt?oc=5",
+      "source": "G1",
+      "published_utc": "2019-12-12T08:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "Nióbio: G1 visita em MG complexo industrial do maior produtor do mundo - G1",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzJvbTdLamF2RExoWTMxbXZRSjUxU29lenJmdjVOWmp4ak5BYUZCWEMwSU9ReTV6bmhZMFl2Z3BwbkgxTDNhMVdka25tOU9saG54cXF0SDRhTHZLemNzTkpEd0ZXSERPU1B6ckEzdy03T09Oa25Zek5pYVJrNVVNTDhjOFJoS3ZDVXFhNXlNNHB2OE1VVUhtajNCNW9vbGo2MjdxZ0ZkUU82S1ZlZFE?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2019-06-13T14:20:20+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
       "title_en_source": "passthrough"
     }
   ],
