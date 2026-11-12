@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-11T21:39:12.258840+00:00",
+  "as_of_utc": "2026-11-12T07:59:41.914481+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -111,16 +111,6 @@
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "green",
       "title_en": "Sibanye-Stillwater reaches contract agreement with East Boulder mine workers - KTVQ",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "[SMM Analysis] Valterra Platinum 2010 To 2025: How Processing Shocks and Price Cycles Reshaped the Business - Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa0tWS1IwdHAyV2FON2Z0eVpabWx1ZjJMeUNuVkFIV0FCYTFEX3JfS01jSWNEaWxqQUw4dEI5ZEZaWGhlNmZ5XzNOSHg4Q2xmM2Rqd3AxeFJfSkZmWXZRaENnRHNkOE9wbXY5aFlaMmhyQTNpZXJaeElsZWJMeERhcy1vRXktUXp0ckVyTGdya0VMZHRpU0lkTFZCWFpyMGZYZjN2WTFKVkg5MVhUaFc1SkNqa21fNFBESWFZZ2FEeTFmX1JNNnE1Z1B1T2lRMFdmX0M3Tno5QVp2aVlHYWZRdEFHYw?oc=5",
-      "source": "Shanghai Metals Market",
-      "published_utc": "2026-09-21T07:00:00+00:00",
-      "query": "Amplats OR Anglo American Platinum palladium",
-      "flag": "green",
-      "title_en": "[SMM Analysis] Valterra Platinum 2010 To 2025: How Processing Shocks and Price Cycles Reshaped the Business - Shanghai Metals Market",
       "title_en_source": "passthrough"
     },
     {
@@ -264,6 +254,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Impala Platinum: Flat Production, Higher PGM Prices, Vulnerable To Volatility - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTXVRamdIZVVBUWlDUWx4UmFWeHZqek5ndkVGb29adVBMVTlVNFRDTXhXa1FIbjhid3cyNU5IaENVT3IyMWZQWUN1MkUwcjJfSkw4dUh4T0lXTDFTNjJucXlHamM3aF9jdkN6ZVY2M3VPSDJMNXZUZHk2b2FmaG4zNEs4Nk1LcGlERUxkZ1NiTzNqUFdZem9tMGI1UmJ0UlJPX0tjVmpmcno5RGJnVDQ0Ni1tMDBzdw?oc=5",
+      "source": "Seeking Alpha",
+      "published_utc": "2026-07-02T07:00:00+00:00",
+      "query": "Impala Platinum PGM OR Impala palladium",
+      "flag": "green",
+      "title_en": "Impala Platinum: Flat Production, Higher PGM Prices, Vulnerable To Volatility - Seeking Alpha",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Norilsk Nickel sees 2026 global palladium surplus of 300,000 oz - Mining.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM284YWNuVXlRZWVQbWw5eUVNTjlBbTNBNElRakFsVEpyd0ZzUndqVy1MTGM5UGZWdlh5SVBwTE5RMTNGaWpKUFNUWHpLS2xOZ2xqWnZtaVN5RnRVUThIdHZhOHV1cUwyZHoyLXZfbnpKVkNvSVhpUnVyOWhFc0xlcXBCOWNJNjJXc2pKeEVtbV9FSF9h?oc=5",
       "source": "Mining.com",
@@ -271,6 +271,16 @@
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
       "title_en": "Norilsk Nickel sees 2026 global palladium surplus of 300,000 oz - Mining.com",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Nornickel forecasts palladium and nickel surpluses through 2027 - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQlBRTDlzcUc2V3dIVWU2aENBMHpya0hZWUpwcFRub1Z4ZmtEOE1rRGVXcU5lT240emNIRnM1aWo1MTR6MEVaendNWlVuNjJYbTc0RG5Jell5X3M1Y1doQXRDOUpESU5kb2NOeEx5eUx6TTFWdC04bnBMSXIyb1Rpc3E5NllBT1dCSTVtQjZ3c1l4ZXM2eXlXblRkQ0FBandoTXhaS0k5TGsyd3MtUVFEaXdWMGJ2SUwyRFp4Ym4zS1hodw?oc=5",
+      "source": "Investing.com",
+      "published_utc": "2026-06-23T07:00:00+00:00",
+      "query": "Norilsk Nickel palladium OR Nornickel palladium",
+      "flag": "green",
+      "title_en": "Nornickel forecasts palladium and nickel surpluses through 2027 - Investing.com",
       "title_en_source": "passthrough"
     },
     {
@@ -324,16 +334,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Nornickel says nickel output flat year-on-year in first quarter - Mining.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcU9McUJyQW5nLWJGaFJBSU1TQ1RidzJTQWMxWFJFS0RvVFhRUU1EeUU0a0tMa056TFBOeHNzbTA5YWtIbGV0cTRIYVloaktTNC1SeTVZYW9mbm1wOThCVWtWTmxiTFFpU3MyaklOUElLV0pFcVBRY1dJRWs1TndrNEJxNTJqUEd6aEtNMzVDeG9rM2NkRmc?oc=5",
-      "source": "Mining.com",
-      "published_utc": "2026-04-27T07:00:00+00:00",
-      "query": "Norilsk Nickel palladium OR Nornickel palladium",
-      "flag": "green",
-      "title_en": "Nornickel says nickel output flat year-on-year in first quarter - Mining.com",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Platinum or palladium: Which metal is a better investment? - USA Today",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdk0wYVZ1aEN5YjBHRS12ZEpfZDluMFZPQmgyRTZmNC1qWm9kOEZ0MHVkTlI2MlNvTWlMS0dTMzU0YUFWZUh1c0c3cmtBQXRXUW04QkFyRFFCX3pTRUhmcmJSZkN4RDNpaFNtT0dmUXlOM3pGSUdDTHNnMDFiTHVXYmlQM0xCVi1z?oc=5",
       "source": "USA Today",
@@ -361,6 +361,16 @@
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
       "title_en": "Nornickel seeks new market for palladium in EVs with catalyst for lithium‑sulphur batteries - Reuters",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Nornickel taps AI to seek new demand for its palladium - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLXRUSkFlVnZmUG1vOHhJb3BqUFhrYnoycm5yVUNUaTMzeGRSZG56bjJwczZFcno0U2o1dlpnMTNpNjNTLXJ6V3ZSNXF0YnlnNEFod05EUTZyeVhuNlB5bXAxeHQxUG9VZ1lKZ21zSXVaM2V3ZV94MGJoLXh0ano4clBZX1lwX3Z4Wnc?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2026-03-24T07:00:00+00:00",
+      "query": "Norilsk Nickel palladium OR Nornickel palladium",
+      "flag": "green",
+      "title_en": "Nornickel taps AI to seek new demand for its palladium - Mining.com",
       "title_en_source": "passthrough"
     },
     {
@@ -401,16 +411,6 @@
       "query": "palladium sanctions OR Russia palladium antidumping",
       "flag": "green",
       "title_en": "Sibanye-Stillwater welcomes US commerce dept’s preliminary determination on Russian palladium imports - Mining Weekly",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Impala Platinum cool on new projects despite price rally - Mining.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZnBQYk1SU0FMdGZKYXVhQWZOTlI1aUVqOWNvbHhDSkxFX3NqUDV3N0dCUkp2cWpFeEMwdGNXYlpJUGhETGJKcHVCNzJOMF95ODNfMGZmTklHSjRhVmgyaTVocS1qTUI0SThlUW9lRnVuak9EYkNWU0xmazAtdzBpUnRIRDV1TUE5UFhUVw?oc=5",
-      "source": "Mining.com",
-      "published_utc": "2026-03-05T08:00:00+00:00",
-      "query": "Impala Platinum PGM OR Impala palladium",
-      "flag": "green",
-      "title_en": "Impala Platinum cool on new projects despite price rally - Mining.com",
       "title_en_source": "passthrough"
     }
   ],

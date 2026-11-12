@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-11T21:39:12.258840+00:00",
+  "as_of_utc": "2026-11-12T07:59:41.914481+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -11,16 +11,6 @@
   ],
   "item_count": 45,
   "items": [
-    {
-      "title": "AI Needs Power. The Pentagon Needs Missiles. Niobium Has a Role in Both. Meet NiobiumX (NIOXF) - Insider Monkey",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdFJKOWNCc1JMZ1BBWVBYU1h5WGk4S1E1SHVjckRpcnYxQl9PM2ZIX2ExUEI4b3NVcExzSWRyYmFTVWVUb1VfUHJTUlhJNDhwUVZDRUVNRnZKQ1ZxektnZlpURXhRMF9uR2tDUW5YV09OZlhkQ3JvcVJSbGRMak5NMk5jZ01WdGVOLTVDUThtT1czaWM5R2toUERYZFdwZy1jSkZ6dy0yTjZLZkhVVFF3Yk1YY0hzbUZVVWJWci1VSHRhTWFzbW5JNHUtSWdQQk00TVRsOGlZMDdSLXdUN2tVNTNB?oc=5",
-      "source": "Insider Monkey",
-      "published_utc": "2026-11-09T21:21:01+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "AI Needs Power. The Pentagon Needs Missiles. Niobium Has a Role in Both. Meet NiobiumX (NIOXF) - Insider Monkey",
-      "title_en_source": "passthrough"
-    },
     {
       "title": "NiobiumX (NIOXF) and the Silent Crisis Behind America's AI Chips and Missiles - Barchart.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVnlWRW9LVVkwVlEySmJ6ZUx6X2lxM3hRV2NTbzBzTldLeThVbWl0UTVyTkoyMTc1WlFOeVNoREZ3R3BtMm9iN3J1aGxuUjlpNnZ1TnpXWmFPZFg0MWc0UTRrejlJNlBRT1RybU5ScU5VVEhkeUNfYURhelNLSUtGOHRZVVN1YXRxT3ZXc2VFTTBSRl9YaWxfVlFhaG1lYjZJZndqVTdMcl84TFNTNnRnNXdlRGQzR1VkbEdF?oc=5",
@@ -59,6 +49,16 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "CBMM, St. George clash over mining rights and dam safety in Brazil - Valor International",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "NiobiumX Mining Inc. Commences Trading on the Canadian Securities Exchange Under the Symbol \"NIOX\", Completing Its Transition to a Niobium and Rare Earth Exploration Company Focused on Quebec's Saguenay Region - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmViZGdWcHptZEJqVUtSUDZJc3hFemllckl3dVNXMmxNLVJCdWNBMmM1SEQ5MTN5UUpKa2dvNjRNWkVZOGdsV2pHaG5ad1ZzOGo3QkQxUHVHX3U3YVhzSFBGTHNmLTh0WWZEMzcweUlZRkdqbWtoc0x2OEJ2ZjBtUHZuWWFzdHlyd1k1NVQ2X2Y1RDRvcG9uRlVHUVRkc0tkejZVUQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_utc": "2026-07-29T07:00:00+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "NiobiumX Mining Inc. Commences Trading on the Canadian Securities Exchange Under the Symbol \"NIOX\", Completing Its Transition to a Niobium and Rare Earth Exploration Company Focused on Quebec's Saguenay Region - Yahoo Finance",
       "title_en_source": "passthrough"
     },
     {
