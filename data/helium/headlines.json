@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-13T07:39:13.649028+00:00",
+  "as_of_utc": "2026-11-13T21:05:22.519333+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -11,7 +11,7 @@
     "MRI helium shortage",
     "Shute Creek helium OR LaBarge helium"
   ],
-  "item_count": 72,
+  "item_count": 74,
   "items": [
     {
       "title": "US gives helium critical material designation - Townsville Bulletin",
@@ -21,16 +21,6 @@
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
       "title_en": "US gives helium critical material designation - Townsville Bulletin",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Panoro Uncovers 85 Bcf Helium Potential and 4 Tcf Gas in South Africa - ChemAnalyst",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbTVRaWdFVnhndTZPTVk2N3BGb1diUDEzWnJfTGotbDhDRmtzRkx2WVg2QUNmNjYxeVUwbGU0OUNiYVBtSmJIdFJueWxmd3JGUVVvallZRS1iSEl0NVBYaUwyOTZhV1F4OUhJRkhtc0FSSFhfRGZDOUt3WU12R2VrNkM0eFBIVWszUGZDTGtySTBGbmMtNVdIcVpjTUpya2dSTXJMWHFpTGVXVGRXb2M3WTU0bHRablVIWVdialAwNlJJbjNYMEFV?oc=5",
-      "source": "ChemAnalyst",
-      "published_utc": "2026-11-12T12:56:09+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "Panoro Uncovers 85 Bcf Helium Potential and 4 Tcf Gas in South Africa - ChemAnalyst",
       "title_en_source": "passthrough"
     },
     {
@@ -44,6 +34,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "AirLife Gases: The ₹189-Crore Pune Company That Bought 600,000 Acres of Helium Fields in Canada - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2Y2dlhPRVFubk5JRHZfVTQzNFBvWU5FcHc0Qlp6YkVIMnY5YXpHMjhqVXdwbnYwRzd3NDRQd3RpWk83SWVFb0RlZmE1aFB4ZzlLcUpKRVpsUURWdzFOb3Rzd19EVS1wSTA4Tk1ZTVpXWGpQVlMzZUhXRnpEd1V6a0d6WTZITFRtLWJGUm90ZUVqOWVKM0ZpRw?oc=5",
+      "source": "LinkedIn",
+      "published_utc": "2026-11-07T04:00:32+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "AirLife Gases: The ₹189-Crore Pune Company That Bought 600,000 Acres of Helium Fields in Canada - LinkedIn",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Can chip manufacturers find an alternative to helium? - Marketplace.org",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xaV81U3QyaUNvcExSQ2FGYm1McHhoQ0NfVlpwVGFEVy1FNWxqOWtFeTlzdG1tWUVPM2FLMWhwTUlRMGE3MkdOT3hkSkFLQ3dXZklxVnhBR09LZi1ld2dWT3ZXbGZhR2dONVFFLQ?oc=5",
       "source": "Marketplace.org",
@@ -51,6 +51,16 @@
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
       "title_en": "Can chip manufacturers find an alternative to helium? - Marketplace.org",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Electronic equipment maker Keysight taps insider Jason Kary as finance chief - electronics.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOWM4QjR2ZWgwbmlOQ2RPRDkzZlpYMkxMajhrSW15aGJGX2NYbzdPQ0hVenJRU05KeXJlOXpMM2RKdnlPVERDM25IMVQ2UU5MMks3SkRiRllROFJneC01cDlMUERTa2ZBcks0M3MwUHN4Q0tXSTE0Q21FNmdwUXZ3bXR4UVpRTFJoR1g0NmJsak5QQk8tNmNlUEVrLWs3c01fUFFmMERkVE41Vl9HMFNtZG1PRktRQ3U1R2dyQVVrVU9OTnZxVzRGZldQNkNKUThWZWx4WXlPTFhzVDlXMlRYTjV1Wnc4YmozLS05czVmbUrSAfQBQVVfeXFMUEF2c0xjQlFsV2d3UGRsTnBIMFNkZVN2aXprblVYXzJOLW5qM3E0d1VnSnE4RHg1Vm81TGlmc2hZQzB1UmswS25jbGplZkQwNWY3UGl2eTk1Z2drc21Eb244RzNLNU5zUHZ1dVRmUVRCeHlhbmVQa0ZJbGNBTmZzOXgwcDVFZ195X1ZNQVpxZm5xVVdKUHVUaW9OTXI0TlBVZHBDRk51aEh4Zk9PVVhHekF4VVlZajQwS0tFX0tQSF9mS0xuYlNWSFB4NWdacno1MGFYZm5rRlRJQUZvdVdYTW56bGhuUmRPckZFSEpuUXEzZ01vbQ?oc=5",
+      "source": "electronics.economictimes.indiatimes.com",
+      "published_utc": "2026-11-03T08:00:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "Electronic equipment maker Keysight taps insider Jason Kary as finance chief - electronics.economictimes.indiatimes.com",
       "title_en_source": "passthrough"
     },
     {
@@ -104,6 +114,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Air Liquide expects Qatar restart to ease helium supply pressures - gasworld",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWk9ydENoT3ppWi1IZEV6VGtPWENnWG4xUGU0OTBxUDZuMFRZcG1zSTNZRThuVTFGUGUtQVdZNnlndXZvYVNCLVpOQjMtTnlBV0QtUTBscG5PWk5GSVVGeGxMczZnMEhwbkNkWkFNejhiRjNVTmhtSDJ4c3pyUXB6RUh5bXBiQ0pTWXNzVXhrTUh3c19pVnMtUHM4a2hST3JOSWo4WHFkYkZ3VUpubGtwdXhOdw?oc=5",
+      "source": "gasworld",
+      "published_utc": "2026-07-28T07:00:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "yellow",
+      "title_en": "Air Liquide expects Qatar restart to ease helium supply pressures - gasworld",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Qatar Helium Shock Keeps Asia's Chip Supply Under Pressure - Environment+Energy Leader",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeGVhblpkNGJBWnJTVko5NG1PTTBwbnFJOXJTbmxsZUd5bTRsa1E0czBGc1NxTjZMclAtTFdCWUxuRTZYdnBoTktOY3ppNlFWTjE5aDFwNWFzU19RWlRBTDYtOU45ZGtTY2RZUDJyTVBWd2tJZVYwS1o5RFZGdWZJVV9GSXdMeVJQNEFiQWEybkF6WDFMLXlBU3d3MW9CREEzVDNGNkZyTzNkVzRBenNZbUxB?oc=5",
       "source": "Environment+Energy Leader",
@@ -151,6 +171,16 @@
       "query": "helium plant outage OR helium force majeure",
       "flag": "yellow",
       "title_en": "Colorado helium reserves got big boost when war with Iran cut off 30% of the world’s supply - The Colorado Sun",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Helium is more than party balloons. Why Australia needs to take this invisible gas seriously - UNSW Sydney",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BLXZHUGVTUzZRZy1jdHNSUUpnSXVPYmFSaWxRb2I4VmY4dGJBTWw1alo2SzJfenNyUkgxMlF0NXdwenFRTHh1d3VSUjNZelYwT2ZrNGpyQW1IYWhvLWxzTW45QW1PM1BnQms2c2Q1OXZPN1FU?oc=5",
+      "source": "UNSW Sydney",
+      "published_utc": "2026-06-18T07:00:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "Helium is more than party balloons. Why Australia needs to take this invisible gas seriously - UNSW Sydney",
       "title_en_source": "passthrough"
     },
     {
@@ -294,6 +324,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "The world is running out of helium — again : Short Wave - NPR",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZbHlmQVRvV0tQWExOVnpEdmFBUnFwMWlTZldZanZFSXhrTllJcXZ2cWhDbTFaZmdvMFhqRVpJWTdqbEV6bS15RFdrQXlab1c1b0czaUpMVW5zUU1QbnA5OFFJdFdMOW5GU3k5N2hFSXFNTTlBZ0tNeg?oc=5",
+      "source": "NPR",
+      "published_utc": "2026-04-06T07:00:00+00:00",
+      "query": "MRI helium shortage",
+      "flag": "green",
+      "title_en": "The world is running out of helium — again : Short Wave - NPR",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "America Has a Helium Problem - Newsweek",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QOTMzN0JCRjZ5ZWswcENPblFGNEY1bUxfVjc0eEZOTHdBbDFwQU0wMWRtNEJiY1hxWHk0OG1tclM5WkZWSWlfWHF2My0xYl9TY281R3Vrdzdwb3ZMdEFlRkk1VzNMVWVfNklKZWN2bw?oc=5",
       "source": "Newsweek",
@@ -311,16 +351,6 @@
       "query": "helium plant outage OR helium force majeure",
       "flag": "green",
       "title_en": "US-Iran war disrupts the global helium supply chain - Al Majalla",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "It's not just oil — the Iran war is disrupting helium and aluminum supplies. Here's the impact. - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QVFJyelNlakZja0lXVlBHTGNWOGNHUGNrSGV4bV9Qcm5vMUE1Z1N0TmdtMzhqaEgzUk1oRWl0c2lhOEs2aVJEVFBGVUU2clFZWGdKTG9oOUprdzZQbFpZZ2VlMTNzMVEtXzhnTkNlVDBNbEJwVFczZlln?oc=5",
-      "source": "CBS News",
-      "published_utc": "2026-03-31T07:00:00+00:00",
-      "query": "MRI helium shortage",
-      "flag": "green",
-      "title_en": "It's not just oil — the Iran war is disrupting helium and aluminum supplies. Here's the impact. - CBS News",
       "title_en_source": "passthrough"
     },
     {
@@ -381,36 +411,6 @@
       "query": "MRI helium shortage",
       "flag": "green",
       "title_en": "Helium prices spike as war rages on—should MRI providers be worried? - Radiology Business",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Helium hitch: Why US-Israel war on Iran could cause MRI scan delays - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNklCS0tRenBIa0xPMzlXd1VzMU5kRUcxTjFUWmc2T2NwVTlGa3I3b3d4Q2pkNlZ5eDhLdnVmM3Y5b29EajY4Y1ptd0QtbjlrbWV0UWVyakxrSzR2VkJJeG96b250aHVIT1RGb1k0T3BJWVJKR0VBWHZINGRaSVZVUkU4QmpKcUsxNDBNcFlLd1poUXlqcFZ4aDFvRkFhdG0wOW9ObWxFOFhhNlFHYktR0gG0AUFVX3lxTE4wX2RTUUxEVFltRnFCUHd3OFFLWk92SmhSdEk1VndqNmZXb09BWm9lX19LcWpvMTlPUHhkcDVoT1pIbHd5SjVpNXpUdVdESVRlWXNHMGVkaF83ODU5WlJWczA1ejZwTkVjYjJDdkUtNHdwdzJfdWtIZlFZelRyT3ZsYzNab0htOU1RVGpjbUNkRHlCVzJ1THRRZ05ja2tqOU1jVWRWYnktQ2xJS2pUenQyTnhqZg?oc=5",
-      "source": "Al Jazeera",
-      "published_utc": "2026-03-26T07:00:00+00:00",
-      "query": "MRI helium shortage",
-      "flag": "yellow",
-      "title_en": "Helium hitch: Why US-Israel war on Iran could cause MRI scan delays - Al Jazeera",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Airgas Curtails Helium Orders After Qatar LNG Field Damaged - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWl8wYnBwQjB0N2VqbEdSS1N3NURHYVI2bzZFRnhNM3BzbUkyQTZQdklldi1pY0wyc2N1cHBiZzlMVWpxRHhDRXp0QXdyVGVCWTcwMnZwNUhyTmhUV2tVd0RVMHU2QmtYVGsyLTBzaW05TXlSLVoyaWo5RWlOellmTnZaa3VBcEl3X1FiTzRPQTJla005OWRtek00MFpHRDFBVm9RLTBrTlQwNjg3YlRR?oc=5",
-      "source": "Bloomberg.com",
-      "published_utc": "2026-03-24T07:00:00+00:00",
-      "query": "helium plant outage OR helium force majeure",
-      "flag": "green",
-      "title_en": "Airgas Curtails Helium Orders After Qatar LNG Field Damaged - Bloomberg.com",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "The Iran War Just Exposed America’s Hidden AI Chokepoint: Helium - The National Interest",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVVVQZHNZcHctVVFXc2dSQ0wxeVVsb3dmeFh0Zy1lZS1pcWRiYm5vSkR3b0NWRXA2S251UzkwNmxndXRfUnRNSnExQ3VNM3VibWpFcG1vdFIzQWw4VkZfM2ZDbERraUw2bmpiTXFhZkpqTGJJeXNzSTAzeTNqci1MLTBzWDZOVzQxa3czNjllVjVFZnphSmVobEhOV2ZHUGRhYXBNTVFYNE4?oc=5",
-      "source": "The National Interest",
-      "published_utc": "2026-03-23T07:00:00+00:00",
-      "query": "helium plant outage OR helium force majeure",
-      "flag": "green",
-      "title_en": "The Iran War Just Exposed America’s Hidden AI Chokepoint: Helium - The National Interest",
       "title_en_source": "passthrough"
     }
   ],

@@ -8,18 +8,18 @@
     "supply": "annual USGS MCS + plant-watch headlines; no reliable public monthly world series"
   },
   "created_utc": "2026-09-12T16:55:48.728850+00:00",
-  "last_headline_fetch_utc": "2026-11-13T02:43:51.618976+00:00",
+  "last_headline_fetch_utc": "2026-11-13T21:05:22.519333+00:00",
   "last_supply_fetch_utc": "2026-09-12T16:55:48.728850+00:00",
   "last_error": null,
   "overall_status": "Stress",
-  "overall_rationale": "USGS MCS 2026 (Feb) still framed a two-country market: United States 81 Mm\u00b3 and Qatar 63 Mm\u00b3 of 190 Mm\u00b3 world output in 2025e (~76% combined). That snapshot predates the March 2026 Ras Laffan halt after conflict damage to LNG trains feeding Helium 1/2/3 and QatarEnergy force majeure. Recovery remains partial: gasworld (30 Jun) and AKAP (3 Aug) reported a partial Helium 2 restart with Jeddah routing; Air Liquide (28 Jul) expected that to ease H2 2026 pressure; industry color puts output well below normal, and no official utilization is published. October 2026 scan: QatarEnergy force majeure on LNG extended into early December; two damaged Ras Laffan trains (~17% of capacity) are reported out for 3\u20135 years; only ~17 LNG exits through Hormuz in September (~80% below pre-war), and QatarEnergy says it could normalize undamaged trains within weeks of a durable Hormuz reopening. Russia adds a yellow layer: Ukraine said it struck the Orenburg gas-processing/helium complex on 24 Jun 2026 (damage not independently verified), on top of Decree 404 export authorization through end-2027; the 25 Aug fire was at SIBUR-Sinopec's Amur Gas Chemical Complex, not Gazprom's Amur helium plant. No confirmed multi-week Shute Creek, Cliffside/Messer, or Algeria halt; no new USGS/BLM helium data since MCS 2026. Posture stays Stress (confirmed multi-month P0 disruption with only partial recovery), not a full global shutdown and not Normal. November 2026 scan: Kpler shows Qatar LNG loadings of 2.7 Mt in Oct (~39% of Feb daily rate); gasworld/consultant Kornbluth estimate helium could reach 40\u201350% of pre-war capacity (estimate, not official), centered on Helium 2; Helium 1/3 (Barzan) reported offline, with unconfirmed reports QatarEnergy is considering restarting Helium 1; Nakilat vessel struck 30 Oct keeps shipping risk live; container repositioning takes 2\u20133 months. US restored helium to critical materials list (late Oct) and BLM released a helium map (29 Oct). Air Products plans on no Middle East resolution for 6+ months. Still no confirmed Shute Creek/Cliffside/Algeria halt; status stays Stress.",
+  "overall_rationale": "USGS MCS 2026 (Feb) still framed a two-country market: United States 81 Mm³ and Qatar 63 Mm³ of 190 Mm³ world output in 2025e (~76% combined). That snapshot predates the March 2026 Ras Laffan halt after conflict damage to LNG trains feeding Helium 1/2/3 and QatarEnergy force majeure. Recovery remains partial: gasworld (30 Jun) and AKAP (3 Aug) reported a partial Helium 2 restart with Jeddah routing; Air Liquide (28 Jul) expected that to ease H2 2026 pressure; industry color puts output well below normal, and no official utilization is published. October 2026 scan: QatarEnergy force majeure on LNG extended into early December; two damaged Ras Laffan trains (~17% of capacity) are reported out for 3–5 years; only ~17 LNG exits through Hormuz in September (~80% below pre-war), and QatarEnergy says it could normalize undamaged trains within weeks of a durable Hormuz reopening. Russia adds a yellow layer: Ukraine said it struck the Orenburg gas-processing/helium complex on 24 Jun 2026 (damage not independently verified), on top of Decree 404 export authorization through end-2027; the 25 Aug fire was at SIBUR-Sinopec's Amur Gas Chemical Complex, not Gazprom's Amur helium plant. No confirmed multi-week Shute Creek, Cliffside/Messer, or Algeria halt; no new USGS/BLM helium data since MCS 2026. Posture stays Stress (confirmed multi-month P0 disruption with only partial recovery), not a full global shutdown and not Normal. November 2026 scan: Kpler shows Qatar LNG loadings of 2.7 Mt in Oct (~39% of Feb daily rate); gasworld/consultant Kornbluth estimate helium could reach 40–50% of pre-war capacity (estimate, not official), centered on Helium 2; Helium 1/3 (Barzan) reported offline, with unconfirmed reports QatarEnergy is considering restarting Helium 1; Nakilat vessel struck 30 Oct keeps shipping risk live; container repositioning takes 2–3 months. US restored helium to critical materials list (late Oct) and BLM released a helium map (29 Oct). Air Products plans on no Middle East resolution for 6+ months. Still no confirmed Shute Creek/Cliffside/Algeria halt; status stays Stress.",
   "ui": {
     "title": "Helium Supply Watch",
     "subtitle": "Liquid / gaseous helium choke-point monitor",
-    "pulse_title": "Supply pulse \u2014 USGS world production (annual)",
+    "pulse_title": "Supply pulse — USGS world production (annual)",
     "dest_title": "US import sources & end markets",
     "dest_kit_title": "How markets fit the kit",
-    "dest_period_label": "US helium import sources (share of imports, 2021\u201324)",
+    "dest_period_label": "US helium import sources (share of imports, 2021–24)",
     "producer_title": "Producer baseline (USGS MCS)"
   },
   "legend": {
@@ -27,7 +27,7 @@
     "Watch": "Healthy headline flow but elevated two-country concentration or yellow plant/logistics/sanctions signals",
     "Stress": "Confirmed multi-week outage at Ras Laffan, Shute Creek, or another top-tier liquefier; Hormuz closure hitting Qatar liftings; or simultaneous US+Qatar disruption",
     "green": "Supply-supportive or continuity news",
-    "yellow": "Monitor \u2014 plant maintenance, sanctions, policy, shipping, or soft disruption risk",
+    "yellow": "Monitor — plant maintenance, sanctions, policy, shipping, or soft disruption risk",
     "red": "Hard supply interruption or imminent choke at a liquefaction node"
   },
   "producers": {
@@ -81,17 +81,17 @@
   "producers_kpis": [
     {
       "label": "World 2025e",
-      "val": "190 Mm\u00b3",
+      "val": "190 Mm³",
       "muted": "USGS MCS 2026"
     },
     {
       "label": "United States",
-      "val": "81 Mm\u00b3",
+      "val": "81 Mm³",
       "muted": "~43% of world"
     },
     {
       "label": "Qatar",
-      "val": "63 Mm\u00b3",
+      "val": "63 Mm³",
       "muted": "~33% of world"
     },
     {
@@ -106,13 +106,13 @@
     "hs_ncm": "HS 2804.29 / HTS 2804.29.00.10"
   },
   "sources_footer": [
-    "USGS Mineral Commodity Summaries 2026 \u2014 Helium and Rare Gases (Feb 2026)",
-    "USGS Mineral Commodity Summaries 2025 \u2014 Helium (Jan 2025)",
-    "gasworld Ras Laffan / Helium 2 / Air Liquide reporting (Apr\u2013Jul 2026)",
+    "USGS Mineral Commodity Summaries 2026 — Helium and Rare Gases (Feb 2026)",
+    "USGS Mineral Commodity Summaries 2025 — Helium (Jan 2025)",
+    "gasworld Ras Laffan / Helium 2 / Air Liquide reporting (Apr–Jul 2026)",
     "AKAP Energy Helium 2 / Jeddah logistics note (Aug 2026)",
     "BLM Shute Creek CO2 disposal approval (Jun 2026)",
-    "Messer \u2014 Federal Helium System / Cliffside close (27 Jun 2024)",
-    "Qatargas / Air Liquide historical Ras Laffan Helium 1\u20133 nameplate notes",
+    "Messer — Federal Helium System / Cliffside close (27 Jun 2024)",
+    "Qatargas / Air Liquide historical Ras Laffan Helium 1–3 nameplate notes",
     "USITC HTS 2804.29.00.10 helium"
   ],
   "baseline_signals": [
@@ -120,7 +120,7 @@
       "id": "lng-2026-10-qatar-fm-december",
       "date": "2026-10-12",
       "title": "QatarEnergy LNG force majeure extended into early December; Hormuz LNG traffic ~80% below pre-war",
-      "summary": "EnterpriseAM (12 Oct, citing Reuters/Bloomberg): force majeure runs into early December; two damaged Ras Laffan trains (~12.8 Mtpa, ~17% of capacity) out for 3\u20135 years; ~12 empty carriers waiting near Qatar; North Field East first train ready in November with production expected 1Q 2027. BusinessToday (2 Oct): ~17 confirmed LNG exits through Hormuz in September, ~80% below pre-war. Helium 2 recovery stays tied to LNG feed; no official helium utilization published.",
+      "summary": "EnterpriseAM (12 Oct, citing Reuters/Bloomberg): force majeure runs into early December; two damaged Ras Laffan trains (~12.8 Mtpa, ~17% of capacity) out for 3–5 years; ~12 empty carriers waiting near Qatar; North Field East first train ready in November with production expected 1Q 2027. BusinessToday (2 Oct): ~17 confirmed LNG exits through Hormuz in September, ~80% below pre-war. Helium 2 recovery stays tied to LNG feed; no official helium utilization published.",
       "url": "https://enterpriseam.com/logistics/2026/10/12/qatarenergy-is-lining-up-new-lng-capacity-and-a-dozen-empty-carriers-as-hormuz-traffic-picks-up/",
       "risk": "red",
       "tags": [
@@ -149,7 +149,7 @@
       "id": "gasworld-2026-07-28-al-qatar-partial",
       "date": "2026-07-28",
       "title": "Air Liquide: Qatar partial restart expected to ease H2 2026 shortage pressure",
-      "summary": "gasworld / Air Liquide H1 call: CEO Fran\u00e7ois Jackow said partial Qatar helium restart should limit shortage impact on Air Liquide in 2H 2026. Trade press earlier cited industry views that Helium 2 output remained below ~30% of normal; official QatarEnergy utilization unpublished.",
+      "summary": "gasworld / Air Liquide H1 call: CEO François Jackow said partial Qatar helium restart should limit shortage impact on Air Liquide in 2H 2026. Trade press earlier cited industry views that Helium 2 output remained below ~30% of normal; official QatarEnergy utilization unpublished.",
       "url": "https://www.gasworld.com/story/air-liquide-expects-qatar-restart-to-ease-helium-supply-pressures/2255652.article/",
       "risk": "red",
       "tags": [
@@ -190,7 +190,7 @@
     {
       "id": "blm-2026-06-shute-creek-co2",
       "date": "2026-06-12",
-      "title": "BLM approves Shute Creek CO2 disposal well/pipeline \u2014 not a helium outage notice",
+      "title": "BLM approves Shute Creek CO2 disposal well/pipeline — not a helium outage notice",
       "summary": "BLM approved ExxonMobil Shute Creek 7-34 CO2 disposal project (Lincoln/Sweetwater, WY). Infrastructure for excess CO2 sequestration from the gas plant. No public helium production halt tied to this approval in the monthly scan.",
       "url": "https://www.blm.gov/announcement/blm-approves-shute-creek-carbon-dioxide-disposal-and-pipeline-project",
       "risk": "green",
@@ -229,8 +229,8 @@
     {
       "id": "usgs-mcs-2026-helium",
       "date": "2026-02-01",
-      "title": "USGS MCS 2026: US 81 + Qatar 63 Mm\u00b3 of 190 Mm\u00b3 world (2025e)",
-      "summary": "Two-country concentration ~76%. US Grade-A/gaseous sales 81 Mm\u00b3 (~$970M). US remains a net exporter (exports 38, imports 8 Mm\u00b3). EU/US Russia helium import bans continued into 2025. Six new US operations started in 2025.",
+      "title": "USGS MCS 2026: US 81 + Qatar 63 Mm³ of 190 Mm³ world (2025e)",
+      "summary": "Two-country concentration ~76%. US Grade-A/gaseous sales 81 Mm³ (~$970M). US remains a net exporter (exports 38, imports 8 Mm³). EU/US Russia helium import bans continued into 2025. Six new US operations started in 2025.",
       "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-helium.pdf",
       "risk": "green",
       "tags": [
@@ -268,7 +268,7 @@
       "id": "qatargas-he2-10000",
       "date": "2021-02-01",
       "title": "Qatargas: Helium 1+2 nameplate 2.2 bscf/y; Helium 3 adds ~0.4 bscf/y",
-      "summary": "Historical company figure: combined Helium 1+2 ~2.2 billion scf/y; Helium 3 ~400 million scf/y (~11.3 million m\u00b3/y design). Actual USGS Qatar output 2025e is 63 million m\u00b3 \u2014 below combined nameplate. Use USGS for tonnes-equivalent, company figures only as plant identity.",
+      "summary": "Historical company figure: combined Helium 1+2 ~2.2 billion scf/y; Helium 3 ~400 million scf/y (~11.3 million m³/y design). Actual USGS Qatar output 2025e is 63 million m³ — below combined nameplate. Use USGS for tonnes-equivalent, company figures only as plant identity.",
       "url": "https://thepeninsulaqatar.com/article/01/02/2021/Qatargas-delivers-10,000th-cargo-from-Helium-2-plant",
       "risk": "green",
       "tags": [
@@ -282,9 +282,9 @@
       {
         "priority": "P0",
         "id": "ras-laffan-helium",
-        "name": "QatarEnergy / Qatargas \u2014 Ras Laffan Helium 1, 2, 3",
-        "share_approx": "~33% of world 2025e (USGS Qatar 63 of 190 Mm\u00b3)",
-        "metric": "USGS Qatar 63 Mm\u00b3 (2025e). Historical nameplate: He1 ~19\u201320 Mm\u00b3/y; He2 ~38 Mm\u00b3/y (Air Liquide 2013); He3 ~11.3 Mm\u00b3/y design. Company combined He1+2 2.2 bscf/y.",
+        "name": "QatarEnergy / Qatargas — Ras Laffan Helium 1, 2, 3",
+        "share_approx": "~33% of world 2025e (USGS Qatar 63 of 190 Mm³)",
+        "metric": "USGS Qatar 63 Mm³ (2025e). Historical nameplate: He1 ~19–20 Mm³/y; He2 ~38 Mm³/y (Air Liquide 2013); He3 ~11.3 Mm³/y design. Company combined He1+2 2.2 bscf/y.",
         "watch": [
           "LNG train feed",
           "force majeure",
@@ -292,14 +292,14 @@
           "Helium 2 restart",
           "drone/missile damage"
         ],
-        "notes": "Single largest liquefaction cluster. Helium is an LNG by-product \u2014 plant output tracks Ras Laffan train availability, not a standalone mine. March 2026 halt + only partial Helium 2 recovery through Jul\u2013Aug 2026 (Hormuz/Jeddah logistics constrained) remains the live P0 event."
+        "notes": "Single largest liquefaction cluster. Helium is an LNG by-product — plant output tracks Ras Laffan train availability, not a standalone mine. March 2026 halt + only partial Helium 2 recovery through Jul–Aug 2026 (Hormuz/Jeddah logistics constrained) remains the live P0 event."
       },
       {
         "priority": "P1",
         "id": "shute-creek-labarge",
         "name": "ExxonMobil Shute Creek / LaBarge (Wyoming)",
         "share_approx": "Largest single US plant (often cited as ~20% of US / a large slice of global; USGS does not publish a plant-level split)",
-        "metric": "Plant-level 2025 tonnes not published by USGS. US total 81 Mm\u00b3 (2025e) is the official country figure.",
+        "metric": "Plant-level 2025 tonnes not published by USGS. US total 81 Mm³ (2025e) is the official country figure.",
         "watch": [
           "planned maintenance",
           "acid-gas / CO2 plant trips",
@@ -312,7 +312,7 @@
         "priority": "P1",
         "id": "cliffside-messer",
         "name": "Messer Cliffside Field / former Federal Helium System (Texas)",
-        "share_approx": "USGS Cliffside withdrawals 13 Mm\u00b3 (2024e, MCS 2025); not separately listed in MCS 2026 world table",
+        "share_approx": "USGS Cliffside withdrawals 13 Mm³ (2024e, MCS 2025); not separately listed in MCS 2026 world table",
         "metric": "System includes Bush Dome storage, wells, Cliffside plant, 423-mile crude helium pipeline. Sold to Messer 27 Jun 2024.",
         "watch": [
           "storage inventory",
@@ -339,22 +339,22 @@
         "priority": "P2",
         "id": "amur-helium",
         "name": "Gazprom Amur GPP helium (Russia)",
-        "share_approx": "USGS Russia 18 Mm\u00b3 (2025e) \u2014 ~9\u201310% world; Amur is the modern Russian node",
-        "metric": "USGS Russia 17 Mm\u00b3 (2024) / 18 Mm\u00b3 (2025e). Plant-level 2025 sales not independently verified here. Design capacity often cited much higher than current USGS country output.",
+        "share_approx": "USGS Russia 18 Mm³ (2025e) — ~9–10% world; Amur is the modern Russian node",
+        "metric": "USGS Russia 17 Mm³ (2024) / 18 Mm³ (2025e). Plant-level 2025 sales not independently verified here. Design capacity often cited much higher than current USGS country output.",
         "watch": [
           "train commissioning",
           "sanctions / EU-US import bans",
           "China offtake",
           "fire/stoppage"
         ],
-        "notes": "Western buyers are largely blocked by 2024\u201325 sanctions. Still a global volume node (China and other non-sanctioning markets)."
+        "notes": "Western buyers are largely blocked by 2024–25 sanctions. Still a global volume node (China and other non-sanctioning markets)."
       },
       {
         "priority": "P2",
         "id": "algeria-helium",
-        "name": "Algeria \u2014 Helios (Arzew / Bethioua) and Helison (Skikda)",
-        "share_approx": "USGS Algeria 11 Mm\u00b3 (2024 and 2025e) \u2014 ~6% world",
-        "metric": "Historical nameplate often cited ~600 million scf/y per plant (Helios Sonatrach\u2013Air Products; Helison Linde\u2013Sonatrach). Use USGS 11 Mm\u00b3 for actual.",
+        "name": "Algeria — Helios (Arzew / Bethioua) and Helison (Skikda)",
+        "share_approx": "USGS Algeria 11 Mm³ (2024 and 2025e) — ~6% world",
+        "metric": "Historical nameplate often cited ~600 million scf/y per plant (Helios Sonatrach–Air Products; Helison Linde–Sonatrach). Use USGS 11 Mm³ for actual.",
         "watch": [
           "LNG feed at Arzew/Skikda",
           "Sonatrach ops",
@@ -365,8 +365,8 @@
       {
         "priority": "P3",
         "id": "canada-helium",
-        "name": "Canada \u2014 Saskatchewan / Alberta plants",
-        "share_approx": "USGS Canada 6 Mm\u00b3 (2024 and 2025e) \u2014 ~3% world; 47% of US helium imports (2021\u201324)",
+        "name": "Canada — Saskatchewan / Alberta plants",
+        "share_approx": "USGS Canada 6 Mm³ (2024 and 2025e) — ~3% world; 47% of US helium imports (2021–24)",
         "metric": "New Canadian plants noted in MCS 2025/2026. Country total only.",
         "watch": [
           "new-well start-ups",
@@ -379,7 +379,7 @@
         "priority": "Horizon",
         "id": "us-new-projects",
         "name": "New US projects (NM, CO, MT, KS; Dry Piney WY on a longer clock)",
-        "share_approx": "Development / early production \u2014 not a substitute for Ras Laffan scale",
+        "share_approx": "Development / early production — not a substitute for Ras Laffan scale",
         "metric": "USGS: six new US operations began producing in 2025. Individual nameplates not in MCS.",
         "watch": [
           "first-gas dates",
@@ -390,12 +390,12 @@
       }
     ],
     "logistics": {
-      "pipe": "Qatar ISO containers via Ras Laffan / Hormuz \u00b7 US crude-He pipeline (Cliffside, 423 mi) + truck/ISO from WY and Midcontinent \u00b7 Algeria Med liftings \u00b7 Amur overland/China",
-      "form": "liquid helium in ISO containers/dewars; gaseous in tube trailers \u2014 not bulk-ore AIS",
+      "pipe": "Qatar ISO containers via Ras Laffan / Hormuz · US crude-He pipeline (Cliffside, 423 mi) + truck/ISO from WY and Midcontinent · Algeria Med liftings · Amur overland/China",
+      "form": "liquid helium in ISO containers/dewars; gaseous in tube trailers — not bulk-ore AIS",
       "destinations": [
         "United States (net exporter; imports from Canada/Qatar/Algeria)",
-        "East Asia (Korea, Japan, Taiwan, China) \u2014 semiconductors / MRI",
-        "Europe \u2014 MRI / lab / welding",
+        "East Asia (Korea, Japan, Taiwan, China) — semiconductors / MRI",
+        "Europe — MRI / lab / welding",
         "Aerospace / NASA & allied programs"
       ],
       "distributors": [
@@ -410,19 +410,19 @@
     "codes": {
       "hs": "2804.29",
       "hts": "2804.29.00.10",
-      "ncm": "\u2014",
+      "ncm": "—",
       "specialty": "2804.21 (argon, adjacent rare gas)",
-      "product": "Helium (gaseous or cryogenic liquid) \u2014 rare gases other than argon"
+      "product": "Helium (gaseous or cryogenic liquid) — rare gases other than argon"
     },
     "data_pipes": [
       {
-        "name": "USGS Mineral Commodity Summaries \u2014 Helium",
+        "name": "USGS Mineral Commodity Summaries — Helium",
         "how": "Annual country production, US sales/imports/exports, events. Best free official world series.",
         "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-helium.pdf"
       },
       {
         "name": "USITC / Census HTS 2804.29.00.10",
-        "how": "US monthly import/export quantity (thousand m\u00b3) and value. Free but helium is a thin line and Census has previously flagged possible misclassification (USGS MCS 2025 note on 2024 exports).",
+        "how": "US monthly import/export quantity (thousand m³) and value. Free but helium is a thin line and Census has previously flagged possible misclassification (USGS MCS 2025 note on 2024 exports).",
         "url": "https://hts.usitc.gov/"
       },
       {
@@ -458,10 +458,10 @@
         "helium plant outage OR force majeure",
         "Qatar helium OR QatarEnergy helium",
         "BLM helium OR Cliffside helium",
-        "Amur helium OR Amur \u0433\u0435\u043b\u0438\u0439",
+        "Amur helium OR Amur гелий",
         "MRI helium shortage",
         "Shute Creek helium OR LaBarge helium",
-        "Helison OR Helios h\u00e9lium Alg\u00e9rie"
+        "Helison OR Helios hélium Algérie"
       ],
       "outlets": [
         {
@@ -520,7 +520,7 @@
       },
       {
         "freq": "Annual / Feb",
-        "covers": "USGS MCS helium chapter \u2014 country tonnes and events"
+        "covers": "USGS MCS helium chapter — country tonnes and events"
       },
       {
         "freq": "As needed",
@@ -597,7 +597,7 @@
     "No reliable public monthly world production series (annual MCS only)",
     "News risk flags are monitoring judgments, not investment or procurement advice"
   ],
-  "last_cron_run_utc": "2026-11-13T02:43:54.640355+00:00",
-  "cron": "twice daily America/Los_Angeles 08:00 and 18:00",
+  "last_cron_run_utc": "2026-11-13T21:05:22.519333+00:00",
+  "cron": "GitHub Actions twice daily (01:00 & 15:00 UTC)",
   "translation": "deep_translator Google via .venv after each headline fetch"
 }

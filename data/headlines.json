@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-13T07:39:13.649028+00:00",
+  "as_of_utc": "2026-11-13T21:05:22.519333+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 43,
+  "item_count": 44,
   "items": [
     {
       "title": "Steadright Begins Exploration at Péribonka Ree-Niobium Carbonatite Target in Quebec's Niobium District - Investing News Network",
@@ -29,6 +29,16 @@
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
       "title_en": "NiobiumX (NIOXF) and the Silent Crisis Behind America's AI Chips and Missiles - Barchart.com",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "NiobiumX Mining Outlines the Principal Exploration Target at Its Shipshaw Niobium Property, Quebec - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdDl2UkczLVVvREF4SHJpd3NWa3llV3k5MlRoZ0VfZzRObnhPbTloLWc1NWpnUktSX1Y3a1h4b05yLW9vcld1cGxCa3o3d0xxV09yUWd1UWJOS1gyNy1aelBTNGNDNExEd2U0MUIwbDk2Ny1xUDVjSDZwVW56Mk10N2NyNHNROHU1TGRud1Jia0FYeXBIdnVEZDZXU2ZGa1dLSXNORUxuVXJmcFVIdW02NUo5ZjBleVU?oc=5",
+      "source": "Yahoo Finance",
+      "published_utc": "2026-10-20T07:00:00+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "NiobiumX Mining Outlines the Principal Exploration Target at Its Shipshaw Niobium Property, Quebec - Yahoo Finance",
       "title_en_source": "passthrough"
     },
     {
@@ -252,6 +262,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - Electric & Hybrid Vehicle Technology International",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVHZDR1d4MFJDTnFHb2RFMnFEZGxoUGpmbmhpVm1Yem1Sb2NhQzl6SmtzM2hFM1FvVTVtcjlXbHNQYnNUR2tMcnBITW9SMUg3NGMtcDRsTlU5eERpVEFicUFQMU5CbUNlUkJmUGxBS29OSGZZcXpUc2RTR0wtT2dGYXR4bXJ6bmYwVElvMVRwWnVNamxEMVRwVzFITUVwOXd6ZXc2RHB0LTVKLVNZckR3Q3BKa0tXeWtiNEpGYVp6dDE2WHVvcnFmYS13V09Sc2hySmVuTmZLbVVRdw?oc=5",
+      "source": "Electric & Hybrid Vehicle Technology International",
+      "published_utc": "2024-11-21T08:00:00+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "flag": "green",
+      "title_en": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - Electric & Hybrid Vehicle Technology International",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "CBMM unveils world’s largest Niobium anode production facility - Engineer Live",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDFTbjJhdmtyYTNlWDZGYmRWR3k4VUZQeTJMck1RblViUGVRdkJtbm1tekZIWXN4MUlYbmRJeGdDMUxtMDFhLWRMRUpENE1kXzllVExNak11LTFxMWxEb1l4Y1FmUGkyWTBPWDI4Y3N2bWY3eDAwcFNmSDdWQjNuR3VLdFo2dkxad3daaF9tVlc?oc=5",
       "source": "Engineer Live",
@@ -332,16 +352,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Lightning Motorcycles Returns To Its Roots With Speed Record Run - RideApart.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY2N6UVRkYnd2cFRoMGFQdTlSRk51SG02X0RoUDRwaURGbk9xYVpNZ3Z6ZkVPRFpjMlZJMzAySHctZDY2M1lIR1pzWVdhZWNlZjd1Y0RPaUJtMVYtXzA5STFhVVh2ajVFMUxPUXM4YW8zR1ZZcFhJb2Y2dkN4ck9FOGk1Sk1KZw?oc=5",
-      "source": "RideApart.com",
-      "published_utc": "2022-02-07T08:00:00+00:00",
-      "query": "CBMM nióbio OR ferronióbio OR niobium",
-      "flag": "green",
-      "title_en": "Lightning Motorcycles Returns To Its Roots With Speed Record Run - RideApart.com",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR181N2xrZ1N4Wkh1OUdzWHgxamw4NWR3dnZQclNITXBLTUNNTlBkbzJPek1QdHRtc21PemhXUEo3RzJFYWtyMHFCcmdtc1N5OVhzY3ZaSGp5bjV3ZWRCemM3V0tXbENaaGgyQnFQMlBySE5LelFjT2FwYWZpQkdwZ1Njc2ZMTURQeFlQQUZZVC1jbUtmOHN3WXludF9raTJ0ZjhBSmpuamNtelVIdmtocHVrMll1QWsxajFFY0tRTEpEZTN6NHRuOG90M3k2WUFjWnhDTU5EeUtWRGdSeVBOVnRpSmJmV2J0SUdseUdVYw?oc=5",
       "source": "Investing News Network",
@@ -399,16 +409,6 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "Nióbio: G1 visita em MG complexo industrial do maior produtor do mundo - G1",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzJvbTdLamF2RExoWTMxbXZRSjUxU29lenJmdjVOWmp4ak5BYUZCWEMwSU9ReTV6bmhZMFl2Z3BwbkgxTDNhMVdka25tOU9saG54cXF0SDRhTHZLemNzTkpEd0ZXSERPU1B6ckEzdy03T09Oa25Zek5pYVJrNVVNTDhjOFJoS3ZDVXFhNXlNNHB2OE1VVUhtajNCNW9vbGo2MjdxZ0ZkUU82S1ZlZFE?oc=5",
-      "source": "Mining.com",
-      "published_utc": "2019-06-13T14:20:20+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
       "title_en_source": "passthrough"
     }
   ],
