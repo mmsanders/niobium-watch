@@ -1,7 +1,6 @@
 {
-  "as_of_utc": "2026-11-14T07:25:34.641138+00:00",
+  "as_of_utc": "2026-11-14T16:47:55.931979+00:00",
   "source": "google_news_rss",
-  "commodity": "niobium",
   "queries": [
     "CBMM nióbio OR ferronióbio OR niobium",
     "Araxá CBMM OR nióbio",
@@ -272,16 +271,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "CBMM unveils world’s largest Niobium anode production facility - Engineer Live",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDFTbjJhdmtyYTNlWDZGYmRWR3k4VUZQeTJMck1RblViUGVRdkJtbm1tekZIWXN4MUlYbmRJeGdDMUxtMDFhLWRMRUpENE1kXzllVExNak11LTFxMWxEb1l4Y1FmUGkyWTBPWDI4Y3N2bWY3eDAwcFNmSDdWQjNuR3VLdFo2dkxad3daaF9tVlc?oc=5",
-      "source": "Engineer Live",
-      "published_utc": "2024-11-19T08:00:00+00:00",
-      "query": "CBMM nióbio OR ferronióbio OR niobium",
-      "flag": "green",
-      "title_en": "CBMM unveils world’s largest Niobium anode production facility - Engineer Live",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "CBMM opens niobium anode production facility in Brazil - Mining Technology",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnNiTGQ2UW5JRlh0bzh0N1B5elFiNEFrZE5FdW1LV0RuRk1HMlIzQzNKYzVtOXhnZVo2NWtzSmRZNXZlbFhab0RCVExqRGp0TVRMcjhBLWNmOGZBY0JMNUh1Yzc5TExUS2p0QVY4dmtWTHg1TEZwRElwNTNldzgtc1pPRjM?oc=5",
       "source": "Mining Technology",
@@ -382,6 +371,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Brazil miner CBMM seeks to sell 45,000 tons of niobium oxide by 2030 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93S3oxUzJHbUFsel9ubi1zempydW1veFlzcUVYMnhlUWYzN05yMkxOcjI5YXgwY3dRVndpeVltYkVjQXVmSGwtUVBDUTNkRXRFdEVQQ1lxUFVuRlJYMWxwcF95algtYnhaZE5ma1J4SjlSZXdSUDFEYmlPcEVHdU0?oc=5",
+      "source": "Yahoo Finance",
+      "published_utc": "2021-02-09T08:00:00+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "flag": "green",
+      "title_en": "Brazil miner CBMM seeks to sell 45,000 tons of niobium oxide by 2030 - Yahoo Finance",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "The niobium controversy - Revista Pesquisa FAPESP",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FVWl0RHdLelZZdWhwREJmejhqdjdBblVFVXZlVlZWaXJyenBLSDVEMmpEb3RRZnYxc2xaR2kzdXZnSmwwMkk1S3FSZFRvNmhucVJyZEpBQURmemFSOFNBdktDbm9WNDNIaG1LcHYwQUI?oc=5",
       "source": "Revista Pesquisa FAPESP",
@@ -413,5 +412,6 @@
     }
   ],
   "errors": [],
-  "status": "ok"
+  "status": "ok",
+  "commodity": "niobium"
 }

@@ -1,5 +1,6 @@
 {
-  "as_of_utc": "2026-11-14T07:25:34.641138+00:00",
+  "as_of_utc": "2026-11-14T16:48:00.704913+00:00",
+  "fetched_utc": "2026-11-14T16:48:00.704923+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -20,7 +21,19 @@
       "published_utc": "2026-11-12T19:35:53+00:00",
       "query": "Impala Platinum PGM OR Impala palladium",
       "flag": "green",
+      "risk": "green",
       "title_en": "Impala Platinum Holdings Limited (IMPUY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Palladium tariffs and a 20-year production low are driving a quiet rally - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWZvNWo5Z0Fzbl9tYWVMd2dsajNkaUdVcDVhbk5vZXRKM2xXcElxazBPeE9nQmgxVGVsYnoxUXJKNG1mQkNwLTFOVWdZMTJmVUpmRWVUWDEwaDB5YnlPVW1GamJUQ2RqMFZGcWxJM0pydmpXdnBtZ2tsTFlabkFGSHN0a2tLMHJmUTFtbzFPZURmaW8wOU5fR0tEZVhBOWhwcGc?oc=5",
+      "source": "Startup Fortune",
+      "published_utc": "2026-10-26T07:00:00+00:00",
+      "query": "palladium supply OR palladium shortage",
+      "flag": "yellow",
+      "risk": "yellow",
+      "title_en": "Palladium tariffs and a 20-year production low are driving a quiet rally - Startup Fortune",
       "title_en_source": "passthrough"
     },
     {
@@ -30,6 +43,7 @@
       "published_utc": "2026-10-23T07:00:00+00:00",
       "query": "Amplats OR Anglo American Platinum palladium",
       "flag": "green",
+      "risk": "green",
       "title_en": "Platinum & Palladium Deficits Set the Price Backdrop for ValOre's First PEA - Crux Investor",
       "title_en_source": "passthrough"
     },
@@ -40,6 +54,7 @@
       "published_utc": "2026-10-12T07:00:00+00:00",
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
+      "risk": "green",
       "title_en": "Palladium Has Quietly Rallied While Gold and Silver Hog the Headlines - Startup Fortune",
       "title_en_source": "passthrough"
     },
@@ -50,6 +65,7 @@
       "published_utc": "2026-10-07T07:00:00+00:00",
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
+      "risk": "red",
       "title_en": "Union representing Sibanye-Stillwater mine workers ends strike - Montana Free Press",
       "title_en_source": "passthrough"
     },
@@ -60,6 +76,7 @@
       "published_utc": "2026-10-07T07:00:00+00:00",
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "green",
+      "risk": "green",
       "title_en": "Workers reach agreement at Stillwater Mine after month of striking - Bozeman Daily Chronicle",
       "title_en_source": "passthrough"
     },
@@ -70,17 +87,8 @@
       "published_utc": "2026-10-06T07:00:00+00:00",
       "query": "Impala Platinum PGM OR Impala palladium",
       "flag": "green",
+      "risk": "green",
       "title_en": "Palladium Stays Near Its Lows as Vehicle Demand Weakens: Sibanye-Stillwater (NYSE:SBSW), Impala Platinum (OTC:IMPUF) in Focus - kalkine.ca",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Sibanye reaches East Boulder wage agreement; separate US strike continues - Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenFUYXVXVkU3cGk3NEdHZG5PTmlUd2FQeUZaOUNITW1SYlpCVWpoc2dIX1c1Zlk4eXRxQmVQNl9md2xkYWdxLWZTY19XYy1NQTFEbG1ub1pJZk1aTGFQam1OZFZocWE4czdWN3hHR2k1ZmVCSFU4OHdZMkVKR0NrVEtBckFCNkJqSzBxOHk5TmRGa0xXcW9BOFRXTlFQR2dNUVZ0SElTQmVLZUtPWWxFTXlYS3lRS0E3?oc=5",
-      "source": "Shanghai Metals Market",
-      "published_utc": "2026-10-01T07:00:00+00:00",
-      "query": "Sibanye Stillwater palladium OR East Boulder",
-      "flag": "red",
-      "title_en": "Sibanye reaches East Boulder wage agreement; separate US strike continues - Shanghai Metals Market",
       "title_en_source": "passthrough"
     },
     {
@@ -90,6 +98,7 @@
       "published_utc": "2026-09-30T07:00:00+00:00",
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
+      "risk": "red",
       "title_en": "Sibanye confirms wage agreement for East Boulder workers, strikes continue at Stillwater East, Columbus continue - Mining Weekly",
       "title_en_source": "passthrough"
     },
@@ -100,7 +109,19 @@
       "published_utc": "2026-09-30T07:00:00+00:00",
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "green",
+      "risk": "green",
       "title_en": "Sibanye-Stillwater Finalises Wage Agreement At Its US Pgm Operations East Boulder Mine - TradingView",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Sibanye-Stillwater finalises wage agreement at its US PGM operations East Boulder mine - Swiss Resource Capital AG",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRHpNQXcxclZlMUhiN3AwMkJnNGRHdV83VTdUeWVyZlZ6c2NfdUhuUmFQbll6QTE2QlVkNzg2SUxmRjRvUUp2VTI4UjUxWllLUnNVQTBqcXBhOWZoUW5ZY1pxWGZ5Z0duYVEwQWpyS01IMHBveFVDelVoQmY3aFBsS1kyZHJrLUtwSWVjVXZpNnBVYTZ4MDVmcVhPMHM1YXBvSmJuYWwwX1BZV3d3ZHUxM2VZV2VFWG1vTFJibUFvcnpFZ2NUQUZlZnhUY2Q?oc=5",
+      "source": "Swiss Resource Capital AG",
+      "published_utc": "2026-09-30T07:00:00+00:00",
+      "query": "Sibanye Stillwater palladium OR East Boulder",
+      "flag": "green",
+      "risk": "green",
+      "title_en": "Sibanye-Stillwater finalises wage agreement at its US PGM operations East Boulder mine - Swiss Resource Capital AG",
       "title_en_source": "passthrough"
     },
     {
@@ -110,6 +131,7 @@
       "published_utc": "2026-09-29T07:00:00+00:00",
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "green",
+      "risk": "green",
       "title_en": "Sibanye-Stillwater reaches contract agreement with East Boulder mine workers - KTVQ",
       "title_en_source": "passthrough"
     },
@@ -120,6 +142,7 @@
       "published_utc": "2026-09-14T07:00:00+00:00",
       "query": "Amplats OR Anglo American Platinum palladium",
       "flag": "green",
+      "risk": "green",
       "title_en": "3 Best Platinum Stocks for 2026 and How to Invest - The Motley Fool",
       "title_en_source": "passthrough"
     },
@@ -130,7 +153,19 @@
       "published_utc": "2026-09-13T07:00:00+00:00",
       "query": "palladium supply OR palladium shortage",
       "flag": "green",
+      "risk": "green",
       "title_en": "Platinum Market Tightens: Deficit Continues in 2026 - Investing News Network",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Palladium Price Analysis: Can $1,150 Hold as Investors Exit the Market? - FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb05ZcmtnNzNLc2R4RF9xRERXZWIzeWlGdzd5c29GMnNBTWpPVWtkU2YwUU53N1BPZjJJbHNEcWwtMENkTDVOY2pfVGdlUTNwbXhvdXFuVzR1UVdXRXIxOTBWRzhZSVVHUW1kWkNrSlJLdmNJU1paT1o0SklWQzZtaVQwNVBjWVRwdFpHZDN5Q3BWRUlpNlpheTN0SWdDN1ZJVHEtb0hEbFVxeXlUWlJRMTE5UmpwV0kxSWxsTEY4N1NwMmhG?oc=5",
+      "source": "FXEmpire",
+      "published_utc": "2026-09-09T07:00:00+00:00",
+      "query": "palladium supply OR palladium shortage",
+      "flag": "green",
+      "risk": "green",
+      "title_en": "Palladium Price Analysis: Can $1,150 Hold as Investors Exit the Market? - FXEmpire",
       "title_en_source": "passthrough"
     },
     {
@@ -140,6 +175,7 @@
       "published_utc": "2026-09-04T07:00:00+00:00",
       "query": "Impala Platinum PGM OR Impala palladium",
       "flag": "green",
+      "risk": "green",
       "title_en": "Impala Platinum After Earnings: Reiterating Buy Rating Due To Bullish Trends (IMPUY) - Seeking Alpha",
       "title_en_source": "passthrough"
     },
@@ -150,6 +186,7 @@
       "published_utc": "2026-09-03T07:00:00+00:00",
       "query": "Impala Platinum PGM OR Impala palladium",
       "flag": "green",
+      "risk": "green",
       "title_en": "Implats pays out R17bn to shareholders as metal price recovery fills coffers - News24",
       "title_en_source": "passthrough"
     },
@@ -160,6 +197,7 @@
       "published_utc": "2026-09-03T07:00:00+00:00",
       "query": "Impala Platinum PGM OR Impala palladium",
       "flag": "green",
+      "risk": "green",
       "title_en": "Implats takes shine to bite-sized Waterberg JV - MiningMX",
       "title_en_source": "passthrough"
     },
@@ -170,6 +208,7 @@
       "published_utc": "2026-09-03T07:00:00+00:00",
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
+      "risk": "red",
       "title_en": "Strike to begin at Sibanye-Stillwater’s US operations - The Northern Miner",
       "title_en_source": "passthrough"
     },
@@ -180,6 +219,7 @@
       "published_utc": "2026-09-02T07:00:00+00:00",
       "query": "Impala Platinum PGM OR Impala palladium",
       "flag": "green",
+      "risk": "green",
       "title_en": "Implats Hikes Dividend as Profit Soars on Platinum Price Rally - Bloomberg",
       "title_en_source": "passthrough"
     },
@@ -190,6 +230,7 @@
       "published_utc": "2026-09-02T07:00:00+00:00",
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
+      "risk": "red",
       "title_en": "Sibanye-Stillwater (SBSW) receives strike notice for sections of its US pgm operations; East boulder mine not included in strike notice; negotiations continuing - Newsquawk",
       "title_en_source": "passthrough"
     },
@@ -200,6 +241,7 @@
       "published_utc": "2026-09-02T07:00:00+00:00",
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
+      "risk": "red",
       "title_en": "Strike to begin at Sibanye-Stillwater’s US operations - Mining.com",
       "title_en_source": "passthrough"
     },
@@ -210,6 +252,7 @@
       "published_utc": "2026-09-02T07:00:00+00:00",
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
+      "risk": "red",
       "title_en": "Sibanye Stillwater warns it may shut some U.S. PGM operations if workers strike (SBSW:NYSE) - Seeking Alpha",
       "title_en_source": "passthrough"
     },
@@ -220,27 +263,19 @@
       "published_utc": "2026-09-02T04:55:41+00:00",
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
+      "risk": "red",
       "title_en": "Strike looming at Sibanye Stillwater mine as contract talks fall apart - KTVQ",
       "title_en_source": "passthrough"
     },
     {
-      "title": "PGM Deficit Set to Widen as AI Data Center Demand Exceeds Forecasts - Crux Investor",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2ZhTjc4NWRiWVM5YklYUFFyQkc4QXF0anFSWm1ZRjVxWW1aYlpidi1yeXBUQ085OUwxM2Y4dXBzWkpxZWxSbXZUeFU3NXh2X05wX0V2SkIyc1RIVUZ4d3pjbGg1dzBHSTZnSmoxTWx2YjNmVndUM0RTS3dXT3hDNVVmeVRUbkZjZE5mZVVSbHNiQmo5TTBxMTFvdjBRR3RvVHBTVw?oc=5",
-      "source": "Crux Investor",
-      "published_utc": "2026-08-07T07:00:00+00:00",
-      "query": "palladium supply OR palladium shortage",
-      "flag": "green",
-      "title_en": "PGM Deficit Set to Widen as AI Data Center Demand Exceeds Forecasts - Crux Investor",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Platinum surges toward $3,000 as a four-year supply deficit resets the metal's price floor - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSG4yZTVCUjRPWVo4VVctRld5OExycmwyZ3VXS1hQTVVoZ0xvYWwwTHBRcGd2b1NmbkNkRHRUR1VGLUhwejNFeXo2RTV1MGhDNHlxdXh4bVZpNENrVnNzWWM0SHdPRnRralhLTTRlaGlOYUFGc2FnQ2RIMUpneXYwLTVwbXJQSEo1OUc2cWJnRzR6RTNhTmMxeUFLVnV3QW4zeG9md01sRUlITHJIT29OUnJRNlkzdw?oc=5",
+      "title": "Palladium Has Quietly Surged 90% and Russia Tariffs Could Push It Further - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS2dDekdqT2RQdE5oVHpJQU5CMFBnUGRJdm1ZMHR2R2dQY280NWZ2WjVLY1hkT2pRZHFtd0dTMURjTVctU2l5RVB3eHhjeVI3UFI3aVJSMmpQTU85bm9vVXBXdVdUb1VvaEJkTS1zRUU5MUE1R3FNYjJLeTNkSV9iUHV0eEdEckdFdjgwN2ZWOGlBbFEtWDM4b0d3a2tGcUtHa3c?oc=5",
       "source": "Startup Fortune",
-      "published_utc": "2026-07-31T07:00:00+00:00",
+      "published_utc": "2026-08-19T07:00:00+00:00",
       "query": "palladium supply OR palladium shortage",
-      "flag": "green",
-      "title_en": "Platinum surges toward $3,000 as a four-year supply deficit resets the metal's price floor - Startup Fortune",
+      "flag": "yellow",
+      "risk": "yellow",
+      "title_en": "Palladium Has Quietly Surged 90% and Russia Tariffs Could Push It Further - Startup Fortune",
       "title_en_source": "passthrough"
     },
     {
@@ -250,6 +285,7 @@
       "published_utc": "2026-07-20T07:00:00+00:00",
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
+      "risk": "green",
       "title_en": "Experts raise concerns as Russia shifts palladium refining closer to Finland - Yle",
       "title_en_source": "passthrough"
     },
@@ -260,6 +296,7 @@
       "published_utc": "2026-07-16T07:00:00+00:00",
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
+      "risk": "green",
       "title_en": "All of Nornickel’s palladium to be processed on the Kola Peninsula - The Barents Observer",
       "title_en_source": "passthrough"
     },
@@ -270,6 +307,7 @@
       "published_utc": "2026-07-02T07:00:00+00:00",
       "query": "Impala Platinum PGM OR Impala palladium",
       "flag": "green",
+      "risk": "green",
       "title_en": "Impala Platinum: Flat Production, Higher PGM Prices, Vulnerable To Volatility - Seeking Alpha",
       "title_en_source": "passthrough"
     },
@@ -280,6 +318,7 @@
       "published_utc": "2026-06-23T07:00:00+00:00",
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
+      "risk": "green",
       "title_en": "Norilsk Nickel sees 2026 global palladium surplus of 300,000 oz - Mining.com",
       "title_en_source": "passthrough"
     },
@@ -290,6 +329,7 @@
       "published_utc": "2026-06-23T07:00:00+00:00",
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
+      "risk": "green",
       "title_en": "Nornickel forecasts palladium and nickel surpluses through 2027 By Investing.com - Investing.com Nigeria",
       "title_en_source": "passthrough"
     },
@@ -300,6 +340,7 @@
       "published_utc": "2026-05-29T07:00:00+00:00",
       "query": "palladium sanctions OR Russia palladium antidumping",
       "flag": "green",
+      "risk": "green",
       "title_en": "USITC says Russian palladium does not harm America cos, ends probe - Mining.com",
       "title_en_source": "passthrough"
     },
@@ -310,7 +351,19 @@
       "published_utc": "2026-05-21T07:00:00+00:00",
       "query": "palladium sanctions OR Russia palladium antidumping",
       "flag": "yellow",
+      "risk": "yellow",
       "title_en": "US moves closer to prohibitive tariffs on Russian palladium - Reuters",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Platinum, rhodium to outperform palladium in 2026, Metals Focus forecasts - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXy14blZPTU51Z1V2QlhjeDRUVEJFaWNPUHpXS2kyLXFVLUxadHItdnBZbTllRWtkSGE0SF9CU0hVUFdPemZ5ZXhKX0RwODFOaGNxMGVpa3FDUFJKVnFUSzdqWFNuUXZoMTFfZS1hbWYydkJvcmViemRTa3dzOWtXV0RNUlNoM2tKdGJEN1VERkhydlVkVDVBTlJZbThnX3RL?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2026-05-18T07:00:00+00:00",
+      "query": "palladium supply OR palladium shortage",
+      "flag": "green",
+      "risk": "green",
+      "title_en": "Platinum, rhodium to outperform palladium in 2026, Metals Focus forecasts - Mining.com",
       "title_en_source": "passthrough"
     },
     {
@@ -320,7 +373,19 @@
       "published_utc": "2026-05-14T07:00:00+00:00",
       "query": "palladium supply OR palladium shortage",
       "flag": "green",
+      "risk": "green",
       "title_en": "Platinum to remain in deficit this year, while palladium, rhodium may record surpluses – Johnson Matthey - Mining Weekly",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Fed Policy Dissent & Russian Palladium Tariffs Reprice Platinum Group Metals Beyond the Automotive Cycle - Crux Investor",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNUkyekJpSElSMWtvNUR4WHM2YkJkY2RKV0RkVldUNzJQYThhcHpwTlJVUmQ4ZHExNGFiZ3lxQ2FjVUxlcTlDbGthQ0NoR3pvbHE2LXhEemxEZjNxYjUzSFlrOTB6aThEcVBscnBEazc0ZE1HQkhIdGdHRHJQRTZMdk95U2JtdE1zcXFJZ05MVk1mek1LTTNjc2pDVTFqTy1aSlRwVXZabjN0M1ZLM0FSZE9RbjBaYmpPR1FmTTNIcmZzcU5jR2NTMzltcW5YZmdlbThB?oc=5",
+      "source": "Crux Investor",
+      "published_utc": "2026-05-07T07:00:00+00:00",
+      "query": "palladium supply OR palladium shortage",
+      "flag": "yellow",
+      "risk": "yellow",
+      "title_en": "Fed Policy Dissent & Russian Palladium Tariffs Reprice Platinum Group Metals Beyond the Automotive Cycle - Crux Investor",
       "title_en_source": "passthrough"
     },
     {
@@ -330,6 +395,7 @@
       "published_utc": "2026-04-28T07:00:00+00:00",
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
+      "risk": "green",
       "title_en": "Russia’s Nornickel Reports Sharp First-Quarter Drop in Metal Output - The Moscow Times",
       "title_en_source": "passthrough"
     },
@@ -340,6 +406,7 @@
       "published_utc": "2026-04-27T07:00:00+00:00",
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
+      "risk": "green",
       "title_en": "Nornickel says nickel output flat year-on-year in first quarter - Mining.com",
       "title_en_source": "passthrough"
     },
@@ -350,6 +417,7 @@
       "published_utc": "2026-04-23T07:00:00+00:00",
       "query": "palladium supply OR palladium shortage",
       "flag": "green",
+      "risk": "green",
       "title_en": "Platinum or palladium: Which metal is a better investment? - USA Today",
       "title_en_source": "passthrough"
     },
@@ -360,6 +428,7 @@
       "published_utc": "2026-04-16T07:00:00+00:00",
       "query": "Impala Platinum PGM OR Impala palladium",
       "flag": "green",
+      "risk": "green",
       "title_en": "Platinum Group Metals And Impala Platinum Holdings: Why I'm Bullish (OTCMKTS:IMPUY) - Seeking Alpha",
       "title_en_source": "passthrough"
     },
@@ -370,6 +439,7 @@
       "published_utc": "2026-04-14T07:00:00+00:00",
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
+      "risk": "green",
       "title_en": "Nornickel seeks new market for palladium in EVs with catalyst for lithium‑sulphur batteries - Reuters",
       "title_en_source": "passthrough"
     },
@@ -380,37 +450,8 @@
       "published_utc": "2026-03-24T07:00:00+00:00",
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
+      "risk": "green",
       "title_en": "Nornickel bets on AI to find palladium uses - MiningMX",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Russia's Nornickel sees new palladium demand from China’s fibreglass sector - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORFJlTk5TUzRvbTlJVUlqS21nOHY3eVZIbTR6Z1RoNEc0TkZTU2E5X2phRGtHZjVaelM1WW9hMWpEdlBULWNrb2xMbGRvMU5wYWx2S0ZxaW5Rek9vTmpuMWFNckdvNm00Q0cwSEJzazdJa1NaT0U3OUEySDRhNnFwekhJOGFzMTBHeUQxbVMtZ0dLREJMcERhUG5GQ0Q0cG1lX2pVN1hBek9NTFpweGZVSW9hLXZUdTJ2dlZxVXpzalE?oc=5",
-      "source": "Reuters",
-      "published_utc": "2026-03-23T07:00:00+00:00",
-      "query": "Norilsk Nickel palladium OR Nornickel palladium",
-      "flag": "green",
-      "title_en": "Russia's Nornickel sees new palladium demand from China’s fibreglass sector - Reuters",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Sibanye-Stillwater welcomes new US tariff on Russian palladium - MiningMX",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOEZvQmstQWNmTGZjOWs1YkRNVlZ3QXg2dllTSThNM1VYQjJuWXZPN3RiWW5rdVVvbjJQcDBNQkpyM3A2M3BNdUwxamhvUlpzaUpWazEwYS1CcHRFeU1NeGNfSng2eno3bFBvOWlGMlZaNG5OQjBveXNzYjRnOFJTR01UQUpkSlFFblRxMml0Qy1NTl9KN0RzSFFmall5elViMU5UOG4yNVU?oc=5",
-      "source": "MiningMX",
-      "published_utc": "2026-03-18T07:00:00+00:00",
-      "query": "palladium sanctions OR Russia palladium antidumping",
-      "flag": "yellow",
-      "title_en": "Sibanye-Stillwater welcomes new US tariff on Russian palladium - MiningMX",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Sibanye-Stillwater welcomes US commerce dept’s preliminary determination on Russian palladium imports - Mining Weekly",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWWQ1SjdKQ0NCSDcweHNSTzdzS2I4dXIwMThRZGFnck5Oc1RTdGtkbS1hY21LYVVIaVFET0VEV1MyaVIwUGl6RlRpaWk3M0RTMzFid0t3enRtU3hxZmN2QTRmbEZSQzJyTWR6Q2dYbmd1eHZVWU5pRVoyMDVyRkRDdTB5Wkg5SERJYWZXaTIyT3hKRWtYbnUtR3pBNU1EYW5BRDBsWElaWjdndEZSY3RGcHBaOVhJcUl5eVgxMk1aeGZIaWlYT1pBX3lVbWo1X2J6RGp6RW9ldzhaelYxdlBQa0lR?oc=5",
-      "source": "Mining Weekly",
-      "published_utc": "2026-03-18T07:00:00+00:00",
-      "query": "palladium sanctions OR Russia palladium antidumping",
-      "flag": "green",
-      "title_en": "Sibanye-Stillwater welcomes US commerce dept’s preliminary determination on Russian palladium imports - Mining Weekly",
       "title_en_source": "passthrough"
     }
   ],
