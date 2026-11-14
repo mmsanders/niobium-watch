@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-13T21:05:22.519333+00:00",
+  "as_of_utc": "2026-11-14T07:25:34.641138+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -14,13 +14,13 @@
   "item_count": 74,
   "items": [
     {
-      "title": "US gives helium critical material designation - Townsville Bulletin",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQTIyZkREYktFRjBmQmtPVFZGbTRYelpSUEdObXpuTjZLS0ZaZ3VyUUkzWXNrWUhyWnQyRlBuLXYxVHhIejY4VW1UZHhDS2lzUlk1VkVjTFVQQTNuTUFwMG1adGVGWTJDbFUwcnhrSE5RM3lyZzg5b1hOeVVucktiR0QxZFNETENXSnFRUmphdU5YWTBzZFhadUtaZklOTmdfQ3NSMWxKZ082RGZtWGJqOFI1UFp2bjdsbVFjQXdwdmZIR1JtZHFYOXBTeFlxeTV4c3d4YVdzVWlQUGJtU1QtYTFrbUFrZm1YMlN2NHAwQkk5d0JIWkNacnk3bm4waWp6bHQ3Sw?oc=5",
-      "source": "Townsville Bulletin",
-      "published_utc": "2026-11-12T20:48:06+00:00",
+      "title": "Ballooning opportunity for US helium producers as supply squeeze tightens - Stockhead",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOWRSZnJQZ2VOUEF3TTBibDlNMTB3NkpnRzdfTmxuS2ExSHREZUloOXRsclFONUJtWV94OUNuTDBaUTFmT1dybUtENzRjZmVjVWZPUUpOeXR5SGRHeFR6d0wzS1A5cnRZMzVCVW1pYWRKR1VFTWZzM3VvQnhfLWZtcmpqekRVaWtJbWYtaERvWW5rV1Iwb2tXLS1ON0tNT2FVdmdVVERwLTBTQQ?oc=5",
+      "source": "Stockhead",
+      "published_utc": "2026-11-12T19:35:34+00:00",
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
-      "title_en": "US gives helium critical material designation - Townsville Bulletin",
+      "title_en": "Ballooning opportunity for US helium producers as supply squeeze tightens - Stockhead",
       "title_en_source": "passthrough"
     },
     {
@@ -34,16 +34,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "AirLife Gases: The ₹189-Crore Pune Company That Bought 600,000 Acres of Helium Fields in Canada - LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2Y2dlhPRVFubk5JRHZfVTQzNFBvWU5FcHc0Qlp6YkVIMnY5YXpHMjhqVXdwbnYwRzd3NDRQd3RpWk83SWVFb0RlZmE1aFB4ZzlLcUpKRVpsUURWdzFOb3Rzd19EVS1wSTA4Tk1ZTVpXWGpQVlMzZUhXRnpEd1V6a0d6WTZITFRtLWJGUm90ZUVqOWVKM0ZpRw?oc=5",
-      "source": "LinkedIn",
-      "published_utc": "2026-11-07T04:00:32+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "AirLife Gases: The ₹189-Crore Pune Company That Bought 600,000 Acres of Helium Fields in Canada - LinkedIn",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Can chip manufacturers find an alternative to helium? - Marketplace.org",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xaV81U3QyaUNvcExSQ2FGYm1McHhoQ0NfVlpwVGFEVy1FNWxqOWtFeTlzdG1tWUVPM2FLMWhwTUlRMGE3MkdOT3hkSkFLQ3dXZklxVnhBR09LZi1ld2dWT3ZXbGZhR2dONVFFLQ?oc=5",
       "source": "Marketplace.org",
@@ -54,20 +44,20 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Electronic equipment maker Keysight taps insider Jason Kary as finance chief - electronics.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOWM4QjR2ZWgwbmlOQ2RPRDkzZlpYMkxMajhrSW15aGJGX2NYbzdPQ0hVenJRU05KeXJlOXpMM2RKdnlPVERDM25IMVQ2UU5MMks3SkRiRllROFJneC01cDlMUERTa2ZBcks0M3MwUHN4Q0tXSTE0Q21FNmdwUXZ3bXR4UVpRTFJoR1g0NmJsak5QQk8tNmNlUEVrLWs3c01fUFFmMERkVE41Vl9HMFNtZG1PRktRQ3U1R2dyQVVrVU9OTnZxVzRGZldQNkNKUThWZWx4WXlPTFhzVDlXMlRYTjV1Wnc4YmozLS05czVmbUrSAfQBQVVfeXFMUEF2c0xjQlFsV2d3UGRsTnBIMFNkZVN2aXprblVYXzJOLW5qM3E0d1VnSnE4RHg1Vm81TGlmc2hZQzB1UmswS25jbGplZkQwNWY3UGl2eTk1Z2drc21Eb244RzNLNU5zUHZ1dVRmUVRCeHlhbmVQa0ZJbGNBTmZzOXgwcDVFZ195X1ZNQVpxZm5xVVdKUHVUaW9OTXI0TlBVZHBDRk51aEh4Zk9PVVhHekF4VVlZajQwS0tFX0tQSF9mS0xuYlNWSFB4NWdacno1MGFYZm5rRlRJQUZvdVdYTW56bGhuUmRPckZFSEpuUXEzZ01vbQ?oc=5",
-      "source": "electronics.economictimes.indiatimes.com",
-      "published_utc": "2026-11-03T08:00:00+00:00",
+      "title": "Energy juniors diversify supply chains beyond the Gulf - The Australian",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdUp5X2c0aXdpZmxiNy1aN1FveHljT3lvQTZHODYtd0hUX2ZoeTVSZXZRVDFGaDU0QTQ2NDNwNjEwdldPWmk2VG1IaVlNRHJWRDFBQndja3Vfb3VvYTdhVkRjYUJTNHAwOER5NzRST2JOeC1HQ0UwNlc5UVlIeWdVb0lxeVJQbzJiaFZTdzhMRTFoYldnNHdYU3VNaHRXdFlFX3c2cEJDVVc5MXdJQTI4TnQtZHBxcGtZeFBPSXJZSDd5aU1VLWN2b0lvLTJ0aGFBQ0pLV0pfTklCLWRCZFdHLVB1VGdaY3RzOU94dkhzMFlpMWRNZlppU3puSWxvdw?oc=5",
+      "source": "The Australian",
+      "published_utc": "2026-11-05T08:00:00+00:00",
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
-      "title_en": "Electronic equipment maker Keysight taps insider Jason Kary as finance chief - electronics.economictimes.indiatimes.com",
+      "title_en": "Energy juniors diversify supply chains beyond the Gulf - The Australian",
       "title_en_source": "passthrough"
     },
     {
       "title": "BLM Launches Map Identifying Helium Concentrations on Public Lands - Bureau of Land Management (.gov)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU1JLenp0bUt0RTUxaFV0ZFBrTVpDVjN1UFppQ2dvWTZpbnN1Yk8wR1VQUTJpN0NlRC1odU8yY3dNNkRtOHNIMFg4VWZXc08wSFNBR2RBbDc0TWtrUlhUaDQ5UDJ4LS1qTGtRQjg1aHNhRG1GR1VqdTN4MmF6SjNqbmlJX0xtaGtPeklYdEg1dmgxYUdRS2lRUUFLRkw?oc=5",
       "source": "Bureau of Land Management (.gov)",
-      "published_utc": "2026-10-29T12:00:00+00:00",
+      "published_utc": "2026-10-29T07:00:00+00:00",
       "query": "BLM helium OR Cliffside helium",
       "flag": "green",
       "title_en": "BLM Launches Map Identifying Helium Concentrations on Public Lands - Bureau of Land Management (.gov)",
@@ -81,6 +71,16 @@
       "query": "MRI helium shortage",
       "flag": "green",
       "title_en": "Helium is back on the U.S. list of 'critical materials' - Marketplace.org",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "US designates helium as a critical material, citing its importance for semiconductors - Daily Local",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZVNkQmlrNnJQaFgteVJGUGdlMEF3THRFeV8zMXlaVjFYbEdEWlNTTWdKMnMzZnVPc1ZBbFRJa3F2Q1BxNGRiZGpZVFEzakl2b0RGazdMMDU4UXdua3FQS0tibGtGWlEzcmt0VjR5NGpIS3AzcGl0Q1RBcWR5dHM2Vg?oc=5",
+      "source": "Daily Local",
+      "published_utc": "2026-10-23T07:00:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "US designates helium as a critical material, citing its importance for semiconductors - Daily Local",
       "title_en_source": "passthrough"
     },
     {
