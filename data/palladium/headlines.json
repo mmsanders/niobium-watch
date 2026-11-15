@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-15T07:37:02.328176+00:00",
+  "as_of_utc": "2026-11-15T20:01:54.869311+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -21,16 +21,6 @@
       "query": "palladium supply OR palladium shortage",
       "flag": "yellow",
       "title_en": "Palladium tariffs and a 20-year production low are driving a quiet rally - Startup Fortune",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Platinum & Palladium Deficits Set the Price Backdrop for ValOre's First PEA - Crux Investor",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3ZFNXE0anR5WUNiUTRMZ3FWcXRHa3o2ZlNib3RQVl9tX09YaTMxenFwU1JKR044dHpERkRkZnpXWVd3RDR3NGw5b05CeXFMNWVtMjEtdjJvbjJKNEdhRVE4Y19xQlB4YXctZWhFQ3ZoZXhjd0Fnd1poUGFVRzY5UTNhYWNPLXNocUxUMnlKV3FSNG5hZlFyRVRlbGFURzFRWEcycm1vR041Ymc?oc=5",
-      "source": "Crux Investor",
-      "published_utc": "2026-10-23T07:00:00+00:00",
-      "query": "Amplats OR Anglo American Platinum palladium",
-      "flag": "green",
-      "title_en": "Platinum & Palladium Deficits Set the Price Backdrop for ValOre's First PEA - Crux Investor",
       "title_en_source": "passthrough"
     },
     {
@@ -121,16 +111,6 @@
       "query": "Amplats OR Anglo American Platinum palladium",
       "flag": "green",
       "title_en": "3 Best Platinum Stocks for 2026 and How to Invest - The Motley Fool",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Platinum Market Tightens: Deficit Continues in 2026 - Investing News Network",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wRTg3aUhOWWFNdkwtVEZGZGlzNjByekxJV19jLVpQTTlfOXZqb0dzSy1TSmR5ejlOdkZORDhJNmF6RkJZdTlIMGFlWFVTVUJQQnNGNlFZUmZpeXM4WEM3UUhuNmpvYVE?oc=5",
-      "source": "Investing News Network",
-      "published_utc": "2026-09-13T07:00:00+00:00",
-      "query": "palladium supply OR palladium shortage",
-      "flag": "green",
-      "title_en": "Platinum Market Tightens: Deficit Continues in 2026 - Investing News Network",
       "title_en_source": "passthrough"
     },
     {
@@ -284,6 +264,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Top 5 Palladium and Platinum Producers by Country - Investing News Network",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWm82N3NYbWZKMmU2LW8xV1VlREpuUUhqZlBIVkNFZFo2QTZjMjdpbWNSUjg0bzFIYVdnLXd3REVOUzBQVEFXLTNSbmk4RmxMRkpGa2szQktqbXB6R2l6ZjJxV3RsSDN6c05hanNWVWg5TjZIWHhSNVkwb0Z6akpBckw0c1BhOVJxSEdjWVhfd2F0aVdwTVprR2RwbXprRTZUZGdWc0pBRWl6UTRyc0dCZ3B1WTVmTXg3RkNWQ1dlRW5RMnZZYmNaWkFrM3FPSTZ1YkJhZFN3?oc=5",
+      "source": "Investing News Network",
+      "published_utc": "2026-05-27T07:00:00+00:00",
+      "query": "palladium supply OR palladium shortage",
+      "flag": "green",
+      "title_en": "Top 5 Palladium and Platinum Producers by Country - Investing News Network",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "US moves closer to prohibitive tariffs on Russian palladium - Reuters",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdkZKS1RaakJkMkVXV0V0SjlQMDJGaFotdldibjdFQnZWTFg0UWtNZXBkTGJVai1GTXZIR2VaX2F0dnZzT2tqZDhtbV83RGRVTFlKUmt3UmZLUWswRXhvT0xDazh1VjA1N3NNdHg3d3ZuWldaMGRCY3BYQWhuNXFTbVE3TnF4N0RyeEtkckNaQUppWXdaZEZBNkZrWUlzSm8?oc=5",
       "source": "Reuters",
@@ -391,6 +381,16 @@
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
       "title_en": "Russia's Nornickel sees new palladium demand from China’s fibreglass sector - Reuters",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "ValOre Metals: Brazil's Best-Kept Secret in a Platinum & Palladium Supply Crisis - Crux Investor",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaXdCWDY3WFNlbDF3emhwczFvQWxma1kwQTR1RE1Ya0FSZnVlZHF5Uml6dVJnT1h6dG93Tzd6czc4ZjRsWENXZ0xOekM3eUE4NUtkR281d25QUVBXZUFkODhLZVgwUW52ZG9Rc0hXSUQ4RmxRZkZZTENtelZvZmZnNVlYR09NTmJ0MkhyYUs3NU9XS08tNW5HN29NSUNRM3ZobDluYXNzR1JkNXJFNDZ0SQ?oc=5",
+      "source": "Crux Investor",
+      "published_utc": "2026-03-18T07:00:00+00:00",
+      "query": "palladium supply OR palladium shortage",
+      "flag": "green",
+      "title_en": "ValOre Metals: Brazil's Best-Kept Secret in a Platinum & Palladium Supply Crisis - Crux Investor",
       "title_en_source": "passthrough"
     },
     {
