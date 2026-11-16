@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-16T07:42:37.331404+00:00",
+  "as_of_utc": "2026-11-16T23:35:22.600667+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 43,
+  "item_count": 34,
   "items": [
     {
       "title": "Steadright Begins Exploration at Péribonka Ree-Niobium Carbonatite Target in Quebec's Niobium District - Investing News Network",
@@ -72,16 +72,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQczJON05BR3h4aXBLT2pnWGVzMF95NXhEdVE4QlpGc0NRV2VWdHcxSnZjSTYxc1lyY2ZSNGNCQ0VmcHhxLWlPamx5QVRoeVp4anJacUduN1d5WnlnV05xVlYzakJmNW5wWHFKdzNzclc1TU9ienh4QWs2VVdOUG8ybXgwTlY2NjBkZE1fT2ZNdnBHblh6VnIxeTVmSUZKNzJ5Q0Q5TWRsT3JBUVhUcTVucVFlT3ZWa3RCeVZRS2pnN2Zkd1RTLVNsMlNfTlJHYVhn?oc=5",
-      "source": "Next Investors",
-      "published_utc": "2026-06-11T07:00:00+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "green",
-      "title_en": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Tanzania seals strategic minerals deal - Daily News",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WUlhrQWpuZHdCc0pHaUZfMTVJc0RqWk5KRU94UmNPaHBZc0hTUkprMlNNVHFUSlIxMmVzdzR2SHlGZm16N01zR3pGN3kzdnRfdWJuWlV2OThvYnpEdHZEVVJhVzA2QmlUQTJlZW82azQ?oc=5",
       "source": "Daily News",
@@ -99,56 +89,6 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "JFE Steel, Nippon Steel, Sojitz, JOGMEC, POSCO and NPS Form Japan-Korea PartnershipGroup to Invest in Brazilian Producer of Niobium, Critical Alloying Element for High-Grade Steel Products : 2010 News Releases | Japan Organization for Metals and En - www.jogmec.go.jp",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "CMOC Brasil's record-breaking niobium production confirms its leading global position. - IBRAM - Mineração do Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUjh3TnVPQVZrZ0ZEZWxSai1naE9RMEQ2bVM3RnhBTHVtMDhFVU9WY0VPcVBaaGFzOGVaZG9tZHluOE5PV2NCS190SWw5SXhyYVJFRjFpaVVxbS1iNUtITWZSalBWSF9GTTAxUUp1NGZXM2J5QU9rS1RwU0JHWjBIWGRHeTVjQkF3aktZNUQzRkFSZmRVeWNXWFpHdW03d1ZncHhfMFRqWUhLUzhkM3lJT2d6aW91WmVQYlhkLWFGUVRsTDVRU3c?oc=5",
-      "source": "IBRAM - Mineração do Brasil",
-      "published_utc": "2026-02-26T15:29:25+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "green",
-      "title_en": "CMOC Brasil's record-breaking niobium production confirms its leading global position. - IBRAM - Mineração do Brasil",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "China’s CMOC makes US$1 billion Brazil gold push as bullion jumps on rising global risks - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPemJoUVZZT3ZQLWNBOUNXemwtM2JxMVBydG5TVG9FN1N1aGpVUllJaXBod2RYV1ppUU1JdVdxQ3c0bDZHUHg1YnlaTmFVUE1oZVpiaUZ1WmthQU9yZzNIRWVWZ0gtQ3g2STRBVm11b0kwLWdXemUxblF5QkZkc3RTTTlfcmdhY0FHS1VQVDFlV2lDZ1RQajNuS3Jia2J0N0drTzItWm1HWVVaeDdLYlQ5enZwTnNPSllrQU9zcnJUQWtVUVZ3Rldn0gHHAUFVX3lxTFB6dzM0TXlQY1VmMFZXV3VVUklESWpqQ24wMTBKM1Myend6QW1tbGFFWlhzNWRhMUdmdHVUTFFuUXdnczRnNGpaTENuTlVkVDRCR3NvUHhNSGstZkJVMl90ZTQwMXlualNkanBjUDFqM2xrSTVOZ2dRX3hjRVJKZFN4UlN3N3dlajNyYk5hV1diQjNMTVhhVkVLcUV0QXpEZ2NTbWtSa0VDMW84N1k0ZmpfM1l4M2tBNm1JcmdNNW9YWDlQcUx1T1k?oc=5",
-      "source": "South China Morning Post",
-      "published_utc": "2026-01-28T08:00:00+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "green",
-      "title_en": "China’s CMOC makes US$1 billion Brazil gold push as bullion jumps on rising global risks - South China Morning Post",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "How a Chinese mining giant learned to win in Brazil - Nikkei Asia",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVlkwODB4WnhNVHo2Ukc3NmZsT2lyVGRoUWVjUjVXajliXzNRS1c3YXRKWWVtRGhjTjVLOEIxaDhsU2ZGZldjQWFtVmtqb0dISHFmRHhLWmxTVjFIblFkQ3pJNmxIeTBNMEtVRGt5RVlqdHJMdzlkUUZZOHNGZWtVbjJfaVJEblhlTDdnTFo0TGtKMl84TnlV?oc=5",
-      "source": "Nikkei Asia",
-      "published_utc": "2026-01-04T08:00:00+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "green",
-      "title_en": "How a Chinese mining giant learned to win in Brazil - Nikkei Asia",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "In Depth: How a Chinese Mining Giant Learned to Win in Brazil - Caixin Global",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHp5R3hiT1NOV1RvQXhDMHN0aXFmMWZCYXl4YzVYOTZSMnN3OHVsNjd2RzZWV1VTU3JpWjZBWENoczlqd1JGOU5KeVJ4ZXNpcU1FZGZxTC1naEF4WklMamRldWdyNW9DdThiNFdvNkRSZnd3T3hrMXYzak5tdlpSLUpzcE5BcUFldjdsNldnLTFUN3dmUHNyd2pUTDFlRDJzVy1xQU1QNlF0ZjdYek8yVk16N0VsQQ?oc=5",
-      "source": "Caixin Global",
-      "published_utc": "2025-12-18T08:00:00+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "green",
-      "title_en": "In Depth: How a Chinese Mining Giant Learned to Win in Brazil - Caixin Global",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Niobium Mines and Producers: Output, Reserves, Uses - Farmonaut",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVEhkdkJhNHZ4Qm1xVnl6Wjcya1NIeFFNaUtMUDdhVHdDMWdsQWgzMkJpOHRSVXg4cHBpLW5QSUNGOFJQUjQ1OGFLczEweERUN2dGcjZoaDh2QzJqTTJPRnN1eUk5R0hhNWpnS2hxVHF6MDA0UVNsUk1aOUs2RFJPcTN3?oc=5",
-      "source": "Farmonaut",
-      "published_utc": "2025-12-10T22:03:20+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "green",
-      "title_en": "Niobium Mines and Producers: Output, Reserves, Uses - Farmonaut",
       "title_en_source": "passthrough"
     },
     {
@@ -179,16 +119,6 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "Sojitz’s Niobium Business: Ensuring Stable Supply of an Essential Additive in High-Strength Steel Manufacturing - 双日株式会社",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "China's CMOC eyes more M&A opportunities in Africa, South America - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeXhLWnNLS1lTMk5ISkJSUXdqaVBsMEdMX1kyVjFxYnVlYXBzaWdFLUpFNVh5UWFLVEVGZWFxc2o3WFVFWHNVSEtzNm0wMGIydmxsWnBDdVpISzE0MU9Id3JMcjAyRHB5LWtkemJvTE40U1lnQi1OdnVKd2dERTEtR3NxOVlLN0dHX1VaTmFEaE05OFQ0d3hrT2ZzNmFQSmRXeXZOYWFoVUV6ZTBaeUR4bFZwaXdFZw?oc=5",
-      "source": "Reuters",
-      "published_utc": "2025-08-25T07:00:00+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "green",
-      "title_en": "China's CMOC eyes more M&A opportunities in Africa, South America - Reuters",
       "title_en_source": "passthrough"
     },
     {
@@ -322,13 +252,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR181N2xrZ1N4Wkh1OUdzWHgxamw4NWR3dnZQclNITXBLTUNNTlBkbzJPek1QdHRtc21PemhXUEo3RzJFYWtyMHFCcmdtc1N5OVhzY3ZaSGp5bjV3ZWRCemM3V0tXbENaaGgyQnFQMlBySE5LelFjT2FwYWZpQkdwZ1Njc2ZMTURQeFlQQUZZVC1jbUtmOHN3WXludF9raTJ0ZjhBSmpuamNtelVIdmtocHVrMll1QWsxajFFY0tRTEpEZTN6NHRuOG90M3k2WUFjWnhDTU5EeUtWRGdSeVBOVnRpSmJmV2J0SUdseUdVYw?oc=5",
-      "source": "Investing News Network",
-      "published_utc": "2021-12-16T08:00:00+00:00",
+      "title": "Niobec unique in North America - Canadian Mining Journal",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeG5pLXoyTGYzR3BSXzJOWnFPVXUxWkl6MU1GSkY2VDhFT1otUHBJeGQ4Ync4by1RaENtd3BJYmZ4eGZCMmxFT0x6Ym8yN29JcXNZR0ZaTEZaWHlOUEpkSWlyM2czUmZRSUt2YXk3MS04bXZqakFuOGFNU20ySkxFSWdrOUhOVndBX0xDb0x1VQ?oc=5",
+      "source": "Canadian Mining Journal",
+      "published_utc": "2021-06-30T14:31:51+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "Exploration Update: Noble Minerals Acquires a Critical and Strategic Mineral Prospect North of Hearst, Ontario - Investing News Network",
+      "title_en": "Niobec unique in North America - Canadian Mining Journal",
       "title_en_source": "passthrough"
     },
     {
@@ -410,8 +340,20 @@
       "flag": "green",
       "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
       "title_en_source": "passthrough"
+    },
+    {
+      "title": "Niobec Niobium Mine, Quebec - Mining Technology",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jamI0b3VxRG04dWRDOHZQbTV0ZW9JeGxzQ2NsMGlCTkhOMGpVTWl6dzFEYUdZMmgxUW5XVC1WUXRya1VaQVF0MkJGYzNwMEVzSDBQam81Vk1aSGk4U2xOeU05UjZBdXNERFItR3IwTTZDU090NEpZUGJB?oc=5",
+      "source": "Mining Technology",
+      "published_utc": "2012-09-10T07:00:00+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "Niobec Niobium Mine, Quebec - Mining Technology",
+      "title_en_source": "passthrough"
     }
   ],
-  "errors": [],
+  "errors": [
+    "CMOC Catalão nióbio OR niobium: HTTP Error 429: Too Many Requests"
+  ],
   "status": "ok"
 }
