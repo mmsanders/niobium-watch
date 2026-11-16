@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-15T20:01:54.869311+00:00",
+  "as_of_utc": "2026-11-16T07:42:37.331404+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -11,7 +11,7 @@
     "MRI helium shortage",
     "Shute Creek helium OR LaBarge helium"
   ],
-  "item_count": 73,
+  "item_count": 74,
   "items": [
     {
       "title": "Helium 10 MCP: Decisions, Not Dashboards - Buttondown",
@@ -21,16 +21,6 @@
       "query": "Qatar helium OR QatarEnergy helium",
       "flag": "green",
       "title_en": "Helium 10 MCP: Decisions, Not Dashboards - Buttondown",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Ballooning opportunity for US helium producers as supply squeeze tightens - Stockhead",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOWRSZnJQZ2VOUEF3TTBibDlNMTB3NkpnRzdfTmxuS2ExSHREZUloOXRsclFONUJtWV94OUNuTDBaUTFmT1dybUtENzRjZmVjVWZPUUpOeXR5SGRHeFR6d0wzS1A5cnRZMzVCVW1pYWRKR1VFTWZzM3VvQnhfLWZtcmpqekRVaWtJbWYtaERvWW5rV1Iwb2tXLS1ON0tNT2FVdmdVVERwLTBTQQ?oc=5",
-      "source": "Stockhead",
-      "published_utc": "2026-11-12T19:35:34+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "Ballooning opportunity for US helium producers as supply squeeze tightens - Stockhead",
       "title_en_source": "passthrough"
     },
     {
@@ -61,6 +51,16 @@
       "query": "MRI helium shortage",
       "flag": "green",
       "title_en": "Helium is back on the U.S. list of 'critical materials' - Marketplace.org",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Garrison Ventures' Richard Brook Featured on CBS News' 60 Minutes Examining Global Helium Supply Crisis - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTkR3ZUdLVlo0NmxKZ3dfSi1lRVluX0ZCVElDTkY3NWZJM2QxWUNkQVVCb2k4Ym51dVItRGM3bS1uc0VJYnh1NFpJR0xJVVI3SkIwa2VReGxHb01NNEdZRUdqTEJ4SDdlQmZ2M3A2OVpmdnlJMzJQeXVEbUE3dmZvRkwzSGxFZm5Wb2ZUX3BqaFE0LVZucEZhMjdsMERvTU5jQTBSZkNJalp4bzF5TVZHc1RRdlBTVENodW1aRVN5NzBFcklxanRvWnlFY3V3YmVIeFFwTHZ6RGFBRkNFTEJsYldQRlg2Wk1R?oc=5",
+      "source": "USA Today",
+      "published_utc": "2026-10-22T07:00:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "Garrison Ventures' Richard Brook Featured on CBS News' 60 Minutes Examining Global Helium Supply Crisis - USA Today",
       "title_en_source": "passthrough"
     },
     {

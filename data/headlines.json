@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-15T20:01:54.869311+00:00",
+  "as_of_utc": "2026-11-16T07:42:37.331404+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 44,
+  "item_count": 43,
   "items": [
     {
       "title": "Steadright Begins Exploration at Péribonka Ree-Niobium Carbonatite Target in Quebec's Niobium District - Investing News Network",
@@ -89,16 +89,6 @@
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
       "title_en": "Tanzania seals strategic minerals deal - Daily News",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Niobium partnership in Brazil gains governance boost - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVdrZktMV2RjTVlyVUo5Rl81N3c5UWdTMnBIeHZTX240TVdkdFdFSXk0dVZlcFVVbEJOcWw4RU9aWVVhdzlINVl4a2Vpbm03czBwemsyVDNURVlGUGFkb0JkRzBfdFBJc1V3OGVJZE1VaHBXSHJ3ZmtjQW9NNkxYOXdXOUV0UW4yc1gtNTlGNEM?oc=5",
-      "source": "BNamericas",
-      "published_utc": "2026-03-04T08:00:00+00:00",
-      "query": "CBMM nióbio OR ferronióbio OR niobium",
-      "flag": "green",
-      "title_en": "Niobium partnership in Brazil gains governance boost - BNamericas",
       "title_en_source": "passthrough"
     },
     {
@@ -312,16 +302,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "SLAM Exploration Acquires New Niobium Critical Mineral Project - Junior Mining Network",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWmlCR0JzWUdHdW03US1aeGhhNHBHdWpwemhtM2JHZ0dLNHhpb2RnOWRDVEJWWlVzU1JjaVdGSVN4dEdmZjQ0dzhkLW05VFdsOXVzSGJJU01KQW85MnlXRlk4N19zSjVHVWhUYkp3dlo5ZDRXN21YazJTV29ZSVpOUDVhT3ROMEtkMG1EcWp6eVdRMzkwOTBwVjJrUDBsMmlqSm9iUGItdk9fNmMyWTh0UmhrbHFvY0t6YUZ4b1I4V04xT013bjBsWlFEb2FjVEFzeS03Z04yZkYxMk1BZmZSY3hkd25HRzNLdkxHWFcySnlFalVhTGc?oc=5",
-      "source": "Junior Mining Network",
-      "published_utc": "2023-10-25T07:00:00+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "SLAM Exploration Acquires New Niobium Critical Mineral Project - Junior Mining Network",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Ferroniobium Market | Global Market Analysis Report - 2036 - Fact.MR",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xWUxSYnFHV1puZHg2WUN2ajhobFNDTWNBa1dLVF82UTNOb2trYmlmS2JTWTdCMWV6b1ZMWmNBVTBCVWJ4SlVrTTJKXzllMG1WeUNEaHpQSkw0ZHRpNFE?oc=5",
       "source": "Fact.MR",
@@ -409,6 +389,26 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "Nióbio: G1 visita em MG complexo industrial do maior produtor do mundo - G1",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "At a Glance: Niobium powerhouse CBMM - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01RGYwSE5TOElGb1hxRXNKNVo1THhZbkx6bWt3UFY2eUhWWkpwWHU1Y1ZmbGtIaHFmVVJxb2J6eGdES3FfbmdRRkpjd3l5WERoWkdLQ3VvZzd6ZThPVEg1dGJ3alRUYXhOMkNVVFhTX0FFV0hWVUlSTVJLWlpnbkU?oc=5",
+      "source": "BNamericas",
+      "published_utc": "2019-08-30T07:00:00+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "flag": "green",
+      "title_en": "At a Glance: Niobium powerhouse CBMM - BNamericas",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzJvbTdLamF2RExoWTMxbXZRSjUxU29lenJmdjVOWmp4ak5BYUZCWEMwSU9ReTV6bmhZMFl2Z3BwbkgxTDNhMVdka25tOU9saG54cXF0SDRhTHZLemNzTkpEd0ZXSERPU1B6ckEzdy03T09Oa25Zek5pYVJrNVVNTDhjOFJoS3ZDVXFhNXlNNHB2OE1VVUhtajNCNW9vbGo2MjdxZ0ZkUU82S1ZlZFE?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2019-06-13T14:20:20+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
       "title_en_source": "passthrough"
     }
   ],
