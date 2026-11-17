@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-17T08:51:56.877693+00:00",
+  "as_of_utc": "2026-11-17T22:43:24.498810+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 34,
+  "item_count": 44,
   "items": [
     {
       "title": "Steadright Begins Exploration at Péribonka Ree-Niobium Carbonatite Target in Quebec's Niobium District - Investing News Network",
@@ -92,6 +92,56 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "CMOC Brasil's record-breaking niobium production confirms its leading global position. - IBRAM - Mineração do Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUjh3TnVPQVZrZ0ZEZWxSai1naE9RMEQ2bVM3RnhBTHVtMDhFVU9WY0VPcVBaaGFzOGVaZG9tZHluOE5PV2NCS190SWw5SXhyYVJFRjFpaVVxbS1iNUtITWZSalBWSF9GTTAxUUp1NGZXM2J5QU9rS1RwU0JHWjBIWGRHeTVjQkF3aktZNUQzRkFSZmRVeWNXWFpHdW03d1ZncHhfMFRqWUhLUzhkM3lJT2d6aW91WmVQYlhkLWFGUVRsTDVRU3c?oc=5",
+      "source": "IBRAM - Mineração do Brasil",
+      "published_utc": "2026-02-26T15:29:25+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "CMOC Brasil's record-breaking niobium production confirms its leading global position. - IBRAM - Mineração do Brasil",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "China’s CMOC makes US$1 billion Brazil gold push as bullion jumps on rising global risks - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPemJoUVZZT3ZQLWNBOUNXemwtM2JxMVBydG5TVG9FN1N1aGpVUllJaXBod2RYV1ppUU1JdVdxQ3c0bDZHUHg1YnlaTmFVUE1oZVpiaUZ1WmthQU9yZzNIRWVWZ0gtQ3g2STRBVm11b0kwLWdXemUxblF5QkZkc3RTTTlfcmdhY0FHS1VQVDFlV2lDZ1RQajNuS3Jia2J0N0drTzItWm1HWVVaeDdLYlQ5enZwTnNPSllrQU9zcnJUQWtVUVZ3Rldn0gHHAUFVX3lxTFB6dzM0TXlQY1VmMFZXV3VVUklESWpqQ24wMTBKM1Myend6QW1tbGFFWlhzNWRhMUdmdHVUTFFuUXdnczRnNGpaTENuTlVkVDRCR3NvUHhNSGstZkJVMl90ZTQwMXlualNkanBjUDFqM2xrSTVOZ2dRX3hjRVJKZFN4UlN3N3dlajNyYk5hV1diQjNMTVhhVkVLcUV0QXpEZ2NTbWtSa0VDMW84N1k0ZmpfM1l4M2tBNm1JcmdNNW9YWDlQcUx1T1k?oc=5",
+      "source": "South China Morning Post",
+      "published_utc": "2026-01-28T08:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "China’s CMOC makes US$1 billion Brazil gold push as bullion jumps on rising global risks - South China Morning Post",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "How a Chinese mining giant learned to win in Brazil - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVlkwODB4WnhNVHo2Ukc3NmZsT2lyVGRoUWVjUjVXajliXzNRS1c3YXRKWWVtRGhjTjVLOEIxaDhsU2ZGZldjQWFtVmtqb0dISHFmRHhLWmxTVjFIblFkQ3pJNmxIeTBNMEtVRGt5RVlqdHJMdzlkUUZZOHNGZWtVbjJfaVJEblhlTDdnTFo0TGtKMl84TnlV?oc=5",
+      "source": "Nikkei Asia",
+      "published_utc": "2026-01-04T08:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "How a Chinese mining giant learned to win in Brazil - Nikkei Asia",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "In Depth: How a Chinese Mining Giant Learned to Win in Brazil - Caixin Global",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHp5R3hiT1NOV1RvQXhDMHN0aXFmMWZCYXl4YzVYOTZSMnN3OHVsNjd2RzZWV1VTU3JpWjZBWENoczlqd1JGOU5KeVJ4ZXNpcU1FZGZxTC1naEF4WklMamRldWdyNW9DdThiNFdvNkRSZnd3T3hrMXYzak5tdlpSLUpzcE5BcUFldjdsNldnLTFUN3dmUHNyd2pUTDFlRDJzVy1xQU1QNlF0ZjdYek8yVk16N0VsQQ?oc=5",
+      "source": "Caixin Global",
+      "published_utc": "2025-12-18T08:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "In Depth: How a Chinese Mining Giant Learned to Win in Brazil - Caixin Global",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Niobium Mines and Producers: Output, Reserves, Uses - Farmonaut",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVEhkdkJhNHZ4Qm1xVnl6Wjcya1NIeFFNaUtMUDdhVHdDMWdsQWgzMkJpOHRSVXg4cHBpLW5QSUNGOFJQUjQ1OGFLczEweERUN2dGcjZoaDh2QzJqTTJPRnN1eUk5R0hhNWpnS2hxVHF6MDA0UVNsUk1aOUs2RFJPcTN3?oc=5",
+      "source": "Farmonaut",
+      "published_utc": "2025-12-10T22:03:20+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "Niobium Mines and Producers: Output, Reserves, Uses - Farmonaut",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Codemig, CBMM renew niobium deal until 2070 - Valor International",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUEtzdDB3Tmtpc09yLXE5a1Z6ZUt2cVo0SUZDd2dEX2YwdUEyb0pTRW5fS3JlVkpZNldtUF8teGp0M3BJRVQ0aGJZSGY5eG9Hc3I2d3FhdE82SUd4VWNBazJiVGpDQXI4T2x2azVnYkRUUlRGZmdaMDRsUTJpSHZpOGtOSUxfYzFVdWliZmFrMGpXX3ItMlVJMy1GdXNYTm0wblNKZUFFT2Z0U1Qxbi1R0gG-AUFVX3lxTE40b0JEZXc5MnRPOFQxblFyTzEtZDZXcGRpZDBXUEpTZlZZb1ZuMnZGMWNERlZSWTNTWVZUTHNSOVAwakd4U2xVc2Z2c0h2X1lVSTNzNUZBSGJFSVdtblcyMHd6VlI5MnVXV3NlNjZDeTlqVGJ5VzY3a2lSWVQ3cWNQSFFiWkpnNHlGRUNTVHpLZXpuNWdXUXlfaE9GVVdISUhWS3NFSk1CMlF1U19kR2tQYTJKc25EdEJVNEIwZnc?oc=5",
       "source": "Valor International",
@@ -119,6 +169,16 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "Sojitz’s Niobium Business: Ensuring Stable Supply of an Essential Additive in High-Strength Steel Manufacturing - 双日株式会社",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "China's CMOC eyes more M&A opportunities in Africa, South America - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeXhLWnNLS1lTMk5ISkJSUXdqaVBsMEdMX1kyVjFxYnVlYXBzaWdFLUpFNVh5UWFLVEVGZWFxc2o3WFVFWHNVSEtzNm0wMGIydmxsWnBDdVpISzE0MU9Id3JMcjAyRHB5LWtkemJvTE40U1lnQi1OdnVKd2dERTEtR3NxOVlLN0dHX1VaTmFEaE05OFQ0d3hrT2ZzNmFQSmRXeXZOYWFoVUV6ZTBaeUR4bFZwaXdFZw?oc=5",
+      "source": "Reuters",
+      "published_utc": "2025-08-25T07:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
+      "flag": "green",
+      "title_en": "China's CMOC eyes more M&A opportunities in Africa, South America - Reuters",
       "title_en_source": "passthrough"
     },
     {
@@ -189,6 +249,16 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "CBMM launches world’s first Niobium-based battery anode production facility in Brazil - Electric & Hybrid Vehicle Technology International",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "CBMM unveils world’s largest Niobium anode production facility - Engineer Live",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDFTbjJhdmtyYTNlWDZGYmRWR3k4VUZQeTJMck1RblViUGVRdkJtbm1tekZIWXN4MUlYbmRJeGdDMUxtMDFhLWRMRUpENE1kXzllVExNak11LTFxMWxEb1l4Y1FmUGkyWTBPWDI4Y3N2bWY3eDAwcFNmSDdWQjNuR3VLdFo2dkxad3daaF9tVlc?oc=5",
+      "source": "Engineer Live",
+      "published_utc": "2024-11-19T08:00:00+00:00",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
+      "flag": "green",
+      "title_en": "CBMM unveils world’s largest Niobium anode production facility - Engineer Live",
       "title_en_source": "passthrough"
     },
     {
@@ -272,16 +342,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Brazil miner CBMM seeks to sell 45,000 tons of niobium oxide by 2030 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93S3oxUzJHbUFsel9ubi1zempydW1veFlzcUVYMnhlUWYzN05yMkxOcjI5YXgwY3dRVndpeVltYkVjQXVmSGwtUVBDUTNkRXRFdEVQQ1lxUFVuRlJYMWxwcF95algtYnhaZE5ma1J4SjlSZXdSUDFEYmlPcEVHdU0?oc=5",
-      "source": "Yahoo Finance",
-      "published_utc": "2021-02-09T08:00:00+00:00",
-      "query": "CBMM nióbio OR ferronióbio OR niobium",
-      "flag": "green",
-      "title_en": "Brazil miner CBMM seeks to sell 45,000 tons of niobium oxide by 2030 - Yahoo Finance",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "The niobium controversy - Revista Pesquisa FAPESP",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FVWl0RHdLelZZdWhwREJmejhqdjdBblVFVXZlVlZWaXJyenBLSDVEMmpEb3RRZnYxc2xaR2kzdXZnSmwwMkk1S3FSZFRvNmhucVJyZEpBQURmemFSOFNBdktDbm9WNDNIaG1LcHYwQUI?oc=5",
       "source": "Revista Pesquisa FAPESP",
@@ -332,28 +392,26 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Former Barrick chief buys Iamgold mine - Mining.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44VDlHc1B2VlBJTTdhQ09yLVZHSzNuRlgzeEhaYkZfYlJPX2NGWmk4Ujk2cE5WbmVwVGRWU0tiOEJCcmlDdjlqb25xT1VyT2huNFhOOVVNcVNNVGpmcm1iN2Nob2llcUltd0NfR1hOSm9aS0dOMWJJ?oc=5",
-      "source": "Mining.com",
-      "published_utc": "2014-10-03T07:00:00+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
+      "title": "Niobium’s silent impact in Brazil - Dialogue Earth",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmVaQWNsQmlmaXhienBwLXFQRkVpaVJlUWpsdHFGTG9ETWVESzZfWUw0MlZzZWdYRzI5WmJUTmdUd0tNMzRVMXdVZi1HeG0wV2JON0RCeWE1aHBKZnoxY3pxRnpGSVBtUU5rbnFkZTRTbGdVdHc0V3BLdi1GVVd1Zw?oc=5",
+      "source": "Dialogue Earth",
+      "published_utc": "2019-04-05T07:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
-      "title_en": "Former Barrick chief buys Iamgold mine - Mining.com",
+      "title_en": "Niobium’s silent impact in Brazil - Dialogue Earth",
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobec Niobium Mine, Quebec - Mining Technology",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jamI0b3VxRG04dWRDOHZQbTV0ZW9JeGxzQ2NsMGlCTkhOMGpVTWl6dzFEYUdZMmgxUW5XVC1WUXRya1VaQVF0MkJGYzNwMEVzSDBQam81Vk1aSGk4U2xOeU05UjZBdXNERFItR3IwTTZDU090NEpZUGJB?oc=5",
-      "source": "Mining Technology",
-      "published_utc": "2012-09-10T07:00:00+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
+      "title": "Hands off Brazil's niobium: Bolsonaro sees China as threat to utopian vision - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSWxJWjMtLXZnRDFrTklJQlhIR0ltdmNsWVJreTNvczRmZ3BsazlVajdPYmQzZlEtY2FpQ19tR3dnWmRXMV92dzZ0YmpMeko0c2lRVVotQzRwWGVKTWhqX1R1Q2tMT0tJd0JuU3Vja201bkdFTFpsU0FmcExTOHp6d2tQUkQ4QUNvU2oySVFiT1VKaFV1ZFNYalhwMzhLY3NYNHBkanFrZG9VY0VOVkZuckx2VmJyS0JMbjUxQlhNSlJDRUhuRWc?oc=5",
+      "source": "Reuters",
+      "published_utc": "2018-10-25T07:00:00+00:00",
+      "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
-      "title_en": "Niobec Niobium Mine, Quebec - Mining Technology",
+      "title_en": "Hands off Brazil's niobium: Bolsonaro sees China as threat to utopian vision - Reuters",
       "title_en_source": "passthrough"
     }
   ],
-  "errors": [
-    "CMOC Catalão nióbio OR niobium: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "status": "ok"
 }
