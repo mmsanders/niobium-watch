@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-16T23:35:22.600667+00:00",
+  "as_of_utc": "2026-11-17T08:51:56.877693+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -252,16 +252,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Niobec unique in North America - Canadian Mining Journal",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeG5pLXoyTGYzR3BSXzJOWnFPVXUxWkl6MU1GSkY2VDhFT1otUHBJeGQ4Ync4by1RaENtd3BJYmZ4eGZCMmxFT0x6Ym8yN29JcXNZR0ZaTEZaWHlOUEpkSWlyM2czUmZRSUt2YXk3MS04bXZqakFuOGFNU20ySkxFSWdrOUhOVndBX0xDb0x1VQ?oc=5",
-      "source": "Canadian Mining Journal",
-      "published_utc": "2021-06-30T14:31:51+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "Niobec unique in North America - Canadian Mining Journal",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Redpath completes largest raisebore by volume in the Americas at Niobec niobium mine in Quebec - International Mining",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVp6VTlOa0ZLMmo2amVzVjYxMm9zWXA3eU45UlpDSWtsREFsZWJKamdsZXRyQVRtaW9zUW11WC1DYlFUTS0zV0hyNFZMT25QRjdfMGtkSDdhRWJTdUE4U25aYlU4ZE1kTmtnOG5pempQREhidVZsRTVZazVHcGplTDljbXJMRFNyQ1ZDMVR3TldJdENfenVJNnBMMTJ4dFVRbXl3ZUkyLUVKVklfc3BvSWtR?oc=5",
       "source": "International Mining",
@@ -339,6 +329,16 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Former Barrick chief buys Iamgold mine - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44VDlHc1B2VlBJTTdhQ09yLVZHSzNuRlgzeEhaYkZfYlJPX2NGWmk4Ujk2cE5WbmVwVGRWU0tiOEJCcmlDdjlqb25xT1VyT2huNFhOOVVNcVNNVGpmcm1iN2Nob2llcUltd0NfR1hOSm9aS0dOMWJJ?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2014-10-03T07:00:00+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "Former Barrick chief buys Iamgold mine - Mining.com",
       "title_en_source": "passthrough"
     },
     {

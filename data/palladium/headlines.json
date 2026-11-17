@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-16T23:35:22.600667+00:00",
+  "as_of_utc": "2026-11-17T08:51:56.877693+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -44,16 +44,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Workers reach agreement at Stillwater Mine after month of striking - Bozeman Daily Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMWF4LU9pM0d6a1VoTTJkREdQVjVzMmdtN3hDel96YkhSRWNsN3Q2OUVhU1dONmx0MGlqaGVkd1Zyb19QeXlfWXJkX042eTI2bHA0N1l3VkNpMmN1SWhGRlpzcmF5Vk1GMVVZWXRmQzMwdWZ5WFdfSlV0Zmg4dlJtMmFXYTA5dFhOVlgyQ0c1MG8yenRCM0VNYldUNlg3aHRrUXdfbUE1aHNjX0JkYUhxb0ppZGVjTFFzeTIzc0dwNTJsQ2JOTGtfaHp1UENkaTZKa3NqSWZteVVCTDBxLVVvakg1YUdZTkktcHlOWmZiaUFpTzRoUmlTVEFTQQ?oc=5",
-      "source": "Bozeman Daily Chronicle",
-      "published_utc": "2026-10-07T07:00:00+00:00",
-      "query": "Sibanye Stillwater palladium OR East Boulder",
-      "flag": "green",
-      "title_en": "Workers reach agreement at Stillwater Mine after month of striking - Bozeman Daily Chronicle",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Union representing Sibanye-Stillwater mine workers ends strike - Montana Free Press",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaDlUd1UxaXFCZHJRWGg3TWxxX19vazRHUVBFaFB4TlFBZkZWakNacElOVS1CdWtwUTduNV9mTXkwWlhLc1pPMV9HM0RvdDdUbzBsUDdkM19zTG9UenJhUF9xYnROUTVUSkFaWC1JM1hoTjNlQ3M0X2FPRlBOTDRKVXRrbGdtSm13U3c?oc=5",
       "source": "Montana Free Press",
@@ -61,6 +51,16 @@
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
       "title_en": "Union representing Sibanye-Stillwater mine workers ends strike - Montana Free Press",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Workers reach agreement at Stillwater Mine after month of striking - Bozeman Daily Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMWF4LU9pM0d6a1VoTTJkREdQVjVzMmdtN3hDel96YkhSRWNsN3Q2OUVhU1dONmx0MGlqaGVkd1Zyb19QeXlfWXJkX042eTI2bHA0N1l3VkNpMmN1SWhGRlpzcmF5Vk1GMVVZWXRmQzMwdWZ5WFdfSlV0Zmg4dlJtMmFXYTA5dFhOVlgyQ0c1MG8yenRCM0VNYldUNlg3aHRrUXdfbUE1aHNjX0JkYUhxb0ppZGVjTFFzeTIzc0dwNTJsQ2JOTGtfaHp1UENkaTZKa3NqSWZteVVCTDBxLVVvakg1YUdZTkktcHlOWmZiaUFpTzRoUmlTVEFTQQ?oc=5",
+      "source": "Bozeman Daily Chronicle",
+      "published_utc": "2026-10-07T07:00:00+00:00",
+      "query": "Sibanye Stillwater palladium OR East Boulder",
+      "flag": "green",
+      "title_en": "Workers reach agreement at Stillwater Mine after month of striking - Bozeman Daily Chronicle",
       "title_en_source": "passthrough"
     },
     {
@@ -114,16 +114,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Sibanye-Stillwater finalises wage agreement at its US PGM operations East Boulder mine - Swiss Resource Capital AG",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRHpNQXcxclZlMUhiN3AwMkJnNGRHdV83VTdUeWVyZlZ6c2NfdUhuUmFQbll6QTE2QlVkNzg2SUxmRjRvUUp2VTI4UjUxWllLUnNVQTBqcXBhOWZoUW5ZY1pxWGZ5Z0duYVEwQWpyS01IMHBveFVDelVoQmY3aFBsS1kyZHJrLUtwSWVjVXZpNnBVYTZ4MDVmcVhPMHM1YXBvSmJuYWwwX1BZV3d3ZHUxM2VZV2VFWG1vTFJibUFvcnpFZ2NUQUZlZnhUY2Q?oc=5",
-      "source": "Swiss Resource Capital AG",
-      "published_utc": "2026-09-30T07:00:00+00:00",
-      "query": "Sibanye Stillwater palladium OR East Boulder",
-      "flag": "green",
-      "title_en": "Sibanye-Stillwater finalises wage agreement at its US PGM operations East Boulder mine - Swiss Resource Capital AG",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Sibanye-Stillwater reaches contract agreement with East Boulder mine workers - KTVQ",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPczVYYUJoR3VVWU9KVTBjaGNIZlppRkpKekh0SzJ6eFcyX1piVnJ5bXpSaXItc2VoaEJxTmhxT2F6OUxWWFB0bXVjTmctODJJcFpsSEpFYzUwel9UaDZqeFdQeDZKRS00UWF1V042NVhHSHFCZFpfa1JBYnNyeUF1Nzl1R3g3YUx2V1diYVlnV29NZ2x2NlkwQnh4Rnl6Y3E2bGg0NQ?oc=5",
       "source": "KTVQ",
@@ -131,16 +121,6 @@
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "green",
       "title_en": "Sibanye-Stillwater reaches contract agreement with East Boulder mine workers - KTVQ",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "[SMM Analysis] Valterra Platinum 2010 To 2025: How Processing Shocks and Price Cycles Reshaped the Business - Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa0tWS1IwdHAyV2FON2Z0eVpabWx1ZjJMeUNuVkFIV0FCYTFEX3JfS01jSWNEaWxqQUw4dEI5ZEZaWGhlNmZ5XzNOSHg4Q2xmM2Rqd3AxeFJfSkZmWXZRaENnRHNkOE9wbXY5aFlaMmhyQTNpZXJaeElsZWJMeERhcy1vRXktUXp0ckVyTGdya0VMZHRpU0lkTFZCWFpyMGZYZjN2WTFKVkg5MVhUaFc1SkNqa21fNFBESWFZZ2FEeTFmX1JNNnE1Z1B1T2lRMFdmX0M3Tno5QVp2aVlHYWZRdEFHYw?oc=5",
-      "source": "Shanghai Metals Market",
-      "published_utc": "2026-09-21T07:00:00+00:00",
-      "query": "Amplats OR Anglo American Platinum palladium",
-      "flag": "green",
-      "title_en": "[SMM Analysis] Valterra Platinum 2010 To 2025: How Processing Shocks and Price Cycles Reshaped the Business - Shanghai Metals Market",
       "title_en_source": "passthrough"
     },
     {
@@ -181,6 +161,16 @@
       "query": "Impala Platinum PGM OR Impala palladium",
       "flag": "green",
       "title_en": "Impala Platinum After Earnings: Reiterating Buy Rating Due To Bullish Trends (IMPUY) - Seeking Alpha",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Implats pays out R17bn to shareholders as metal price recovery fills coffers - News24",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU256WWxBcmRrRjYyWDdMMmZvdEQ1NHFDa1dBUTFyb3NjRUtGSERSUDhpSktzVC1jNFVlOWM1cXdnY0FiWm8yMlhFME81WU9xUjVuUU5YaENoZlEzWXlhbVg2UC16c1JzcUdNSWt3bDEybnVELTlSbVBOZGNoNmVPcGQxZjIzcjR2aDY2aHRSUjhXYjNrMHRGb0Vna0JlRU90emJuR3BkVjFRN1BmT1F1blBzVGUtWU1QN1F5c1JRS1czWWxX?oc=5",
+      "source": "News24",
+      "published_utc": "2026-09-03T07:00:00+00:00",
+      "query": "Impala Platinum PGM OR Impala palladium",
+      "flag": "green",
+      "title_en": "Implats pays out R17bn to shareholders as metal price recovery fills coffers - News24",
       "title_en_source": "passthrough"
     },
     {
@@ -231,6 +221,16 @@
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
       "title_en": "Strike to begin at Sibanye-Stillwater’s US operations - Mining.com",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Sibanye Stillwater warns it may shut some U.S. PGM operations if workers strike (SBSW:NYSE) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOTYzcWh3QUpNZTJaYzRTTUZpbk1PSXlUU1pVM3FVcTlONFJYbGNmREpZYnpUN0hSTnV2akdRX2ZEeURIbVRoN0dmZW9iR0xCcDBYUXBjczgyTVR0djdCYVF5NjFCV3Y2ZVJUVzF0cFo4RGlISERtc1djeldpR0Rsc0FRUHJfeDVvQnZlWkRiTW44RnVWRTZWa2l4YVZoS2pkNXJJYk9FQkNtaUFsbWR5SnE2dGl1QQ?oc=5",
+      "source": "Seeking Alpha",
+      "published_utc": "2026-09-02T07:00:00+00:00",
+      "query": "Sibanye Stillwater palladium OR East Boulder",
+      "flag": "red",
+      "title_en": "Sibanye Stillwater warns it may shut some U.S. PGM operations if workers strike (SBSW:NYSE) - Seeking Alpha",
       "title_en_source": "passthrough"
     },
     {
@@ -291,6 +291,16 @@
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
       "title_en": "All of Nornickel’s palladium to be processed on the Kola Peninsula - The Barents Observer",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Palladium (XPDUSD) Volatility Intensified on Jul 1: What to Watch - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV0MwWGxDWWJnX1BEMHdfUnZqSzJhS2R1VDdhcHJNeGR6Mm8xakpVRWVETlp5ZWRYWElzSFFoR0lnR2ZQQldmT3dteGs4djI0V2NKRWs0cHlsckpvWkI2OV94UlJmN3BLam9zUnV0dEZtNjhHb3JRekpTRG5fbHUtWUt1SWY1dkktbU0wTjFn?oc=5",
+      "source": "TradingKey",
+      "published_utc": "2026-07-01T07:00:00+00:00",
+      "query": "Norilsk Nickel palladium OR Nornickel palladium",
+      "flag": "green",
+      "title_en": "Palladium (XPDUSD) Volatility Intensified on Jul 1: What to Watch - TradingKey",
       "title_en_source": "passthrough"
     },
     {
@@ -401,16 +411,6 @@
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
       "title_en": "Nornickel bets on AI to find palladium uses - MiningMX",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Nornickel taps AI to seek new demand for its palladium - Mining.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLXRUSkFlVnZmUG1vOHhJb3BqUFhrYnoycm5yVUNUaTMzeGRSZG56bjJwczZFcno0U2o1dlpnMTNpNjNTLXJ6V3ZSNXF0YnlnNEFod05EUTZyeVhuNlB5bXAxeHQxUG9VZ1lKZ21zSXVaM2V3ZV94MGJoLXh0ano4clBZX1lwX3Z4Wnc?oc=5",
-      "source": "Mining.com",
-      "published_utc": "2026-03-24T07:00:00+00:00",
-      "query": "Norilsk Nickel palladium OR Nornickel palladium",
-      "flag": "green",
-      "title_en": "Nornickel taps AI to seek new demand for its palladium - Mining.com",
       "title_en_source": "passthrough"
     }
   ],
