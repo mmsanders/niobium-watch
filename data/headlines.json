@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-18T08:16:29.936188+00:00",
+  "as_of_utc": "2026-11-18T22:25:10.787114+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 44,
+  "item_count": 46,
   "items": [
     {
       "title": "Steadright Begins Exploration at Péribonka Ree-Niobium Carbonatite Target in Quebec's Niobium District - Investing News Network",
@@ -222,6 +222,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Brazil Expands Exports of Strategic Minerals to China - DatamarNews",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdzZTSlJKZXVQbkxmNlZfMGhuZ0FQSkdpdV9jU1Frc2NIbjNvQ1Fxa0tPTTdlTUo5N0dpS2EydFkxdE5vSmZETmpFSFE3VUhiZ2g3UGxSSW1mdzZ1djdvY3RnS1E3V3kyNFhyTEZzLUVzV0xycmhsVHp6aG5uUXJtbkVCbWQ3bUFxSk1rLUN6ek8?oc=5",
+      "source": "DatamarNews",
+      "published_utc": "2025-04-16T07:00:00+00:00",
+      "query": "Brazil ferroniobium OR ferronióbio export",
+      "flag": "green",
+      "title_en": "Brazil Expands Exports of Strategic Minerals to China - DatamarNews",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "St George bolsters cavalry to fast-track Brazil niobium-REE delivery - The West Australian",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUld5aExEZGxDck1ycnh6VGpKYjJkQTdFOG1Kb0R6NHY3Z3lVMEdnV1NQbmtWTzhnMFpTR2lUcnpQd2I3bGNWdi1QTFVmcmVUWlRYRDQ5U0s5cWI4aEt1MnIxMThELUlHeWU5YVEwWTc0LVBUZ29xUXZQVU91Y2UtdWdiZ0dRY244ejdWSmtRVF8ySUg3Q2FMT1JYckZLcjFzTE9CcTMzY005OGtWV0Q2TzNmc1BrX3NRVVhYbFRWbE5CM19rOVdF0gHMAUFVX3lxTE1aSVJudEJSVFM4WlFyRmgycDB6Y1poS2pYblJfRC1WS1k0Z1FzdFNCUXB5S05NZXc2UUdNUDZUVUVsRjdYMFNtSDV6dmRzVFgxNkV2Mmo1YkdQN0NmU3BTSXF2STJISnZvanpudUEyN0pzZ3FfTDFOWVNQUG5DUXVSSVNVRGdaNThnaTJHTFY1clA0Y2JTT2FlUmFPd3RNU2xKZ2F5M0pfaTdrcURPdEt1U3BlQnZoRDVGc3VtOF9pT0ZMdGl0aWNzS2hCTQ?oc=5",
       "source": "The West Australian",
@@ -279,6 +289,16 @@
       "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "CBMM opens niobium anode production facility in Brazil - Mining Technology",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "St George Mining Appoints Executive Team to Drive Araxá Niobium Project - The Assay",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcjVYNlFmNTE0LXo4TzdJU1JHYWZDU2oxUlZSc1FLZlh0dUJfWVhhLU16M184enEyWEZzLXBXSS11UUtVVFNoeWVyMFVlUm15WFRqV3U1RVJOcVo3Y0p2S3lGbjFsN1NVSU0xWTNaeGV4ZjlPY0RDSWhyZkt6WHo3SFRBN0dBT2NRSjBnZFUwTm9SYWo0YmM0MjFVUHZKQVFVYTUtcg?oc=5",
+      "source": "The Assay",
+      "published_utc": "2024-08-21T02:42:18+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "yellow",
+      "title_en": "St George Mining Appoints Executive Team to Drive Araxá Niobium Project - The Assay",
       "title_en_source": "passthrough"
     },
     {
@@ -389,26 +409,6 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Niobium’s silent impact in Brazil - Dialogue Earth",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmVaQWNsQmlmaXhienBwLXFQRkVpaVJlUWpsdHFGTG9ETWVESzZfWUw0MlZzZWdYRzI5WmJUTmdUd0tNMzRVMXdVZi1HeG0wV2JON0RCeWE1aHBKZnoxY3pxRnpGSVBtUU5rbnFkZTRTbGdVdHc0V3BLdi1GVVd1Zw?oc=5",
-      "source": "Dialogue Earth",
-      "published_utc": "2019-04-05T07:00:00+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "green",
-      "title_en": "Niobium’s silent impact in Brazil - Dialogue Earth",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Hands off Brazil's niobium: Bolsonaro sees China as threat to utopian vision - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSWxJWjMtLXZnRDFrTklJQlhIR0ltdmNsWVJreTNvczRmZ3BsazlVajdPYmQzZlEtY2FpQ19tR3dnWmRXMV92dzZ0YmpMeko0c2lRVVotQzRwWGVKTWhqX1R1Q2tMT0tJd0JuU3Vja201bkdFTFpsU0FmcExTOHp6d2tQUkQ4QUNvU2oySVFiT1VKaFV1ZFNYalhwMzhLY3NYNHBkanFrZG9VY0VOVkZuckx2VmJyS0JMbjUxQlhNSlJDRUhuRWc?oc=5",
-      "source": "Reuters",
-      "published_utc": "2018-10-25T07:00:00+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
-      "flag": "green",
-      "title_en": "Hands off Brazil's niobium: Bolsonaro sees China as threat to utopian vision - Reuters",
       "title_en_source": "passthrough"
     }
   ],
