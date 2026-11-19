@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-19T08:28:20.645514+00:00",
+  "as_of_utc": "2026-11-19T22:30:22.945073+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 45,
+  "item_count": 44,
   "items": [
     {
       "title": "Steadright Begins Exploration at Péribonka Ree-Niobium Carbonatite Target in Quebec's Niobium District - Investing News Network",
@@ -23,22 +23,12 @@
     },
     {
       "title": "NiobiumX (NIOXF) and the Silent Crisis Behind America's AI Chips and Missiles - Barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVnlWRW9LVVkwVlEySmJ6ZUx6X2lxM3hRV2NTbzBzTldLeThVbWl0UTVyTkoyMTc1WlFOeVNoREZ3R3BtMm9iN3J1aGxuUjlpNnZ1TnpXWmFPZFg0MWc0UTRrejlJNlBRT1RybU5ScU5VVEhkeUNfYURhelNLSUtGOHRZVVN1YXRxT3ZXc2VFTTBSRl9YaWxfVlFhaG1lYjZJZndqVTdMcl84TFNTNnRnNXdlRGQzR1VkbEdF?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZVJHUTczXzBUaGMzYlpqN0xSQWkyNWhoUWZRTkw5bjQ5SWFwWkFfYWM4ZDRkT0J4Z1dBb1V3NVE2bEtob1VuNjdOX3ItTWJLOEpOaTFXcm42bzRNNVZPX2dTSmk3ZjBNLUxQc2xTa1dBcF85QW9hTUs0UGVkeFdKLWt5eEY1V1o4Sk5SSnZHUWZYZnZ6OVRqSVAyLWtKc1pGdjVFMHAyZy1TbU9qTnBmenQyQzNjVlNldjEw?oc=5",
       "source": "Barchart.com",
       "published_utc": "2026-11-09T18:01:03+00:00",
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
       "title_en": "NiobiumX (NIOXF) and the Silent Crisis Behind America's AI Chips and Missiles - Barchart.com",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "NiobiumX Mining Outlines the Principal Exploration Target at Its Shipshaw Niobium Property, Quebec - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdDl2UkczLVVvREF4SHJpd3NWa3llV3k5MlRoZ0VfZzRObnhPbTloLWc1NWpnUktSX1Y3a1h4b05yLW9vcld1cGxCa3o3d0xxV09yUWd1UWJOS1gyNy1aelBTNGNDNExEd2U0MUIwbDk2Ny1xUDVjSDZwVW56Mk10N2NyNHNROHU1TGRud1Jia0FYeXBIdnVEZDZXU2ZGa1dLSXNORUxuVXJmcFVIdW02NUo5ZjBleVU?oc=5",
-      "source": "Yahoo Finance",
-      "published_utc": "2026-10-20T07:00:00+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "NiobiumX Mining Outlines the Principal Exploration Target at Its Shipshaw Niobium Property, Quebec - Yahoo Finance",
       "title_en_source": "passthrough"
     },
     {
@@ -332,16 +322,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Ferroniobium Market | Global Market Analysis Report - 2036 - Fact.MR",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xWUxSYnFHV1puZHg2WUN2ajhobFNDTWNBa1dLVF82UTNOb2trYmlmS2JTWTdCMWV6b1ZMWmNBVTBCVWJ4SlVrTTJKXzllMG1WeUNEaHpQSkw0ZHRpNFE?oc=5",
-      "source": "Fact.MR",
-      "published_utc": "2022-06-23T07:00:00+00:00",
-      "query": "Brazil ferroniobium OR ferronióbio export",
-      "flag": "green",
-      "title_en": "Ferroniobium Market | Global Market Analysis Report - 2036 - Fact.MR",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Magris acquisition of Niobec Niobium Mine - Torys LLP",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tc0d2YnNPZDF0N2Vta2ZSSEZ3cm5icDFYZE1VRU1vRnlEWmZSbi1iMDBBMGtZZXJkcmZDNGdoM1BNeXlGY1ZlOFB3UV9tNmc4UEdtV1hBNEtqMmVEVFdrLVZGRDR2Ykt4NmoxSmhlNTNBSm9uUklTNHc1Zw?oc=5",
       "source": "Torys LLP",
@@ -409,6 +389,26 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "Nióbio: G1 visita em MG complexo industrial do maior produtor do mundo - G1",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzJvbTdLamF2RExoWTMxbXZRSjUxU29lenJmdjVOWmp4ak5BYUZCWEMwSU9ReTV6bmhZMFl2Z3BwbkgxTDNhMVdka25tOU9saG54cXF0SDRhTHZLemNzTkpEd0ZXSERPU1B6ckEzdy03T09Oa25Zek5pYVJrNVVNTDhjOFJoS3ZDVXFhNXlNNHB2OE1VVUhtajNCNW9vbGo2MjdxZ0ZkUU82S1ZlZFE?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2019-06-13T14:20:20+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "The complex journey to a simple solution - Canadian Institute of Mining, Metallurgy",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcnd5ZjlIS0JfLWZub3B2U1FuUjVHWGl1N2JBc3NSTWdCcjJjYmYtcHhFVXBUWGtLZ0p5STgwdnRwTl9Rb2t0Q2RVaV9DQUhWYzdRa0FtN2g3aVR4UDR5VXZYdUZ2dE8yVkluTFZxU0s3WGl4b1NWZE5wSHJUdVhrTXFRaUdIMHJ3Um00?oc=5",
+      "source": "Canadian Institute of Mining, Metallurgy",
+      "published_utc": "2019-04-11T07:00:00+00:00",
+      "query": "Niobec niobium OR niobium Quebec",
+      "flag": "green",
+      "title_en": "The complex journey to a simple solution - Canadian Institute of Mining, Metallurgy",
       "title_en_source": "passthrough"
     }
   ],
