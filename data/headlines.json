@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-19T22:30:22.945073+00:00",
+  "as_of_utc": "2026-11-20T08:09:54.683487+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -9,7 +9,7 @@
     "Niobec niobium OR niobium Quebec",
     "Brazil ferroniobium OR ferronióbio export"
   ],
-  "item_count": 44,
+  "item_count": 46,
   "items": [
     {
       "title": "Steadright Begins Exploration at Péribonka Ree-Niobium Carbonatite Target in Quebec's Niobium District - Investing News Network",
@@ -99,6 +99,16 @@
       "query": "CMOC Catalão nióbio OR niobium",
       "flag": "green",
       "title_en": "CMOC Brasil's record-breaking niobium production confirms its leading global position. - IBRAM - Mineração do Brasil",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "St George Mining 'poised to redefine Araxá' - Mining Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanV0alpGcmlZX1Q2QnhGLV9Xcm1JWkJNb1I5ek5zOW43U0R2VERCX1ZodUZtVTd1c2p6S0NIRzRWNEVzOGRxOERPZWZFRzcyNzlyUnlHR3FLdWgzTkkxSlpGT3NxMmtVRnhKQ3ZZRGI4Xzh3bm5saUZzUmk0SjdsWEJpU2VlV0ZVRzVGMEJ5dWZqcVBucW85VTZNV3Vxa0xtZUE?oc=5",
+      "source": "Mining Magazine",
+      "published_utc": "2026-02-11T08:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "yellow",
+      "title_en": "St George Mining 'poised to redefine Araxá' - Mining Magazine",
       "title_en_source": "passthrough"
     },
     {
@@ -192,16 +202,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "The Discovery of Niobium in Araxá That Revealed Brazil Has Reserves for Up to 200 Years of Global Demand and Generates Over $2 Billion Annually in Exports - CPG Click Oil and Gas",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOeUV0QjFfb3huS2lZNFdneGdKWVZidF9xX3hLZFhKcUFDcm1vdDBUYlBQdDFlbzdWQTl1dlRPNDlXX0dZdmc3dW1RLUNvUGthZG1Eb0V0T2xZTXJoU0xFWVZOVTh6ak1vVFJwcFAxQ0dvM1ZSdnRNTjJHNFF3OHpDUGdXLVYxbnhVZ3oybjB0THAybXJMOEV0NVBVTGtrbFBYSnRLSV9JdF9EVy1MdlFLNFhBUUY4MWVrczNfbEtxaVBfd3Yya0kzc0R5ZEJCaTk2Tk1Wcm8xNmhlQTRYX0hfdm9TRE5yVWxSQmgxaFFqNEtNZ3hZVld0OFFnM0ZScjcwX0tNYk41SkRYZU4ycTdzbG1yOVAxeUxZUzhyZw?oc=5",
-      "source": "CPG Click Oil and Gas",
-      "published_utc": "2025-05-31T07:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "The Discovery of Niobium in Araxá That Revealed Brazil Has Reserves for Up to 200 Years of Global Demand and Generates Over $2 Billion Annually in Exports - CPG Click Oil and Gas",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Quebec mine strike shows fragility of critical minerals supply chains: Analyst - Canadian Mining Journal",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVFNwUkhBR2ZfVDAzV1UtQTdpZ3ZITXJqNE5mRC1Xc25UYnBsU29XQ2Y3Q3g4NU92Y1R1MnVhY01jbXJYQVNMbDI1UTQyanVzVE1CMUVHRkg4dEwyMkNHX3IwcVBoSENZTFB0dmlhS0xBQkJWeW5JdV90T0RpU1hIN09BMEV6Y2ZoMlFhUDc4VEF4YU9uR0FkUUh4MGdRNUhPWEZDdmVfNXJzd1ZQbXhRTlJrQ1c4RjFrTVJnMVdR?oc=5",
       "source": "Canadian Mining Journal",
@@ -222,16 +222,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "St George bolsters cavalry to fast-track Brazil niobium-REE delivery - The West Australian",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUld5aExEZGxDck1ycnh6VGpKYjJkQTdFOG1Kb0R6NHY3Z3lVMEdnV1NQbmtWTzhnMFpTR2lUcnpQd2I3bGNWdi1QTFVmcmVUWlRYRDQ5U0s5cWI4aEt1MnIxMThELUlHeWU5YVEwWTc0LVBUZ29xUXZQVU91Y2UtdWdiZ0dRY244ejdWSmtRVF8ySUg3Q2FMT1JYckZLcjFzTE9CcTMzY005OGtWV0Q2TzNmc1BrX3NRVVhYbFRWbE5CM19rOVdF0gHMAUFVX3lxTE1aSVJudEJSVFM4WlFyRmgycDB6Y1poS2pYblJfRC1WS1k0Z1FzdFNCUXB5S05NZXc2UUdNUDZUVUVsRjdYMFNtSDV6dmRzVFgxNkV2Mmo1YkdQN0NmU3BTSXF2STJISnZvanpudUEyN0pzZ3FfTDFOWVNQUG5DUXVSSVNVRGdaNThnaTJHTFY1clA0Y2JTT2FlUmFPd3RNU2xKZ2F5M0pfaTdrcURPdEt1U3BlQnZoRDVGc3VtOF9pT0ZMdGl0aWNzS2hCTQ?oc=5",
-      "source": "The West Australian",
-      "published_utc": "2025-02-17T08:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "St George bolsters cavalry to fast-track Brazil niobium-REE delivery - The West Australian",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "St George appoints big gun for new Brazilian niobium mine - The West Australian",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjhTVVNST2dwZHZWYWFWd2cyX1RHMVlYdmR4VFRJeWNDcjhhWVNzdGltdnYtSkJnQWZCYmYyUGdhblhPNXZ1S2tHZmFrUTRuOXVYM0tjZkdpY3pVaG1DdmZ2cjc2emdUT2lSX0taa29vcDh2M1BtMlFxckZaRTJtd0ZkUXptZ3dyWUk2WU1aTXFmZGhqN1dsbFZqYTRIM2pJbk80VW04YjdVRXVacEczSWF2aFDSAboBQVVfeXFMUGNybld4NWEzc3lYVjhDU05tX0VJdlpUMEtxc01XNEpiY3p2Tm5oWXRUb0ZyQ1djSm5kLWJnZjFmMkNvWXdXRnVOa2RXMlhHOU1teFNwNUpVUEhTdEF2U3hKOUtaOEJBVi05ZnVZZ0tDVGVVV0ZjMEdNMExiazFKdi1XcmlDNC10SldfS1Y3eXlfNTR6YXFCc3g3NWNTd0k0MXBfSXJGN1lkRW5KZkZNRnZPeFFONDZHNTZ3?oc=5",
       "source": "The West Australian",
@@ -239,16 +229,6 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
       "title_en": "St George appoints big gun for new Brazilian niobium mine - The West Australian",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Ex-CBMM Niobium Boss Ricardo Maximo Nardi Joins SGQ - Next Investors",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGJ5Q1lPUkxvd01NaVVZQTVSY1ZUanJRbDJpYS00WWpwVDEyZWFEQjZGRGh6d2NaNl9CVmxuR096a2xsUkpPVTRqRWtXVTN4SWFzMlBMTGtzSGVFT1JyanJYQjlUdmc2anNvVXA3TVgzbFM3X3VFS2ZzZHF3OUN1MnhMeEFTbzJBMEVjUksyamZkaWZT?oc=5",
-      "source": "Next Investors",
-      "published_utc": "2025-02-03T08:00:00+00:00",
-      "query": "Araxá CBMM OR nióbio",
-      "flag": "green",
-      "title_en": "Ex-CBMM Niobium Boss Ricardo Maximo Nardi Joins SGQ - Next Investors",
       "title_en_source": "passthrough"
     },
     {
@@ -272,6 +252,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Niobium pandemonium: ASX explorers are going crazy for the mineral in Brazil - Stockhead",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORG9hclkyeTZyWWFRX1ZnWXo0ZDJoQnl1MU9wZlVzbHYyRXpBVlRTbVBxcVNrbWZLVzVZWDU2MWJ1NUlNNG1lVlFIV1o4QkQxRUtyWEZhMUJjNEVfQmJXVzQ3blJib3huWTFQQzlUeVdveEpCaDlCZ1RDTzE4bTMwZXd0Z0ExM21oWF94NGZ1dmFyeVByaExaY283b05pUTRjamI2YTJId3RhNFlRbS1ESg?oc=5",
+      "source": "Stockhead",
+      "published_utc": "2024-08-22T07:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "Niobium pandemonium: ASX explorers are going crazy for the mineral in Brazil - Stockhead",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "St George Mining Appoints Executive Team to Drive Araxá Niobium Project - The Assay",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcjVYNlFmNTE0LXo4TzdJU1JHYWZDU2oxUlZSc1FLZlh0dUJfWVhhLU16M184enEyWEZzLXBXSS11UUtVVFNoeWVyMFVlUm15WFRqV3U1RVJOcVo3Y0p2S3lGbjFsN1NVSU0xWTNaeGV4ZjlPY0RDSWhyZkt6WHo3SFRBN0dBT2NRSjBnZFUwTm9SYWo0YmM0MjFVUHZKQVFVYTUtcg?oc=5",
       "source": "The Assay",
@@ -279,6 +269,16 @@
       "query": "Araxá CBMM OR nióbio",
       "flag": "yellow",
       "title_en": "St George Mining Appoints Executive Team to Drive Araxá Niobium Project - The Assay",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "St George recruits CBMM niobium experts for Araxá - The Australian",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOcV9tZTlLblBmLUNPVFBYWkVia09hVThscVZ5ZmtONzNXOFRhdS0tc0NDV0Zya1dVekREcnF1VHZUX3NVOTluVFRqRmVPVTQ4NjRLVGgxSzYyalJwcFgxaV9CZDdiS25qN3RKa01mYXpJZUhiTVFzZkVQNzh2NjJGN0drdkpXMzFLWFI5Nm9NaGswMDAxWmFlaTBGNDgzc3QzN3pzTHNhRWROM25IYXlCV0lPZUxnRF9zczdLOHFma05ZNVpIUDhZSnFyeWpRU1FUcGxBaDR2ZTd2by13U3dOamp3bzl2dEx1NzB3TnJzTE1uN3h2dE9RMk9oOTFWYWExQ0w3Z3ZuTlctMXpEdlFoVXdBZkxucmduZjQ2UXh5dVlKUQ?oc=5",
+      "source": "The Australian",
+      "published_utc": "2024-08-20T07:00:00+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "St George recruits CBMM niobium experts for Araxá - The Australian",
       "title_en_source": "passthrough"
     },
     {
@@ -319,6 +319,16 @@
       "query": "Brazil ferroniobium OR ferronióbio export",
       "flag": "green",
       "title_en": "International trade in critical raw materials - European Commission",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Ferroniobium Market | Global Market Analysis Report - 2036 - Fact.MR",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xWUxSYnFHV1puZHg2WUN2ajhobFNDTWNBa1dLVF82UTNOb2trYmlmS2JTWTdCMWV6b1ZMWmNBVTBCVWJ4SlVrTTJKXzllMG1WeUNEaHpQSkw0ZHRpNFE?oc=5",
+      "source": "Fact.MR",
+      "published_utc": "2022-06-23T07:00:00+00:00",
+      "query": "Brazil ferroniobium OR ferronióbio export",
+      "flag": "green",
+      "title_en": "Ferroniobium Market | Global Market Analysis Report - 2036 - Fact.MR",
       "title_en_source": "passthrough"
     },
     {
@@ -382,13 +392,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Nióbio: G1 visita em MG complexo industrial do maior produtor do mundo - G1",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcEc4VlZLZUYwRGpzam15QzFGUE1GbUpSSklFZmFJbUFGd0k1b1VnMXlFRWZ1ZmRlX3dHTWx5dHVNWjh3XzhVNHBqTW9OMGEtRldsSTQ0bzMyeUdad25mNm9FS0xJdWJnSUt0UzhfYTc0SkJJZzZvOWpqUHBxQzZubmNZMUdSdVUtVjJIV0F2M1FVWGhKNXd6MmZuU09KLURaencwSHhIelpHbUl2eG5rZUxhU0tRa1V2ZEh0eEc0VWx3Z9IB0AFBVV95cUxPckprVF9VMTRPeDU4S0tZaTNnZ0c3SVVheDBvNWktTFJLTXpCeHdiNlJRY3JRdXN0RDYwaDhodmh3OTl5NnpFbXFuU2xLY01fT3RGU2JNVDM3TEJjTkMwdEZwUTZSa0FCSUJETFRIZkRoSDZyZjlYcDA3SHNGMGxQck1DQldxQ09OeC1LY0JxM01JTVU0ZzFQdmgzSDVNUVBXRVJBOGNvQ0NSeHNCUWp6dnl3Z0N3ZlhpMU1mS1pFc3pDSTU3ajBSMktlMFkxczYt?oc=5",
-      "source": "G1",
-      "published_utc": "2019-12-12T08:00:00+00:00",
+      "title": "At a Glance: Niobium powerhouse CBMM - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01RGYwSE5TOElGb1hxRXNKNVo1THhZbkx6bWt3UFY2eUhWWkpwWHU1Y1ZmbGtIaHFmVVJxb2J6eGdES3FfbmdRRkpjd3l5WERoWkdLQ3VvZzd6ZThPVEg1dGJ3alRUYXhOMkNVVFhTX0FFV0hWVUlSTVJLWlpnbkU?oc=5",
+      "source": "BNamericas",
+      "published_utc": "2019-08-30T07:00:00+00:00",
       "query": "Araxá CBMM OR nióbio",
       "flag": "green",
-      "title_en": "Nióbio: G1 visita em MG complexo industrial do maior produtor do mundo - G1",
+      "title_en": "At a Glance: Niobium powerhouse CBMM - BNamericas",
       "title_en_source": "passthrough"
     },
     {
@@ -399,16 +409,6 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "Former Barrick Gold chief the new owner of Iamgold’s Niobec mine in Quebec - Mining.com",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "The complex journey to a simple solution - Canadian Institute of Mining, Metallurgy",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcnd5ZjlIS0JfLWZub3B2U1FuUjVHWGl1N2JBc3NSTWdCcjJjYmYtcHhFVXBUWGtLZ0p5STgwdnRwTl9Rb2t0Q2RVaV9DQUhWYzdRa0FtN2g3aVR4UDR5VXZYdUZ2dE8yVkluTFZxU0s3WGl4b1NWZE5wSHJUdVhrTXFRaUdIMHJ3Um00?oc=5",
-      "source": "Canadian Institute of Mining, Metallurgy",
-      "published_utc": "2019-04-11T07:00:00+00:00",
-      "query": "Niobec niobium OR niobium Quebec",
-      "flag": "green",
-      "title_en": "The complex journey to a simple solution - Canadian Institute of Mining, Metallurgy",
       "title_en_source": "passthrough"
     }
   ],
