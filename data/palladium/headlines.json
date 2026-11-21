@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-20T22:03:15.336533+00:00",
+  "as_of_utc": "2026-11-21T08:03:17.060250+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -44,16 +44,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Workers reach agreement at Stillwater Mine after month of striking - Bozeman Daily Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMWF4LU9pM0d6a1VoTTJkREdQVjVzMmdtN3hDel96YkhSRWNsN3Q2OUVhU1dONmx0MGlqaGVkd1Zyb19QeXlfWXJkX042eTI2bHA0N1l3VkNpMmN1SWhGRlpzcmF5Vk1GMVVZWXRmQzMwdWZ5WFdfSlV0Zmg4dlJtMmFXYTA5dFhOVlgyQ0c1MG8yenRCM0VNYldUNlg3aHRrUXdfbUE1aHNjX0JkYUhxb0ppZGVjTFFzeTIzc0dwNTJsQ2JOTGtfaHp1UENkaTZKa3NqSWZteVVCTDBxLVVvakg1YUdZTkktcHlOWmZiaUFpTzRoUmlTVEFTQQ?oc=5",
-      "source": "Bozeman Daily Chronicle",
-      "published_utc": "2026-10-07T07:00:00+00:00",
-      "query": "Sibanye Stillwater palladium OR East Boulder",
-      "flag": "green",
-      "title_en": "Workers reach agreement at Stillwater Mine after month of striking - Bozeman Daily Chronicle",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Union representing Sibanye-Stillwater mine workers ends strike - Montana Free Press",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaDlUd1UxaXFCZHJRWGg3TWxxX19vazRHUVBFaFB4TlFBZkZWakNacElOVS1CdWtwUTduNV9mTXkwWlhLc1pPMV9HM0RvdDdUbzBsUDdkM19zTG9UenJhUF9xYnROUTVUSkFaWC1JM1hoTjNlQ3M0X2FPRlBOTDRKVXRrbGdtSm13U3c?oc=5",
       "source": "Montana Free Press",
@@ -61,6 +51,16 @@
       "query": "Sibanye Stillwater palladium OR East Boulder",
       "flag": "red",
       "title_en": "Union representing Sibanye-Stillwater mine workers ends strike - Montana Free Press",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Workers reach agreement at Stillwater Mine after month of striking - Bozeman Daily Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMWF4LU9pM0d6a1VoTTJkREdQVjVzMmdtN3hDel96YkhSRWNsN3Q2OUVhU1dONmx0MGlqaGVkd1Zyb19QeXlfWXJkX042eTI2bHA0N1l3VkNpMmN1SWhGRlpzcmF5Vk1GMVVZWXRmQzMwdWZ5WFdfSlV0Zmg4dlJtMmFXYTA5dFhOVlgyQ0c1MG8yenRCM0VNYldUNlg3aHRrUXdfbUE1aHNjX0JkYUhxb0ppZGVjTFFzeTIzc0dwNTJsQ2JOTGtfaHp1UENkaTZKa3NqSWZteVVCTDBxLVVvakg1YUdZTkktcHlOWmZiaUFpTzRoUmlTVEFTQQ?oc=5",
+      "source": "Bozeman Daily Chronicle",
+      "published_utc": "2026-10-07T07:00:00+00:00",
+      "query": "Sibanye Stillwater palladium OR East Boulder",
+      "flag": "green",
+      "title_en": "Workers reach agreement at Stillwater Mine after month of striking - Bozeman Daily Chronicle",
       "title_en_source": "passthrough"
     },
     {
@@ -244,16 +244,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Sibanye challenges US over Russia palladium imports - MiningMX",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWpqNWZyVGxLLXF2SXQ4XzVINTZGMGxTdWtDYUtSRzlGdmlNZ0pqbHNOSkFfbE5iR0NuWEFxcmkzVjlkdEJJLU11Zm1fQW8wNmtXZEM4U1kzd3FONXVldS1GcTFSOGpaX3dtY0ZvQnFZQkxkYUkwZVhJUU9PbDVfbG40S2xtOHBvTkJ4UnltRy1Ld3BPdHlWRFR3?oc=5",
-      "source": "MiningMX",
-      "published_utc": "2026-07-21T07:00:00+00:00",
-      "query": "Norilsk Nickel palladium OR Nornickel palladium",
-      "flag": "green",
-      "title_en": "Sibanye challenges US over Russia palladium imports - MiningMX",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Experts raise concerns as Russia shifts palladium refining closer to Finland - Yle",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE51WHNVeW1WdWtIeGtOMU1yRU1nYmpLV3FJcllGM0NEZGJlU0RKSDMydGFRbmMzUE1sQTVkMmxiRUZXUQ?oc=5",
       "source": "Yle",
@@ -294,16 +284,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Nornickel forecasts palladium and nickel surpluses through 2027 - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQlBRTDlzcUc2V3dIVWU2aENBMHpya0hZWUpwcFRub1Z4ZmtEOE1rRGVXcU5lT240emNIRnM1aWo1MTR6MEVaendNWlVuNjJYbTc0RG5Jell5X3M1Y1doQXRDOUpESU5kb2NOeEx5eUx6TTFWdC04bnBMSXIyb1Rpc3E5NllBT1dCSTVtQjZ3c1l4ZXM2eXlXblRkQ0FBandoTXhaS0k5TGsyd3MtUVFEaXdWMGJ2SUwyRFp4Ym4zS1hodw?oc=5",
-      "source": "Investing.com",
-      "published_utc": "2026-06-23T07:00:00+00:00",
-      "query": "Norilsk Nickel palladium OR Nornickel palladium",
-      "flag": "green",
-      "title_en": "Nornickel forecasts palladium and nickel surpluses through 2027 - Investing.com",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "USITC says Russian palladium does not harm America cos, ends probe - Mining.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb2x0RGNGNXlXLUZRWEQtQXBqN0lwOXRuYnlrZ3E4M3RuRFh1N2lzdnktM3lSLVJsU2JLdWpWYjdyaE9zMXRLMWJEenpzRkhZNUNRNE1hNVNES0VqeUhiQ2hlNmdrRjhmUkRiN3Q1MF92WVVJRmJ3OVdkS1BuYS1xQms3cmlWUmR0dDRHVGJpVk1kYzdCU25aTWVJTWZDNjQ?oc=5",
       "source": "Mining.com",
@@ -334,6 +314,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Platinum, rhodium to outperform palladium in 2026, Metals Focus forecasts - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXy14blZPTU51Z1V2QlhjeDRUVEJFaWNPUHpXS2kyLXFVLUxadHItdnBZbTllRWtkSGE0SF9CU0hVUFdPemZ5ZXhKX0RwODFOaGNxMGVpa3FDUFJKVnFUSzdqWFNuUXZoMTFfZS1hbWYydkJvcmViemRTa3dzOWtXV0RNUlNoM2tKdGJEN1VERkhydlVkVDVBTlJZbThnX3RL?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2026-05-18T07:00:00+00:00",
+      "query": "palladium supply OR palladium shortage",
+      "flag": "green",
+      "title_en": "Platinum, rhodium to outperform palladium in 2026, Metals Focus forecasts - Mining.com",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Platinum to remain in deficit this year, while palladium, rhodium may record surpluses – Johnson Matthey - Mining Weekly",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYnhhX3k1TjBEU3E0dzhPNUhrUFhUTk1uX0xNbDBvWVlDWWRTalY5R0Y4YnQ1OF9YcUVyUjVDdzZReVBsOFplc3M5OWxWVGRZT0VXR1BFVl8zcjdtc1NJVU5IMGdUSkxvTzlvT2lXdENfQmxmNkNsUGMwMDlweXRndFJvS2JxM3lkbHpNOHp4N0hMbDhQeWoxM2pFVHZ5Vzg2MkRKNUdXb09oazNvS1h6bHpsZVZXdkdQSlJwNTFNOEt5SXZwdXptYWZOVl95THp6eW5jX3RBbHBIM195ZllGcw?oc=5",
       "source": "Mining Weekly",
@@ -348,7 +338,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNUkyekJpSElSMWtvNUR4WHM2YkJkY2RKV0RkVldUNzJQYThhcHpwTlJVUmQ4ZHExNGFiZ3lxQ2FjVUxlcTlDbGthQ0NoR3pvbHE2LXhEemxEZjNxYjUzSFlrOTB6aThEcVBscnBEazc0ZE1HQkhIdGdHRHJQRTZMdk95U2JtdE1zcXFJZ05MVk1mek1LTTNjc2pDVTFqTy1aSlRwVXZabjN0M1ZLM0FSZE9RbjBaYmpPR1FmTTNIcmZzcU5jR2NTMzltcW5YZmdlbThB?oc=5",
       "source": "Crux Investor",
       "published_utc": "2026-05-07T07:00:00+00:00",
-      "query": "Norilsk Nickel palladium OR Nornickel palladium",
+      "query": "palladium supply OR palladium shortage",
       "flag": "yellow",
       "title_en": "Fed Policy Dissent & Russian Palladium Tariffs Reprice Platinum Group Metals Beyond the Automotive Cycle - Crux Investor",
       "title_en_source": "passthrough"
@@ -374,6 +364,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Platinum Group Metals And Impala Platinum Holdings: Why I'm Bullish (OTCMKTS:IMPUY) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0p6Vmo0dFdFajRtWkR6MHRTcWdwc003dERvTC1velFjcjB2Y0FYc3BXVjZtNThlQkFtWFFHR3E2WGdBZ0pQaVVOdEdEU29zN1lpLXpCektEb0U5TXl2NGd0eDFvM1NlWHRDWjY0ZG5uRjRoeF9kMk1fZHc1cUY5NEo0N3FQOXhmR3RoRjl0TFJ6aWpLcnBMV1pWNVc5V3N5UjhCeUxVU2p3dw?oc=5",
+      "source": "Seeking Alpha",
+      "published_utc": "2026-04-16T07:00:00+00:00",
+      "query": "Impala Platinum PGM OR Impala palladium",
+      "flag": "green",
+      "title_en": "Platinum Group Metals And Impala Platinum Holdings: Why I'm Bullish (OTCMKTS:IMPUY) - Seeking Alpha",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Nornickel seeks new market for palladium in EVs with catalyst for lithium‑sulphur batteries - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ3ZWMm5lcmhwRndNOWwyT0ZUS2lENWJoUjZ0S0hvQ01weXNLSkpnT1RmaG1BQ1k2aVUzekJmajdWb19nQ0dUWkl3LXB4U2lfQkxleF9rdXBmY180VTJMZGJlWThwd3BjbW92QmV2ZFVlaGpsTTFMdWVkRDk2LXNiYzgySTMtOGVFNTVPNUtnWDQ1clNERVhSQzVidThFSlNiSXRfRDF6SlBMZVpLUzFUOXRrWjN3R05GOTVnOUh5Q29lQ0lUbUVtMnBCTQ?oc=5",
       "source": "Reuters",
@@ -381,6 +381,16 @@
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
       "title_en": "Nornickel seeks new market for palladium in EVs with catalyst for lithium‑sulphur batteries - Reuters",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Nornickel taps AI to seek new demand for its palladium - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLXRUSkFlVnZmUG1vOHhJb3BqUFhrYnoycm5yVUNUaTMzeGRSZG56bjJwczZFcno0U2o1dlpnMTNpNjNTLXJ6V3ZSNXF0YnlnNEFod05EUTZyeVhuNlB5bXAxeHQxUG9VZ1lKZ21zSXVaM2V3ZV94MGJoLXh0ano4clBZX1lwX3Z4Wnc?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2026-03-24T07:00:00+00:00",
+      "query": "Norilsk Nickel palladium OR Nornickel palladium",
+      "flag": "green",
+      "title_en": "Nornickel taps AI to seek new demand for its palladium - Mining.com",
       "title_en_source": "passthrough"
     },
     {
@@ -401,16 +411,6 @@
       "query": "palladium sanctions OR Russia palladium antidumping",
       "flag": "yellow",
       "title_en": "Sibanye-Stillwater welcomes new US tariff on Russian palladium - MiningMX",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Sibanye-Stillwater welcomes US commerce dept’s preliminary determination on Russian palladium imports - Mining Weekly",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWWQ1SjdKQ0NCSDcweHNSTzdzS2I4dXIwMThRZGFnck5Oc1RTdGtkbS1hY21LYVVIaVFET0VEV1MyaVIwUGl6RlRpaWk3M0RTMzFid0t3enRtU3hxZmN2QTRmbEZSQzJyTWR6Q2dYbmd1eHZVWU5pRVoyMDVyRkRDdTB5Wkg5SERJYWZXaTIyT3hKRWtYbnUtR3pBNU1EYW5BRDBsWElaWjdndEZSY3RGcHBaOVhJcUl5eVgxMk1aeGZIaWlYT1pBX3lVbWo1X2J6RGp6RW9ldzhaelYxdlBQa0lR?oc=5",
-      "source": "Mining Weekly",
-      "published_utc": "2026-03-18T07:00:00+00:00",
-      "query": "palladium sanctions OR Russia palladium antidumping",
-      "flag": "green",
-      "title_en": "Sibanye-Stillwater welcomes US commerce dept’s preliminary determination on Russian palladium imports - Mining Weekly",
       "title_en_source": "passthrough"
     }
   ],

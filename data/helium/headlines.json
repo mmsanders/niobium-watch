@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-20T22:03:15.336533+00:00",
+  "as_of_utc": "2026-11-21T08:03:17.060250+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -11,7 +11,7 @@
     "MRI helium shortage",
     "Shute Creek helium OR LaBarge helium"
   ],
-  "item_count": 70,
+  "item_count": 71,
   "items": [
     {
       "title": "NASA extends deadline for helium supply bids - gasworld",
@@ -134,16 +134,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Ukraine Drone Strike Hits Key Russian Helium Production Hub - ChemAnalyst",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUTR4RDM1UmNOYngxbDhxUE5jcFQwMFZOLTNzeWJnWXVhdGI5alFPNWJ6MW51aU4tTHlkeFFwQ1ZmSDhobzhkNW1XeE9hZ3JVdHJCb0V2SzIwajNjYVdRcXBHZHd1cUN5dDNpa2tDTFVmT3EtcXdNYmRaT3BzZm1Bb0QzenlFRUtuVHJzMEdhRlFpTGxwNlZEclVZbVRocTV4MzJjd281dEhvVkRMMi1PNlFvbXk?oc=5",
-      "source": "ChemAnalyst",
-      "published_utc": "2026-06-26T07:00:00+00:00",
-      "query": "Amur helium",
-      "flag": "red",
-      "title_en": "Ukraine Drone Strike Hits Key Russian Helium Production Hub - ChemAnalyst",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Colorado helium reserves got big boost when war with Iran cut off 30% of the world’s supply - The Colorado Sun",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcEtzOWJFcGZTOU1HWjVsc1ZTSzhlU2JiWTZzVDVySlIxenZ5VjllaERqdXJTbjZ3SUR2Rk1NWEgxTjFKaFRUZ0x4aEVoZnZ3dnVvZzBGSWRrSl9ZN2NUNHcxWC0wWk9wZjZPZFMzUC10Z2J0dUlQR0N3NG1SWkNiVV9HZVlOaEViUUdhcDZSNVBCVWc?oc=5",
       "source": "The Colorado Sun",
@@ -261,6 +251,16 @@
       "query": "helium plant outage OR helium force majeure",
       "flag": "green",
       "title_en": "Top 5 issues for helium startups in Middle East crisis - gasworld",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Iran war deflates critical helium production supplies - Axios",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sM1doNmxSNDgyZEVLTm83cG1aMDdLTUxSenp4U3lJZFpVdlNZcHI3MFpZeV9WOUVJLXY0U1NHMjRpbWdpb0daakNZMEpxWkIxa1ZNY2FLbjNCblJNSkFwWmwxMFBwRHdjcDE3aTNvdUx5NUU?oc=5",
+      "source": "Axios",
+      "published_utc": "2026-04-07T07:00:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "Iran war deflates critical helium production supplies - Axios",
       "title_en_source": "passthrough"
     },
     {
