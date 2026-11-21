@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-21T08:03:17.060250+00:00",
+  "as_of_utc": "2026-11-21T20:42:41.692915+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -264,16 +264,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Palladium (XPDUSD) Volatility Intensified on Jul 1: What to Watch - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV0MwWGxDWWJnX1BEMHdfUnZqSzJhS2R1VDdhcHJNeGR6Mm8xakpVRWVETlp5ZWRYWElzSFFoR0lnR2ZQQldmT3dteGs4djI0V2NKRWs0cHlsckpvWkI2OV94UlJmN3BLam9zUnV0dEZtNjhHb3JRekpTRG5fbHUtWUt1SWY1dkktbU0wTjFn?oc=5",
-      "source": "TradingKey",
-      "published_utc": "2026-07-01T07:00:00+00:00",
-      "query": "Norilsk Nickel palladium OR Nornickel palladium",
-      "flag": "green",
-      "title_en": "Palladium (XPDUSD) Volatility Intensified on Jul 1: What to Watch - TradingKey",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Norilsk Nickel sees 2026 global palladium surplus of 300,000 oz - Mining.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM284YWNuVXlRZWVQbWw5eUVNTjlBbTNBNElRakFsVEpyd0ZzUndqVy1MTGM5UGZWdlh5SVBwTE5RMTNGaWpKUFNUWHpLS2xOZ2xqWnZtaVN5RnRVUThIdHZhOHV1cUwyZHoyLXZfbnpKVkNvSVhpUnVyOWhFc0xlcXBCOWNJNjJXc2pKeEVtbV9FSF9h?oc=5",
       "source": "Mining.com",
@@ -381,6 +371,16 @@
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
       "title_en": "Nornickel seeks new market for palladium in EVs with catalyst for lithium‑sulphur batteries - Reuters",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Nornickel bets on AI to find palladium uses - MiningMX",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdjlfbEVnNFc0clo4VUwxV1dFMkc2TDBYU3RBSDZBbWRldkY2SWZpUU5FMTZuc3FvdzBnWWptS3huTHJJWmNpSFdvWUQ3ZVhTenRxUFI2V29CYTVLcFpUTzZ5TFRGYXUwUFhMZ2RuUEhPWm5VdWFkVGJCVzR6VWtmNmMxM2NEdDRUZHZWQm5Ybw?oc=5",
+      "source": "MiningMX",
+      "published_utc": "2026-03-24T07:00:00+00:00",
+      "query": "Norilsk Nickel palladium OR Nornickel palladium",
+      "flag": "green",
+      "title_en": "Nornickel bets on AI to find palladium uses - MiningMX",
       "title_en_source": "passthrough"
     },
     {
