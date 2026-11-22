@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-22T07:49:52.785991+00:00",
+  "as_of_utc": "2026-11-22T20:52:36.436541+00:00",
   "source": "google_news_rss",
   "commodity": "helium",
   "queries": [
@@ -11,8 +11,48 @@
     "MRI helium shortage",
     "Shute Creek helium OR LaBarge helium"
   ],
-  "item_count": 69,
+  "item_count": 70,
   "items": [
+    {
+      "title": "Germany to Send Three Economic Delegations to Qatar in 2027 - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdTZ4MHV5TnNwMXV0Tmc0ZkpxNTdjQkZ1SF9HcEhRMUk5SVRrV3RudFpHaVE2VnlHakJxeHdvdTg4MGFxQ2psYWdQWm5MS0p6RUE4azlVYmZjM2NWZklKWjhmQ0s4Ujl5TTJvWnBXSFdrR1FmZEtqMFR1UFVLRUpTR0RSVURPQjJMRldFRVhmbk90UFV6OE1YSXNhTlFTQ093ZFhIWmdEaHVORWdvQ09KSEhKak9pNlFv?oc=5",
+      "source": "IndexBox",
+      "published_utc": "2026-11-22T19:40:54+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "Germany to Send Three Economic Delegations to Qatar in 2027 - News and Statistics - IndexBox",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Hard Drive Prices Have More Than Doubled; These Helium Plants In The Middle East Are Part Of The Reason - BGR",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSzUtR0hyLWswMnNMekdtblcxUjJLcFh6N19nOVRTUWxUSUFxREl5XzlKTG1BaGFaYy14Wm5Cc0V5RXFhUDNnYy0xeFpxbktVMEdIQUw3cUdDUXhULVpWbUFpeFBpUzN5YnhidUxVYkIzY1JXcGkwLXVzWjhXMEMwdkVneG5WTUJt?oc=5",
+      "source": "BGR",
+      "published_utc": "2026-11-22T17:17:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "Hard Drive Prices Have More Than Doubled; These Helium Plants In The Middle East Are Part Of The Reason - BGR",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "NASA extends deadline for helium supply bids - gasworld",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUm0tMFc2d2pXTUxHc2VDX3UzNVFTUEVuZlBQcmNNLTYwUmI2RFVFQnV2Uk5GT0tGQks0dGwxaGp5NG1OM2hCSUdoR19MNHpCSFRfYWxBcjhTa0hjNVpMZ2FYVEpFemk0T1dqMGQxendOaVhsQW16TDd1a1NWcDR2TjhkUk1NRUxYTzVaamZLaHpHZm1aVThN?oc=5",
+      "source": "gasworld",
+      "published_utc": "2026-11-20T13:52:15+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "NASA extends deadline for helium supply bids - gasworld",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Can chip manufacturers find an alternative to helium? - Marketplace.org",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xaV81U3QyaUNvcExSQ2FGYm1McHhoQ0NfVlpwVGFEVy1FNWxqOWtFeTlzdG1tWUVPM2FLMWhwTUlRMGE3MkdOT3hkSkFLQ3dXZklxVnhBR09LZi1ld2dWT3ZXbGZhR2dONVFFLQ?oc=5",
+      "source": "Marketplace.org",
+      "published_utc": "2026-11-06T08:00:00+00:00",
+      "query": "Qatar helium OR QatarEnergy helium",
+      "flag": "green",
+      "title_en": "Can chip manufacturers find an alternative to helium? - Marketplace.org",
+      "title_en_source": "passthrough"
+    },
     {
       "title": "BLM Launches Map Identifying Helium Concentrations on Public Lands - Bureau of Land Management (.gov)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU1JLenp0bUt0RTUxaFV0ZFBrTVpDVjN1UFppQ2dvWTZpbnN1Yk8wR1VQUTJpN0NlRC1odU8yY3dNNkRtOHNIMFg4VWZXc08wSFNBR2RBbDc0TWtrUlhUaDQ5UDJ4LS1qTGtRQjg1aHNhRG1GR1VqdTN4MmF6SjNqbmlJX0xtaGtPeklYdEg1dmgxYUdRS2lRUUFLRkw?oc=5",
@@ -204,16 +244,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Iran war deflates critical helium production supplies - Axios",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sM1doNmxSNDgyZEVLTm83cG1aMDdLTUxSenp4U3lJZFpVdlNZcHI3MFpZeV9WOUVJLXY0U1NHMjRpbWdpb0daakNZMEpxWkIxa1ZNY2FLbjNCblJNSkFwWmwxMFBwRHdjcDE3aTNvdUx5NUU?oc=5",
-      "source": "Axios",
-      "published_utc": "2026-04-07T07:00:00+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "Iran war deflates critical helium production supplies - Axios",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Russia’s Helium Card in the AI Arms Race - The National Interest",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1NuTXdVTU9vM1lmUTF0cjRYb0NHdVc3VnBtalFmbWozZm5kYXpTLXZsei1xZFo0eVc0NnM0S1pQTVBuQkstZzlrZmRZMnJfbjV5SnQ5X0xKRDM3XzZkbEJsS0JCZS0teHU5TjF2aFpMQm0wM1ROSkR6M0RlNXNYY3Z6MGNNUGdkNEE?oc=5",
       "source": "The National Interest",
@@ -251,16 +281,6 @@
       "query": "BLM helium OR Cliffside helium",
       "flag": "green",
       "title_en": "America Has a Helium Problem - Newsweek",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "The world’s supply of helium is being threatened by the Iran war - The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcDU5cjAzdnUwMjlfN0RqUlcyT3VUMTdrNHZ4V2RiVnZfRTkwdTBuTlJQSVVobktsRDA3OG5yX0hHRzdYenhodlpqMTB6eFNsMFhHako2VkhhajA0OHZpcGhRU211eDMzMjJfdTFLN3piZmtYVHREYWFwRklOUzhZS3dXbW9sSGplTjUwQ2JZQ0hGSlVaZkdvZE5SZklRd1k?oc=5",
-      "source": "The Conversation",
-      "published_utc": "2026-04-02T07:00:00+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "green",
-      "title_en": "The world’s supply of helium is being threatened by the Iran war - The Conversation",
       "title_en_source": "passthrough"
     },
     {
@@ -391,26 +411,6 @@
       "query": "helium Ras Laffan",
       "flag": "green",
       "title_en": "The Iran war is threatening supply of a little-thought-of resource — helium. What it means for markets - CNBC",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Qatar helium shutdown adds new risk to chip supply chain - ThinkChina",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ1JQTEVJYlFzT3FEU2NxSndxR2VYTDlISmp0OG81UkhIUzRXRjdkZWlMU1JwM1ItSVNVbmpyN2F4Qk5BRkR5RnNNU0lfRVlzc2ZzTHEweW9uZFhRVEJKMmtRUzI5Zm5pSHh0d0tqTGwwMWtzb1RaMHhIWDdHU09sMEVNZFVHNC1PdHlwUXBCcUI?oc=5",
-      "source": "ThinkChina",
-      "published_utc": "2026-03-19T07:00:00+00:00",
-      "query": "helium Ras Laffan",
-      "flag": "red",
-      "title_en": "Qatar helium shutdown adds new risk to chip supply chain - ThinkChina",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Damage to Qatar LNG trains ‘will cut helium output by 14%’ for many years | qatarenergy ceo saad al-kaabi told - gasworld",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWNtZnhzcHB6T1lUYlloTDVmSkIySFQ4RlpVVjdER0VDYWlNZ1ljUzRqNFdDY3JCX0hLcE1ld0JUbE4zUW5fZ2tKc245eWducXlaSW9BdWhLWEpsNDQzUVJocG93a2tKN3J4UW04bUtHQjlXcmlqUnlBS0xvdTdKQlVfYkVZeXB6Vkl5ZXlIVTgweklTYVhDOW5kY05MV3o3NlVMbEZWTVBNek9Dd1dBYkZkT3ZpWVo0UlE?oc=5",
-      "source": "gasworld",
-      "published_utc": "2026-03-19T07:00:00+00:00",
-      "query": "Qatar helium OR QatarEnergy helium",
-      "flag": "yellow",
-      "title_en": "Damage to Qatar LNG trains ‘will cut helium output by 14%’ for many years | qatarenergy ceo saad al-kaabi told - gasworld",
       "title_en_source": "passthrough"
     }
   ],

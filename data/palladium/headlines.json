@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-22T07:49:52.785991+00:00",
+  "as_of_utc": "2026-11-22T20:52:36.436541+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -21,6 +21,16 @@
       "query": "palladium supply OR palladium shortage",
       "flag": "yellow",
       "title_en": "Palladium tariffs and a 20-year production low are driving a quiet rally - Startup Fortune",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Platinum & Palladium Deficits Set the Price Backdrop for ValOre's First PEA - Crux Investor",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3ZFNXE0anR5WUNiUTRMZ3FWcXRHa3o2ZlNib3RQVl9tX09YaTMxenFwU1JKR044dHpERkRkZnpXWVd3RDR3NGw5b05CeXFMNWVtMjEtdjJvbjJKNEdhRVE4Y19xQlB4YXctZWhFQ3ZoZXhjd0Fnd1poUGFVRzY5UTNhYWNPLXNocUxUMnlKV3FSNG5hZlFyRVRlbGFURzFRWEcycm1vR041Ymc?oc=5",
+      "source": "Crux Investor",
+      "published_utc": "2026-10-23T07:00:00+00:00",
+      "query": "Amplats OR Anglo American Platinum palladium",
+      "flag": "green",
+      "title_en": "Platinum & Palladium Deficits Set the Price Backdrop for ValOre's First PEA - Crux Investor",
       "title_en_source": "passthrough"
     },
     {
@@ -244,6 +254,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Impala Platinum: Flat Production, Higher PGM Prices, Vulnerable To Volatility - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTXVRamdIZVVBUWlDUWx4UmFWeHZqek5ndkVGb29adVBMVTlVNFRDTXhXa1FIbjhid3cyNU5IaENVT3IyMWZQWUN1MkUwcjJfSkw4dUh4T0lXTDFTNjJucXlHamM3aF9jdkN6ZVY2M3VPSDJMNXZUZHk2b2FmaG4zNEs4Nk1LcGlERUxkZ1NiTzNqUFdZem9tMGI1UmJ0UlJPX0tjVmpmcno5RGJnVDQ0Ni1tMDBzdw?oc=5",
+      "source": "Seeking Alpha",
+      "published_utc": "2026-07-02T07:00:00+00:00",
+      "query": "Impala Platinum PGM OR Impala palladium",
+      "flag": "green",
+      "title_en": "Impala Platinum: Flat Production, Higher PGM Prices, Vulnerable To Volatility - Seeking Alpha",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Norilsk Nickel sees 2026 global palladium surplus of 300,000 oz - Mining.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM284YWNuVXlRZWVQbWw5eUVNTjlBbTNBNElRakFsVEpyd0ZzUndqVy1MTGM5UGZWdlh5SVBwTE5RMTNGaWpKUFNUWHpLS2xOZ2xqWnZtaVN5RnRVUThIdHZhOHV1cUwyZHoyLXZfbnpKVkNvSVhpUnVyOWhFc0xlcXBCOWNJNjJXc2pKeEVtbV9FSF9h?oc=5",
       "source": "Mining.com",
@@ -261,16 +281,6 @@
       "query": "palladium sanctions OR Russia palladium antidumping",
       "flag": "green",
       "title_en": "USITC says Russian palladium does not harm America cos, ends probe - Mining.com",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Top 5 Palladium and Platinum Producers by Country - Investing News Network",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWm82N3NYbWZKMmU2LW8xV1VlREpuUUhqZlBIVkNFZFo2QTZjMjdpbWNSUjg0bzFIYVdnLXd3REVOUzBQVEFXLTNSbmk4RmxMRkpGa2szQktqbXB6R2l6ZjJxV3RsSDN6c05hanNWVWg5TjZIWHhSNVkwb0Z6akpBckw0c1BhOVJxSEdjWVhfd2F0aVdwTVprR2RwbXprRTZUZGdWc0pBRWl6UTRyc0dCZ3B1WTVmTXg3RkNWQ1dlRW5RMnZZYmNaWkFrM3FPSTZ1YkJhZFN3?oc=5",
-      "source": "Investing News Network",
-      "published_utc": "2026-05-27T07:00:00+00:00",
-      "query": "palladium supply OR palladium shortage",
-      "flag": "green",
-      "title_en": "Top 5 Palladium and Platinum Producers by Country - Investing News Network",
       "title_en_source": "passthrough"
     },
     {
@@ -361,16 +371,6 @@
       "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
       "title_en": "Nornickel taps AI to seek new demand for its palladium - Mining.com",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Nornickel bets on AI to find palladium uses - MiningMX",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdjlfbEVnNFc0clo4VUwxV1dFMkc2TDBYU3RBSDZBbWRldkY2SWZpUU5FMTZuc3FvdzBnWWptS3huTHJJWmNpSFdvWUQ3ZVhTenRxUFI2V29CYTVLcFpUTzZ5TFRGYXUwUFhMZ2RuUEhPWm5VdWFkVGJCVzR6VWtmNmMxM2NEdDRUZHZWQm5Ybw?oc=5",
-      "source": "MiningMX",
-      "published_utc": "2026-03-24T07:00:00+00:00",
-      "query": "Norilsk Nickel palladium OR Nornickel palladium",
-      "flag": "green",
-      "title_en": "Nornickel bets on AI to find palladium uses - MiningMX",
       "title_en_source": "passthrough"
     },
     {
