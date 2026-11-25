@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-25T09:37:38.506849+00:00",
+  "as_of_utc": "2026-11-25T23:24:45.522170+00:00",
   "source": "google_news_rss",
   "commodity": "palladium",
   "queries": [
@@ -11,7 +11,7 @@
     "palladium sanctions OR Russia palladium antidumping",
     "Zimplats palladium OR South Africa load shedding PGM"
   ],
-  "item_count": 73,
+  "item_count": 70,
   "items": [
     {
       "title": "Why Palladium's Slide Matters for Sibanye-Stillwater (NYSE:SBSW) and Wheaton Precious Metals (NYSE:WPM) - kalkine.com",
@@ -41,6 +41,16 @@
       "query": "palladium supply OR palladium shortage",
       "flag": "yellow",
       "title_en": "Palladium tariffs and a 20-year production low are driving a quiet rally - Startup Fortune",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "Palladium Market Size | Industry Report, 2035 - Business Research Insights",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaUFVdzlscXUwN293Ul9TdHlCWXh0ZGF5M0w5VWhJakFFendNYzlhQWhQTzNVNURsbjBhLUx1NEx2ZHBlaTFCMXk5VHVrbzU0SjdjWkNza1hfQVY5YTVIa3lWN2lmREZ5aXZBZV9Od1o2SkNxZ3hVcXFaandfUm9TRVBXNE5YQQ?oc=5",
+      "source": "Business Research Insights",
+      "published_utc": "2026-10-23T07:00:00+00:00",
+      "query": "Norilsk Nickel palladium OR Nornickel palladium",
+      "flag": "green",
+      "title_en": "Palladium Market Size | Industry Report, 2035 - Business Research Insights",
       "title_en_source": "passthrough"
     },
     {
@@ -254,6 +264,16 @@
       "title_en_source": "passthrough"
     },
     {
+      "title": "Russia’s Nornickel recommends 6-month dividend of 1.85 roubles a share - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWMyYjB4RndRT25kOFd3c3ZhLThNV3o5U0VDTE5xZVdvS3pVNTNnNVlaVGpFZFJHRTVUb1BoTE9kTGpLaHBtWUloXzg3Vld2VWJfckM4eHhndjEwRmhsa05yR2k4YjRKQUt4SDVCU0xQVU9nMWdFVnFyT1IxUWNGOFB4YzJPWTdOa0szUVA5UEtRdzV6ZUY5X3NTMUY0QQ?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2026-08-26T07:00:00+00:00",
+      "query": "Norilsk Nickel palladium OR Nornickel palladium",
+      "flag": "green",
+      "title_en": "Russia’s Nornickel recommends 6-month dividend of 1.85 roubles a share - Mining.com",
+      "title_en_source": "passthrough"
+    },
+    {
       "title": "Palladium Has Quietly Surged 90% and Russia Tariffs Could Push It Further - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS2dDekdqT2RQdE5oVHpJQU5CMFBnUGRJdm1ZMHR2R2dQY280NWZ2WjVLY1hkT2pRZHFtd0dTMURjTVctU2l5RVB3eHhjeVI3UFI3aVJSMmpQTU85bm9vVXBXdVdUb1VvaEJkTS1zRUU5MUE1R3FNYjJLeTNkSV9iUHV0eEdEckdFdjgwN2ZWOGlBbFEtWDM4b0d3a2tGcUtHa3c?oc=5",
       "source": "Startup Fortune",
@@ -264,13 +284,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "PGM Deficit Set to Widen as AI Data Center Demand Exceeds Forecasts - Crux Investor",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2ZhTjc4NWRiWVM5YklYUFFyQkc4QXF0anFSWm1ZRjVxWW1aYlpidi1yeXBUQ085OUwxM2Y4dXBzWkpxZWxSbXZUeFU3NXh2X05wX0V2SkIyc1RIVUZ4d3pjbGg1dzBHSTZnSmoxTWx2YjNmVndUM0RTS3dXT3hDNVVmeVRUbkZjZE5mZVVSbHNiQmo5TTBxMTFvdjBRR3RvVHBTVw?oc=5",
-      "source": "Crux Investor",
-      "published_utc": "2026-08-07T07:00:00+00:00",
-      "query": "palladium supply OR palladium shortage",
+      "title": "Sibanye challenges US over Russia palladium imports - MiningMX",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWpqNWZyVGxLLXF2SXQ4XzVINTZGMGxTdWtDYUtSRzlGdmlNZ0pqbHNOSkFfbE5iR0NuWEFxcmkzVjlkdEJJLU11Zm1fQW8wNmtXZEM4U1kzd3FONXVldS1GcTFSOGpaX3dtY0ZvQnFZQkxkYUkwZVhJUU9PbDVfbG40S2xtOHBvTkJ4UnltRy1Ld3BPdHlWRFR3?oc=5",
+      "source": "MiningMX",
+      "published_utc": "2026-07-21T07:00:00+00:00",
+      "query": "Norilsk Nickel palladium OR Nornickel palladium",
       "flag": "green",
-      "title_en": "PGM Deficit Set to Widen as AI Data Center Demand Exceeds Forecasts - Crux Investor",
+      "title_en": "Sibanye challenges US over Russia palladium imports - MiningMX",
       "title_en_source": "passthrough"
     },
     {
@@ -324,13 +344,23 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "UBS cuts palladium price target on surplus outlook - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeG5Tel8yZXhpbXZwQ1BuMzRWNUx3dE55X2NDODRQcWZpOFV6MWI4TTRtemxEMll2MDlHd1VQQl91UVlFZmlicDQ4NDd4NFh0SWJZTHZUbVpwc0d4bVhDYVRLQTVrMWQ0YWpac0xMZUxEcS1PNGM2bU9tTDZETnBsM1Q4RUtxRmgxb1FlTHV0MmE0NU0tSE41bm5mNzN0YnYtbDE3TVB5MXhrR0w2OXBOLQ?oc=5",
-      "source": "Investing.com",
-      "published_utc": "2026-05-26T07:00:00+00:00",
+      "title": "Top 5 Palladium and Platinum Producers by Country - Investing News Network",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWm82N3NYbWZKMmU2LW8xV1VlREpuUUhqZlBIVkNFZFo2QTZjMjdpbWNSUjg0bzFIYVdnLXd3REVOUzBQVEFXLTNSbmk4RmxMRkpGa2szQktqbXB6R2l6ZjJxV3RsSDN6c05hanNWVWg5TjZIWHhSNVkwb0Z6akpBckw0c1BhOVJxSEdjWVhfd2F0aVdwTVprR2RwbXprRTZUZGdWc0pBRWl6UTRyc0dCZ3B1WTVmTXg3RkNWQ1dlRW5RMnZZYmNaWkFrM3FPSTZ1YkJhZFN3?oc=5",
+      "source": "Investing News Network",
+      "published_utc": "2026-05-27T07:00:00+00:00",
       "query": "palladium supply OR palladium shortage",
+      "flag": "green",
+      "title_en": "Top 5 Palladium and Platinum Producers by Country - Investing News Network",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "US moves closer to prohibitive tariffs on Russian palladium - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZmZkWHdrX3QwRkstTEF0TjJCOTlLbTVHMGtoS25yZ1lBUzNiZTAxV2hMVnIwQU80MEJxanc0aFMzODB3R05jZG1nTEVsb29SNjBBYWxDR0I3Q0ZiWGRJS29tSjljWWxZNmRTSTg1YWtGRFJiRFlhZmUxcGR4N1hvWnlVZ0NmVXF4RkQzd0sxako?oc=5",
+      "source": "Mining.com",
+      "published_utc": "2026-05-21T16:26:50+00:00",
+      "query": "palladium sanctions OR Russia palladium antidumping",
       "flag": "yellow",
-      "title_en": "UBS cuts palladium price target on surplus outlook - Investing.com",
+      "title_en": "US moves closer to prohibitive tariffs on Russian palladium - Mining.com",
       "title_en_source": "passthrough"
     },
     {
@@ -344,16 +374,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Structural Supply Deficits Forecast to Continue Driving Platinum Group Metal Prices Higher - Medium",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVmI5NDk5bFY3azlsanBVWTJHTzhNRzBsVXZhTHh2MS1WWHQ4THZaSDhjYWdtNVVneHdPd2FTMDR6R0YyRmJzR1hIaEZrRldXa2R3QW1ZUzlCUGdzN0o1bnNsZUJsLXJvZkxwRF9zcWNONDhPUXE1bUFuOEVJMUZVQmtwX1hTUS1ZMGlBZnZMdmJjZ3ZValdJRG5vTlY5UXg5NUFfUGg0U0dpUUpCb1R3YnBBQnlhUUdZLUo0MkNYUWR6LUZJOGQ3WGlPbzBQcW9UTnF2ME91bVpMdw?oc=5",
-      "source": "Medium",
-      "published_utc": "2026-05-19T07:00:00+00:00",
-      "query": "palladium supply OR palladium shortage",
-      "flag": "green",
-      "title_en": "Structural Supply Deficits Forecast to Continue Driving Platinum Group Metal Prices Higher - Medium",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "Platinum, rhodium to outperform palladium in 2026, Metals Focus forecasts - Mining.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXy14blZPTU51Z1V2QlhjeDRUVEJFaWNPUHpXS2kyLXFVLUxadHItdnBZbTllRWtkSGE0SF9CU0hVUFdPemZ5ZXhKX0RwODFOaGNxMGVpa3FDUFJKVnFUSzdqWFNuUXZoMTFfZS1hbWYydkJvcmViemRTa3dzOWtXV0RNUlNoM2tKdGJEN1VERkhydlVkVDVBTlJZbThnX3RL?oc=5",
       "source": "Mining.com",
@@ -364,13 +384,13 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "Fed Policy Dissent & Russian Palladium Tariffs Reprice Platinum Group Metals Beyond the Automotive Cycle - Crux Investor",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNUkyekJpSElSMWtvNUR4WHM2YkJkY2RKV0RkVldUNzJQYThhcHpwTlJVUmQ4ZHExNGFiZ3lxQ2FjVUxlcTlDbGthQ0NoR3pvbHE2LXhEemxEZjNxYjUzSFlrOTB6aThEcVBscnBEazc0ZE1HQkhIdGdHRHJQRTZMdk95U2JtdE1zcXFJZ05MVk1mek1LTTNjc2pDVTFqTy1aSlRwVXZabjN0M1ZLM0FSZE9RbjBaYmpPR1FmTTNIcmZzcU5jR2NTMzltcW5YZmdlbThB?oc=5",
-      "source": "Crux Investor",
-      "published_utc": "2026-05-07T07:00:00+00:00",
+      "title": "Platinum to remain in deficit this year, while palladium, rhodium may record surpluses – Johnson Matthey - Mining Weekly",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYnhhX3k1TjBEU3E0dzhPNUhrUFhUTk1uX0xNbDBvWVlDWWRTalY5R0Y4YnQ1OF9YcUVyUjVDdzZReVBsOFplc3M5OWxWVGRZT0VXR1BFVl8zcjdtc1NJVU5IMGdUSkxvTzlvT2lXdENfQmxmNkNsUGMwMDlweXRndFJvS2JxM3lkbHpNOHp4N0hMbDhQeWoxM2pFVHZ5Vzg2MkRKNUdXb09oazNvS1h6bHpsZVZXdkdQSlJwNTFNOEt5SXZwdXptYWZOVl95THp6eW5jX3RBbHBIM195ZllGcw?oc=5",
+      "source": "Mining Weekly",
+      "published_utc": "2026-05-14T07:00:00+00:00",
       "query": "palladium supply OR palladium shortage",
-      "flag": "yellow",
-      "title_en": "Fed Policy Dissent & Russian Palladium Tariffs Reprice Platinum Group Metals Beyond the Automotive Cycle - Crux Investor",
+      "flag": "green",
+      "title_en": "Platinum to remain in deficit this year, while palladium, rhodium may record surpluses – Johnson Matthey - Mining Weekly",
       "title_en_source": "passthrough"
     },
     {
@@ -391,26 +411,6 @@
       "query": "palladium supply OR palladium shortage",
       "flag": "green",
       "title_en": "Platinum or palladium: Which metal is a better investment? - USA Today",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Nornickel seeks new market for palladium in EVs with catalyst for lithium‑sulphur batteries - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ3ZWMm5lcmhwRndNOWwyT0ZUS2lENWJoUjZ0S0hvQ01weXNLSkpnT1RmaG1BQ1k2aVUzekJmajdWb19nQ0dUWkl3LXB4U2lfQkxleF9rdXBmY180VTJMZGJlWThwd3BjbW92QmV2ZFVlaGpsTTFMdWVkRDk2LXNiYzgySTMtOGVFNTVPNUtnWDQ1clNERVhSQzVidThFSlNiSXRfRDF6SlBMZVpLUzFUOXRrWjN3R05GOTVnOUh5Q29lQ0lUbUVtMnBCTQ?oc=5",
-      "source": "Reuters",
-      "published_utc": "2026-04-14T07:00:00+00:00",
-      "query": "Norilsk Nickel palladium OR Nornickel palladium",
-      "flag": "green",
-      "title_en": "Nornickel seeks new market for palladium in EVs with catalyst for lithium‑sulphur batteries - Reuters",
-      "title_en_source": "passthrough"
-    },
-    {
-      "title": "Nornickel taps AI to seek new demand for its palladium - Mining.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLXRUSkFlVnZmUG1vOHhJb3BqUFhrYnoycm5yVUNUaTMzeGRSZG56bjJwczZFcno0U2o1dlpnMTNpNjNTLXJ6V3ZSNXF0YnlnNEFod05EUTZyeVhuNlB5bXAxeHQxUG9VZ1lKZ21zSXVaM2V3ZV94MGJoLXh0ano4clBZX1lwX3Z4Wnc?oc=5",
-      "source": "Mining.com",
-      "published_utc": "2026-03-24T15:59:08+00:00",
-      "query": "Norilsk Nickel palladium OR Nornickel palladium",
-      "flag": "green",
-      "title_en": "Nornickel taps AI to seek new demand for its palladium - Mining.com",
       "title_en_source": "passthrough"
     }
   ],
