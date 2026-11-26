@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-11-25T23:24:45.522170+00:00",
+  "as_of_utc": "2026-11-26T09:13:49.969425+00:00",
   "source": "google_news_rss",
   "commodity": "niobium",
   "queries": [
@@ -12,13 +12,13 @@
   "item_count": 48,
   "items": [
     {
-      "title": "NiobiumX Mining Inc. (OTCQB: NIOXF): Niobium Is Behind US - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNdVN2TTBQSkRxUjl5TFV0alItTmtTWjgtODR2MkZKVWx4bHZ3bDlpYTB0cjZwWmJEOWJfX2ZxV0k0aVA0T1g1UzFJbmg3RHdxZ1B2RjNDVHF0NnA0RWdlZm5yYmpkeGtldGNtVy15bE5QUEdtbjd4YjVLX3IzRTc1VHlrdzc0V2tETmloN0JFMmRHSEpKQ0F0WGV3UEItM2FSd3ZwNkJYVzJIYlhFSXhidk9PTy1NUDZsS3ppQ0JJRG9DNHJ0QmcydGV5SFYxNDBXSG9rVklVcGkyVWZ3NEl4X0ZXWHQ2SFFrb1ZKQmJabVlLUV92OXF1MVBRVEE4ZlFoSC10YlV2RzNyeWFqQmstOXMteGlRQQ?oc=5",
-      "source": "GlobeNewswire",
-      "published_utc": "2026-11-23T17:30:08+00:00",
+      "title": "NiobiumX Mining Inc. (OTCQB: NIOXF): Niobium Is Behind US Missiles and Next-Generation AI Chips. The US Imports All of It. - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOb2U0WDZObVo4ZjVQZS0tU1AxWGNoVzVYdVF0REg2U013cDYyeUpvbWxDNzJFM0F6OXQzTU1JaUNVMWZwQWlIbEVEaW84azVjVE50ZlFqUk9xZ3hIaVhYeGpoVFhnV3hIMFl5VHdYRzlCaXcwV0xjdkJfc25LbkwxMG9xa2hlcVJ0WGhUQkx5UFRhVl9tRUtuWmZqZHdfTE9qU0tpM1ZVcFI3WmVzZGxnNGxaZWdyQ0NPV1VmdDlnVVp1cTdPZXpWTFYxNWtkNlFmUXpZSkk2QXZkZUVka0lnV2dnQy1HUFVrM0NDM2F1ZEMtV1R5M3B5RjI4Z01UOVNsUHk5SVBfTkE?oc=5",
+      "source": "TradingView",
+      "published_utc": "2026-11-20T12:15:04+00:00",
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
-      "title_en": "NiobiumX Mining Inc. (OTCQB: NIOXF): Niobium Is Behind US - GlobeNewswire",
+      "title_en": "NiobiumX Mining Inc. (OTCQB: NIOXF): Niobium Is Behind US Missiles and Next-Generation AI Chips. The US Imports All of It. - TradingView",
       "title_en_source": "passthrough"
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQczJON05BR3h4aXBLT2pnWGVzMF95NXhEdVE4QlpGc0NRV2VWdHcxSnZjSTYxc1lyY2ZSNGNCQ0VmcHhxLWlPamx5QVRoeVp4anJacUduN1d5WnlnV05xVlYzakJmNW5wWHFKdzNzclc1TU9ienh4QWs2VVdOUG8ybXgwTlY2NjBkZE1fT2ZNdnBHblh6VnIxeTVmSUZKNzJ5Q0Q5TWRsT3JBUVhUcTVucVFlT3ZWa3RCeVZRS2pnN2Zkd1RTLVNsMlNfTlJHYVhn?oc=5",
       "source": "Next Investors",
       "published_utc": "2026-06-11T07:00:00+00:00",
-      "query": "CMOC Catalão nióbio OR niobium",
+      "query": "CBMM nióbio OR ferronióbio OR niobium",
       "flag": "green",
       "title_en": "SGQ produces separate high grade niobium AND rare earth concentrates in first flotation testwork - Next Investors",
       "title_en_source": "passthrough"
@@ -302,16 +302,6 @@
       "title_en_source": "passthrough"
     },
     {
-      "title": "CBMM unveils world’s largest Niobium anode production facility - Engineer Live",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDFTbjJhdmtyYTNlWDZGYmRWR3k4VUZQeTJMck1RblViUGVRdkJtbm1tekZIWXN4MUlYbmRJeGdDMUxtMDFhLWRMRUpENE1kXzllVExNak11LTFxMWxEb1l4Y1FmUGkyWTBPWDI4Y3N2bWY3eDAwcFNmSDdWQjNuR3VLdFo2dkxad3daaF9tVlc?oc=5",
-      "source": "Engineer Live",
-      "published_utc": "2024-11-19T08:00:00+00:00",
-      "query": "CBMM nióbio OR ferronióbio OR niobium",
-      "flag": "green",
-      "title_en": "CBMM unveils world’s largest Niobium anode production facility - Engineer Live",
-      "title_en_source": "passthrough"
-    },
-    {
       "title": "CBMM opens niobium anode production facility in Brazil - Mining Technology",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnNiTGQ2UW5JRlh0bzh0N1B5elFiNEFrZE5FdW1LV0RuRk1HMlIzQzNKYzVtOXhnZVo2NWtzSmRZNXZlbFhab0RCVExqRGp0TVRMcjhBLWNmOGZBY0JMNUh1Yzc5TExUS2p0QVY4dmtWTHg1TEZwRElwNTNldzgtc1pPRjM?oc=5",
       "source": "Mining Technology",
@@ -409,6 +399,16 @@
       "query": "Niobec niobium OR niobium Quebec",
       "flag": "green",
       "title_en": "Redpath completes largest raisebore by volume in the Americas at Niobec niobium mine in Quebec - International Mining",
+      "title_en_source": "passthrough"
+    },
+    {
+      "title": "The niobium controversy - Revista Pesquisa FAPESP",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FVWl0RHdLelZZdWhwREJmejhqdjdBblVFVXZlVlZWaXJyenBLSDVEMmpEb3RRZnYxc2xaR2kzdXZnSmwwMkk1S3FSZFRvNmhucVJyZEpBQURmemFSOFNBdktDbm9WNDNIaG1LcHYwQUI?oc=5",
+      "source": "Revista Pesquisa FAPESP",
+      "published_utc": "2020-06-02T06:34:46+00:00",
+      "query": "Araxá CBMM OR nióbio",
+      "flag": "green",
+      "title_en": "The niobium controversy - Revista Pesquisa FAPESP",
       "title_en_source": "passthrough"
     }
   ],
